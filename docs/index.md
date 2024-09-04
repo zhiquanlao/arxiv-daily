@@ -3413,6 +3413,36 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## Quantum Info
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|null|
+|**2024-08-30**|**Variational quantum simulation of ground states and thermal states for lattice gauge theory with multi-objective optimization**|Lang-Xing Cheng et.al.|[2408.17300](http://arxiv.org/abs/2408.17300)|null|
+|**2024-08-30**|**Neutron-proton pairing correlations described on quantum computers**|Jing Zhang et.al.|[2408.17294](http://arxiv.org/abs/2408.17294)|null|
+|**2024-08-30**|**A Limit on the Power of Entanglement-Assistance in Quantum Communication**|Lasse H. Wolff et.al.|[2408.17290](http://arxiv.org/abs/2408.17290)|null|
+|**2024-08-30**|**Resource state generation in a hybrid matter-photon quantum information processor**|Yu Liu et.al.|[2408.17265](http://arxiv.org/abs/2408.17265)|null|
+|**2024-08-30**|**Using Quantum Solved Deep Boltzmann Machines to Increase the Data Efficiency of RL Agents**|Daniel Kent et.al.|[2408.17240](http://arxiv.org/abs/2408.17240)|null|
+|**2024-09-02**|**Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics**|Kumar Gautam et.al.|[2408.17035](http://arxiv.org/abs/2408.17035)|null|
+|**2024-08-29**|**Comparing quantum and classical Monte Carlo algorithms for estimating Betti numbers of clique complexes**|Ismail Yunus Akhalwaya et.al.|[2408.16934](http://arxiv.org/abs/2408.16934)|null|
+|**2024-08-29**|**AI-driven Reverse Engineering of QML Models**|Archisman Ghosh et.al.|[2408.16929](http://arxiv.org/abs/2408.16929)|null|
+|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller et.al.|[2408.16914](http://arxiv.org/abs/2408.16914)|null|
+
+## TQFT, Topological Order, Generalized Symmetry
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**The FLAMINGO Project: An assessment of the systematic errors in the predictions of models for galaxy cluster counts used to infer cosmological parameters**|Roi Kugel et.al.|[2408.17217](http://arxiv.org/abs/2408.17217)|null|
+|**2024-08-29**|**Non-Abelian fractional quantum Hall states at filling factor 3/4**|Kai-Wen Huang et.al.|[2408.16275](http://arxiv.org/abs/2408.16275)|null|
+|**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura et.al.|[2408.15960](http://arxiv.org/abs/2408.15960)|null|
+|**2024-08-28**|**Ultrafast symmetry control in photoexcited quantum dots**|Burak Guzelturk et.al.|[2408.15464](http://arxiv.org/abs/2408.15464)|null|
+|**2024-08-26**|**Obstruction to Broken Symmetries in Topological Flat Bands**|Penghao Zhu et.al.|[2408.14533](http://arxiv.org/abs/2408.14533)|null|
+|**2024-08-26**|**Generalized symmetry constraints on deformed 4d (S)CFTs**|Monica Jinwoo Kang et.al.|[2408.14532](http://arxiv.org/abs/2408.14532)|null|
+|**2024-08-26**|**Phases and phase transitions in a dimerized spin- $\mathbf{\frac{1}{2}}$ XXZ chain**|Harsh Nigam et.al.|[2408.14474](http://arxiv.org/abs/2408.14474)|null|
+|**2024-08-26**|**Symmetry & Critical Points**|Yossi Arjevani et.al.|[2408.14445](http://arxiv.org/abs/2408.14445)|null|
+|**2024-08-25**|**Towards All Categorical Symmetries in 2+1 Dimensions**|Mathew Bullimore et.al.|[2408.13931](http://arxiv.org/abs/2408.13931)|null|
+|**2024-08-30**|**Characterization of Randomness in Quantum Circuits of Continuous Gate Sets**|Yosuke Mitsuhashi et.al.|[2408.13475](http://arxiv.org/abs/2408.13475)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
