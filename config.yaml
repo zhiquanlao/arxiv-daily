@@ -23,6 +23,6 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "Quantum Info": 
-        filters: ["quantum channel", "quantum algorithm", "quantum computation", "quantum information", "quantum machine learning", "toric code", "quantum computing"]
+        filters: ["quantum channel", "quantum algorithm", "quantum computation", "quantum information", "fusion category", "quantum machine learning", "toric code", "quantum computing"]
     "TQFT, Topological Order, Generalized Symmetry":
         filters: ["TQFT", "Topological Quantum Field Theory", "Topological Order", "Generalized Symmetry", "SPT"]
