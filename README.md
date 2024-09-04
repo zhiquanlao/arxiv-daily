@@ -18,7 +18,7 @@
   </ol>
 </details>
 
-## SLAM
+## Quantum Info
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
@@ -26,35 +26,7 @@
 
 <p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
 
-## SFM
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
-
-## Visual Localization
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
-
-## Keypoint Detection
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
-
-## Image Matching
-
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
-
-<p align=right>(<a href=#updated-on-20240904>back to top</a>)</p>
-
-## NeRF
+## TQFT, Topological Order, Generalized Symmetry
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
