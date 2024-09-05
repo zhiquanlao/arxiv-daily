@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
+|**2024-09-04**|**Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity**|A. Salmanogli et.al.|[2409.02887](http://arxiv.org/abs/2409.02887)|null|
+|**2024-09-04**|**Euclid preparation: Determining the weak lensing mass accuracy and precision for galaxy clusters**|Euclid Collaboration et.al.|[2409.02783](http://arxiv.org/abs/2409.02783)|null|
+|**2024-09-04**|**Federated Quantum-Train with Batched Parameter Generation**|Chen-Yu Liu et.al.|[2409.02763](http://arxiv.org/abs/2409.02763)|null|
+|**2024-09-04**|**Practical techniques for high precision measurements on near-term quantum hardware: a Case Study in Molecular Energy Estimation**|Keijo Korhonen et.al.|[2409.02575](http://arxiv.org/abs/2409.02575)|null|
+|**2024-09-04**|**Shedding Light on the Future: Exploring Quantum Neural Networks through Optics**|Shang Yu et.al.|[2409.02533](http://arxiv.org/abs/2409.02533)|null|
+|**2024-09-04**|**Distributed Quantum Computation via Entanglement Forging and Teleportation**|Tian-Ren Jin et.al.|[2409.02509](http://arxiv.org/abs/2409.02509)|null|
+|**2024-09-04**|**The exact lower bound of CNOT-complexity for fault-tolerant quantum Fourier transform**|Qiqing Xia et.al.|[2409.02506](http://arxiv.org/abs/2409.02506)|null|
+|**2024-09-04**|**Reduction of Finite Sampling Error in Quantum Krylov Subspace Diagonalization**|Gwonhak Lee et.al.|[2409.02504](http://arxiv.org/abs/2409.02504)|null|
+|**2024-09-04**|**Generation of Scalable Genuine Multipartite Gaussian Entanglement with a Parametric Amplifier Network**|Saesun Kim et.al.|[2409.02417](http://arxiv.org/abs/2409.02417)|null|
 |**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|null|
 |**2024-08-30**|**Variational quantum simulation of ground states and thermal states for lattice gauge theory with multi-objective optimization**|Lang-Xing Cheng et.al.|[2408.17300](http://arxiv.org/abs/2408.17300)|null|
 |**2024-08-30**|**Neutron-proton pairing correlations described on quantum computers**|Jing Zhang et.al.|[2408.17294](http://arxiv.org/abs/2408.17294)|null|
@@ -3456,6 +3466,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-03**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das et.al.|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
+|**2024-09-03**|**From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning**|Wei Chen et.al.|[2409.01658](http://arxiv.org/abs/2409.01658)|null|
+|**2024-09-02**|**Classification of symmetry protected states of quantum spin chains for continuous symmetry groups**|Bruno de Oliveira Carvalho et.al.|[2409.01112](http://arxiv.org/abs/2409.01112)|null|
+|**2024-09-02**|**Non-Landau quantum phase transition in modulated SU(N) Heisenberg spin chains**|Sylvain Capponi et.al.|[2409.01019](http://arxiv.org/abs/2409.01019)|null|
 |**2024-08-30**|**The FLAMINGO Project: An assessment of the systematic errors in the predictions of models for galaxy cluster counts used to infer cosmological parameters**|Roi Kugel et.al.|[2408.17217](http://arxiv.org/abs/2408.17217)|null|
 |**2024-08-29**|**Non-Abelian fractional quantum Hall states at filling factor 3/4**|Kai-Wen Huang et.al.|[2408.16275](http://arxiv.org/abs/2408.16275)|null|
 |**2024-08-28**|**1+1d SPT phases with fusion category symmetry: interface modes and non-abelian Thouless pump**|Kansei Inamura et.al.|[2408.15960](http://arxiv.org/abs/2408.15960)|null|
