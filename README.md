@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
+|**2024-09-05**|**Halving the Cost of Quantum Algorithms with Randomization**|John M. Martyn et.al.|[2409.03744](http://arxiv.org/abs/2409.03744)|null|
+|**2024-09-05**|**Phonon-mediated quantum gates in trapped ions coupled to an ultracold atomic gas**|Lorenzo Oghittu et.al.|[2409.03693](http://arxiv.org/abs/2409.03693)|null|
+|**2024-09-05**|**Predicting quantum channels over general product distributions**|Sitan Chen et.al.|[2409.03684](http://arxiv.org/abs/2409.03684)|null|
+|**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu et.al.|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
+|**2024-09-05**|**Quantum Natural Gradient with Geodesic Corrections for Small Shallow Quantum Circuits**|Mourad Halla et.al.|[2409.03638](http://arxiv.org/abs/2409.03638)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523](http://arxiv.org/abs/2409.03523)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 1. Numerical methods and validation**|Euclid Collaboration et.al.|[2409.03522](http://arxiv.org/abs/2409.03522)|null|
+|**2024-09-05**|**Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states**|S. Saner et.al.|[2409.03482](http://arxiv.org/abs/2409.03482)|null|
 |**2024-09-04**|**Learning Density Functionals from Noisy Quantum Data**|Emiel Koridon et.al.|[2409.02921](http://arxiv.org/abs/2409.02921)|null|
 |**2024-09-04**|**Blochnium-Based Josephson Junction Parametric Amplifiers: Superior Tunability and Linearity**|A. Salmanogli et.al.|[2409.02887](http://arxiv.org/abs/2409.02887)|null|
 |**2024-09-04**|**Euclid preparation: Determining the weak lensing mass accuracy and precision for galaxy clusters**|Euclid Collaboration et.al.|[2409.02783](http://arxiv.org/abs/2409.02783)|null|
@@ -3466,6 +3476,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks et.al.|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
 |**2024-09-03**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das et.al.|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
 |**2024-09-03**|**From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning**|Wei Chen et.al.|[2409.01658](http://arxiv.org/abs/2409.01658)|null|
 |**2024-09-02**|**Classification of symmetry protected states of quantum spin chains for continuous symmetry groups**|Bruno de Oliveira Carvalho et.al.|[2409.01112](http://arxiv.org/abs/2409.01112)|null|
