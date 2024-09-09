@@ -22,13 +22,13 @@ layout: default
 |**2024-08-30**|**Addressing the challenges of loop detection in agricultural environments**|Nicolás Soncini et.al.|[2408.15761](http://arxiv.org/abs/2408.15761)|**[link](https://github.com/CIFASIS/StereoLoopDetector)**|
 |**2024-08-28**|**ES-PTAM: Event-based Stereo Parallel Tracking and Mapping**|Suman Ghosh et.al.|[2408.15605](http://arxiv.org/abs/2408.15605)|**[link](https://github.com/tub-rip/es-ptam)**|
 |**2024-08-28**|**PointEMRay: A Novel Efficient SBR Framework on Point Based Geometry**|Kaiqiao Yang et.al.|[2408.15583](http://arxiv.org/abs/2408.15583)|null|
-|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726](http://arxiv.org/abs/2408.14726)|null|
+|**2024-08-27**|**Active Semantic Mapping and Pose Graph Spectral Analysis for Robot Exploration**|Rongge Zhang et.al.|[2408.14726](http://arxiv.org/abs/2408.14726)|**[link](https://github.com/BohemianRhapsodyz/semantic_exploration)**|
 |**2024-08-26**|**A Survey on Reinforcement Learning Applications in SLAM**|Mohammad Dehghani Tezerjani et.al.|[2408.14518](http://arxiv.org/abs/2408.14518)|null|
 |**2024-08-28**|**FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry**|Chunran Zheng et.al.|[2408.14035](http://arxiv.org/abs/2408.14035)|**[link](https://github.com/hku-mars/fast-livo2)**|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-08-21**|**LiFCal: Online Light Field Camera Calibration via Bundle Adjustment**|Aymeric Fleith et.al.|[2408.11682](http://arxiv.org/abs/2408.11682)|null|
 |**2024-08-21**|**Enhanced Visual SLAM for Collision-free Driving with Lightweight Autonomous Cars**|Zhihao Lin et.al.|[2408.11582](http://arxiv.org/abs/2408.11582)|null|
-|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|null|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|**[link](https://github.com/igmr-rwth/randt-slam)**|
 |**2024-08-21**|**Reflex-Based Open-Vocabulary Navigation without Prior Knowledge Using Omnidirectional Camera and Multiple Vision-Language Models**|Kento Kawaharazuka et.al.|[2408.11380](http://arxiv.org/abs/2408.11380)|null|
 |**2024-08-20**|**LoopSplat: Loop Closure by Registering 3D Gaussian Splats**|Liyuan Zhu et.al.|[2408.10154](http://arxiv.org/abs/2408.10154)|**[link](https://github.com/GradientSpaces/LoopSplat)**|
 |**2024-08-19**|**Quantitative 3D Map Accuracy Evaluation Hardware and Algorithm for LiDAR(-Inertial) SLAM**|Sanghyun Hahn et.al.|[2408.09727](http://arxiv.org/abs/2408.09727)|**[link](https://github.com/sangwoojung98/3d_map_evaluation)**|
@@ -3437,7 +3437,7 @@ layout: default
 |**2024-09-04**|**The exact lower bound of CNOT-complexity for fault-tolerant quantum Fourier transform**|Qiqing Xia et.al.|[2409.02506](http://arxiv.org/abs/2409.02506)|null|
 |**2024-09-04**|**Reduction of Finite Sampling Error in Quantum Krylov Subspace Diagonalization**|Gwonhak Lee et.al.|[2409.02504](http://arxiv.org/abs/2409.02504)|null|
 |**2024-09-04**|**Generation of Scalable Genuine Multipartite Gaussian Entanglement with a Parametric Amplifier Network**|Saesun Kim et.al.|[2409.02417](http://arxiv.org/abs/2409.02417)|null|
-|**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|null|
+|**2024-08-30**|**A zero-entropy classical shadow reconstruction of density state operators**|J. A. Montañez-Barrera et.al.|[2408.17317](http://arxiv.org/abs/2408.17317)|**[link](https://github.com/alejomonbar/zecs)**|
 |**2024-08-30**|**Variational quantum simulation of ground states and thermal states for lattice gauge theory with multi-objective optimization**|Lang-Xing Cheng et.al.|[2408.17300](http://arxiv.org/abs/2408.17300)|null|
 |**2024-08-30**|**Neutron-proton pairing correlations described on quantum computers**|Jing Zhang et.al.|[2408.17294](http://arxiv.org/abs/2408.17294)|null|
 |**2024-08-30**|**A Limit on the Power of Entanglement-Assistance in Quantum Communication**|Lasse H. Wolff et.al.|[2408.17290](http://arxiv.org/abs/2408.17290)|null|
@@ -3446,7 +3446,7 @@ layout: default
 |**2024-09-02**|**Study And Implementation of Unitary Gates in Quantum Computation Using Schrodinger Dynamics**|Kumar Gautam et.al.|[2408.17035](http://arxiv.org/abs/2408.17035)|null|
 |**2024-08-29**|**Comparing quantum and classical Monte Carlo algorithms for estimating Betti numbers of clique complexes**|Ismail Yunus Akhalwaya et.al.|[2408.16934](http://arxiv.org/abs/2408.16934)|null|
 |**2024-08-29**|**AI-driven Reverse Engineering of QML Models**|Archisman Ghosh et.al.|[2408.16929](http://arxiv.org/abs/2408.16929)|null|
-|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller et.al.|[2408.16914](http://arxiv.org/abs/2408.16914)|null|
+|**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller et.al.|[2408.16914](http://arxiv.org/abs/2408.16914)|**[link](https://github.com/mc-zen/qsalto)**|
 
 ## TQFT, Topological Order, Generalized Symmetry
 
