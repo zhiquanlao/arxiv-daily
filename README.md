@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-06**|**An efficient finite-resource formulation of non-Abelian lattice gauge theories beyond one dimension**|Pierpaolo Fontana et.al.|[2409.04441](http://arxiv.org/abs/2409.04441)|null|
+|**2024-09-06**|**Analog Quantum Simulation of Coupled Electron-Nuclear Dynamics in Molecules**|Jong-Kwon Ha et.al.|[2409.04427](http://arxiv.org/abs/2409.04427)|null|
+|**2024-09-06**|**Qubit magic-breaking channels**|Ayan Patra et.al.|[2409.04425](http://arxiv.org/abs/2409.04425)|null|
+|**2024-09-06**|**Quantum Kernel Methods under Scrutiny: A Benchmarking Study**|Jan Schnabel et.al.|[2409.04406](http://arxiv.org/abs/2409.04406)|null|
+|**2024-09-06**|**Modeling of decoherence and fidelity enhancement during transport of entangled qubits**|Aleksandr S. Mokeev et.al.|[2409.04404](http://arxiv.org/abs/2409.04404)|null|
+|**2024-09-06**|**Lightcone shading for classically accelerated quantum error mitigation**|Andrew Eddins et.al.|[2409.04401](http://arxiv.org/abs/2409.04401)|null|
+|**2024-09-06**|**A Sierpinski Triangle Fermion-to-Qubit Transform**|Brent Harrison et.al.|[2409.04348](http://arxiv.org/abs/2409.04348)|null|
+|**2024-09-06**|**Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes**|J. J. Postema et.al.|[2409.04324](http://arxiv.org/abs/2409.04324)|null|
+|**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl et.al.|[2409.04300](http://arxiv.org/abs/2409.04300)|null|
+|**2024-09-06**|**NSF-UKRI Bilateral Workshop: Quantum Information Science in Chemistry**|Gregory D Scholes et.al.|[2409.04264](http://arxiv.org/abs/2409.04264)|null|
 |**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-05**|**Halving the Cost of Quantum Algorithms with Randomization**|John M. Martyn et.al.|[2409.03744](http://arxiv.org/abs/2409.03744)|null|
 |**2024-09-05**|**Phonon-mediated quantum gates in trapped ions coupled to an ultracold atomic gas**|Lorenzo Oghittu et.al.|[2409.03693](http://arxiv.org/abs/2409.03693)|null|
