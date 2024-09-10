@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849](http://arxiv.org/abs/2409.05849)|null|
+|**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846](http://arxiv.org/abs/2409.05846)|null|
+|**2024-09-09**|**End-to-End Quantum Simulation of a Chemical System**|Wim van Dam et.al.|[2409.05835](http://arxiv.org/abs/2409.05835)|null|
+|**2024-09-09**|**Non-local resources for error correction in quantum LDPC codes**|Omprakash Chandra et.al.|[2409.05818](http://arxiv.org/abs/2409.05818)|null|
+|**2024-09-09**|**Hardware-Efficient Fault Tolerant Quantum Computing with Bosonic Grid States in Superconducting Circuits**|Marc-Antoine Lemonde et.al.|[2409.05813](http://arxiv.org/abs/2409.05813)|null|
+|**2024-09-09**|**Quantum Resources for Pure Thermal Shadows**|Arnav Sharma et.al.|[2409.05777](http://arxiv.org/abs/2409.05777)|null|
+|**2024-09-09**|**Consensus-based Distributed Quantum Kernel Learning for Speech Recognition**|Kuan-Cheng Chen et.al.|[2409.05770](http://arxiv.org/abs/2409.05770)|null|
+|**2024-09-09**|**Quantum teleportation of a qutrit state via a hypergraph state in a noisy environment**|Souvik Giri et.al.|[2409.05675](http://arxiv.org/abs/2409.05675)|null|
+|**2024-09-09**|**Simulating Chemistry with Fermionic Optical Superlattices**|Fotios Gkritsis et.al.|[2409.05663](http://arxiv.org/abs/2409.05663)|null|
+|**2024-09-09**|**Quantum Multiplexer Simplification for State Preparation**|José A. de Carvalho et.al.|[2409.05618](http://arxiv.org/abs/2409.05618)|null|
 |**2024-09-06**|**An efficient finite-resource formulation of non-Abelian lattice gauge theories beyond one dimension**|Pierpaolo Fontana et.al.|[2409.04441](http://arxiv.org/abs/2409.04441)|null|
 |**2024-09-06**|**Analog Quantum Simulation of Coupled Electron-Nuclear Dynamics in Molecules**|Jong-Kwon Ha et.al.|[2409.04427](http://arxiv.org/abs/2409.04427)|null|
 |**2024-09-06**|**Qubit magic-breaking channels**|Ayan Patra et.al.|[2409.04425](http://arxiv.org/abs/2409.04425)|null|
@@ -3462,8 +3472,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-09**|**Nonabelian Anyon Condenstion in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao et.al.|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
+|**2024-09-07**|**Floquet dynamical chiral spin liquid at finite frequency**|Didier Poilblanc et.al.|[2409.04892](http://arxiv.org/abs/2409.04892)|null|
 |**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks et.al.|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
-|**2024-09-03**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das et.al.|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
+|**2024-09-09**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das et.al.|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
 |**2024-09-03**|**From Yes-Men to Truth-Tellers: Addressing Sycophancy in Large Language Models with Pinpoint Tuning**|Wei Chen et.al.|[2409.01658](http://arxiv.org/abs/2409.01658)|null|
 |**2024-09-02**|**Classification of symmetry protected states of quantum spin chains for continuous symmetry groups**|Bruno de Oliveira Carvalho et.al.|[2409.01112](http://arxiv.org/abs/2409.01112)|null|
 |**2024-09-02**|**Non-Landau quantum phase transition in modulated SU(N) Heisenberg spin chains**|Sylvain Capponi et.al.|[2409.01019](http://arxiv.org/abs/2409.01019)|null|
