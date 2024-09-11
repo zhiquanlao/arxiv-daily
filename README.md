@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Frequency principle for quantum machine learning via Fourier analysis**|Yi-Hang Xu et.al.|[2409.06682](http://arxiv.org/abs/2409.06682)|null|
+|**2024-09-10**|**Amortized Stabilizer Rényi Entropy of Quantum Dynamics**|Chengkai Zhu et.al.|[2409.06659](http://arxiv.org/abs/2409.06659)|null|
+|**2024-09-10**|**Error Mitigation by Restricted Evolution**|Gaurav Saxena et.al.|[2409.06636](http://arxiv.org/abs/2409.06636)|null|
+|**2024-09-10**|**Deterministic generation of a 20-qubit two-dimensional photonic cluster state**|James O'Sullivan et.al.|[2409.06623](http://arxiv.org/abs/2409.06623)|null|
+|**2024-09-10**|**Periodic source of energy-entangled electrons in helical states coupled to a BCS superconductor**|Flavio Ronetti et.al.|[2409.06591](http://arxiv.org/abs/2409.06591)|null|
+|**2024-09-10**|**Simulating continuous-space systems with quantum-classical wave functions**|Friederike Metz et.al.|[2409.06415](http://arxiv.org/abs/2409.06415)|null|
+|**2024-09-10**|**Towards few-body QCD on a quantum computer**|J. J. Galvez-Viruet et.al.|[2409.06403](http://arxiv.org/abs/2409.06403)|null|
+|**2024-09-10**|**Shortcuts to adiabaticity in open quantum critical systems**|Shishira Mahunta et.al.|[2409.06387](http://arxiv.org/abs/2409.06387)|null|
+|**2024-09-10**|**Quantum computing for extracting nuclear resonances**|Hantao Zhang et.al.|[2409.06340](http://arxiv.org/abs/2409.06340)|null|
+|**2024-09-10**|**An Empirical Analysis on the Effectiveness of the Variational Quantum Linear Solver**|Gloria Turati et.al.|[2409.06339](http://arxiv.org/abs/2409.06339)|null|
 |**2024-09-09**|**Quantum Wasserstein Compilation: Unitary Compilation using the Quantum Earth Mover's Distance**|Marvin Richter et.al.|[2409.05849](http://arxiv.org/abs/2409.05849)|null|
 |**2024-09-09**|**An Introduction to Quantum Reinforcement Learning (QRL)**|Samuel Yen-Chi Chen et.al.|[2409.05846](http://arxiv.org/abs/2409.05846)|null|
 |**2024-09-09**|**End-to-End Quantum Simulation of a Chemical System**|Wim van Dam et.al.|[2409.05835](http://arxiv.org/abs/2409.05835)|null|
