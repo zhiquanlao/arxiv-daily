@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-11**|**Uncovering Quantum Many-body Scars with Quantum Machine Learning**|Jiajin Feng et.al.|[2409.07405](http://arxiv.org/abs/2409.07405)|null|
+|**2024-09-11**|**Efficient state preparation for multivariate Monte Carlo simulation**|Hitomi Mori et.al.|[2409.07336](http://arxiv.org/abs/2409.07336)|null|
+|**2024-09-11**|**Quantum state preparation via piecewise QSVT**|Oliver O'Brien et.al.|[2409.07332](http://arxiv.org/abs/2409.07332)|null|
+|**2024-09-11**|**Graphical Calculus for Non-Gaussian Quantum States**|Lina Vandré et.al.|[2409.07300](http://arxiv.org/abs/2409.07300)|null|
+|**2024-09-11**|**From Feynman integrals to quantum algorithms: the Loop-Tree Duality connection**|German Sborlini et.al.|[2409.07252](http://arxiv.org/abs/2409.07252)|null|
+|**2024-09-11**|**Quantum Reference Frames on Homogeneous Spaces**|Jan Głowacki et.al.|[2409.07231](http://arxiv.org/abs/2409.07231)|null|
+|**2024-09-11**|**Development of TiN/AlN-based superconducting qubit components**|Benedikt Schoof et.al.|[2409.07227](http://arxiv.org/abs/2409.07227)|null|
+|**2024-09-11**|**ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes**|Puja Mondal et.al.|[2409.07150](http://arxiv.org/abs/2409.07150)|null|
+|**2024-09-11**|**Spontaneous symmetry breaking in a $SO(3)$ non-Abelian lattice gauge theory in $2+1$ D with quantum algorithms**|Sandip Maiti et.al.|[2409.07108](http://arxiv.org/abs/2409.07108)|null|
+|**2024-09-11**|**Developing a Framework for Sonifying Variational Quantum Algorithms: Implications for Music Composition**|Paulo Vitor Itaboraí et.al.|[2409.07104](http://arxiv.org/abs/2409.07104)|null|
 |**2024-09-10**|**Frequency principle for quantum machine learning via Fourier analysis**|Yi-Hang Xu et.al.|[2409.06682](http://arxiv.org/abs/2409.06682)|null|
 |**2024-09-10**|**Amortized Stabilizer Rényi Entropy of Quantum Dynamics**|Chengkai Zhu et.al.|[2409.06659](http://arxiv.org/abs/2409.06659)|null|
 |**2024-09-10**|**Error Mitigation by Restricted Evolution**|Gaurav Saxena et.al.|[2409.06636](http://arxiv.org/abs/2409.06636)|null|
@@ -3506,7 +3516,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-09-09**|**Nonabelian Anyon Condenstion in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao et.al.|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
+|**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan et.al.|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
+|**2024-09-10**|**Searching for Dark Matter Interactions with ACT, SPT and DES**|Zilu Zhou et.al.|[2409.06771](http://arxiv.org/abs/2409.06771)|null|
+|**2024-09-11**|**Nonabelian Anyon Condensation in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao et.al.|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
 |**2024-09-07**|**Floquet dynamical chiral spin liquid at finite frequency**|Didier Poilblanc et.al.|[2409.04892](http://arxiv.org/abs/2409.04892)|null|
 |**2024-09-05**|**The Moore-Tachikawa conjecture via shifted symplectic geometry**|Peter Crooks et.al.|[2409.03532](http://arxiv.org/abs/2409.03532)|null|
 |**2024-09-09**|**Generalized Symmetry Resolution of Entanglement in CFT for Twisted and Anyonic sectors**|Arpit Das et.al.|[2409.02162](http://arxiv.org/abs/2409.02162)|null|
