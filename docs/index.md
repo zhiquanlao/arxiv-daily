@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
+|**2024-09-12**|**Black Holes, Complex Curves, and Graph Theory: Revising a Conjecture by Kasner**|Yen Chin Ong et.al.|[2409.08236](http://arxiv.org/abs/2409.08236)|null|
+|**2024-09-12**|**Photonic Quantum Computers**|M. AbuGhanem et.al.|[2409.08229](http://arxiv.org/abs/2409.08229)|null|
+|**2024-09-12**|**Optimizing Qubit Control Pulses for State Preparation**|Annika S. Wiening et.al.|[2409.08204](http://arxiv.org/abs/2409.08204)|null|
+|**2024-09-12**|**Silicon Spin Qubit Control and Readout Circuits in 22nm FDSOI CMOS**|Raffaele R. Severino et.al.|[2409.08182](http://arxiv.org/abs/2409.08182)|null|
+|**2024-09-12**|**Quantum Entanglement Allocation through a Central Hub**|Yu-Ao Chen et.al.|[2409.08173](http://arxiv.org/abs/2409.08173)|null|
+|**2024-09-12**|**A Riemannian Approach to the Lindbladian Dynamics of a Locally Purified Tensor Network**|Emiliano Godinez-Ramirez et.al.|[2409.08127](http://arxiv.org/abs/2409.08127)|null|
+|**2024-09-12**|**Quantum Information Resources in Spin-1 Heisenberg Dimer Systems**|Fadwa Benabdallah et.al.|[2409.08082](http://arxiv.org/abs/2409.08082)|null|
+|**2024-09-12**|**Demonstration of Scully-Drühl-type quantum erasers on quantum computers**|Bo-Hung Chen et.al.|[2409.08053](http://arxiv.org/abs/2409.08053)|null|
+|**2024-09-12**|**Near-optimal coherent state discrimination via continuously labelled non-Gaussian measurements**|James Moran et.al.|[2409.08032](http://arxiv.org/abs/2409.08032)|null|
 |**2024-09-11**|**Uncovering Quantum Many-body Scars with Quantum Machine Learning**|Jiajin Feng et.al.|[2409.07405](http://arxiv.org/abs/2409.07405)|null|
 |**2024-09-11**|**Efficient state preparation for multivariate Monte Carlo simulation**|Hitomi Mori et.al.|[2409.07336](http://arxiv.org/abs/2409.07336)|null|
 |**2024-09-11**|**Quantum state preparation via piecewise QSVT**|Oliver O'Brien et.al.|[2409.07332](http://arxiv.org/abs/2409.07332)|null|
@@ -3492,6 +3502,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Strong Electron-Phonon Coupling and Lattice Dynamics in One-Dimensional [(CH3)2NH2]PbI3 Hybrid Perovskite**|A. Nonato et.al.|[2409.08259](http://arxiv.org/abs/2409.08259)|null|
+|**2024-09-11**|**Fusion of Low-Entanglement Excitations in 2D Toric Code**|Jing-Yu Zhao et.al.|[2409.07544](http://arxiv.org/abs/2409.07544)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan et.al.|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
 |**2024-09-10**|**Searching for Dark Matter Interactions with ACT, SPT and DES**|Zilu Zhou et.al.|[2409.06771](http://arxiv.org/abs/2409.06771)|null|
 |**2024-09-11**|**Nonabelian Anyon Condensation in 2+1d topological orders: A String-Net Model Realization**|Yu Zhao et.al.|[2409.05852](http://arxiv.org/abs/2409.05852)|null|
