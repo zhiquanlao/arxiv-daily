@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.15
+## Updated on 2024.09.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,7 +3417,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-12**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
+|**2024-09-13**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
 |**2024-09-12**|**Black Holes, Complex Curves, and Graph Theory: Revising a Conjecture by Kasner**|Yen Chin Ong et.al.|[2409.08236](http://arxiv.org/abs/2409.08236)|null|
 |**2024-09-12**|**Photonic Quantum Computers**|M. AbuGhanem et.al.|[2409.08229](http://arxiv.org/abs/2409.08229)|null|
 |**2024-09-12**|**Optimizing Qubit Control Pulses for State Preparation**|Annika S. Wiening et.al.|[2409.08204](http://arxiv.org/abs/2409.08204)|null|
