@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-13**|**A Fiber-pigtailed Quantum Dot Device Generating Indistinguishable Photons at GHz Clock-rates**|Lucas Rickert et.al.|[2409.08982](http://arxiv.org/abs/2409.08982)|null|
+|**2024-09-13**|**Entanglement and Coherence Dynamics in Photonic Quantum Memristors**|Alberto Ferrara et.al.|[2409.08979](http://arxiv.org/abs/2409.08979)|null|
+|**2024-09-13**|**Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations**|Francesco Ghisoni et.al.|[2409.08929](http://arxiv.org/abs/2409.08929)|null|
+|**2024-09-13**|**Classification of electronic structures and state preparation for quantum computation of reaction chemistry**|Maximilian Mörchen et.al.|[2409.08910](http://arxiv.org/abs/2409.08910)|null|
+|**2024-09-13**|**SDP for One-shot Dilution of Quantum Coherence**|Yikang Zhu et.al.|[2409.08876](http://arxiv.org/abs/2409.08876)|null|
+|**2024-09-13**|**Benchmarking the performance of quantum computing software**|Paul D. Nation et.al.|[2409.08844](http://arxiv.org/abs/2409.08844)|null|
+|**2024-09-13**|**Scalable and interpretable quantum natural language processing: an implementation on trapped ions**|Tiffany Duneau et.al.|[2409.08777](http://arxiv.org/abs/2409.08777)|null|
+|**2024-09-13**|**Optimal discrimination of quantum sequences**|Tathagata Gupta et.al.|[2409.08705](http://arxiv.org/abs/2409.08705)|null|
+|**2024-09-13**|**CompressedMediQ: Hybrid Quantum Machine Learning Pipeline for High-Dimentional Neuroimaging Data**|Kuan-Cheng Chen et.al.|[2409.08584](http://arxiv.org/abs/2409.08584)|null|
+|**2024-09-13**|**Realizing tunable Fermi level in SnTe by defect control**|Bamidele Oluwagbenga Onipede et.al.|[2409.08515](http://arxiv.org/abs/2409.08515)|null|
 |**2024-09-13**|**Faster Algorithmic Quantum and Classical Simulations by Corrected Product Formulas**|Mohsen Bagherimehrab et.al.|[2409.08265](http://arxiv.org/abs/2409.08265)|null|
 |**2024-09-12**|**Black Holes, Complex Curves, and Graph Theory: Revising a Conjecture by Kasner**|Yen Chin Ong et.al.|[2409.08236](http://arxiv.org/abs/2409.08236)|null|
 |**2024-09-12**|**Photonic Quantum Computers**|M. AbuGhanem et.al.|[2409.08229](http://arxiv.org/abs/2409.08229)|null|
