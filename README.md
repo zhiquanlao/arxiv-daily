@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**The role of higher-order terms in trapped-ion quantum computing with magnetic gradient induced coupling**|Sebastian Nagies et.al.|[2409.10498](http://arxiv.org/abs/2409.10498)|null|
+|**2024-09-16**|**An explicit tensor notation for quantum computing**|Valentina Amitrano et.al.|[2409.10487](http://arxiv.org/abs/2409.10487)|null|
+|**2024-09-16**|**Trade-off relations between quantum coherence and measure of many-body localization**|Arti Garg et.al.|[2409.10449](http://arxiv.org/abs/2409.10449)|null|
+|**2024-09-16**|**Multicopy quantum state teleportation with application to storage and retrieval of quantum programs**|Frédéric Grosshans et.al.|[2409.10393](http://arxiv.org/abs/2409.10393)|null|
+|**2024-09-16**|**Decomposition Pipeline for Large-Scale Portfolio Optimization with Applications to Near-Term Quantum Computing**|Atithi Acharya et.al.|[2409.10301](http://arxiv.org/abs/2409.10301)|null|
+|**2024-09-16**|**Kernel Descent -- a Novel Optimizer for Variational Quantum Algorithms**|Lars Simon et.al.|[2409.10257](http://arxiv.org/abs/2409.10257)|null|
+|**2024-09-16**|**Theory of optical spinpolarization of axial divacancy and nitrogen-vacancy defects in 4H-SiC**|Guodong Bian et.al.|[2409.10233](http://arxiv.org/abs/2409.10233)|null|
+|**2024-09-16**|**High-level quantum algorithm programming using Silq**|Viktorija Bezganovic et.al.|[2409.10231](http://arxiv.org/abs/2409.10231)|null|
+|**2024-09-16**|**Intracavity squeezing for Kerr QND Measurement scheme**|Dariya Salykina et.al.|[2409.10222](http://arxiv.org/abs/2409.10222)|null|
+|**2024-09-16**|**Quantum Information Scrambling, Chaos, Sensitivity, and Emergent State Designs**|Naga Dileep Varikuti et.al.|[2409.10182](http://arxiv.org/abs/2409.10182)|null|
 |**2024-09-13**|**A Fiber-pigtailed Quantum Dot Device Generating Indistinguishable Photons at GHz Clock-rates**|Lucas Rickert et.al.|[2409.08982](http://arxiv.org/abs/2409.08982)|null|
 |**2024-09-13**|**Entanglement and Coherence Dynamics in Photonic Quantum Memristors**|Alberto Ferrara et.al.|[2409.08979](http://arxiv.org/abs/2409.08979)|null|
 |**2024-09-13**|**Shadow Quantum Linear Solver: A Resource Efficient Quantum Algorithm for Linear Systems of Equations**|Francesco Ghisoni et.al.|[2409.08929](http://arxiv.org/abs/2409.08929)|null|
@@ -3536,6 +3546,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**|Hanbo Bi et.al.|[2409.10389](http://arxiv.org/abs/2409.10389)|null|
+|**2024-09-16**|**Generalized symmetries of remarkable (1+2)-dimensional Fokker-Planck equation**|Dmytro R. Popovych et.al.|[2409.10348](http://arxiv.org/abs/2409.10348)|null|
+|**2024-09-15**|**Many-body Keldysh Crossover in the DC-driven Haldane Spin Chain**|Koichi Okazaki et.al.|[2409.09578](http://arxiv.org/abs/2409.09578)|null|
+|**2024-09-13**|**The quantum Newman-Moore model in a longitudinal field**|Konstantinos Sfairopoulos et.al.|[2409.09235](http://arxiv.org/abs/2409.09235)|null|
 |**2024-09-12**|**Strong Electron-Phonon Coupling and Lattice Dynamics in One-Dimensional [(CH3)2NH2]PbI3 Hybrid Perovskite**|A. Nonato et.al.|[2409.08259](http://arxiv.org/abs/2409.08259)|null|
 |**2024-09-11**|**Fusion of Low-Entanglement Excitations in 2D Toric Code**|Jing-Yu Zhao et.al.|[2409.07544](http://arxiv.org/abs/2409.07544)|null|
 |**2024-09-11**|**Variational LOCC-assisted quantum circuits for long-range entangled states**|Yuxuan Yan et.al.|[2409.07281](http://arxiv.org/abs/2409.07281)|null|
