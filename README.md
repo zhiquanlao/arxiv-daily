@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-17**|**Violation of no-signaling on a public quantum computer**|Tomasz Rybotycki et.al.|[2409.11348](http://arxiv.org/abs/2409.11348)|null|
+|**2024-09-17**|**Synchronizable hybrid subsystem codes**|Theerapat Tansuwannont et.al.|[2409.11312](http://arxiv.org/abs/2409.11312)|null|
+|**2024-09-17**|**Challenging Excited States from Adaptive Quantum Eigensolvers: Subspace Expansions vs. State-Averaged Strategies**|Harper R. Grimsley et.al.|[2409.11210](http://arxiv.org/abs/2409.11210)|null|
+|**2024-09-17**|**Quantifying nonclassical correlation via the generalized Wigner-Yanase skew information**|Yan Hong et.al.|[2409.11198](http://arxiv.org/abs/2409.11198)|null|
+|**2024-09-17**|**A quantum protocol for applying arbitrary phase transformations**|Siavash Davani et.al.|[2409.11020](http://arxiv.org/abs/2409.11020)|null|
+|**2024-09-17**|**Early Detection of Coronary Heart Disease Using Hybrid Quantum Machine Learning Approach**|Mehroush Banday et.al.|[2409.10932](http://arxiv.org/abs/2409.10932)|null|
+|**2024-09-17**|**Evaluating Modifications to Classifiers for Identification of Higgs Bosons**|Rishivarshil Nelakurti et.al.|[2409.10902](http://arxiv.org/abs/2409.10902)|null|
+|**2024-09-17**|**Solving the Hele-Shaw flow using the Harrow-Hassidim-Lloyd algorithm on superconducting devices: A study of efficiency and challenges**|Muralikrishnan Gopalakrishnan Meena et.al.|[2409.10857](http://arxiv.org/abs/2409.10857)|null|
+|**2024-09-17**|**Fast and Post-Quantum Authentication for Real-time Next Generation Networks with Bloom Filter**|Kiarash Sedghighadikolaei et.al.|[2409.10813](http://arxiv.org/abs/2409.10813)|null|
+|**2024-09-17**|**Hardware-Efficient Preparation of Graph States on Near-Term Quantum Computers**|Sebastian Brandhofer et.al.|[2409.10807](http://arxiv.org/abs/2409.10807)|null|
 |**2024-09-16**|**The role of higher-order terms in trapped-ion quantum computing with magnetic gradient induced coupling**|Sebastian Nagies et.al.|[2409.10498](http://arxiv.org/abs/2409.10498)|null|
 |**2024-09-16**|**An explicit tensor notation for quantum computing**|Valentina Amitrano et.al.|[2409.10487](http://arxiv.org/abs/2409.10487)|null|
 |**2024-09-16**|**Trade-off relations between quantum coherence and measure of many-body localization**|Arti Garg et.al.|[2409.10449](http://arxiv.org/abs/2409.10449)|null|
@@ -3546,6 +3556,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-16**|**Bootstrapping the Quantum Hall problem**|Qiang Gao et.al.|[2409.10619](http://arxiv.org/abs/2409.10619)|null|
+|**2024-09-16**|**Duality-preserving deformation of 3+1d lattice $\mathbb Z_2$ gauge theory with exact gapped ground states**|Pranay Gorantla et.al.|[2409.10612](http://arxiv.org/abs/2409.10612)|null|
 |**2024-09-16**|**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**|Hanbo Bi et.al.|[2409.10389](http://arxiv.org/abs/2409.10389)|null|
 |**2024-09-16**|**Generalized symmetries of remarkable (1+2)-dimensional Fokker-Planck equation**|Dmytro R. Popovych et.al.|[2409.10348](http://arxiv.org/abs/2409.10348)|null|
 |**2024-09-15**|**Many-body Keldysh Crossover in the DC-driven Haldane Spin Chain**|Koichi Okazaki et.al.|[2409.09578](http://arxiv.org/abs/2409.09578)|null|
