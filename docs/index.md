@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-18**|**Performance of Quantum Approximate Optimization with Quantum Error Detection**|Zichang He et.al.|[2409.12104](http://arxiv.org/abs/2409.12104)|null|
+|**2024-09-18**|**Towards practical secure delegated quantum computing with semi-classical light**|Boris Bourdoncle et.al.|[2409.12103](http://arxiv.org/abs/2409.12103)|null|
+|**2024-09-18**|**Krylov Expressivity in Quantum Reservoir Computing and Quantum Extreme Learning**|Saud Čindrak et.al.|[2409.12079](http://arxiv.org/abs/2409.12079)|null|
+|**2024-09-18**|**Quantum Magic and Multi-Partite Entanglement in the Structure of Nuclei**|Florian Brökemeier et.al.|[2409.12064](http://arxiv.org/abs/2409.12064)|null|
+|**2024-09-18**|**Operator-Projected Variational Quantum Imaginary Time Evolution**|Aeishah Ameera Anuar et.al.|[2409.12018](http://arxiv.org/abs/2409.12018)|null|
+|**2024-09-18**|**Doppler-free selective reflection spectroscopy of electric-quadrupole transitions**|Eng Aik Chan et.al.|[2409.12017](http://arxiv.org/abs/2409.12017)|null|
+|**2024-09-18**|**Electric field control for experiments with atoms in Rydberg states**|Aishik Panja et.al.|[2409.11865](http://arxiv.org/abs/2409.11865)|null|
+|**2024-09-18**|**The Cramér-Rao approach and global quantum estimation of bosonic states**|Masahito Hayashi et.al.|[2409.11842](http://arxiv.org/abs/2409.11842)|null|
+|**2024-09-18**|**Non-Invertible T-duality at Any Radius via Non-Compact SymTFT**|Riccardo Argurio et.al.|[2409.11822](http://arxiv.org/abs/2409.11822)|null|
+|**2024-09-18**|**A no-go theorem for sequential and retro-causal hidden-variable theories based on computational complexity**|Doriano Brogioli et.al.|[2409.11792](http://arxiv.org/abs/2409.11792)|null|
 |**2024-09-17**|**Violation of no-signaling on a public quantum computer**|Tomasz Rybotycki et.al.|[2409.11348](http://arxiv.org/abs/2409.11348)|null|
 |**2024-09-17**|**Synchronizable hybrid subsystem codes**|Theerapat Tansuwannont et.al.|[2409.11312](http://arxiv.org/abs/2409.11312)|null|
 |**2024-09-17**|**Challenging Excited States from Adaptive Quantum Eigensolvers: Subspace Expansions vs. State-Averaged Strategies**|Harper R. Grimsley et.al.|[2409.11210](http://arxiv.org/abs/2409.11210)|null|
