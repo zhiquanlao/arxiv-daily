@@ -1105,7 +1105,7 @@ layout: default
 |**2023-11-30**|**Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models**|Raviteja Vemulapalli et.al.|[2311.18237](http://arxiv.org/abs/2311.18237)|null|
 |**2023-11-29**|**Transformer-empowered Multi-modal Item Embedding for Enhanced Image Search in E-Commerce**|Chang Liu et.al.|[2311.17954](http://arxiv.org/abs/2311.17954)|null|
 |**2023-11-28**|**Scene Summarization: Clustering Scene Videos into Spatially Diverse Frames**|Chao Chen et.al.|[2311.17940](http://arxiv.org/abs/2311.17940)|null|
-|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|null|
+|**2023-11-29**|**360Loc: A Dataset and Benchmark for Omnidirectional Visual Localization with Cross-device Queries**|Huajian Huang et.al.|[2311.17389](http://arxiv.org/abs/2311.17389)|**[link](https://github.com/HuajianUP/360Loc)**|
 |**2023-11-27**|**Removing NSFW Concepts from Vision-and-Language Models for Text-to-Image Retrieval and Generation**|Samuele Poppi et.al.|[2311.16254](http://arxiv.org/abs/2311.16254)|**[link](https://github.com/aimagelab/safe-clip)**|
 |**2023-11-27**|**Optimal Transport Aggregation for Visual Place Recognition**|Sergio Izquierdo et.al.|[2311.15937](http://arxiv.org/abs/2311.15937)|**[link](https://github.com/serizba/salad)**|
 |**2023-11-27**|**AI-Generated Images Introduce Invisible Relevance Bias to Text-Image Retrieval**|Shicheng Xu et.al.|[2311.14084](http://arxiv.org/abs/2311.14084)|**[link](https://github.com/xsc1234/invisible-relevance-bias)**|
@@ -2311,7 +2311,7 @@ layout: default
 |**2024-06-15**|**NeRFDeformer: NeRF Transformation from a Single View via 3D Scene Flows**|Zhenggang Tang et.al.|[2406.10543](http://arxiv.org/abs/2406.10543)|**[link](https://github.com/nerfdeformer/nerfdeformer)**|
 |**2024-06-15**|**Federated Neural Radiance Field for Distributed Intelligence**|Yintian Zhang et.al.|[2406.10474](http://arxiv.org/abs/2406.10474)|null|
 |**2024-06-14**|**Wild-GS: Real-Time Novel View Synthesis from Unconstrained Photo Collections**|Jiacong Xu et.al.|[2406.10373](http://arxiv.org/abs/2406.10373)|null|
-|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|null|
+|**2024-06-14**|**PUP 3D-GS: Principled Uncertainty Pruning for 3D Gaussian Splatting**|Alex Hanson et.al.|[2406.10219](http://arxiv.org/abs/2406.10219)|**[link](https://github.com/j-alex-hanson/gaussian-splatting-pup)**|
 |**2024-06-14**|**GaussianSR: 3D Gaussian Super-Resolution with 2D Diffusion Priors**|Xiqian Yu et.al.|[2406.10111](http://arxiv.org/abs/2406.10111)|null|
 |**2024-06-14**|**OrientDream: Streamlining Text-to-3D Generation with Explicit Orientation Control**|Yuzhong Huang et.al.|[2406.10000](http://arxiv.org/abs/2406.10000)|null|
 |**2024-06-14**|**dGrasp: NeRF-Informed Implicit Grasp Policies with Supervised Optimization Slopes**|Gergely Sóti et.al.|[2406.09939](http://arxiv.org/abs/2406.09939)|null|
@@ -3265,7 +3265,7 @@ layout: default
 |**2022-12-26**|**MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos**|Fengrui Tian et.al.|[2212.13056](http://arxiv.org/abs/2212.13056)|**[link](https://github.com/tianfr/mononerf)**|
 |**2022-12-25**|**PaletteNeRF: Palette-based Color Editing for NeRFs**|Qiling Wu et.al.|[2212.12871](http://arxiv.org/abs/2212.12871)|null|
 |**2022-12-22**|**Removing Objects From Neural Radiance Fields**|Silvan Weder et.al.|[2212.11966](http://arxiv.org/abs/2212.11966)|null|
-|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|null|
+|**2022-12-21**|**Incremental Learning for Neural Radiance Field with Uncertainty-Filtered Knowledge Distillation**|Mengqi Guo et.al.|[2212.10950](http://arxiv.org/abs/2212.10950)|**[link](https://github.com/dreamguo/UNIKD)**|
 |**2022-12-21**|**PaletteNeRF: Palette-based Appearance Editing of Neural Radiance Fields**|Zhengfei Kuang et.al.|[2212.10699](http://arxiv.org/abs/2212.10699)|null|
 |**2022-12-20**|**Correspondence Distillation from NeRF-based GAN**|Yushi Lan et.al.|[2212.09735](http://arxiv.org/abs/2212.09735)|null|
 |**2022-12-19**|**StyleTRF: Stylizing Tensorial Radiance Fields**|Rahul Goel et.al.|[2212.09330](http://arxiv.org/abs/2212.09330)|null|
@@ -3474,7 +3474,7 @@ layout: default
 |**2024-09-11**|**From Feynman integrals to quantum algorithms: the Loop-Tree Duality connection**|German Sborlini et.al.|[2409.07252](http://arxiv.org/abs/2409.07252)|null|
 |**2024-09-11**|**Quantum Reference Frames on Homogeneous Spaces**|Jan Głowacki et.al.|[2409.07231](http://arxiv.org/abs/2409.07231)|null|
 |**2024-09-11**|**Development of TiN/AlN-based superconducting qubit components**|Benedikt Schoof et.al.|[2409.07227](http://arxiv.org/abs/2409.07227)|null|
-|**2024-09-11**|**ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes**|Puja Mondal et.al.|[2409.07150](http://arxiv.org/abs/2409.07150)|null|
+|**2024-09-11**|**ZKFault: Fault attack analysis on zero-knowledge based post-quantum digital signature schemes**|Puja Mondal et.al.|[2409.07150](http://arxiv.org/abs/2409.07150)|**[link](https://github.com/s-adhikary/zkfault_simulation)**|
 |**2024-09-11**|**Spontaneous symmetry breaking in a $SO(3)$ non-Abelian lattice gauge theory in $2+1$ D with quantum algorithms**|Sandip Maiti et.al.|[2409.07108](http://arxiv.org/abs/2409.07108)|null|
 |**2024-09-11**|**Developing a Framework for Sonifying Variational Quantum Algorithms: Implications for Music Composition**|Paulo Vitor Itaboraí et.al.|[2409.07104](http://arxiv.org/abs/2409.07104)|null|
 |**2024-09-10**|**Frequency principle for quantum machine learning via Fourier analysis**|Yi-Hang Xu et.al.|[2409.06682](http://arxiv.org/abs/2409.06682)|null|
@@ -3482,7 +3482,7 @@ layout: default
 |**2024-09-10**|**Error Mitigation by Restricted Evolution**|Gaurav Saxena et.al.|[2409.06636](http://arxiv.org/abs/2409.06636)|null|
 |**2024-09-10**|**Deterministic generation of a 20-qubit two-dimensional photonic cluster state**|James O'Sullivan et.al.|[2409.06623](http://arxiv.org/abs/2409.06623)|null|
 |**2024-09-10**|**Periodic source of energy-entangled electrons in helical states coupled to a BCS superconductor**|Flavio Ronetti et.al.|[2409.06591](http://arxiv.org/abs/2409.06591)|null|
-|**2024-09-10**|**Simulating continuous-space systems with quantum-classical wave functions**|Friederike Metz et.al.|[2409.06415](http://arxiv.org/abs/2409.06415)|null|
+|**2024-09-10**|**Simulating continuous-space systems with quantum-classical wave functions**|Friederike Metz et.al.|[2409.06415](http://arxiv.org/abs/2409.06415)|**[link](https://github.com/frmetz/continuous-space-quantum-simulation)**|
 |**2024-09-10**|**Towards few-body QCD on a quantum computer**|J. J. Galvez-Viruet et.al.|[2409.06403](http://arxiv.org/abs/2409.06403)|null|
 |**2024-09-10**|**Shortcuts to adiabaticity in open quantum critical systems**|Shishira Mahunta et.al.|[2409.06387](http://arxiv.org/abs/2409.06387)|null|
 |**2024-09-10**|**Quantum computing for extracting nuclear resonances**|Hantao Zhang et.al.|[2409.06340](http://arxiv.org/abs/2409.06340)|null|
@@ -3505,7 +3505,7 @@ layout: default
 |**2024-09-06**|**Lightcone shading for classically accelerated quantum error mitigation**|Andrew Eddins et.al.|[2409.04401](http://arxiv.org/abs/2409.04401)|null|
 |**2024-09-06**|**A Sierpinski Triangle Fermion-to-Qubit Transform**|Brent Harrison et.al.|[2409.04348](http://arxiv.org/abs/2409.04348)|null|
 |**2024-09-06**|**Geometrical Approach to Logical Qubit Fidelities of Neutral Atom CSS Codes**|J. J. Postema et.al.|[2409.04324](http://arxiv.org/abs/2409.04324)|null|
-|**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl et.al.|[2409.04300](http://arxiv.org/abs/2409.04300)|null|
+|**2024-09-06**|**Equivariant Machine Learning Decoder for 3D Toric Codes**|Oliver Weissl et.al.|[2409.04300](http://arxiv.org/abs/2409.04300)|**[link](https://github.com/oliverweissl/NeuralDecoderToric3D)**|
 |**2024-09-06**|**NSF-UKRI Bilateral Workshop: Quantum Information Science in Chemistry**|Gregory D Scholes et.al.|[2409.04264](http://arxiv.org/abs/2409.04264)|null|
 |**2024-09-05**|**A neural processing approach to quantum state discrimination**|Saeed A. Khan et.al.|[2409.03748](http://arxiv.org/abs/2409.03748)|null|
 |**2024-09-05**|**Halving the Cost of Quantum Algorithms with Randomization**|John M. Martyn et.al.|[2409.03744](http://arxiv.org/abs/2409.03744)|null|
@@ -3513,7 +3513,7 @@ layout: default
 |**2024-09-05**|**Predicting quantum channels over general product distributions**|Sitan Chen et.al.|[2409.03684](http://arxiv.org/abs/2409.03684)|null|
 |**2024-09-05**|**Quantum complexity and localization in random quantum circuits**|Himanshu Sahu et.al.|[2409.03656](http://arxiv.org/abs/2409.03656)|null|
 |**2024-09-05**|**Quantum Natural Gradient with Geodesic Corrections for Small Shallow Quantum Circuits**|Mourad Halla et.al.|[2409.03638](http://arxiv.org/abs/2409.03638)|null|
-|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|null|
+|**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$CDM. 4. Constraints on $f(R)$ models from the photometric primary probes**|Euclid Collaboration et.al.|[2409.03524](http://arxiv.org/abs/2409.03524)|**[link](https://github.com/HAWinther/FofrFittingFunction)**|
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 2. Results from non-standard simulations**|Euclid Collaboration et.al.|[2409.03523](http://arxiv.org/abs/2409.03523)|null|
 |**2024-09-05**|**Euclid preparation. Simulations and nonlinearities beyond $Λ$ CDM. 1. Numerical methods and validation**|Euclid Collaboration et.al.|[2409.03522](http://arxiv.org/abs/2409.03522)|null|
 |**2024-09-05**|**Generating arbitrary superpositions of nonclassical quantum harmonic oscillator states**|S. Saner et.al.|[2409.03482](http://arxiv.org/abs/2409.03482)|null|
