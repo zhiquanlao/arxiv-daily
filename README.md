@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo et.al.|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
+|**2024-09-25**|**Effective (Floquet) Lindblad generators from spectral unwinding**|Görkem D. Dinc et.al.|[2409.17072](http://arxiv.org/abs/2409.17072)|null|
+|**2024-09-25**|**Comparison of Atom Detection Algorithms for Neutral Atom Quantum Computing**|Jonas Winklmann et.al.|[2409.16856](http://arxiv.org/abs/2409.16856)|null|
+|**2024-09-25**|**Interface engineering of van der Waals heterostructures towards energy-efficient quantum devices operating at room temperature**|Manh-Ha Doan et.al.|[2409.16752](http://arxiv.org/abs/2409.16752)|null|
+|**2024-09-25**|**Fast unconditional reset and leakage reduction in fixed-frequency transmon qubits**|Liangyu Chen et.al.|[2409.16748](http://arxiv.org/abs/2409.16748)|null|
+|**2024-09-25**|**Heralded optical entanglement distribution via lossy quantum channels: A comparative study**|Wan Zo et.al.|[2409.16622](http://arxiv.org/abs/2409.16622)|null|
+|**2024-09-25**|**A Hybrid Quantum Neural Network for Split Learning**|Hevish Cowlessur et.al.|[2409.16593](http://arxiv.org/abs/2409.16593)|null|
+|**2024-09-25**|**Growth and Spectroscopy of Lanthanide Doped Y $_2$SiO$_5$ Microcrystals for Quantum Information Processing**|Jamin L. B. Martin et.al.|[2409.16580](http://arxiv.org/abs/2409.16580)|null|
+|**2024-09-24**|**Optical multi-beam steering and communication using integrated acousto-optics arrays**|Qixuan Lin et.al.|[2409.16511](http://arxiv.org/abs/2409.16511)|null|
+|**2024-09-24**|**Interaction Techniques for User-friendly Interfaces for Gate-based Quantum Computing**|Hyeok Kim et.al.|[2409.16475](http://arxiv.org/abs/2409.16475)|null|
 |**2024-09-18**|**Performance of Quantum Approximate Optimization with Quantum Error Detection**|Zichang He et.al.|[2409.12104](http://arxiv.org/abs/2409.12104)|null|
 |**2024-09-18**|**Towards practical secure delegated quantum computing with semi-classical light**|Boris Bourdoncle et.al.|[2409.12103](http://arxiv.org/abs/2409.12103)|null|
 |**2024-09-18**|**Krylov Expressivity in Quantum Reservoir Computing and Quantum Extreme Learning**|Saud Čindrak et.al.|[2409.12079](http://arxiv.org/abs/2409.12079)|null|
@@ -3566,6 +3576,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-25**|**Functional Integral Construction of Topological Quantum Field Theory**|Zhengwei Liu et.al.|[2409.17103](http://arxiv.org/abs/2409.17103)|null|
+|**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074](http://arxiv.org/abs/2409.17074)|null|
+|**2024-09-24**|**Topological order in spin nematics from the quantum melting of a disclination lattice**|Predrag Nikolić et.al.|[2409.16352](http://arxiv.org/abs/2409.16352)|null|
+|**2024-09-24**|**Gapped and gapless quantum spin liquids on the ruby lattice**|Atanu Maity et.al.|[2409.16344](http://arxiv.org/abs/2409.16344)|null|
+|**2024-09-24**|**1/2 Z Topological Invariants and the Half Quantized Hall Effect**|Bo Fu et.al.|[2409.15655](http://arxiv.org/abs/2409.15655)|null|
+|**2024-09-20**|**Kinematic analysis of $\mathbf{z = 4.3}$ galaxies in the SPT2349$-$ 56 protocluster core**|Aparna Venkateshwaran et.al.|[2409.13823](http://arxiv.org/abs/2409.13823)|null|
+|**2024-09-20**|**Constraints on $f(R)$ gravity from tSZE-selected SPT galaxy clusters and weak lensing mass calibration from DES and HST**|S. M. L. Vogt et.al.|[2409.13556](http://arxiv.org/abs/2409.13556)|null|
+|**2024-09-19**|**Decoherence and wavefunction deformation of $D_4$ non-Abelian topological order**|Pablo Sala et.al.|[2409.12948](http://arxiv.org/abs/2409.12948)|null|
+|**2024-09-19**|**Efficient computation of topological order**|Louis Fraatz et.al.|[2409.12704](http://arxiv.org/abs/2409.12704)|null|
+|**2024-09-18**|**Stability and Loop Models from Decohering Non-Abelian Topological Order**|Pablo Sala et.al.|[2409.12230](http://arxiv.org/abs/2409.12230)|null|
 |**2024-09-16**|**Bootstrapping the Quantum Hall problem**|Qiang Gao et.al.|[2409.10619](http://arxiv.org/abs/2409.10619)|null|
 |**2024-09-16**|**Duality-preserving deformation of 3+1d lattice $\mathbb Z_2$ gauge theory with exact gapped ground states**|Pranay Gorantla et.al.|[2409.10612](http://arxiv.org/abs/2409.10612)|null|
 |**2024-09-16**|**Prompt-and-Transfer: Dynamic Class-aware Enhancement for Few-shot Segmentation**|Hanbo Bi et.al.|[2409.10389](http://arxiv.org/abs/2409.10389)|null|
