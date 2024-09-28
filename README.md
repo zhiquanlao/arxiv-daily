@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -590,7 +590,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## SFM
 
@@ -839,7 +839,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1709,7 +1709,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1951,7 +1951,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2213,7 +2213,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## NeRF
 
@@ -3433,12 +3433,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## Quantum Info
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Ecosystem-Agnostic Standardization of Quantum Runtime Architecture: Accelerating Utility in Quantum Computing**|Markiian Tsymbalista et.al.|[2409.18039](http://arxiv.org/abs/2409.18039)|null|
+|**2024-09-26**|**Formal verification of higher dimensional quantum protocols**|Ittoop Vergheese Puthoor et.al.|[2409.17980](http://arxiv.org/abs/2409.17980)|null|
+|**2024-09-26**|**Optimal quantum (tensor product) expanders from unitary designs**|Cécilia Lancien et.al.|[2409.17971](http://arxiv.org/abs/2409.17971)|null|
+|**2024-09-26**|**Codesigned counterdiabatic quantum optimization on a photonic quantum processor**|Xiao-Wen Shang et.al.|[2409.17930](http://arxiv.org/abs/2409.17930)|null|
+|**2024-09-26**|**Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**|Krishnan Ganesh et.al.|[2409.17813](http://arxiv.org/abs/2409.17813)|null|
+|**2024-09-26**|**Information transmission under Markovian noise**|Satvik Singh et.al.|[2409.17743](http://arxiv.org/abs/2409.17743)|null|
+|**2024-09-26**|**QuForge: A Library for Qudits Simulation**|Tiago de Souza Farias et.al.|[2409.17716](http://arxiv.org/abs/2409.17716)|null|
+|**2024-09-26**|**Gate-controlled superconducting switch in GaSe/NbSe $_2$ van der Waals heterostructure**|Yifan Ding et.al.|[2409.17586](http://arxiv.org/abs/2409.17586)|null|
+|**2024-09-26**|**Let the Quantum Creep In: Designing Quantum Neural Network Models by Gradually Swapping Out Classical Components**|Peiyong Wang et.al.|[2409.17583](http://arxiv.org/abs/2409.17583)|**[link](https://github.com/peiyong-addwater/let-the-quantum-creep-in)**|
+|**2024-09-26**|**Zak Phase Induced Topological Nonreciprocity**|Xiao Liu et.al.|[2409.17559](http://arxiv.org/abs/2409.17559)|null|
 |**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo et.al.|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
 |**2024-09-25**|**Effective (Floquet) Lindblad generators from spectral unwinding**|Görkem D. Dinc et.al.|[2409.17072](http://arxiv.org/abs/2409.17072)|null|
 |**2024-09-25**|**Comparison of Atom Detection Algorithms for Neutral Atom Quantum Computing**|Jonas Winklmann et.al.|[2409.16856](http://arxiv.org/abs/2409.16856)|null|
@@ -3570,12 +3580,19 @@
 |**2024-08-29**|**AI-driven Reverse Engineering of QML Models**|Archisman Ghosh et.al.|[2408.16929](http://arxiv.org/abs/2408.16929)|null|
 |**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller et.al.|[2408.16914](http://arxiv.org/abs/2408.16914)|**[link](https://github.com/mc-zen/qsalto)**|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 ## TQFT, Topological Order, Generalized Symmetry
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
+|**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
+|**2024-09-26**|**Topological chiral superconductivity**|Minho Kim et.al.|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
+|**2024-09-26**|**Symmetry Enhancement, SPT Absorption, and Duality in QED $_3$**|Shai M. Chester et.al.|[2409.17913](http://arxiv.org/abs/2409.17913)|null|
+|**2024-09-26**|**On integral rigidity in Seiberg-Witten theory**|Francesco Lin et.al.|[2409.17884](http://arxiv.org/abs/2409.17884)|null|
+|**2024-09-26**|**Strong-to-weak spontaneous breaking of 1-form symmetry and intrinsically mixed topological order**|Carolyn Zhang et.al.|[2409.17530](http://arxiv.org/abs/2409.17530)|null|
+|**2024-09-25**|**Fermionic parton theory of Rydberg $\mathbb{Z}_2$ quantum spin liquids**|Atanu Maity et.al.|[2409.17219](http://arxiv.org/abs/2409.17219)|null|
 |**2024-09-25**|**Functional Integral Construction of Topological Quantum Field Theory**|Zhengwei Liu et.al.|[2409.17103](http://arxiv.org/abs/2409.17103)|null|
 |**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074](http://arxiv.org/abs/2409.17074)|null|
 |**2024-09-24**|**Topological order in spin nematics from the quantum melting of a disclination lattice**|Predrag Nikolić et.al.|[2409.16352](http://arxiv.org/abs/2409.16352)|null|
@@ -3614,7 +3631,7 @@
 |**2024-08-25**|**Towards All Categorical Symmetries in 2+1 Dimensions**|Mathew Bullimore et.al.|[2408.13931](http://arxiv.org/abs/2408.13931)|null|
 |**2024-08-30**|**Characterization of Randomness in Quantum Circuits of Continuous Gate Sets**|Yosuke Mitsuhashi et.al.|[2408.13475](http://arxiv.org/abs/2408.13475)|null|
 
-<p align=right>(<a href=#updated-on-20240927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240928>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

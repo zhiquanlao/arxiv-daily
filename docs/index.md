@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.27
+## Updated on 2024.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Ecosystem-Agnostic Standardization of Quantum Runtime Architecture: Accelerating Utility in Quantum Computing**|Markiian Tsymbalista et.al.|[2409.18039](http://arxiv.org/abs/2409.18039)|null|
+|**2024-09-26**|**Formal verification of higher dimensional quantum protocols**|Ittoop Vergheese Puthoor et.al.|[2409.17980](http://arxiv.org/abs/2409.17980)|null|
+|**2024-09-26**|**Optimal quantum (tensor product) expanders from unitary designs**|Cécilia Lancien et.al.|[2409.17971](http://arxiv.org/abs/2409.17971)|null|
+|**2024-09-26**|**Codesigned counterdiabatic quantum optimization on a photonic quantum processor**|Xiao-Wen Shang et.al.|[2409.17930](http://arxiv.org/abs/2409.17930)|null|
+|**2024-09-26**|**Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**|Krishnan Ganesh et.al.|[2409.17813](http://arxiv.org/abs/2409.17813)|null|
+|**2024-09-26**|**Information transmission under Markovian noise**|Satvik Singh et.al.|[2409.17743](http://arxiv.org/abs/2409.17743)|null|
+|**2024-09-26**|**QuForge: A Library for Qudits Simulation**|Tiago de Souza Farias et.al.|[2409.17716](http://arxiv.org/abs/2409.17716)|null|
+|**2024-09-26**|**Gate-controlled superconducting switch in GaSe/NbSe $_2$ van der Waals heterostructure**|Yifan Ding et.al.|[2409.17586](http://arxiv.org/abs/2409.17586)|null|
+|**2024-09-26**|**Let the Quantum Creep In: Designing Quantum Neural Network Models by Gradually Swapping Out Classical Components**|Peiyong Wang et.al.|[2409.17583](http://arxiv.org/abs/2409.17583)|**[link](https://github.com/peiyong-addwater/let-the-quantum-creep-in)**|
+|**2024-09-26**|**Zak Phase Induced Topological Nonreciprocity**|Xiao Liu et.al.|[2409.17559](http://arxiv.org/abs/2409.17559)|null|
 |**2024-09-25**|**Long-distance device-independent quantum key distribution using single-photon entanglement**|Anna Steffinlongo et.al.|[2409.17075](http://arxiv.org/abs/2409.17075)|null|
 |**2024-09-25**|**Effective (Floquet) Lindblad generators from spectral unwinding**|Görkem D. Dinc et.al.|[2409.17072](http://arxiv.org/abs/2409.17072)|null|
 |**2024-09-25**|**Comparison of Atom Detection Algorithms for Neutral Atom Quantum Computing**|Jonas Winklmann et.al.|[2409.16856](http://arxiv.org/abs/2409.16856)|null|
@@ -3552,6 +3562,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
+|**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
+|**2024-09-26**|**Topological chiral superconductivity**|Minho Kim et.al.|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
+|**2024-09-26**|**Symmetry Enhancement, SPT Absorption, and Duality in QED $_3$**|Shai M. Chester et.al.|[2409.17913](http://arxiv.org/abs/2409.17913)|null|
+|**2024-09-26**|**On integral rigidity in Seiberg-Witten theory**|Francesco Lin et.al.|[2409.17884](http://arxiv.org/abs/2409.17884)|null|
+|**2024-09-26**|**Strong-to-weak spontaneous breaking of 1-form symmetry and intrinsically mixed topological order**|Carolyn Zhang et.al.|[2409.17530](http://arxiv.org/abs/2409.17530)|null|
+|**2024-09-25**|**Fermionic parton theory of Rydberg $\mathbb{Z}_2$ quantum spin liquids**|Atanu Maity et.al.|[2409.17219](http://arxiv.org/abs/2409.17219)|null|
 |**2024-09-25**|**Functional Integral Construction of Topological Quantum Field Theory**|Zhengwei Liu et.al.|[2409.17103](http://arxiv.org/abs/2409.17103)|null|
 |**2024-09-25**|**Dynamical Dark Energy Beyond Planck? Constraints from multiple CMB probes, DESI BAO and Type-Ia Supernovae**|William Giarè et.al.|[2409.17074](http://arxiv.org/abs/2409.17074)|null|
 |**2024-09-24**|**Topological order in spin nematics from the quantum melting of a disclination lattice**|Predrag Nikolić et.al.|[2409.16352](http://arxiv.org/abs/2409.16352)|null|
