@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Fluctuation-Dissipation Theorem and Information Geometry in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2409.18944](http://arxiv.org/abs/2409.18944)|null|
+|**2024-09-27**|**Entanglement distribution in pure non-Gaussian tripartite states: a Schmidt decomposition approach**|Abdeldjalil Merdaci et.al.|[2409.18923](http://arxiv.org/abs/2409.18923)|null|
+|**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
+|**2024-09-27**|**Euclid preparation: 6x2 pt analysis of Euclid's spectroscopic and photometric data sets**|Euclid Collaboration et.al.|[2409.18882](http://arxiv.org/abs/2409.18882)|null|
+|**2024-09-27**|**Quantifying genuine tripartite entanglement by reshaping the state**|Dong-Dong Dong et.al.|[2409.18727](http://arxiv.org/abs/2409.18727)|null|
+|**2024-09-27**|**Fault-Tolerant Belief Propagation for Practical Quantum Memory**|Kao-Yueh Kuo et.al.|[2409.18689](http://arxiv.org/abs/2409.18689)|null|
+|**2024-09-27**|**Quantum Algorithms for Drone Mission Planning**|Ethan Davies et.al.|[2409.18631](http://arxiv.org/abs/2409.18631)|null|
+|**2024-09-27**|**A quantum algorithm for advection-diffusion equation by a probabilistic imaginary-time evolution operator**|Xinchi Huang et.al.|[2409.18559](http://arxiv.org/abs/2409.18559)|null|
+|**2024-09-27**|**Transformation of the discrete logarithm problem over $\mathbb F_{2^n}$ to the QUBO problem using normal bases**|Michał Wroński et.al.|[2409.18534](http://arxiv.org/abs/2409.18534)|null|
+|**2024-09-27**|**Bath Dynamical Decoupling with a Quantum Channel**|Alexander Hahn et.al.|[2409.18514](http://arxiv.org/abs/2409.18514)|null|
 |**2024-09-26**|**Ecosystem-Agnostic Standardization of Quantum Runtime Architecture: Accelerating Utility in Quantum Computing**|Markiian Tsymbalista et.al.|[2409.18039](http://arxiv.org/abs/2409.18039)|null|
 |**2024-09-26**|**Formal verification of higher dimensional quantum protocols**|Ittoop Vergheese Puthoor et.al.|[2409.17980](http://arxiv.org/abs/2409.17980)|null|
 |**2024-09-26**|**Optimal quantum (tensor product) expanders from unitary designs**|Cécilia Lancien et.al.|[2409.17971](http://arxiv.org/abs/2409.17971)|null|
@@ -3586,6 +3596,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue et.al.|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
 |**2024-09-26**|**Topological chiral superconductivity**|Minho Kim et.al.|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
