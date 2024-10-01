@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Creating Automated Quantum-Assisted Solutions for Optimization Problems**|Benedikt Poggel et.al.|[2409.20496](http://arxiv.org/abs/2409.20496)|null|
+|**2024-09-30**|**Satellite image classification with neural quantum kernels**|Pablo Rodriguez-Grasa et.al.|[2409.20356](http://arxiv.org/abs/2409.20356)|null|
+|**2024-09-30**|**Experimental Online Quantum Dots Charge Autotuning Using Neural Network**|Victor Yon et.al.|[2409.20320](http://arxiv.org/abs/2409.20320)|null|
+|**2024-09-30**|**Phase-Space methods for neutrino oscillations: extension to multi-beams**|Denis Lacroix et.al.|[2409.20215](http://arxiv.org/abs/2409.20215)|null|
+|**2024-09-30**|**Local equivalence of stabilizer states: a graphical characterisation**|Nathan Claudet et.al.|[2409.20183](http://arxiv.org/abs/2409.20183)|null|
+|**2024-09-30**|**Quantum Fast Implementation of Private Information Retrieval and Functional Bootstrapping**|Guangsheng Ma et.al.|[2409.20182](http://arxiv.org/abs/2409.20182)|null|
+|**2024-09-30**|**Learning Parameterized Quantum Circuits with Quantum Gradient**|Keren Li et.al.|[2409.20044](http://arxiv.org/abs/2409.20044)|null|
+|**2024-09-30**|**Building and aligning a 10-plane light converter**|Ohad Lib et.al.|[2409.20039](http://arxiv.org/abs/2409.20039)|null|
+|**2024-09-30**|**Universal quantum computing with a single arbitrary gate**|Zhong-Yi Ni et.al.|[2409.20025](http://arxiv.org/abs/2409.20025)|null|
+|**2024-09-30**|**Bug-locating Method based on Statistical Testing for Quantum Programs**|Naoto Sato et.al.|[2409.20011](http://arxiv.org/abs/2409.20011)|null|
 |**2024-09-27**|**Fluctuation-Dissipation Theorem and Information Geometry in Open Quantum Systems**|Jian-Hao Zhang et.al.|[2409.18944](http://arxiv.org/abs/2409.18944)|null|
 |**2024-09-27**|**Entanglement distribution in pure non-Gaussian tripartite states: a Schmidt decomposition approach**|Abdeldjalil Merdaci et.al.|[2409.18923](http://arxiv.org/abs/2409.18923)|null|
 |**2024-09-27**|**Subspace Preserving Quantum Convolutional Neural Network Architectures**|Léo Monbroussou et.al.|[2409.18918](http://arxiv.org/abs/2409.18918)|null|
@@ -3596,6 +3606,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Doping a fractional quantum anomalous Hall insulator**|Zhengyan Darius Shi et.al.|[2409.20567](http://arxiv.org/abs/2409.20567)|null|
+|**2024-09-30**|**Learning thermodynamics and topological order of the 2D XY model with generative real-valued restricted Boltzmann machines**|Kai Zhang et.al.|[2409.20377](http://arxiv.org/abs/2409.20377)|null|
 |**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue et.al.|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
