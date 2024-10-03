@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Conditional entropy and information of quantum processes**|Siddhartha Das et.al.|[2410.01740](http://arxiv.org/abs/2410.01740)|null|
+|**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703](http://arxiv.org/abs/2410.01703)|null|
+|**2024-10-02**|**MaxSAT decoders for arbitrary CSS codes**|Mohammadreza Noormandipour et.al.|[2410.01673](http://arxiv.org/abs/2410.01673)|null|
+|**2024-10-02**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki et.al.|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
+|**2024-10-02**|**Quantum Photonic Gates with Two-Dimensional Random Walkers**|S. Ali Hassani Gangaraj et.al.|[2410.01592](http://arxiv.org/abs/2410.01592)|null|
+|**2024-10-02**|**QESM: A Leap Towards Quantum-Enhanced ML Emulation Framework for Earth and Climate Modeling**|Adib Bazgir et.al.|[2410.01551](http://arxiv.org/abs/2410.01551)|null|
+|**2024-10-02**|**BEADS: A Canonical Visualization of Quantum States for Applications in Quantum Information Processing**|Dennis Huber et.al.|[2410.01446](http://arxiv.org/abs/2410.01446)|null|
+|**2024-10-02**|**QCRMut: Quantum Circuit Random Mutant generator tool**|Sinhué García Gil et.al.|[2410.01415](http://arxiv.org/abs/2410.01415)|null|
+|**2024-10-02**|**Supermaps between channels of any type**|Robert Allen et.al.|[2410.01389](http://arxiv.org/abs/2410.01389)|null|
+|**2024-10-02**|**Statistical Virtual Temperature of Classical and Quantum Systems**|Tariq Aziz et.al.|[2410.01286](http://arxiv.org/abs/2410.01286)|null|
 |**2024-09-30**|**Creating Automated Quantum-Assisted Solutions for Optimization Problems**|Benedikt Poggel et.al.|[2409.20496](http://arxiv.org/abs/2409.20496)|null|
 |**2024-09-30**|**Satellite image classification with neural quantum kernels**|Pablo Rodriguez-Grasa et.al.|[2409.20356](http://arxiv.org/abs/2409.20356)|null|
 |**2024-09-30**|**Experimental Online Quantum Dots Charge Autotuning Using Neural Network**|Victor Yon et.al.|[2409.20320](http://arxiv.org/abs/2409.20320)|null|
@@ -3606,6 +3616,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Topological ground state degeneracy of the two-channel Kondo lattice**|Aleksandar Ljepoja et.al.|[2410.01759](http://arxiv.org/abs/2410.01759)|null|
+|**2024-10-02**|**Resource-efficient equivariant quantum convolutional neural networks**|Koki Chinzei et.al.|[2410.01252](http://arxiv.org/abs/2410.01252)|null|
+|**2024-10-01**|**Topological orders with classical Lie group symmetries from coupling electron wires**|Pak Kau Lim et.al.|[2410.01094](http://arxiv.org/abs/2410.01094)|null|
 |**2024-09-30**|**Doping a fractional quantum anomalous Hall insulator**|Zhengyan Darius Shi et.al.|[2409.20567](http://arxiv.org/abs/2409.20567)|null|
 |**2024-09-30**|**Learning thermodynamics and topological order of the 2D XY model with generative real-valued restricted Boltzmann machines**|Kai Zhang et.al.|[2409.20377](http://arxiv.org/abs/2409.20377)|null|
 |**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue et.al.|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
