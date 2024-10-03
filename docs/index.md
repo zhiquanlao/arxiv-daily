@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.02
+## Updated on 2024.10.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3420,7 +3420,7 @@ layout: default
 |**2024-09-30**|**Creating Automated Quantum-Assisted Solutions for Optimization Problems**|Benedikt Poggel et.al.|[2409.20496](http://arxiv.org/abs/2409.20496)|null|
 |**2024-09-30**|**Satellite image classification with neural quantum kernels**|Pablo Rodriguez-Grasa et.al.|[2409.20356](http://arxiv.org/abs/2409.20356)|null|
 |**2024-09-30**|**Experimental Online Quantum Dots Charge Autotuning Using Neural Network**|Victor Yon et.al.|[2409.20320](http://arxiv.org/abs/2409.20320)|null|
-|**2024-09-30**|**Phase-Space methods for neutrino oscillations: extension to multi-beams**|Denis Lacroix et.al.|[2409.20215](http://arxiv.org/abs/2409.20215)|null|
+|**2024-10-02**|**Phase-Space methods for neutrino oscillations: extension to multi-beams**|Denis Lacroix et.al.|[2409.20215](http://arxiv.org/abs/2409.20215)|null|
 |**2024-09-30**|**Local equivalence of stabilizer states: a graphical characterisation**|Nathan Claudet et.al.|[2409.20183](http://arxiv.org/abs/2409.20183)|null|
 |**2024-09-30**|**Quantum Fast Implementation of Private Information Retrieval and Functional Bootstrapping**|Guangsheng Ma et.al.|[2409.20182](http://arxiv.org/abs/2409.20182)|null|
 |**2024-09-30**|**Learning Parameterized Quantum Circuits with Quantum Gradient**|Keren Li et.al.|[2409.20044](http://arxiv.org/abs/2409.20044)|null|
@@ -3587,7 +3587,7 @@ layout: default
 |**2024-09-26**|**Entanglement renormalization of fractonic anisotropic $\mathbb{Z}_N$ Laplacian models**|Yuan Xue et.al.|[2409.18206](http://arxiv.org/abs/2409.18206)|null|
 |**2024-09-26**|**Bridging 4D QFTs and 2D VOAs via 3D high-temperature EFTs**|Arash Arabi Ardehali et.al.|[2409.18130](http://arxiv.org/abs/2409.18130)|null|
 |**2024-09-26**|**(SPT-)LSM theorems from projective non-invertible symmetries**|Salvatore D. Pace et.al.|[2409.18113](http://arxiv.org/abs/2409.18113)|null|
-|**2024-09-26**|**Topological chiral superconductivity**|Minho Kim et.al.|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
+|**2024-10-02**|**Topological chiral superconductivity beyond paring in Fermi-liquid**|Minho Kim et.al.|[2409.18067](http://arxiv.org/abs/2409.18067)|null|
 |**2024-09-26**|**Symmetry Enhancement, SPT Absorption, and Duality in QED $_3$**|Shai M. Chester et.al.|[2409.17913](http://arxiv.org/abs/2409.17913)|null|
 |**2024-09-26**|**On integral rigidity in Seiberg-Witten theory**|Francesco Lin et.al.|[2409.17884](http://arxiv.org/abs/2409.17884)|null|
 |**2024-09-26**|**Strong-to-weak spontaneous breaking of 1-form symmetry and intrinsically mixed topological order**|Carolyn Zhang et.al.|[2409.17530](http://arxiv.org/abs/2409.17530)|null|
