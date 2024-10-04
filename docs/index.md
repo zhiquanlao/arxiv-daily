@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**A Photonic Parameter-shift Rule: Enabling Gradient Computation for Photonic Quantum Computers**|Axel Pappalardo et.al.|[2410.02726](http://arxiv.org/abs/2410.02726)|null|
+|**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer et.al.|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
+|**2024-10-03**|**Simultaneous photon and phonon lasing in a two-tone driven optomechanical system**|Vitalie Eremeev et.al.|[2410.02690](http://arxiv.org/abs/2410.02690)|null|
+|**2024-10-03**|**Variational Graphical Quantum Error Correction Codes: adjustable codes from topological insights**|Yuguo Shao et.al.|[2410.02608](http://arxiv.org/abs/2410.02608)|null|
+|**2024-10-03**|**Hidden anisotropy controls spin-photon entanglement in a charged quantum dot**|Yuriy Serov et.al.|[2410.02562](http://arxiv.org/abs/2410.02562)|null|
+|**2024-10-03**|**Motion-Insensitive Time-Optimal Control of Optical Qubits**|Léo Van Damme et.al.|[2410.02452](http://arxiv.org/abs/2410.02452)|null|
+|**2024-10-03**|**Quantum Machine Learning for Digital Health? A Systematic Review**|Riddhi S. Gupta et.al.|[2410.02446](http://arxiv.org/abs/2410.02446)|null|
+|**2024-10-03**|**Digital quantum simulation of cosmological particle creation with IBM quantum computers**|Marco Díaz Maceda et.al.|[2410.02412](http://arxiv.org/abs/2410.02412)|null|
+|**2024-10-03**|**Optimised Hybrid Classical-Quantum Algorithm for Accelerated Solution of Sparse Linear Systems**|Hakikat Singh et.al.|[2410.02408](http://arxiv.org/abs/2410.02408)|null|
+|**2024-10-03**|**Qudit-based quantum error-correcting codes from irreducible representations of SU(d)**|Robert Frederik Uy et.al.|[2410.02407](http://arxiv.org/abs/2410.02407)|null|
 |**2024-10-02**|**Conditional entropy and information of quantum processes**|Siddhartha Das et.al.|[2410.01740](http://arxiv.org/abs/2410.01740)|null|
 |**2024-10-02**|**Rabi oscillations at three-photon laser excitation of a single rubidium Rydberg atom in an optical dipole trap**|I. I. Beterov et.al.|[2410.01703](http://arxiv.org/abs/2410.01703)|null|
 |**2024-10-02**|**MaxSAT decoders for arbitrary CSS codes**|Mohammadreza Noormandipour et.al.|[2410.01673](http://arxiv.org/abs/2410.01673)|null|
@@ -3592,6 +3602,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer et.al.|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
+|**2024-10-03**|**Quantum Restored Symmetry Protected Topological Phases**|Dhruv Tiwari et.al.|[2410.02689](http://arxiv.org/abs/2410.02689)|null|
+|**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison et.al.|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
 |**2024-10-02**|**Topological ground state degeneracy of the two-channel Kondo lattice**|Aleksandar Ljepoja et.al.|[2410.01759](http://arxiv.org/abs/2410.01759)|null|
 |**2024-10-02**|**Resource-efficient equivariant quantum convolutional neural networks**|Koki Chinzei et.al.|[2410.01252](http://arxiv.org/abs/2410.01252)|null|
 |**2024-10-01**|**Topological orders with classical Lie group symmetries from coupling electron wires**|Pak Kau Lim et.al.|[2410.01094](http://arxiv.org/abs/2410.01094)|null|
