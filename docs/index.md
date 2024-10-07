@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Universal adapters between quantum LDPC codes**|Esha Swaroop et.al.|[2410.03628](http://arxiv.org/abs/2410.03628)|null|
+|**2024-10-04**|**Programmable time-frequency mode-sorting of single photons with a multi-output quantum pulse gate**|Laura Serino et.al.|[2410.03606](http://arxiv.org/abs/2410.03606)|null|
+|**2024-10-04**|**A deterministic and efficient source of frequency-polarization hyper-encoded photonic qubits**|N. Coste et.al.|[2410.03454](http://arxiv.org/abs/2410.03454)|null|
+|**2024-10-04**|**Entangling power of spin-j systems: a geometrical approach**|Eduardo Serrano-Ensástiga et.al.|[2410.03361](http://arxiv.org/abs/2410.03361)|null|
+|**2024-10-04**|**Efficient tomography of microwave photonic cluster states**|Yoshiki Sunada et.al.|[2410.03345](http://arxiv.org/abs/2410.03345)|null|
+|**2024-10-04**|**Deterministic generation of photonic entangled states using decoherence-free subspaces**|Oriol Rubies-Bigorda et.al.|[2410.03325](http://arxiv.org/abs/2410.03325)|null|
+|**2024-10-04**|**Quantum fractional revival governed by adjacency matrix Hamiltonian in unitary Cayley graphs**|Rachana Soni et.al.|[2410.03310](http://arxiv.org/abs/2410.03310)|null|
+|**2024-10-04**|**High-fidelity spin readout via the double latching mechanism**|Haruki Kiyama et.al.|[2410.03199](http://arxiv.org/abs/2410.03199)|null|
+|**2024-10-04**|**A variational quantum algorithm by Bayesian Inference with von Mises-Fisher distribution**|Trung Huynh et.al.|[2410.03130](http://arxiv.org/abs/2410.03130)|null|
+|**2024-10-04**|**Entanglement-induced provable and robust quantum learning advantages**|Haimeng Zhao et.al.|[2410.03094](http://arxiv.org/abs/2410.03094)|**[link](https://github.com/haimengzhao/qml-advantage)**|
 |**2024-10-03**|**A Photonic Parameter-shift Rule: Enabling Gradient Computation for Photonic Quantum Computers**|Axel Pappalardo et.al.|[2410.02726](http://arxiv.org/abs/2410.02726)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer et.al.|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
 |**2024-10-03**|**Simultaneous photon and phonon lasing in a two-tone driven optomechanical system**|Vitalie Eremeev et.al.|[2410.02690](http://arxiv.org/abs/2410.02690)|null|
