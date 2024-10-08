@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Double-Logarithmic Depth Block-Encodings of Simple Finite Difference Method's Matrices**|Sunheang Ty et.al.|[2410.05241](http://arxiv.org/abs/2410.05241)|null|
+|**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune et.al.|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
+|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
+|**2024-10-07**|**Quantum Error Propagation**|Eldar Sultanow et.al.|[2410.05145](http://arxiv.org/abs/2410.05145)|null|
+|**2024-10-07**|**Generalised Quantum Gates for Qudits and their Application in Quantum Fourier Transform**|Francesco Pudda et.al.|[2410.05122](http://arxiv.org/abs/2410.05122)|null|
+|**2024-10-07**|**AlphaRouter: Quantum Circuit Routing with Reinforcement Learning and Tree Search**|Wei Tang et.al.|[2410.05115](http://arxiv.org/abs/2410.05115)|null|
+|**2024-10-07**|**Maximizing the practical achievability of quantum annealing attacks on factorization-based cryptography**|Olgierd Żołnierczyk et.al.|[2410.04956](http://arxiv.org/abs/2410.04956)|null|
+|**2024-10-07**|**Quantum Walk Search on Complete Multipartite Graph with Multiple Marked Vertices**|Ningxiang Chen et.al.|[2410.04924](http://arxiv.org/abs/2410.04924)|null|
+|**2024-10-07**|**Gibbs state preparation for commuting Hamiltonian: Mapping to classical Gibbs sampling**|Yeongwoo Hwang et.al.|[2410.04909](http://arxiv.org/abs/2410.04909)|null|
+|**2024-10-07**|**Resolvent-based quantum phase estimation: Towards estimation of parametrized eigenvalues**|Abhijeet Alase et.al.|[2410.04837](http://arxiv.org/abs/2410.04837)|null|
 |**2024-10-04**|**Universal adapters between quantum LDPC codes**|Esha Swaroop et.al.|[2410.03628](http://arxiv.org/abs/2410.03628)|null|
 |**2024-10-04**|**Programmable time-frequency mode-sorting of single photons with a multi-output quantum pulse gate**|Laura Serino et.al.|[2410.03606](http://arxiv.org/abs/2410.03606)|null|
 |**2024-10-04**|**A deterministic and efficient source of frequency-polarization hyper-encoded photonic qubits**|N. Coste et.al.|[2410.03454](http://arxiv.org/abs/2410.03454)|null|
@@ -3636,6 +3646,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath et.al.|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
+|**2024-10-06**|**Information Scrambling with Higher-Form Fields**|Sourav Maji et.al.|[2410.04625](http://arxiv.org/abs/2410.04625)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer et.al.|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
 |**2024-10-03**|**Quantum Restored Symmetry Protected Topological Phases**|Dhruv Tiwari et.al.|[2410.02689](http://arxiv.org/abs/2410.02689)|null|
 |**2024-10-03**|**Competing automorphisms and disordered Floquet codes**|Cory T. Aitchison et.al.|[2410.02398](http://arxiv.org/abs/2410.02398)|null|
