@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3421,7 +3421,7 @@ layout: default
 |**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune et.al.|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
 |**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
 |**2024-10-07**|**Quantum Error Propagation**|Eldar Sultanow et.al.|[2410.05145](http://arxiv.org/abs/2410.05145)|null|
-|**2024-10-07**|**Generalised Quantum Gates for Qudits and their Application in Quantum Fourier Transform**|Francesco Pudda et.al.|[2410.05122](http://arxiv.org/abs/2410.05122)|null|
+|**2024-10-08**|**Generalised Quantum Gates for Qudits and their Application in Quantum Fourier Transform**|Francesco Pudda et.al.|[2410.05122](http://arxiv.org/abs/2410.05122)|null|
 |**2024-10-07**|**AlphaRouter: Quantum Circuit Routing with Reinforcement Learning and Tree Search**|Wei Tang et.al.|[2410.05115](http://arxiv.org/abs/2410.05115)|null|
 |**2024-10-07**|**Maximizing the practical achievability of quantum annealing attacks on factorization-based cryptography**|Olgierd Żołnierczyk et.al.|[2410.04956](http://arxiv.org/abs/2410.04956)|null|
 |**2024-10-07**|**Quantum Walk Search on Complete Multipartite Graph with Multiple Marked Vertices**|Ningxiang Chen et.al.|[2410.04924](http://arxiv.org/abs/2410.04924)|null|
