@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire et.al.|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
+|**2024-10-09**|**Towards a benchmark for quantum computers based on an iterated post-selective protocol**|Adrian Ortega et.al.|[2410.07056](http://arxiv.org/abs/2410.07056)|null|
+|**2024-10-09**|**On the role of coherence for quantum computational advantage**|Hugo Thomas et.al.|[2410.07024](http://arxiv.org/abs/2410.07024)|null|
+|**2024-10-09**|**Variational approach to photonic quantum circuits via the parameter shift rule**|Francesco Hoch et.al.|[2410.06966](http://arxiv.org/abs/2410.06966)|null|
+|**2024-10-09**|**Engineering the Nonlinearity of Bosonic Modes with a Multi-loop SQUID**|Ziyue Hua et.al.|[2410.06904](http://arxiv.org/abs/2410.06904)|null|
+|**2024-10-09**|**Near-Optimal-Time Quantum Algorithms for Approximate Pattern Matching**|Tomasz Kociumaka et.al.|[2410.06808](http://arxiv.org/abs/2410.06808)|null|
+|**2024-10-09**|**Crystallinity in Niobium oxides: A pathway to mitigate Two-Level System Defects in Niobium 3D Resonator for quantum applications**|Y. Kalboussi et.al.|[2410.06805](http://arxiv.org/abs/2410.06805)|null|
+|**2024-10-09**|**Tailoring fusion-based photonic quantum computing schemes to quantum emitters**|Ming Lai Chan et.al.|[2410.06784](http://arxiv.org/abs/2410.06784)|null|
+|**2024-10-09**|**A Quantum ISA for High-Level Programming, Enabling Sequential Execution and Conditional Branching**|Francesco Junior De Gregorio et.al.|[2410.06779](http://arxiv.org/abs/2410.06779)|null|
+|**2024-10-09**|**Magnetic field dependence of $V_B^-$ Defects in hexagonal boron nitride**|Mulin Zheng et.al.|[2410.06755](http://arxiv.org/abs/2410.06755)|null|
 |**2024-10-07**|**Double-Logarithmic Depth Block-Encodings of Simple Finite Difference Method's Matrices**|Sunheang Ty et.al.|[2410.05241](http://arxiv.org/abs/2410.05241)|null|
 |**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune et.al.|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
 |**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
@@ -3622,6 +3632,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-09**|**The global phase diagram of the cluster-XY spin chain with dissipation**|Wei-Lin Li et.al.|[2410.06894](http://arxiv.org/abs/2410.06894)|null|
+|**2024-10-08**|**Ordering-Based Causal Discovery for Linear and Nonlinear Relations**|Zhuopeng Xu et.al.|[2410.05890](http://arxiv.org/abs/2410.05890)|**[link](https://github.com/e2real/caps)**|
+|**2024-10-07**|**Error-Correcting Codes in TQFT on Multispheres**|Rafael Chaves et.al.|[2410.05404](http://arxiv.org/abs/2410.05404)|null|
+|**2024-10-07**|**Cosmological perturbation theory for large scale structure in phase space**|Caio Nascimento et.al.|[2410.05389](http://arxiv.org/abs/2410.05389)|null|
 |**2024-10-07**|**Anomalous continuous symmetries and quantum topology of Goldstone modes**|Naren Manjunath et.al.|[2410.05268](http://arxiv.org/abs/2410.05268)|null|
 |**2024-10-06**|**Information Scrambling with Higher-Form Fields**|Sourav Maji et.al.|[2410.04625](http://arxiv.org/abs/2410.04625)|null|
 |**2024-10-03**|**Duality between string and computational order in symmetry-enriched topological phases**|Paul Herringer et.al.|[2410.02716](http://arxiv.org/abs/2410.02716)|null|
