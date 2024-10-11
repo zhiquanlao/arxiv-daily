@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Holographic View of Mixed-State Symmetry-Protected Topological Phases in Open Quantum Systems**|Shijun Sun et.al.|[2410.08205](http://arxiv.org/abs/2410.08205)|null|
+|**2024-10-10**|**Optimal Strategies for Winning Certain Coset-Guessing Quantum Games**|Michael Schleppy et.al.|[2410.08160](http://arxiv.org/abs/2410.08160)|null|
+|**2024-10-10**|**Optimality of meta-converse for channel simulation**|Aadil Oufkir et.al.|[2410.08140](http://arxiv.org/abs/2410.08140)|null|
+|**2024-10-10**|**Efficient Quantum Pseudorandomness from Hamiltonian Phase States**|John Bostanci et.al.|[2410.08073](http://arxiv.org/abs/2410.08073)|null|
+|**2024-10-10**|**Super-Robust Nonadiabatic Holonomic Quantum Computation in coherence-protected Superconducting Circuits**|Yuan-Sheng Wang et.al.|[2410.08052](http://arxiv.org/abs/2410.08052)|null|
+|**2024-10-10**|**The Space Just Above One Clean Qubit**|Dale Jacobs et.al.|[2410.08051](http://arxiv.org/abs/2410.08051)|null|
+|**2024-10-10**|**Programmable Quantum Linear Interference with Pulse Shaping of Quantum Light**|Aruto Hosaka et.al.|[2410.08016](http://arxiv.org/abs/2410.08016)|null|
+|**2024-10-10**|**Study of Attacks on the HHL Quantum Algorithm**|Yizhuo Tan et.al.|[2410.08010](http://arxiv.org/abs/2410.08010)|null|
+|**2024-10-10**|**Characterizing Quantum Codes via the Coefficients in Knill-Laflamme Conditions**|Mengxin Du et.al.|[2410.07983](http://arxiv.org/abs/2410.07983)|null|
+|**2024-10-10**|**D-Wave's Nonlinear-Program Hybrid Solver: Description and Performance Analysis**|Eneko Osaba et.al.|[2410.07980](http://arxiv.org/abs/2410.07980)|null|
 |**2024-10-09**|**Enhanced Fault-tolerance in Photonic Quantum Computing: Floquet Code Outperforms Surface Code in Tailored Architecture**|Paul Hilaire et.al.|[2410.07065](http://arxiv.org/abs/2410.07065)|null|
 |**2024-10-09**|**Towards a benchmark for quantum computers based on an iterated post-selective protocol**|Adrian Ortega et.al.|[2410.07056](http://arxiv.org/abs/2410.07056)|null|
 |**2024-10-09**|**On the role of coherence for quantum computational advantage**|Hugo Thomas et.al.|[2410.07024](http://arxiv.org/abs/2410.07024)|null|
@@ -3656,6 +3666,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-09**|**Single-particle spectral function of fractional quantum anomalous Hall states**|Fabian Pichler et.al.|[2410.07319](http://arxiv.org/abs/2410.07319)|null|
+|**2024-10-09**|**Frozen Generalized Symmetries**|Mirjam Cvetič et.al.|[2410.07318](http://arxiv.org/abs/2410.07318)|null|
 |**2024-10-09**|**The global phase diagram of the cluster-XY spin chain with dissipation**|Wei-Lin Li et.al.|[2410.06894](http://arxiv.org/abs/2410.06894)|null|
 |**2024-10-08**|**Ordering-Based Causal Discovery for Linear and Nonlinear Relations**|Zhuopeng Xu et.al.|[2410.05890](http://arxiv.org/abs/2410.05890)|**[link](https://github.com/e2real/caps)**|
 |**2024-10-07**|**Error-Correcting Codes in TQFT on Multispheres**|Rafael Chaves et.al.|[2410.05404](http://arxiv.org/abs/2410.05404)|null|
