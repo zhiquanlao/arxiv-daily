@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**Horizon causality from holographic scattering in asymptotically dS $_3$**|Victor Franken et.al.|[2410.09050](http://arxiv.org/abs/2410.09050)|null|
+|**2024-10-11**|**Learning dynamic quantum circuits for efficient state preparation**|Faisal Alam et.al.|[2410.09030](http://arxiv.org/abs/2410.09030)|null|
+|**2024-10-11**|**The Condensed Fiber Product and Zesting**|Colleen Delaney et.al.|[2410.09025](http://arxiv.org/abs/2410.09025)|null|
+|**2024-10-11**|**Observation of ergodicity breaking and quantum many-body scars in spinor gases**|J. O. Austin-Harris et.al.|[2410.09015](http://arxiv.org/abs/2410.09015)|null|
+|**2024-10-11**|**Hardness-Dependent Optimized Quantum Adiabatic Schedules for Maximum Independent Sets**|Sébastien Perseguers et.al.|[2410.08995](http://arxiv.org/abs/2410.08995)|null|
+|**2024-10-11**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
+|**2024-10-11**|**Distributed Quantum Hypothesis Testing under Zero-rate Communication Constraints**|Sreejith Sreekumar et.al.|[2410.08937](http://arxiv.org/abs/2410.08937)|null|
+|**2024-10-11**|**Can the electron density be interpreted information-theoretically? A critical analysis using quantum information theory**|Guillaume Acke et.al.|[2410.08929](http://arxiv.org/abs/2410.08929)|null|
+|**2024-10-11**|**Cryogenic Feedforward of a Photonic Quantum State**|Frederik Thiele et.al.|[2410.08908](http://arxiv.org/abs/2410.08908)|null|
+|**2024-10-11**|**Quantum cellular automata and categorical duality of spin chains**|Corey Jones et.al.|[2410.08884](http://arxiv.org/abs/2410.08884)|null|
 |**2024-10-10**|**Holographic View of Mixed-State Symmetry-Protected Topological Phases in Open Quantum Systems**|Shijun Sun et.al.|[2410.08205](http://arxiv.org/abs/2410.08205)|null|
 |**2024-10-10**|**Optimal Strategies for Winning Certain Coset-Guessing Quantum Games**|Michael Schleppy et.al.|[2410.08160](http://arxiv.org/abs/2410.08160)|null|
 |**2024-10-10**|**Optimality of meta-converse for channel simulation**|Aadil Oufkir et.al.|[2410.08140](http://arxiv.org/abs/2410.08140)|null|
@@ -3642,6 +3652,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-10**|**Multi wavefunction overlap and multi entropy for topological ground states in (2+1) dimensions**|Bowei Liu et.al.|[2410.08284](http://arxiv.org/abs/2410.08284)|null|
+|**2024-10-10**|**Towards absolutely stable ergodicity breaking in two and three dimensions**|Charles Stahl et.al.|[2410.08264](http://arxiv.org/abs/2410.08264)|null|
 |**2024-10-09**|**Single-particle spectral function of fractional quantum anomalous Hall states**|Fabian Pichler et.al.|[2410.07319](http://arxiv.org/abs/2410.07319)|null|
 |**2024-10-09**|**Frozen Generalized Symmetries**|Mirjam Cvetič et.al.|[2410.07318](http://arxiv.org/abs/2410.07318)|null|
 |**2024-10-09**|**The global phase diagram of the cluster-XY spin chain with dissipation**|Wei-Lin Li et.al.|[2410.06894](http://arxiv.org/abs/2410.06894)|null|
