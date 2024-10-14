@@ -849,7 +849,7 @@
 |**2024-08-30**|**RISSOLE: Parameter-efficient Diffusion Models via Block-wise Generation and Retrieval-Guidance**|Avideep Mukherjee et.al.|[2408.17095](http://arxiv.org/abs/2408.17095)|null|
 |**2024-08-29**|**A compact neuromorphic system for ultra energy-efficient, on-device robot localization**|Adam D. Hines et.al.|[2408.16754](http://arxiv.org/abs/2408.16754)|**[link](https://github.com/AdamDHines/LENS)**|
 |**2024-08-29**|**Rethinking Sparse Lexical Representations for Image Retrieval in the Age of Rising Multi-Modal Large Language Models**|Kengo Nakata et.al.|[2408.16296](http://arxiv.org/abs/2408.16296)|null|
-|**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|null|
+|**2024-08-28**|**Temporal Attention for Cross-View Sequential Image Localization**|Dong Yuan et.al.|[2408.15569](http://arxiv.org/abs/2408.15569)|**[link](https://github.com/UQ-DongYuan/CVSeqLocation)**|
 |**2024-08-27**|**Snap and Diagnose: An Advanced Multimodal Retrieval System for Identifying Plant Diseases in the Wild**|Tianqi Wei et.al.|[2408.14723](http://arxiv.org/abs/2408.14723)|null|
 |**2024-08-25**|**LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task**|Ali Asgarov et.al.|[2408.13909](http://arxiv.org/abs/2408.13909)|**[link](https://github.com/aliasgerovs/azclip)**|
 |**2024-08-15**|**Cross-Modal Denoising: A Novel Training Paradigm for Enhancing Speech-Image Retrieval**|Lifeng Zhou et.al.|[2408.13705](http://arxiv.org/abs/2408.13705)|null|
@@ -3461,7 +3461,7 @@
 |**2024-10-09**|**Magnetic field dependence of $V_B^-$ Defects in hexagonal boron nitride**|Mulin Zheng et.al.|[2410.06755](http://arxiv.org/abs/2410.06755)|null|
 |**2024-10-07**|**Double-Logarithmic Depth Block-Encodings of Simple Finite Difference Method's Matrices**|Sunheang Ty et.al.|[2410.05241](http://arxiv.org/abs/2410.05241)|null|
 |**2024-10-07**|**Demonstrating real-time and low-latency quantum error correction with superconducting qubits**|Laura Caune et.al.|[2410.05202](http://arxiv.org/abs/2410.05202)|null|
-|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171](http://arxiv.org/abs/2410.05171)|null|
+|**2024-10-07**|**Single-shot preparation of hypergraph product codes via dimension jump**|Yifan Hong et.al.|[2410.05171](http://arxiv.org/abs/2410.05171)|**[link](https://github.com/yifanhong/single-shot-hgp-prep)**|
 |**2024-10-07**|**Quantum Error Propagation**|Eldar Sultanow et.al.|[2410.05145](http://arxiv.org/abs/2410.05145)|null|
 |**2024-10-08**|**Generalised Quantum Gates for Qudits and their Application in Quantum Fourier Transform**|Francesco Pudda et.al.|[2410.05122](http://arxiv.org/abs/2410.05122)|null|
 |**2024-10-07**|**AlphaRouter: Quantum Circuit Routing with Reinforcement Learning and Tree Search**|Wei Tang et.al.|[2410.05115](http://arxiv.org/abs/2410.05115)|null|
@@ -3495,7 +3495,7 @@
 |**2024-10-02**|**Bounding conditional entropy of bipartite states with Bell operators**|Jan Horodecki et.al.|[2410.01646](http://arxiv.org/abs/2410.01646)|null|
 |**2024-10-02**|**Quantum Photonic Gates with Two-Dimensional Random Walkers**|S. Ali Hassani Gangaraj et.al.|[2410.01592](http://arxiv.org/abs/2410.01592)|null|
 |**2024-10-02**|**QESM: A Leap Towards Quantum-Enhanced ML Emulation Framework for Earth and Climate Modeling**|Adib Bazgir et.al.|[2410.01551](http://arxiv.org/abs/2410.01551)|null|
-|**2024-10-02**|**BEADS: A Canonical Visualization of Quantum States for Applications in Quantum Information Processing**|Dennis Huber et.al.|[2410.01446](http://arxiv.org/abs/2410.01446)|null|
+|**2024-10-02**|**BEADS: A Canonical Visualization of Quantum States for Applications in Quantum Information Processing**|Dennis Huber et.al.|[2410.01446](http://arxiv.org/abs/2410.01446)|**[link](https://github.com/denhub97/qubeads)**|
 |**2024-10-02**|**QCRMut: Quantum Circuit Random Mutant generator tool**|Sinhué García Gil et.al.|[2410.01415](http://arxiv.org/abs/2410.01415)|null|
 |**2024-10-02**|**Supermaps between channels of any type**|Robert Allen et.al.|[2410.01389](http://arxiv.org/abs/2410.01389)|null|
 |**2024-10-02**|**Statistical Virtual Temperature of Classical and Quantum Systems**|Tariq Aziz et.al.|[2410.01286](http://arxiv.org/abs/2410.01286)|null|
@@ -3525,7 +3525,7 @@
 |**2024-09-26**|**Codesigned counterdiabatic quantum optimization on a photonic quantum processor**|Xiao-Wen Shang et.al.|[2409.17930](http://arxiv.org/abs/2409.17930)|null|
 |**2024-09-26**|**Spin-Dependent Signatures of Majorana Vortex Fusion within Planar Josephson Junctions**|Krishnan Ganesh et.al.|[2409.17813](http://arxiv.org/abs/2409.17813)|null|
 |**2024-09-26**|**Information transmission under Markovian noise**|Satvik Singh et.al.|[2409.17743](http://arxiv.org/abs/2409.17743)|null|
-|**2024-09-26**|**QuForge: A Library for Qudits Simulation**|Tiago de Souza Farias et.al.|[2409.17716](http://arxiv.org/abs/2409.17716)|null|
+|**2024-09-26**|**QuForge: A Library for Qudits Simulation**|Tiago de Souza Farias et.al.|[2409.17716](http://arxiv.org/abs/2409.17716)|**[link](https://github.com/tiago939/QuForge)**|
 |**2024-09-26**|**Gate-controlled superconducting switch in GaSe/NbSe $_2$ van der Waals heterostructure**|Yifan Ding et.al.|[2409.17586](http://arxiv.org/abs/2409.17586)|null|
 |**2024-09-26**|**Let the Quantum Creep In: Designing Quantum Neural Network Models by Gradually Swapping Out Classical Components**|Peiyong Wang et.al.|[2409.17583](http://arxiv.org/abs/2409.17583)|**[link](https://github.com/peiyong-addwater/let-the-quantum-creep-in)**|
 |**2024-09-26**|**Zak Phase Induced Topological Nonreciprocity**|Xiao Liu et.al.|[2409.17559](http://arxiv.org/abs/2409.17559)|null|
@@ -3556,7 +3556,7 @@
 |**2024-09-17**|**A quantum protocol for applying arbitrary phase transformations**|Siavash Davani et.al.|[2409.11020](http://arxiv.org/abs/2409.11020)|null|
 |**2024-09-17**|**Early Detection of Coronary Heart Disease Using Hybrid Quantum Machine Learning Approach**|Mehroush Banday et.al.|[2409.10932](http://arxiv.org/abs/2409.10932)|null|
 |**2024-09-17**|**Evaluating Modifications to Classifiers for Identification of Higgs Bosons**|Rishivarshil Nelakurti et.al.|[2409.10902](http://arxiv.org/abs/2409.10902)|null|
-|**2024-09-17**|**Solving the Hele-Shaw flow using the Harrow-Hassidim-Lloyd algorithm on superconducting devices: A study of efficiency and challenges**|Muralikrishnan Gopalakrishnan Meena et.al.|[2409.10857](http://arxiv.org/abs/2409.10857)|null|
+|**2024-09-17**|**Solving the Hele-Shaw flow using the Harrow-Hassidim-Lloyd algorithm on superconducting devices: A study of efficiency and challenges**|Muralikrishnan Gopalakrishnan Meena et.al.|[2409.10857](http://arxiv.org/abs/2409.10857)|**[link](https://github.com/muralikrishnangm/qlsa-hele-shaw)**|
 |**2024-09-17**|**Fast and Post-Quantum Authentication for Real-time Next Generation Networks with Bloom Filter**|Kiarash Sedghighadikolaei et.al.|[2409.10813](http://arxiv.org/abs/2409.10813)|null|
 |**2024-09-17**|**Hardware-Efficient Preparation of Graph States on Near-Term Quantum Computers**|Sebastian Brandhofer et.al.|[2409.10807](http://arxiv.org/abs/2409.10807)|null|
 |**2024-09-16**|**The role of higher-order terms in trapped-ion quantum computing with magnetic gradient induced coupling**|Sebastian Nagies et.al.|[2409.10498](http://arxiv.org/abs/2409.10498)|null|
