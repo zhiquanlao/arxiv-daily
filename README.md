@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**Robustness of near-thermal dynamics on digital quantum computers**|Eli Chertkov et.al.|[2410.10794](http://arxiv.org/abs/2410.10794)|null|
+|**2024-10-14**|**Error-Detected Quantum Operations with Neutral Atoms Mediated by an Optical Cavity**|Brandon Grinkemeyer et.al.|[2410.10787](http://arxiv.org/abs/2410.10787)|null|
+|**2024-10-14**|**Exponents for classical-quantum channel simulation in purified distance**|Aadil Oufkir et.al.|[2410.10770](http://arxiv.org/abs/2410.10770)|null|
+|**2024-10-14**|**Probing topological phases in a perturbed Kane-Mele model via RKKY interaction: Application to monolayer jacutingaite Pt $_2$HgSe$_3$**|Mohsen Yarmohammadi et.al.|[2410.10764](http://arxiv.org/abs/2410.10764)|null|
+|**2024-10-14**|**Efficient Simulation of Open Quantum Systems on NISQ Devices**|Colin Burdine et.al.|[2410.10732](http://arxiv.org/abs/2410.10732)|null|
+|**2024-10-14**|**High-dimensional counterdiabatic quantum computing**|Diego Tancara et.al.|[2410.10622](http://arxiv.org/abs/2410.10622)|null|
+|**2024-10-14**|**Five-fold precision enhancement in a cold atom experiment via adaptive symmetry-informed Bayesian strategies**|Matt Overton et.al.|[2410.10615](http://arxiv.org/abs/2410.10615)|null|
+|**2024-10-14**|**Quantum Internet: Resource Estimation for Entanglement Routing**|Manik Dawar et.al.|[2410.10512](http://arxiv.org/abs/2410.10512)|null|
+|**2024-10-14**|**Commuting Local Hamiltonians Beyond 2D**|John Bostanci et.al.|[2410.10495](http://arxiv.org/abs/2410.10495)|null|
+|**2024-10-14**|**Perturbative Framework for Engineering Arbitrary Floquet Hamiltonian**|Yingdan Xu et.al.|[2410.10467](http://arxiv.org/abs/2410.10467)|null|
 |**2024-10-11**|**Horizon causality from holographic scattering in asymptotically dS $_3$**|Victor Franken et.al.|[2410.09050](http://arxiv.org/abs/2410.09050)|null|
 |**2024-10-11**|**Learning dynamic quantum circuits for efficient state preparation**|Faisal Alam et.al.|[2410.09030](http://arxiv.org/abs/2410.09030)|null|
 |**2024-10-11**|**The Condensed Fiber Product and Zesting**|Colleen Delaney et.al.|[2410.09025](http://arxiv.org/abs/2410.09025)|null|
@@ -3676,6 +3686,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-14**|**The Andersen-Kashaev volume conjecture for FAMED geometric triangulations**|Fathi Ben Aribi et.al.|[2410.10776](http://arxiv.org/abs/2410.10776)|null|
+|**2024-10-13**|**Weak topological phases in the presence of interactions**|Omar Antolín Camarena et.al.|[2410.10031](http://arxiv.org/abs/2410.10031)|null|
+|**2024-10-12**|**Impurities and polarons in bosonic quantum gases: a review on recent progress**|F. Grusdt et.al.|[2410.09413](http://arxiv.org/abs/2410.09413)|null|
 |**2024-10-10**|**Multi wavefunction overlap and multi entropy for topological ground states in (2+1) dimensions**|Bowei Liu et.al.|[2410.08284](http://arxiv.org/abs/2410.08284)|null|
 |**2024-10-10**|**Towards absolutely stable ergodicity breaking in two and three dimensions**|Charles Stahl et.al.|[2410.08264](http://arxiv.org/abs/2410.08264)|null|
 |**2024-10-09**|**Single-particle spectral function of fractional quantum anomalous Hall states**|Fabian Pichler et.al.|[2410.07319](http://arxiv.org/abs/2410.07319)|null|
