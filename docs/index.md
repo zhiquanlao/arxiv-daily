@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.15
+## Updated on 2024.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3425,7 +3425,7 @@ layout: default
 |**2024-10-14**|**High-dimensional counterdiabatic quantum computing**|Diego Tancara et.al.|[2410.10622](http://arxiv.org/abs/2410.10622)|null|
 |**2024-10-14**|**Five-fold precision enhancement in a cold atom experiment via adaptive symmetry-informed Bayesian strategies**|Matt Overton et.al.|[2410.10615](http://arxiv.org/abs/2410.10615)|null|
 |**2024-10-14**|**Quantum Internet: Resource Estimation for Entanglement Routing**|Manik Dawar et.al.|[2410.10512](http://arxiv.org/abs/2410.10512)|null|
-|**2024-10-14**|**Commuting Local Hamiltonians Beyond 2D**|John Bostanci et.al.|[2410.10495](http://arxiv.org/abs/2410.10495)|null|
+|**2024-10-15**|**Commuting Local Hamiltonians Beyond 2D**|John Bostanci et.al.|[2410.10495](http://arxiv.org/abs/2410.10495)|null|
 |**2024-10-14**|**Perturbative Framework for Engineering Arbitrary Floquet Hamiltonian**|Yingdan Xu et.al.|[2410.10467](http://arxiv.org/abs/2410.10467)|null|
 |**2024-10-11**|**Horizon causality from holographic scattering in asymptotically dS $_3$**|Victor Franken et.al.|[2410.09050](http://arxiv.org/abs/2410.09050)|null|
 |**2024-10-11**|**Learning dynamic quantum circuits for efficient state preparation**|Faisal Alam et.al.|[2410.09030](http://arxiv.org/abs/2410.09030)|null|
