@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Permutation gates in the third level of the Clifford hierarchy**|Zhiyang He et.al.|[2410.11818](http://arxiv.org/abs/2410.11818)|null|
+|**2024-10-15**|**The Hong-Ou-Mandel effect is really odd**|Paul M. Alsing et.al.|[2410.11800](http://arxiv.org/abs/2410.11800)|null|
+|**2024-10-15**|**On the learning abilities of photonic continuous-variable Born machines**|Zoltán Kolarovszki et.al.|[2410.11785](http://arxiv.org/abs/2410.11785)|null|
+|**2024-10-15**|**Polarization-encoded photonic quantum-to-quantum Bernoulli factory based on a quantum dot source**|Giovanni Rodari et.al.|[2410.11685](http://arxiv.org/abs/2410.11685)|null|
+|**2024-10-15**|**Implementing Quantum Secret Sharing on Current Hardware**|Jay Graves et.al.|[2410.11640](http://arxiv.org/abs/2410.11640)|null|
+|**2024-10-15**|**Grover Adaptive Search with Spin Variables**|Shintaro Fujiwara et.al.|[2410.11633](http://arxiv.org/abs/2410.11633)|null|
+|**2024-10-15**|**Generating entanglement of two acoustic modes by driving the qubit in circuit quantum acoustodynamics system**|Mei-Rong Wei et.al.|[2410.11630](http://arxiv.org/abs/2410.11630)|null|
+|**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer et.al.|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
+|**2024-10-15**|**Exploring lattice supersymmetry with variational quantum deflation**|David Schaich et.al.|[2410.11514](http://arxiv.org/abs/2410.11514)|null|
+|**2024-10-15**|**Stochastic resetting in discrete-time quantum dynamics: steady states and correlations in few-qubit systems**|Sascha Wald et.al.|[2410.11497](http://arxiv.org/abs/2410.11497)|null|
 |**2024-10-14**|**Robustness of near-thermal dynamics on digital quantum computers**|Eli Chertkov et.al.|[2410.10794](http://arxiv.org/abs/2410.10794)|null|
 |**2024-10-14**|**Error-Detected Quantum Operations with Neutral Atoms Mediated by an Optical Cavity**|Brandon Grinkemeyer et.al.|[2410.10787](http://arxiv.org/abs/2410.10787)|null|
 |**2024-10-14**|**Exponents for classical-quantum channel simulation in purified distance**|Aadil Oufkir et.al.|[2410.10770](http://arxiv.org/abs/2410.10770)|null|
@@ -3662,6 +3672,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer et.al.|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
+|**2024-10-15**|**Threefold Way for Typical Entanglement**|Haruki Yagi et.al.|[2410.11309](http://arxiv.org/abs/2410.11309)|null|
+|**2024-10-14**|**Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling**|João Augusto Sobral et.al.|[2410.10949](http://arxiv.org/abs/2410.10949)|null|
 |**2024-10-14**|**The Andersen-Kashaev volume conjecture for FAMED geometric triangulations**|Fathi Ben Aribi et.al.|[2410.10776](http://arxiv.org/abs/2410.10776)|null|
 |**2024-10-13**|**Weak topological phases in the presence of interactions**|Omar Antolín Camarena et.al.|[2410.10031](http://arxiv.org/abs/2410.10031)|null|
 |**2024-10-12**|**Impurities and polarons in bosonic quantum gases: a review on recent progress**|F. Grusdt et.al.|[2410.09413](http://arxiv.org/abs/2410.09413)|null|
