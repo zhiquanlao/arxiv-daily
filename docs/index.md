@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware**|Elena Chachkarova et.al.|[2410.12733](http://arxiv.org/abs/2410.12733)|null|
+|**2024-10-16**|**Phase vs coin vs position disorder as a probe for the resilience and revival of single particle entanglement in cyclic quantum walks**|Dinesh Kumar Panda et.al.|[2410.12710](http://arxiv.org/abs/2410.12710)|null|
+|**2024-10-16**|**The state hidden subgroup problem and an efficient algorithm for locating unentanglement**|Adam Bouland et.al.|[2410.12706](http://arxiv.org/abs/2410.12706)|null|
+|**2024-10-16**|**QPUF 2.0: Exploring Quantum Physical Unclonable Functions for Security-by-Design of Energy Cyber-Physical Systems**|Venkata K. V. V. Bathalapalli et.al.|[2410.12702](http://arxiv.org/abs/2410.12702)|null|
+|**2024-10-16**|**Simulation of Quantum Computers: Review and Acceleration Opportunities**|Alessio Cicero et.al.|[2410.12660](http://arxiv.org/abs/2410.12660)|null|
+|**2024-10-16**|**Quantum subspace verification for error correction codes**|Junjie Chen et.al.|[2410.12551](http://arxiv.org/abs/2410.12551)|null|
+|**2024-10-16**|**Dynamical weight reduction of Pauli measurements**|Julio C. Magdalena de la Fuente et.al.|[2410.12527](http://arxiv.org/abs/2410.12527)|null|
+|**2024-10-16**|**Proposal of quantum repeater architecture based on Rydberg atom quantum processors**|Yan-Lei Zhang et.al.|[2410.12523](http://arxiv.org/abs/2410.12523)|null|
+|**2024-10-16**|**Many-body quantum resources of graph states**|Marcin Płodzień et.al.|[2410.12487](http://arxiv.org/abs/2410.12487)|null|
+|**2024-10-16**|**Continuous-Variable Fault-Tolerant Quantum Computation under General Noise**|Takaya Matsuura et.al.|[2410.12365](http://arxiv.org/abs/2410.12365)|null|
 |**2024-10-15**|**Permutation gates in the third level of the Clifford hierarchy**|Zhiyang He et.al.|[2410.11818](http://arxiv.org/abs/2410.11818)|null|
 |**2024-10-15**|**The Hong-Ou-Mandel effect is really odd**|Paul M. Alsing et.al.|[2410.11800](http://arxiv.org/abs/2410.11800)|null|
 |**2024-10-15**|**On the learning abilities of photonic continuous-variable Born machines**|Zoltán Kolarovszki et.al.|[2410.11785](http://arxiv.org/abs/2410.11785)|null|
@@ -3672,6 +3682,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-15**|**Operator algebra and algorithmic construction of boundaries and defects in (2+1)D topological Pauli stabilizer codes**|Zijian Liang et.al.|[2410.11942](http://arxiv.org/abs/2410.11942)|null|
 |**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer et.al.|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
 |**2024-10-15**|**Threefold Way for Typical Entanglement**|Haruki Yagi et.al.|[2410.11309](http://arxiv.org/abs/2410.11309)|null|
 |**2024-10-14**|**Fractionalized Altermagnets: from neighboring and altermagnetic spin-liquids to fractionalized spin-orbit coupling**|João Augusto Sobral et.al.|[2410.10949](http://arxiv.org/abs/2410.10949)|null|
