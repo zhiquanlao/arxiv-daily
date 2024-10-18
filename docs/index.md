@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Solving eigenvalue problems obtained by the finite element method on a quantum annealer using only a few qubits**|Arnaud Rémi et.al.|[2410.13740](http://arxiv.org/abs/2410.13740)|null|
+|**2024-10-17**|**Co-designing Transmon devices for control with simple pulses**|Nicolas Wittler et.al.|[2410.13619](http://arxiv.org/abs/2410.13619)|null|
+|**2024-10-17**|**Third moments of qudit Clifford orbits and 3-designs based on magic orbits**|Huangjun Zhu et.al.|[2410.13575](http://arxiv.org/abs/2410.13575)|null|
+|**2024-10-17**|**Measurement-free, scalable and fault-tolerant universal quantum computing**|Friederike Butt et.al.|[2410.13568](http://arxiv.org/abs/2410.13568)|null|
+|**2024-10-17**|**On estimating the trace of quantum state powers**|Yupan Liu et.al.|[2410.13559](http://arxiv.org/abs/2410.13559)|null|
+|**2024-10-17**|**Topological quantum computing**|Fabian Hassler et.al.|[2410.13547](http://arxiv.org/abs/2410.13547)|null|
+|**2024-10-17**|**Microsphere-assisted generation of localized optical emitters in 2D hexagonal boron nitride**|Xiliang Yang et.al.|[2410.13505](http://arxiv.org/abs/2410.13505)|null|
+|**2024-10-17**|**Super-activating quantum memory by entanglement-breaking channels**|Gelo Noel M. Tabia et.al.|[2410.13499](http://arxiv.org/abs/2410.13499)|null|
+|**2024-10-17**|**Architecting a reliable quantum operating system: microkernel, message passing and supercomputing**|Alexandru Paler et.al.|[2410.13482](http://arxiv.org/abs/2410.13482)|null|
+|**2024-10-17**|**QuL: Programming Library for Computational Cooling of Qubits**|Giuliano Difranco et.al.|[2410.13380](http://arxiv.org/abs/2410.13380)|null|
 |**2024-10-16**|**Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware**|Elena Chachkarova et.al.|[2410.12733](http://arxiv.org/abs/2410.12733)|null|
 |**2024-10-16**|**Phase vs coin vs position disorder as a probe for the resilience and revival of single particle entanglement in cyclic quantum walks**|Dinesh Kumar Panda et.al.|[2410.12710](http://arxiv.org/abs/2410.12710)|null|
 |**2024-10-16**|**The state hidden subgroup problem and an efficient algorithm for locating unentanglement**|Adam Bouland et.al.|[2410.12706](http://arxiv.org/abs/2410.12706)|null|
@@ -3682,6 +3692,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja et.al.|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
+|**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo et.al.|[2410.13734](http://arxiv.org/abs/2410.13734)|null|
+|**2024-10-16**|**Instability of steady-state mixed-state symmetry-protected topological order to strong-to-weak spontaneous symmetry breaking**|Jeet Shah et.al.|[2410.12900](http://arxiv.org/abs/2410.12900)|null|
 |**2024-10-15**|**Operator algebra and algorithmic construction of boundaries and defects in (2+1)D topological Pauli stabilizer codes**|Zijian Liang et.al.|[2410.11942](http://arxiv.org/abs/2410.11942)|null|
 |**2024-10-15**|**Preparing topological states with finite depth simultaneous commuting gates**|Yarden Sheffer et.al.|[2410.11602](http://arxiv.org/abs/2410.11602)|null|
 |**2024-10-15**|**Threefold Way for Typical Entanglement**|Haruki Yagi et.al.|[2410.11309](http://arxiv.org/abs/2410.11309)|null|
