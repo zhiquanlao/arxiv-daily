@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise**|Fangjun Hu et.al.|[2410.14654](http://arxiv.org/abs/2410.14654)|null|
+|**2024-10-18**|**Transversal non-Clifford gates for quantum LDPC codes on sheaves**|Ting-Chun Lin et.al.|[2410.14631](http://arxiv.org/abs/2410.14631)|null|
+|**2024-10-18**|**Spoofing of Quantum Channels Enables Low-Rank Projective Simulation**|Timothy Heightman et.al.|[2410.14608](http://arxiv.org/abs/2410.14608)|null|
+|**2024-10-18**|**Quantum computation of SU(2) lattice gauge theory with continuous variables**|Victor Ale et.al.|[2410.14580](http://arxiv.org/abs/2410.14580)|null|
+|**2024-10-18**|**Quantum information capacity in a 1D topological system**|Leonardo A. Navarro-Labastida et.al.|[2410.14558](http://arxiv.org/abs/2410.14558)|null|
+|**2024-10-18**|**Local Thermal Operations and Classical Communication**|Rafał Bistroń et.al.|[2410.14550](http://arxiv.org/abs/2410.14550)|null|
+|**2024-10-18**|**Surpassing the fundamental limits of distillation with catalysts**|Kun Fang et.al.|[2410.14547](http://arxiv.org/abs/2410.14547)|null|
+|**2024-10-18**|**The multimode conditional quantum Entropy Power Inequality and the squashed entanglement of the extreme multimode bosonic Gaussian channels**|Alessandro Falco et.al.|[2410.14472](http://arxiv.org/abs/2410.14472)|null|
+|**2024-10-18**|**Simulating Time-dependent Hamiltonian Based On High Order Runge-Kutta and Forward Euler Method**|Nhat A. Nghiem et.al.|[2410.14418](http://arxiv.org/abs/2410.14418)|null|
+|**2024-10-18**|**The State of Factoring on Quantum Computers**|Dennis Willsch et.al.|[2410.14397](http://arxiv.org/abs/2410.14397)|null|
 |**2024-10-17**|**Solving eigenvalue problems obtained by the finite element method on a quantum annealer using only a few qubits**|Arnaud Rémi et.al.|[2410.13740](http://arxiv.org/abs/2410.13740)|null|
 |**2024-10-17**|**Co-designing Transmon devices for control with simple pulses**|Nicolas Wittler et.al.|[2410.13619](http://arxiv.org/abs/2410.13619)|null|
 |**2024-10-17**|**Third moments of qudit Clifford orbits and 3-designs based on magic orbits**|Huangjun Zhu et.al.|[2410.13575](http://arxiv.org/abs/2410.13575)|null|
@@ -3716,6 +3726,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno et.al.|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
 |**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja et.al.|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
 |**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo et.al.|[2410.13734](http://arxiv.org/abs/2410.13734)|null|
 |**2024-10-16**|**Instability of steady-state mixed-state symmetry-protected topological order to strong-to-weak spontaneous symmetry breaking**|Jeet Shah et.al.|[2410.12900](http://arxiv.org/abs/2410.12900)|null|
