@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265](http://arxiv.org/abs/2410.16265)|null|
+|**2024-10-21**|**Separations in query complexity for total search problems**|Shalev Ben-David et.al.|[2410.16245](http://arxiv.org/abs/2410.16245)|null|
+|**2024-10-21**|**Semiconductor Circuits for Quantum Computing with Electronic Wave Packets**|David Pomaranski et.al.|[2410.16244](http://arxiv.org/abs/2410.16244)|null|
+|**2024-10-21**|**Undulated 2D materials as a platform for large Rashba spin-splitting and persistent spin-helix states**|Sunny Gupta et.al.|[2410.16242](http://arxiv.org/abs/2410.16242)|null|
+|**2024-10-21**|**Quantum Algorithms for Non-smooth Non-convex Optimization**|Chengchang Liu et.al.|[2410.16189](http://arxiv.org/abs/2410.16189)|null|
+|**2024-10-21**|**Observation of anomalous information scrambling in a Rydberg atom array**|Xinhui Liang et.al.|[2410.16174](http://arxiv.org/abs/2410.16174)|null|
+|**2024-10-21**|**Projective Quantum Eigensolver with Generalized Operators**|Dibyendu Mondal et.al.|[2410.16111](http://arxiv.org/abs/2410.16111)|null|
+|**2024-10-21**|**Maximally entangled gluons for any $x$**|Yoshitaka Hatta et.al.|[2410.16082](http://arxiv.org/abs/2410.16082)|null|
+|**2024-10-21**|**GFlowNets for Hamiltonian decomposition in groups of compatible operators**|Isaac L. Huidobro-Meezs et.al.|[2410.16041](http://arxiv.org/abs/2410.16041)|null|
+|**2024-10-21**|**IGMaxHS -- An Incremental MaxSAT Solver with Support for XOR Clauses**|Ole Lübke et.al.|[2410.15897](http://arxiv.org/abs/2410.15897)|null|
 |**2024-10-18**|**Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise**|Fangjun Hu et.al.|[2410.14654](http://arxiv.org/abs/2410.14654)|null|
 |**2024-10-18**|**Transversal non-Clifford gates for quantum LDPC codes on sheaves**|Ting-Chun Lin et.al.|[2410.14631](http://arxiv.org/abs/2410.14631)|null|
 |**2024-10-18**|**Spoofing of Quantum Channels Enables Low-Rank Projective Simulation**|Timothy Heightman et.al.|[2410.14608](http://arxiv.org/abs/2410.14608)|null|
@@ -3702,6 +3712,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-21**|**Optimization of an eigenvalue arising in optimal insulation with a lower bound**|Sören Bartels et.al.|[2410.16050](http://arxiv.org/abs/2410.16050)|null|
+|**2024-10-18**|**Universal quantum computation using Ising anyons from a non-semisimple Topological Quantum Field Theory**|Filippo Iulianelli et.al.|[2410.14860](http://arxiv.org/abs/2410.14860)|null|
 |**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno et.al.|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
 |**2024-10-17**|**Post-measurement Quantum Monte Carlo**|Kriti Baweja et.al.|[2410.13844](http://arxiv.org/abs/2410.13844)|null|
 |**2024-10-17**|**Strong-to-weak spontaneous symmetry breaking meets average symmetry-protected topological order**|Yuchen Guo et.al.|[2410.13734](http://arxiv.org/abs/2410.13734)|null|
