@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Solving the Independent Domination Problem by Quantum Approximate Optimization Algorithm**|Haoqian Pan et.al.|[2410.17227](http://arxiv.org/abs/2410.17227)|null|
+|**2024-10-22**|**Technical Report: Toward Applying Quantum Computing to Network Verification**|Kahlil Dozier et.al.|[2410.17184](http://arxiv.org/abs/2410.17184)|null|
+|**2024-10-22**|**Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates**|Lingzhen Guo et.al.|[2410.17069](http://arxiv.org/abs/2410.17069)|null|
+|**2024-10-22**|**Security Enhancement of Quantum Communication in Space-Air-Ground Integrated Networks**|Yixiao Zhang et.al.|[2410.17048](http://arxiv.org/abs/2410.17048)|null|
+|**2024-10-22**|**Quantifying the non-Abelian property of Andreev bound states in inhomogeneous Majorana nanowires**|Yu Zhang et.al.|[2410.17014](http://arxiv.org/abs/2410.17014)|null|
+|**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
+|**2024-10-22**|**Integrating Window-Based Correlated Decoding with Constant-Time Logical Gates for Large-Scale Quantum Computation**|Jiaxuan Zhang et.al.|[2410.16963](http://arxiv.org/abs/2410.16963)|null|
+|**2024-10-22**|**Industrially fabricated single-electron quantum dots in Si/Si-Ge heterostructures**|Till Huckemann et.al.|[2410.16913](http://arxiv.org/abs/2410.16913)|null|
+|**2024-10-22**|**Strong symmetries in collision models and physical dilations of covariant quantum maps**|Marco Cattaneo et.al.|[2410.16907](http://arxiv.org/abs/2410.16907)|null|
+|**2024-10-22**|**TE-PAI: Exact Time Evolution by Sampling Random Circuits**|Chusei Kiumi et.al.|[2410.16850](http://arxiv.org/abs/2410.16850)|null|
 |**2024-10-21**|**Quantifying the advantages of applying quantum approximate algorithms to portfolio optimisation**|Haomu Yuan et.al.|[2410.16265](http://arxiv.org/abs/2410.16265)|null|
 |**2024-10-21**|**Separations in query complexity for total search problems**|Shalev Ben-David et.al.|[2410.16245](http://arxiv.org/abs/2410.16245)|null|
 |**2024-10-21**|**Semiconductor Circuits for Quantum Computing with Electronic Wave Packets**|David Pomaranski et.al.|[2410.16244](http://arxiv.org/abs/2410.16244)|null|
@@ -3736,6 +3746,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
+|**2024-10-22**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776](http://arxiv.org/abs/2410.16776)|null|
 |**2024-10-21**|**Optimization of an eigenvalue arising in optimal insulation with a lower bound**|Sören Bartels et.al.|[2410.16050](http://arxiv.org/abs/2410.16050)|null|
 |**2024-10-18**|**Universal quantum computation using Ising anyons from a non-semisimple Topological Quantum Field Theory**|Filippo Iulianelli et.al.|[2410.14860](http://arxiv.org/abs/2410.14860)|null|
 |**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno et.al.|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
