@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**Fully smooth one shot multipartite covering and decoupling of quantum states via telescoping**|Pranab Sen et.al.|[2410.17893](http://arxiv.org/abs/2410.17893)|null|
+|**2024-10-23**|**Polarimetry With Spins in the Solid State**|Lorenzo Peri et.al.|[2410.17867](http://arxiv.org/abs/2410.17867)|null|
+|**2024-10-23**|**QICS: Quantum Information Conic Solver**|Kerry He et.al.|[2410.17803](http://arxiv.org/abs/2410.17803)|null|
+|**2024-10-23**|**Neural networks with quantum states of light**|Adrià Labay-Mora et.al.|[2410.17702](http://arxiv.org/abs/2410.17702)|null|
+|**2024-10-23**|**Dynamic Tuning of Single-Photon Emission in Monolayer WSe2 via Localized Strain Engineering**|Yi Yu et.al.|[2410.17654](http://arxiv.org/abs/2410.17654)|null|
+|**2024-10-23**|**Universal Entanglement Revival of Topological Origin**|Dongni Chen et.al.|[2410.17562](http://arxiv.org/abs/2410.17562)|null|
+|**2024-10-23**|**Phosphorus Nanotubes form Chemical Cleavage**|Romakanta Bhattarai et.al.|[2410.17531](http://arxiv.org/abs/2410.17531)|null|
+|**2024-10-23**|**Selective continuous-variable quantum process tomography**|Virginia Feldman et.al.|[2410.17516](http://arxiv.org/abs/2410.17516)|null|
+|**2024-10-22**|**Universal Gate Set for Optical Lattice Based Atom Interferometry**|Catie LeDesma et.al.|[2410.17472](http://arxiv.org/abs/2410.17472)|null|
+|**2024-10-22**|**Optimal conversion of Kochen-Specker sets into bipartite perfect quantum strategies**|Stefan Trandafir et.al.|[2410.17470](http://arxiv.org/abs/2410.17470)|null|
 |**2024-10-22**|**Solving the Independent Domination Problem by Quantum Approximate Optimization Algorithm**|Haoqian Pan et.al.|[2410.17227](http://arxiv.org/abs/2410.17227)|null|
 |**2024-10-22**|**Technical Report: Toward Applying Quantum Computing to Network Verification**|Kahlil Dozier et.al.|[2410.17184](http://arxiv.org/abs/2410.17184)|null|
 |**2024-10-22**|**Engineering Fault-tolerant Bosonic Codes with Quantum Lattice Gates**|Lingzhen Guo et.al.|[2410.17069](http://arxiv.org/abs/2410.17069)|null|
@@ -3746,6 +3756,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-23**|**A geometrical description of untwisted Dijkgraaf-Witten TQFT with defects**|João Faría Martins et.al.|[2410.18049](http://arxiv.org/abs/2410.18049)|null|
+|**2024-10-23**|**Parallel quench and dynamic geometrical order parameter**|Jia-Chen Tang et.al.|[2410.17940](http://arxiv.org/abs/2410.17940)|null|
 |**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
 |**2024-10-23**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776](http://arxiv.org/abs/2410.16776)|null|
 |**2024-10-21**|**Optimization of an eigenvalue arising in optimal insulation with a lower bound**|Sören Bartels et.al.|[2410.16050](http://arxiv.org/abs/2410.16050)|null|
