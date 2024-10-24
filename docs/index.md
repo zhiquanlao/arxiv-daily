@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3723,7 +3723,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
-|**2024-10-22**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776](http://arxiv.org/abs/2410.16776)|null|
+|**2024-10-23**|**Single particle tracking of polymer aggregates inside disordered porous media**|Yusaku Abe et.al.|[2410.16776](http://arxiv.org/abs/2410.16776)|null|
 |**2024-10-21**|**Optimization of an eigenvalue arising in optimal insulation with a lower bound**|Sören Bartels et.al.|[2410.16050](http://arxiv.org/abs/2410.16050)|null|
 |**2024-10-18**|**Universal quantum computation using Ising anyons from a non-semisimple Topological Quantum Field Theory**|Filippo Iulianelli et.al.|[2410.14860](http://arxiv.org/abs/2410.14860)|null|
 |**2024-10-18**|**Intrinsic mixed state topological order in a stabilizer system under stochastic decoherence**|Yoshihito Kuno et.al.|[2410.14258](http://arxiv.org/abs/2410.14258)|null|
