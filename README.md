@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**The Learning Stabilizers with Noise problem**|Alexander Poremba et.al.|[2410.18953](http://arxiv.org/abs/2410.18953)|null|
+|**2024-10-24**|**How to Design a Quantum Streaming Algorithm Without Knowing Anything About Quantum Computing**|John Kallaugher et.al.|[2410.18922](http://arxiv.org/abs/2410.18922)|null|
+|**2024-10-24**|**Characterizing conical intersections of nucleobases on quantum computers**|Yuchen Wang et.al.|[2410.18910](http://arxiv.org/abs/2410.18910)|null|
+|**2024-10-24**|**Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility**|Alberto Rolandi et.al.|[2410.18903](http://arxiv.org/abs/2410.18903)|null|
+|**2024-10-24**|**A quantum computing approach to fixed-node Monte Carlo using classical shadows**|Nick S. Blunt et.al.|[2410.18901](http://arxiv.org/abs/2410.18901)|null|
+|**2024-10-24**|**High-throughput search for topological magnon materials**|Mohammed J. Karaki et.al.|[2410.18873](http://arxiv.org/abs/2410.18873)|null|
+|**2024-10-24**|**A novel quantum machine learning classifier to search for new physics**|Ji-Chong Yang et.al.|[2410.18847](http://arxiv.org/abs/2410.18847)|null|
+|**2024-10-24**|**Hybrid Quantum-Classical Feature Extraction approach for Image Classification using Autoencoders and Quantum SVMs**|Donovan Slabbert et.al.|[2410.18814](http://arxiv.org/abs/2410.18814)|null|
+|**2024-10-24**|**Holographic Boundary Conformal Field Theory within Horndeski Gravity**|Fabiano F. Santos et.al.|[2410.18781](http://arxiv.org/abs/2410.18781)|null|
+|**2024-10-24**|**Temporally correlated quantum noise in driven quantum systems**|Balázs Gulácsi et.al.|[2410.18748](http://arxiv.org/abs/2410.18748)|null|
 |**2024-10-23**|**Fully smooth one shot multipartite covering and decoupling of quantum states via telescoping**|Pranab Sen et.al.|[2410.17893](http://arxiv.org/abs/2410.17893)|null|
 |**2024-10-23**|**Polarimetry With Spins in the Solid State**|Lorenzo Peri et.al.|[2410.17867](http://arxiv.org/abs/2410.17867)|null|
 |**2024-10-23**|**QICS: Quantum Information Conic Solver**|Kerry He et.al.|[2410.17803](http://arxiv.org/abs/2410.17803)|null|
@@ -3756,6 +3766,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Topological Order in the Spectral Riemann Surfaces of Non-Hermitian Systems**|Anton Montag et.al.|[2410.18616](http://arxiv.org/abs/2410.18616)|null|
+|**2024-10-23**|**On extended Frobenius structures**|Agustina Czenky et.al.|[2410.18232](http://arxiv.org/abs/2410.18232)|null|
 |**2024-10-23**|**A geometrical description of untwisted Dijkgraaf-Witten TQFT with defects**|João Faría Martins et.al.|[2410.18049](http://arxiv.org/abs/2410.18049)|null|
 |**2024-10-23**|**Parallel quench and dynamic geometrical order parameter**|Jia-Chen Tang et.al.|[2410.17940](http://arxiv.org/abs/2410.17940)|null|
 |**2024-10-22**|**Constructing TQFTs Using Non-Hermitian Ribbon Fusion Categories**|Khyathi Komalan et.al.|[2410.16993](http://arxiv.org/abs/2410.16993)|null|
