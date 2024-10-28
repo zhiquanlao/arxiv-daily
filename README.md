@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-25**|**Quantum Algorithm for Online Exp-concave Optimization**|Jianhao He et.al.|[2410.19688](http://arxiv.org/abs/2410.19688)|null|
+|**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore et.al.|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
+|**2024-10-25**|**Design nearly optimal quantum algorithm for linear differential equations via Lindbladians**|Zhong-Xia Shang et.al.|[2410.19628](http://arxiv.org/abs/2410.19628)|null|
+|**2024-10-25**|**Measurement-device-independent resource characterization protocols**|Chenxu Li et.al.|[2410.19617](http://arxiv.org/abs/2410.19617)|null|
+|**2024-10-25**|**Monte Carlo particle transport on quantum computers**|Noé Olivier et.al.|[2410.19489](http://arxiv.org/abs/2410.19489)|null|
+|**2024-10-25**|**Quantum optimization for Nonlinear Model Predictive Control**|Carlo Novara et.al.|[2410.19467](http://arxiv.org/abs/2410.19467)|null|
+|**2024-10-25**|**Enhancing Quantum Key Distribution with Entanglement Distillation and Classical Advantage Distillation**|Shin Sun et.al.|[2410.19334](http://arxiv.org/abs/2410.19334)|null|
+|**2024-10-25**|**Superconductive coupling and Josephson diode effect in selectively-grown topological insulator based three-terminal junctions**|Gerrit Behner et.al.|[2410.19311](http://arxiv.org/abs/2410.19311)|null|
+|**2024-10-25**|**An Evidence of Addressing Coherence Errors in VQE Observables by Pulse-level VQE Approach**|Xiaoan Lin et.al.|[2410.19286](http://arxiv.org/abs/2410.19286)|null|
+|**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou et.al.|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
 |**2024-10-24**|**The Learning Stabilizers with Noise problem**|Alexander Poremba et.al.|[2410.18953](http://arxiv.org/abs/2410.18953)|null|
 |**2024-10-24**|**How to Design a Quantum Streaming Algorithm Without Knowing Anything About Quantum Computing**|John Kallaugher et.al.|[2410.18922](http://arxiv.org/abs/2410.18922)|null|
 |**2024-10-24**|**Characterizing conical intersections of nucleobases on quantum computers**|Yuchen Wang et.al.|[2410.18910](http://arxiv.org/abs/2410.18910)|null|
@@ -3766,6 +3776,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou et.al.|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
 |**2024-10-24**|**Topological Order in the Spectral Riemann Surfaces of Non-Hermitian Systems**|Anton Montag et.al.|[2410.18616](http://arxiv.org/abs/2410.18616)|null|
 |**2024-10-23**|**On extended Frobenius structures**|Agustina Czenky et.al.|[2410.18232](http://arxiv.org/abs/2410.18232)|null|
 |**2024-10-23**|**A geometrical description of untwisted Dijkgraaf-Witten TQFT with defects**|João Faría Martins et.al.|[2410.18049](http://arxiv.org/abs/2410.18049)|null|
