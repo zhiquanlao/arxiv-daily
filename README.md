@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Pseudochaotic Many-Body Dynamics as a Pseudorandom State Generator**|Wonjun Lee et.al.|[2410.21268](http://arxiv.org/abs/2410.21268)|null|
+|**2024-10-28**|**Quantum computing and persistence in topological data analysis**|Casper Gyurik et.al.|[2410.21258](http://arxiv.org/abs/2410.21258)|null|
+|**2024-10-28**|**Shot-noise reduction for lattice Hamiltonians**|Timo Eckstein et.al.|[2410.21251](http://arxiv.org/abs/2410.21251)|null|
+|**2024-10-28**|**Qureka! Box -- An ENSAR methodology based tool for understanding quantum computing concepts**|Abhishek Purohit et.al.|[2410.21219](http://arxiv.org/abs/2410.21219)|null|
+|**2024-10-28**|**Noise robustness and threshold of many-body quantum magic**|Fuchuan Wei et.al.|[2410.21215](http://arxiv.org/abs/2410.21215)|null|
+|**2024-10-28**|**Sample-Optimal Quantum Estimators for Pure-State Trace Distance and Fidelity via Samplizer**|Qisheng Wang et.al.|[2410.21201](http://arxiv.org/abs/2410.21201)|null|
+|**2024-10-28**|**Simulation of the 1d XY model on a quantum computer**|Marc Farreras et.al.|[2410.21143](http://arxiv.org/abs/2410.21143)|null|
+|**2024-10-28**|**Quantum magic dynamics in random circuits**|Yuzhen Zhang et.al.|[2410.21128](http://arxiv.org/abs/2410.21128)|null|
+|**2024-10-28**|**Stabilizer configuration interaction: Finding molecular subspaces with error detection properties**|Abhinav Anand et.al.|[2410.21125](http://arxiv.org/abs/2410.21125)|null|
+|**2024-10-28**|**Quantum channel coding: Approximation algorithms and strong converse exponents**|Aadil Oufkir et.al.|[2410.21124](http://arxiv.org/abs/2410.21124)|null|
 |**2024-10-25**|**Quantum Algorithm for Online Exp-concave Optimization**|Jianhao He et.al.|[2410.19688](http://arxiv.org/abs/2410.19688)|null|
 |**2024-10-25**|**Automated generation of photonic circuits for Bell tests with homodyne measurements**|Corentin Lanore et.al.|[2410.19670](http://arxiv.org/abs/2410.19670)|null|
 |**2024-10-25**|**Design nearly optimal quantum algorithm for linear differential equations via Lindbladians**|Zhong-Xia Shang et.al.|[2410.19628](http://arxiv.org/abs/2410.19628)|null|
