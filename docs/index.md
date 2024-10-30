@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Adaptive Channel Reshaping for Improved Entanglement Distillation**|Dina Abdelhadi et.al.|[2410.22295](http://arxiv.org/abs/2410.22295)|null|
+|**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
+|**2024-10-29**|**Quantum Circuits, Feature Maps, and Expanded Pseudo-Entropy: A Categorical Theoretic Analysis of Encoding Real-World Data into a Quantum Computer**|Andrew Vlasic et.al.|[2410.22084](http://arxiv.org/abs/2410.22084)|null|
+|**2024-10-29**|**Bayesian Quantum Neural Network for Renewable-Rich Power Flow with Training Efficiency and Generalization Capability Improvements**|Ziqing Zhu et.al.|[2410.22062](http://arxiv.org/abs/2410.22062)|null|
+|**2024-10-29**|**From spin squeezing to fast state discrimination**|Michael R. Geller et.al.|[2410.22032](http://arxiv.org/abs/2410.22032)|null|
+|**2024-10-29**|**Complex-Phase Extensions of Szegedy Quantum Walk on Graphs**|Sergio A. Ortega et.al.|[2410.22011](http://arxiv.org/abs/2410.22011)|null|
+|**2024-10-29**|**Multi-partite entanglement in extreme nanophotonic cavities**|Angus Crookes et.al.|[2410.21977](http://arxiv.org/abs/2410.21977)|null|
+|**2024-10-29**|**Quantum Conditional Entropies**|Roberto Rubboli et.al.|[2410.21976](http://arxiv.org/abs/2410.21976)|null|
+|**2024-10-29**|**A fast hybrid classical-quantum algorithm based on block successive over-relaxation for the heat differential equation**|Azim Farghadan et.al.|[2410.21930](http://arxiv.org/abs/2410.21930)|null|
+|**2024-10-29**|**Classical Algorithms for Constant Approximation of the Ground State Energy of Local Hamiltonians**|François Le Gall et.al.|[2410.21833](http://arxiv.org/abs/2410.21833)|null|
 |**2024-10-28**|**Pseudochaotic Many-Body Dynamics as a Pseudorandom State Generator**|Wonjun Lee et.al.|[2410.21268](http://arxiv.org/abs/2410.21268)|null|
 |**2024-10-28**|**Quantum computing and persistence in topological data analysis**|Casper Gyurik et.al.|[2410.21258](http://arxiv.org/abs/2410.21258)|null|
 |**2024-10-28**|**Shot-noise reduction for lattice Hamiltonians**|Timo Eckstein et.al.|[2410.21251](http://arxiv.org/abs/2410.21251)|null|
@@ -3762,6 +3772,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**Spatio-temporal Transformers for Action Unit Classification with Event Cameras**|Luca Cultrera et.al.|[2410.21958](http://arxiv.org/abs/2410.21958)|null|
+|**2024-10-28**|**Stabilizing Non-Abelian Topological Order against Heralded Noise via Local Lindbladian Dynamics**|Sanket Chirame et.al.|[2410.21402](http://arxiv.org/abs/2410.21402)|null|
 |**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou et.al.|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
 |**2024-10-24**|**Topological Order in the Spectral Riemann Surfaces of Non-Hermitian Systems**|Anton Montag et.al.|[2410.18616](http://arxiv.org/abs/2410.18616)|null|
 |**2024-10-23**|**On extended Frobenius structures**|Agustina Czenky et.al.|[2410.18232](http://arxiv.org/abs/2410.18232)|null|
