@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**A superconducting on-chip microwave cavity for tunable hybrid systems with optically trapped Rydberg atoms**|Benedikt Wilde et.al.|[2410.23269](http://arxiv.org/abs/2410.23269)|null|
+|**2024-10-30**|**Measurement-induced entanglement and complexity in random constant-depth 2D quantum circuits**|Max McGinley et.al.|[2410.23248](http://arxiv.org/abs/2410.23248)|null|
+|**2024-10-30**|**Crosstalk Attack Resilient RNS Quantum Addition**|Bhaskar Gaur et.al.|[2410.23217](http://arxiv.org/abs/2410.23217)|null|
+|**2024-10-30**|**Deterministic generation of frequency-bin-encoded microwave photons**|Jiaying Yang et.al.|[2410.23202](http://arxiv.org/abs/2410.23202)|null|
+|**2024-10-30**|**Kinetic Inductance and Jitter Dependence of the Intrinsic Photon Number Resolution in Superconducting Nanowire Single-Photon Detectors**|Roland Jaha et.al.|[2410.23162](http://arxiv.org/abs/2410.23162)|null|
+|**2024-10-30**|**Quantum Carleman linearisation efficiency in nonlinear fluid dynamics**|Javier Gonzalez-Conde et.al.|[2410.23057](http://arxiv.org/abs/2410.23057)|null|
+|**2024-10-30**|**Highly stable aluminum air-bridges with stiffeners**|Aleksey N. Bolgar et.al.|[2410.23028](http://arxiv.org/abs/2410.23028)|null|
+|**2024-10-30**|**Robust Micro-Macro Entangled States**|Maryam Sadat Mirkamali et.al.|[2410.22913](http://arxiv.org/abs/2410.22913)|null|
+|**2024-10-30**|**Probing quantum anomalous heat flow using mid-circuit measurements**|Aabhaas Vineet Mallik et.al.|[2410.22900](http://arxiv.org/abs/2410.22900)|null|
+|**2024-10-30**|**LEGO_HQEC: A Software Tool for Analyzing Holographic Quantum Codes**|Junyu Fan et.al.|[2410.22861](http://arxiv.org/abs/2410.22861)|null|
 |**2024-10-29**|**Adaptive Channel Reshaping for Improved Entanglement Distillation**|Dina Abdelhadi et.al.|[2410.22295](http://arxiv.org/abs/2410.22295)|null|
 |**2024-10-29**|**Low-Dimensional Solid-State Single-Photon Emitters**|Jinli Chen et.al.|[2410.22106](http://arxiv.org/abs/2410.22106)|null|
 |**2024-10-29**|**Quantum Circuits, Feature Maps, and Expanded Pseudo-Entropy: A Categorical Theoretic Analysis of Encoding Real-World Data into a Quantum Computer**|Andrew Vlasic et.al.|[2410.22084](http://arxiv.org/abs/2410.22084)|null|
@@ -3772,6 +3782,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-30**|**Exact renormalization group flow for matrix product density operators**|Kohtaro Kato et.al.|[2410.22696](http://arxiv.org/abs/2410.22696)|null|
 |**2024-10-29**|**Spatio-temporal Transformers for Action Unit Classification with Event Cameras**|Luca Cultrera et.al.|[2410.21958](http://arxiv.org/abs/2410.21958)|null|
 |**2024-10-28**|**Stabilizing Non-Abelian Topological Order against Heralded Noise via Local Lindbladian Dynamics**|Sanket Chirame et.al.|[2410.21402](http://arxiv.org/abs/2410.21402)|null|
 |**2024-10-24**|**Exactly solvable models for fermionic symmetry-enriched topological phases and fermionic 't Hooft anomaly**|Jing-Ren Zhou et.al.|[2410.19126](http://arxiv.org/abs/2410.19126)|null|
