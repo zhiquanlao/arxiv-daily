@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
+|**2024-10-31**|**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**|Cica Gustiani et.al.|[2410.24133](http://arxiv.org/abs/2410.24133)|null|
+|**2024-10-31**|**More global randomness from less random local gates**|Ryotaro Suzuki et.al.|[2410.24127](http://arxiv.org/abs/2410.24127)|null|
+|**2024-10-31**|**Natural gradient and parameter estimation for quantum Boltzmann machines**|Dhrumil Patel et.al.|[2410.24058](http://arxiv.org/abs/2410.24058)|null|
+|**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian et.al.|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
+|**2024-10-31**|**Improving the accuracy of circuit quantization using the electromagnetic properties of superconductors**|Seong Hyeon Park et.al.|[2410.24004](http://arxiv.org/abs/2410.24004)|null|
+|**2024-10-31**|**Nonstabilizerness Enhances Thrifty Shadow Estimation**|Datong Chen et.al.|[2410.23977](http://arxiv.org/abs/2410.23977)|null|
+|**2024-10-31**|**Envisioning Diversity and Inclusion for Quantum Software Engineering**|Muneera Bano et.al.|[2410.23972](http://arxiv.org/abs/2410.23972)|null|
+|**2024-10-31**|**Interactive proofs for verifying (quantum) learning and testing**|Matthias C. Caro et.al.|[2410.23969](http://arxiv.org/abs/2410.23969)|null|
+|**2024-10-31**|**Space-bounded quantum interactive proof systems**|François Le Gall et.al.|[2410.23958](http://arxiv.org/abs/2410.23958)|null|
 |**2024-10-30**|**A superconducting on-chip microwave cavity for tunable hybrid systems with optically trapped Rydberg atoms**|Benedikt Wilde et.al.|[2410.23269](http://arxiv.org/abs/2410.23269)|null|
 |**2024-10-30**|**Measurement-induced entanglement and complexity in random constant-depth 2D quantum circuits**|Max McGinley et.al.|[2410.23248](http://arxiv.org/abs/2410.23248)|null|
 |**2024-10-30**|**Crosstalk Attack Resilient RNS Quantum Addition**|Bhaskar Gaur et.al.|[2410.23217](http://arxiv.org/abs/2410.23217)|null|
@@ -3806,6 +3816,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar et.al.|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
+|**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian et.al.|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
+|**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884](http://arxiv.org/abs/2410.23884)|null|
+|**2024-10-30**|**Many-body quantum catalysts for transforming between phases of matter**|David T. Stephen et.al.|[2410.23354](http://arxiv.org/abs/2410.23354)|null|
 |**2024-10-30**|**Exact renormalization group flow for matrix product density operators**|Kohtaro Kato et.al.|[2410.22696](http://arxiv.org/abs/2410.22696)|null|
 |**2024-10-29**|**Spatio-temporal Transformers for Action Unit Classification with Event Cameras**|Luca Cultrera et.al.|[2410.21958](http://arxiv.org/abs/2410.21958)|null|
 |**2024-10-28**|**Stabilizing Non-Abelian Topological Order against Heralded Noise via Local Lindbladian Dynamics**|Sanket Chirame et.al.|[2410.21402](http://arxiv.org/abs/2410.21402)|null|
