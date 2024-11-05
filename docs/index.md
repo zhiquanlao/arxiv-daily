@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck et.al.|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
+|**2024-11-04**|**Information plane and compression-gnostic feedback in quantum machine learning**|Nathan Haboury et.al.|[2411.02313](http://arxiv.org/abs/2411.02313)|null|
+|**2024-11-04**|**Observation of a Multimode Displaced Squeezed State in High-Harmonic Generation**|David Theidel et.al.|[2411.02311](http://arxiv.org/abs/2411.02311)|null|
+|**2024-11-04**|**Inelastic Coupled-Channel Eikonal Scattering**|Rafael Aoude et.al.|[2411.02294](http://arxiv.org/abs/2411.02294)|null|
+|**2024-11-04**|**Optimal recoil-free state preparation in an optical atom tweezer**|Lia Kley et.al.|[2411.02262](http://arxiv.org/abs/2411.02262)|null|
+|**2024-11-04**|**Tolerant Quantum Junta Testing**|Zhaoyang Chen et.al.|[2411.02244](http://arxiv.org/abs/2411.02244)|null|
+|**2024-11-04**|**Braided interferometer mesh for robust photonic matrix-vector multiplications with non-ideal components**|Federico Marchesin et.al.|[2411.02243](http://arxiv.org/abs/2411.02243)|null|
+|**2024-11-04**|**Generation of high-fidelity Greenberger-Horne-Zeilinger states in a driven hybrid quantum system**|Xin Zeng et.al.|[2411.02166](http://arxiv.org/abs/2411.02166)|null|
+|**2024-11-04**|**Resource-optimized fault-tolerant simulation of the Fermi-Hubbard model and high-temperature superconductor models**|Angus Kan et.al.|[2411.02160](http://arxiv.org/abs/2411.02160)|null|
+|**2024-11-04**|**An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Machine Learning**|Allan Grønlund et.al.|[2411.02087](http://arxiv.org/abs/2411.02087)|null|
 |**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
 |**2024-10-31**|**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**|Cica Gustiani et.al.|[2410.24133](http://arxiv.org/abs/2410.24133)|null|
 |**2024-10-31**|**More global randomness from less random local gates**|Ryotaro Suzuki et.al.|[2410.24127](http://arxiv.org/abs/2410.24127)|null|
@@ -3792,6 +3802,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck et.al.|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
+|**2024-11-01**|**3d SUSY enhancement and non-semisimple TQFTs from four dimensions**|Arash Arabi Ardehali et.al.|[2411.00766](http://arxiv.org/abs/2411.00766)|null|
 |**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar et.al.|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
 |**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian et.al.|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
 |**2024-10-31**|**Failure Modes of LLMs for Causal Reasoning on Narratives**|Khurram Yamin et.al.|[2410.23884](http://arxiv.org/abs/2410.23884)|**[link](https://github.com/shantanu95/llm_causal_reasoning)**|
