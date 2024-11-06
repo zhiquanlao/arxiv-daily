@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-05**|**Quantum One-Time Protection of any Randomized Algorithm**|Sam Gunn et.al.|[2411.03305](http://arxiv.org/abs/2411.03305)|null|
+|**2024-11-05**|**On the Equivalence Between the Schrodinger Equation in Quantum Mechanics and the Euler-Bernoulli Equation in Elasticity Theory**|Igor Volovich et.al.|[2411.03261](http://arxiv.org/abs/2411.03261)|null|
+|**2024-11-05**|**Architectures for Heterogeneous Quantum Error Correction Codes**|Samuel Stein et.al.|[2411.03202](http://arxiv.org/abs/2411.03202)|null|
+|**2024-11-05**|**A unifying framework for quantum simulation algorithms for time-dependent Hamiltonian dynamics**|Yu Cao et.al.|[2411.03180](http://arxiv.org/abs/2411.03180)|null|
+|**2024-11-05**|**Multiple-basis representation of quantum states**|Adrián Pérez-Salinas et.al.|[2411.03110](http://arxiv.org/abs/2411.03110)|null|
+|**2024-11-05**|**Scalable multipartite entanglement criteria for continuous variables**|Xiao-yu Chen et.al.|[2411.03083](http://arxiv.org/abs/2411.03083)|null|
+|**2024-11-05**|**A variational quantum algorithm for tackling multi-dimensional Poisson equations with inhomogeneous boundary conditions**|Minjin Choi et.al.|[2411.03009](http://arxiv.org/abs/2411.03009)|null|
+|**2024-11-05**|**Fast Unconditional Reset and Leakage Reduction of a Tunable Superconducting Qubit via an Engineered Dissipative Bath**|Gihwan Kim et.al.|[2411.02950](http://arxiv.org/abs/2411.02950)|null|
+|**2024-11-05**|**Quantum machine learning for multiclass classification beyond kernel methods**|Chao Ding et.al.|[2411.02913](http://arxiv.org/abs/2411.02913)|null|
+|**2024-11-05**|**Distributed Quantum Simulation**|Tianfeng Feng et.al.|[2411.02881](http://arxiv.org/abs/2411.02881)|null|
 |**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck et.al.|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
 |**2024-11-04**|**Information plane and compression-gnostic feedback in quantum machine learning**|Nathan Haboury et.al.|[2411.02313](http://arxiv.org/abs/2411.02313)|null|
 |**2024-11-04**|**Observation of a Multimode Displaced Squeezed State in High-Harmonic Generation**|David Theidel et.al.|[2411.02311](http://arxiv.org/abs/2411.02311)|null|
@@ -3802,6 +3812,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**Gapless Floquet topology**|Gabriel Cardoso et.al.|[2411.02526](http://arxiv.org/abs/2411.02526)|null|
 |**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck et.al.|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
 |**2024-11-01**|**3d SUSY enhancement and non-semisimple TQFTs from four dimensions**|Arash Arabi Ardehali et.al.|[2411.00766](http://arxiv.org/abs/2411.00766)|null|
 |**2024-10-31**|**Diagnosing electronic phases of matter using photonic correlation functions**|Gautam Nambiar et.al.|[2410.24215](http://arxiv.org/abs/2410.24215)|null|
