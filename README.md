@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**On the (Classical and Quantum) Fine-Grained Complexity of Log-Approximate CVP and Max-Cut**|Jeremy Ahrens Huang et.al.|[2411.04124](http://arxiv.org/abs/2411.04124)|null|
+|**2024-11-06**|**Quantum metrology with a continuous-variable system**|Matteo Fadel et.al.|[2411.04122](http://arxiv.org/abs/2411.04122)|null|
+|**2024-11-06**|**Local unitary equivalence of absolutely maximally entangled states constructed from orthogonal arrays**|N Ramadas et.al.|[2411.04096](http://arxiv.org/abs/2411.04096)|null|
+|**2024-11-06**|**A unified approach to quantum de Finetti theorems and SoS rounding via geometric quantization**|Sujit Rao et.al.|[2411.04057](http://arxiv.org/abs/2411.04057)|null|
+|**2024-11-06**|**Generalized quantum asymptotic equipartition**|Kun Fang et.al.|[2411.04035](http://arxiv.org/abs/2411.04035)|null|
+|**2024-11-06**|**Low-depth quantum symmetrization**|Zhenning Liu et.al.|[2411.04019](http://arxiv.org/abs/2411.04019)|null|
+|**2024-11-06**|**Laplace transform based quantum eigenvalue transformation via linear combination of Hamiltonian simulation**|Dong An et.al.|[2411.04010](http://arxiv.org/abs/2411.04010)|null|
+|**2024-11-06**|**Harnessing quantum back-action for time-series processing**|Giacomo Franceschetto et.al.|[2411.03979](http://arxiv.org/abs/2411.03979)|null|
+|**2024-11-06**|**Toward end-to-end quantum simulation for protein dynamics**|Zhenning Liu et.al.|[2411.03972](http://arxiv.org/abs/2411.03972)|null|
+|**2024-11-06**|**Quantum Algorithm for Sparse Online Learning with Truncated Gradient Descent**|Debbie Lim et.al.|[2411.03925](http://arxiv.org/abs/2411.03925)|null|
 |**2024-11-05**|**Quantum One-Time Protection of any Randomized Algorithm**|Sam Gunn et.al.|[2411.03305](http://arxiv.org/abs/2411.03305)|null|
 |**2024-11-05**|**On the Equivalence Between the Schrodinger Equation in Quantum Mechanics and the Euler-Bernoulli Equation in Elasticity Theory**|Igor Volovich et.al.|[2411.03261](http://arxiv.org/abs/2411.03261)|null|
 |**2024-11-05**|**Architectures for Heterogeneous Quantum Error Correction Codes**|Samuel Stein et.al.|[2411.03202](http://arxiv.org/abs/2411.03202)|null|
@@ -3836,6 +3846,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-06**|**Massless Conformal Fields in Ten Dimensions, Minimal Unitary Representation of $E_{7(-25)}$ and Exceptional Supergravity**|Murat Gunaydin et.al.|[2411.04049](http://arxiv.org/abs/2411.04049)|null|
+|**2024-11-06**|**X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**|K. Migkas et.al.|[2411.03833](http://arxiv.org/abs/2411.03833)|null|
+|**2024-11-06**|**Evidence for valence-bond pairing in a low-dimensional two-orbital system**|M. Mierzejewski et.al.|[2411.03771](http://arxiv.org/abs/2411.03771)|null|
+|**2024-11-05**|**Mixed-State Topological Order under Coherent Noises**|Seunghun Lee et.al.|[2411.03441](http://arxiv.org/abs/2411.03441)|null|
+|**2024-11-05**|**Detection of Thermal Emission at Millimeter Wavelengths from Low-Earth Orbit Satellites**|A. Foster et.al.|[2411.03374](http://arxiv.org/abs/2411.03374)|null|
 |**2024-11-04**|**Gapless Floquet topology**|Gabriel Cardoso et.al.|[2411.02526](http://arxiv.org/abs/2411.02526)|null|
 |**2024-11-04**|**LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations**|Wojciech De Roeck et.al.|[2411.02384](http://arxiv.org/abs/2411.02384)|null|
 |**2024-11-01**|**3d SUSY enhancement and non-semisimple TQFTs from four dimensions**|Arash Arabi Ardehali et.al.|[2411.00766](http://arxiv.org/abs/2411.00766)|null|
