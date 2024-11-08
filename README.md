@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Quantum speedups in solving near-symmetric optimization problems by low-depth QAOA**|Ashley Montanaro et.al.|[2411.04979](http://arxiv.org/abs/2411.04979)|null|
+|**2024-11-07**|**Holographic pseudoentanglement and the complexity of the AdS/CFT dictionary**|Chris Akers et.al.|[2411.04978](http://arxiv.org/abs/2411.04978)|null|
+|**2024-11-07**|**Capacities of Entanglement Distribution From a Central Source**|Xinan Chen et.al.|[2411.04977](http://arxiv.org/abs/2411.04977)|null|
+|**2024-11-07**|**Uniformity testing when you have the source code**|Clément L. Canonne et.al.|[2411.04972](http://arxiv.org/abs/2411.04972)|null|
+|**2024-11-07**|**Quantum Advantage with Faulty Oracle**|David Rasmussen Lolck et.al.|[2411.04931](http://arxiv.org/abs/2411.04931)|null|
+|**2024-11-07**|**Concurrence speed limit and its connection with bounds in many body physics**|Shrobona Bagchi et.al.|[2411.04930](http://arxiv.org/abs/2411.04930)|null|
+|**2024-11-07**|**Efficient quantum pseudorandomness under conservation laws**|Zimu Li et.al.|[2411.04893](http://arxiv.org/abs/2411.04893)|null|
+|**2024-11-07**|**Optimal quantum algorithm for Gibbs state preparation**|Cambyse Rouzé et.al.|[2411.04885](http://arxiv.org/abs/2411.04885)|null|
+|**2024-11-07**|**Quantum-Centric Study of Methylene Singlet and Triplet States**|Ieva Liepuoniute et.al.|[2411.04827](http://arxiv.org/abs/2411.04827)|null|
+|**2024-11-07**|**Quantum Neural Network Classifier for Cancer Registry System Testing: A Feasibility Study**|Xinyi Wang et.al.|[2411.04740](http://arxiv.org/abs/2411.04740)|null|
 |**2024-11-06**|**On the (Classical and Quantum) Fine-Grained Complexity of Log-Approximate CVP and Max-Cut**|Jeremy Ahrens Huang et.al.|[2411.04124](http://arxiv.org/abs/2411.04124)|null|
 |**2024-11-06**|**Quantum metrology with a continuous-variable system**|Matteo Fadel et.al.|[2411.04122](http://arxiv.org/abs/2411.04122)|null|
 |**2024-11-06**|**Local unitary equivalence of absolutely maximally entangled states constructed from orthogonal arrays**|N Ramadas et.al.|[2411.04096](http://arxiv.org/abs/2411.04096)|null|
@@ -3846,6 +3856,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004](http://arxiv.org/abs/2411.05004)|null|
+|**2024-11-07**|**Berry phase in axion physics: implications for detection, SM global structure, and generalized symmetries**|Qing-Hong Cao et.al.|[2411.04749](http://arxiv.org/abs/2411.04749)|null|
+|**2024-11-07**|**Gauge theory and mixed state criticality**|Takamasa Ando et.al.|[2411.04360](http://arxiv.org/abs/2411.04360)|null|
+|**2024-11-06**|**Tannakian QFT: from spark algebras to quantum groups**|Tudor Dimofte et.al.|[2411.04194](http://arxiv.org/abs/2411.04194)|null|
+|**2024-11-06**|**Qutrit Toric Code and Parafermions in Trapped Ions**|Mohsin Iqbal et.al.|[2411.04185](http://arxiv.org/abs/2411.04185)|null|
+|**2024-11-06**|**Non-invertible duality and symmetry topological order of one-dimensional lattice models with spatially modulated symmetry**|Donghae Seo et.al.|[2411.04182](http://arxiv.org/abs/2411.04182)|null|
+|**2024-11-06**|**Protocols for Creating Anyons and Defects via Gauging**|Anasuya Lyons et.al.|[2411.04181](http://arxiv.org/abs/2411.04181)|null|
+|**2024-11-06**|**Fractionally Quantized Electric Polarization and Discrete Shift of Crystalline Fractional Chern Insulators**|Yuxuan Zhang et.al.|[2411.04171](http://arxiv.org/abs/2411.04171)|null|
 |**2024-11-06**|**Massless Conformal Fields in Ten Dimensions, Minimal Unitary Representation of $E_{7(-25)}$ and Exceptional Supergravity**|Murat Gunaydin et.al.|[2411.04049](http://arxiv.org/abs/2411.04049)|null|
 |**2024-11-06**|**X-ray and optical analysis of the distant, merging double cluster SPT-CLJ2228-5828, its gas bridge, and shock front**|K. Migkas et.al.|[2411.03833](http://arxiv.org/abs/2411.03833)|null|
 |**2024-11-06**|**Evidence for valence-bond pairing in a low-dimensional two-orbital system**|M. Mierzejewski et.al.|[2411.03771](http://arxiv.org/abs/2411.03771)|null|
