@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**Unstructured Adiabatic Quantum Optimization: Optimality with Limitations**|Arthur Braida et.al.|[2411.05736](http://arxiv.org/abs/2411.05736)|null|
+|**2024-11-08**|**On properties of Schmidt Decomposition**|Mithilesh Kumar et.al.|[2411.05703](http://arxiv.org/abs/2411.05703)|null|
+|**2024-11-08**|**Analysis of the confinement string in (2 + 1)-dimensional Quantum Electrodynamics with a trapped-ion quantum computer**|Arianna Crippa et.al.|[2411.05628](http://arxiv.org/abs/2411.05628)|null|
+|**2024-11-08**|**State transfer in discrete-time quantum walks via projected transition matrices**|Krystal Guo et.al.|[2411.05560](http://arxiv.org/abs/2411.05560)|null|
+|**2024-11-08**|**Quantum Annealing for Active User Detection in NOMA Systems**|Romain Piron et.al.|[2411.05411](http://arxiv.org/abs/2411.05411)|null|
+|**2024-11-08**|**Color codes with domino twists: Construction, logical measurements, and computation**|Manoj G. Gowda et.al.|[2411.05402](http://arxiv.org/abs/2411.05402)|null|
+|**2024-11-08**|**Entanglement measurement based on convex hull properties**|Hao-Nan Qiang et.al.|[2411.05389](http://arxiv.org/abs/2411.05389)|null|
+|**2024-11-08**|**Exploring Quantum Entanglement: A Tutorial on Spin Dynamics and Entanglement Transfer with Python Modules**|Salomo Cedric Karst et.al.|[2411.05380](http://arxiv.org/abs/2411.05380)|null|
+|**2024-11-08**|**Trapping of Single Atoms in Metasurface Optical Tweezer Arrays**|Aaron Holman et.al.|[2411.05321](http://arxiv.org/abs/2411.05321)|null|
+|**2024-11-08**|**Quantum real-time evolution using tensor renormalization group methods**|Michael Hite et.al.|[2411.05301](http://arxiv.org/abs/2411.05301)|null|
 |**2024-11-07**|**Quantum speedups in solving near-symmetric optimization problems by low-depth QAOA**|Ashley Montanaro et.al.|[2411.04979](http://arxiv.org/abs/2411.04979)|null|
 |**2024-11-07**|**Holographic pseudoentanglement and the complexity of the AdS/CFT dictionary**|Chris Akers et.al.|[2411.04978](http://arxiv.org/abs/2411.04978)|null|
 |**2024-11-07**|**Capacities of Entanglement Distribution From a Central Source**|Xinan Chen et.al.|[2411.04977](http://arxiv.org/abs/2411.04977)|null|
@@ -3832,6 +3842,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-08**|**(3+1)d boundary topological order of (4+1)d fermionic SPT state**|Meng Cheng et.al.|[2411.05786](http://arxiv.org/abs/2411.05786)|null|
+|**2024-11-07**|**Intrinsic Topological Entanglement Entropy and the Strong Subadditivity**|Chih-Yu Lo et.al.|[2411.05077](http://arxiv.org/abs/2411.05077)|null|
 |**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004](http://arxiv.org/abs/2411.05004)|null|
 |**2024-11-07**|**Berry phase in axion physics: implications for detection, SM global structure, and generalized symmetries**|Qing-Hong Cao et.al.|[2411.04749](http://arxiv.org/abs/2411.04749)|null|
 |**2024-11-07**|**Gauge theory and mixed state criticality**|Takamasa Ando et.al.|[2411.04360](http://arxiv.org/abs/2411.04360)|null|
