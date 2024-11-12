@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Experimental evidence for dipole-phonon quantum logic in a trapped calcium monoxide and calcium ion chain**|Lu Qi et.al.|[2411.07137](http://arxiv.org/abs/2411.07137)|null|
+|**2024-11-11**|**Analytically Exact Quantum Simulation of N-Body Interactions via Untunable Decentralized Hamiltonians for Implementing the Toric Code and Its Modifications**|Haochen Zhao et.al.|[2411.07117](http://arxiv.org/abs/2411.07117)|null|
+|**2024-11-11**|**Understanding Generalization in Quantum Machine Learning with Margins**|Tak Hur et.al.|[2411.06919](http://arxiv.org/abs/2411.06919)|null|
+|**2024-11-11**|**Quantum machine learning via continuous-variable cluster states and teleportation**|Jorge García-Beni et.al.|[2411.06907](http://arxiv.org/abs/2411.06907)|null|
+|**2024-11-11**|**Qunicorn: A Middleware for the Unified Execution Across Heterogeneous Quantum Cloud Offerings**|Benjamin Weder et.al.|[2411.06889](http://arxiv.org/abs/2411.06889)|null|
+|**2024-11-11**|**Computable Model-Independent Bounds for Adversarial Quantum Machine Learning**|Bacui Li et.al.|[2411.06863](http://arxiv.org/abs/2411.06863)|null|
+|**2024-11-11**|**External Control over Magnon-Magnon Coupling in a Two-Dimensional Array of Square Shaped Nanomagnets**|Swapnil Barman et.al.|[2411.06849](http://arxiv.org/abs/2411.06849)|null|
+|**2024-11-11**|**Test-Time Training with Quantum Auto-Encoder: From Distribution Shift to Noisy Quantum Circuits**|Damien Jian et.al.|[2411.06828](http://arxiv.org/abs/2411.06828)|null|
+|**2024-11-11**|**Efficient Classical Computation of Single-Qubit Marginal Measurement Probabilities to Simulate Certain Classes of Quantum Algorithms**|Santana Y. Pradata et.al.|[2411.06822](http://arxiv.org/abs/2411.06822)|null|
+|**2024-11-11**|**Emergence of steady quantum transport in a superconducting processor**|Pengfei Zhang et.al.|[2411.06794](http://arxiv.org/abs/2411.06794)|null|
 |**2024-11-08**|**Unstructured Adiabatic Quantum Optimization: Optimality with Limitations**|Arthur Braida et.al.|[2411.05736](http://arxiv.org/abs/2411.05736)|null|
 |**2024-11-08**|**On properties of Schmidt Decomposition**|Mithilesh Kumar et.al.|[2411.05703](http://arxiv.org/abs/2411.05703)|null|
 |**2024-11-08**|**Analysis of the confinement string in (2 + 1)-dimensional Quantum Electrodynamics with a trapped-ion quantum computer**|Arianna Crippa et.al.|[2411.05628](http://arxiv.org/abs/2411.05628)|null|
@@ -3842,6 +3852,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney et.al.|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
+|**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
+|**2024-11-11**|**Re-entrant topological order in strongly correlated nanowire due to Rashba spin-orbit coupling**|Kaushal Kumar Kesharpu et.al.|[2411.06820](http://arxiv.org/abs/2411.06820)|null|
+|**2024-11-08**|**Cosmology From CMB Lensing and Delensed EE Power Spectra Using 2019-2020 SPT-3G Polarization Data**|F. Ge et.al.|[2411.06000](http://arxiv.org/abs/2411.06000)|null|
 |**2024-11-08**|**(3+1)d boundary topological order of (4+1)d fermionic SPT state**|Meng Cheng et.al.|[2411.05786](http://arxiv.org/abs/2411.05786)|null|
 |**2024-11-07**|**Intrinsic Topological Entanglement Entropy and the Strong Subadditivity**|Chih-Yu Lo et.al.|[2411.05077](http://arxiv.org/abs/2411.05077)|null|
 |**2024-11-07**|**Long-range entanglement from spontaneous non-onsite symmetry breaking**|Zhehao Zhang et.al.|[2411.05004](http://arxiv.org/abs/2411.05004)|null|
