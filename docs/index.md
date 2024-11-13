@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-12**|**Composite fermions and parton wavefunctions in twisted graphene on hexagonal boron nitride**|J. Salvador-Sánchez et.al.|[2411.07958](http://arxiv.org/abs/2411.07958)|null|
+|**2024-11-12**|**Scalable General Error Mitigation for Quantum Circuits**|Philip Döbler et.al.|[2411.07916](http://arxiv.org/abs/2411.07916)|null|
+|**2024-11-12**|**Universal coarse geometry of spin systems**|Ali Elokl et.al.|[2411.07912](http://arxiv.org/abs/2411.07912)|null|
+|**2024-11-12**|**Trapped-ion quantum simulation of the Fermi-Hubbard model as a lattice gauge theory using hardware-aware native gates**|Dhruv Srinivasan et.al.|[2411.07778](http://arxiv.org/abs/2411.07778)|null|
+|**2024-11-12**|**Digital reconstruction of squeezed light for quantum information processing**|Huy Q. Nguyen et.al.|[2411.07666](http://arxiv.org/abs/2411.07666)|null|
+|**2024-11-12**|**Quantum combinatorial optimization beyond the variational paradigm: simple schedules for hard problems**|Tim Bode et.al.|[2411.07646](http://arxiv.org/abs/2411.07646)|null|
+|**2024-11-12**|**Spin entanglement in antiferromagnetic spin-1 Bose-Einstein condensates**|A. Santiago et.al.|[2411.07637](http://arxiv.org/abs/2411.07637)|null|
+|**2024-11-12**|**Ising superconductivity in the bulk incommensurate layered material (PbS) $_{1.13}$(TaS$_2$ )**|Sajilesh K. P. et.al.|[2411.07624](http://arxiv.org/abs/2411.07624)|null|
+|**2024-11-12**|**Quantum Information-Empowered Graph Neural Network for Hyperspectral Change Detection**|Chia-Hsiang Lin et.al.|[2411.07608](http://arxiv.org/abs/2411.07608)|null|
+|**2024-11-12**|**Double-Signed Fragmented DNSSEC for Countering Quantum Threat**|Syed W. Shah. Lei Pan et.al.|[2411.07535](http://arxiv.org/abs/2411.07535)|null|
 |**2024-11-11**|**Experimental evidence for dipole-phonon quantum logic in a trapped calcium monoxide and calcium ion chain**|Lu Qi et.al.|[2411.07137](http://arxiv.org/abs/2411.07137)|null|
 |**2024-11-11**|**Analytically Exact Quantum Simulation of N-Body Interactions via Untunable Decentralized Hamiltonians for Implementing the Toric Code and Its Modifications**|Haochen Zhao et.al.|[2411.07117](http://arxiv.org/abs/2411.07117)|null|
 |**2024-11-11**|**Understanding Generalization in Quantum Machine Learning with Margins**|Tak Hur et.al.|[2411.06919](http://arxiv.org/abs/2411.06919)|null|
@@ -3852,6 +3862,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**A non-rational Verlinde formula from Virasoro TQFT**|Boris Post et.al.|[2411.07285](http://arxiv.org/abs/2411.07285)|null|
 |**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney et.al.|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
 |**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
 |**2024-11-11**|**Re-entrant topological order in strongly correlated nanowire due to Rashba spin-orbit coupling**|Kaushal Kumar Kesharpu et.al.|[2411.06820](http://arxiv.org/abs/2411.06820)|null|
