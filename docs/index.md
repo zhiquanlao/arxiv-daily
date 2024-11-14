@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Quantum cryptography beyond key distribution: theory and experiment**|Mathieu Bozzio et.al.|[2411.08877](http://arxiv.org/abs/2411.08877)|null|
+|**2024-11-13**|**How NOT to Fool the Masses When Giving Performance Results for Quantum Computers**|Catherine McGeoch et.al.|[2411.08860](http://arxiv.org/abs/2411.08860)|null|
+|**2024-11-13**|**Trapped-ion laser cooling in structured light fields**|Zhenzhong et.al.|[2411.08844](http://arxiv.org/abs/2411.08844)|null|
+|**2024-11-13**|**Reducing QAOA Circuit Depth by Factoring out Semi-Symmetries**|Jonas Nüßlein et.al.|[2411.08824](http://arxiv.org/abs/2411.08824)|null|
+|**2024-11-13**|**RSFQ All-Digital Programmable Multi-Tone Generator For Quantum Applications**|João Barbosa et.al.|[2411.08670](http://arxiv.org/abs/2411.08670)|null|
+|**2024-11-13**|**Multiplexed bi-layered realization of fault-tolerant quantum computation over optically networked trapped-ion modules**|Nitish K. Chandra et.al.|[2411.08616](http://arxiv.org/abs/2411.08616)|null|
+|**2024-11-13**|**Expressibility, entangling power and quantum average causal effect for causally indefinite circuits**|Pedro C. Azado et.al.|[2411.08609](http://arxiv.org/abs/2411.08609)|null|
+|**2024-11-13**|**Leveraging Pre-Trained Neural Networks to Enhance Machine Learning with Variational Quantum Circuits**|Jun Qi et.al.|[2411.08552](http://arxiv.org/abs/2411.08552)|null|
+|**2024-11-13**|**Exciton Enhanced Giant Correlated Stoke AntiStokes Scattering of Multiorder Phonons in Semiconductor**|Jia-Min Lai et.al.|[2411.08527](http://arxiv.org/abs/2411.08527)|null|
+|**2024-11-13**|**A fiber array architecture for atom quantum computing**|Xiao Li et.al.|[2411.08502](http://arxiv.org/abs/2411.08502)|null|
 |**2024-11-12**|**Composite fermions and parton wavefunctions in twisted graphene on hexagonal boron nitride**|J. Salvador-Sánchez et.al.|[2411.07958](http://arxiv.org/abs/2411.07958)|null|
 |**2024-11-12**|**Scalable General Error Mitigation for Quantum Circuits**|Philip Döbler et.al.|[2411.07916](http://arxiv.org/abs/2411.07916)|null|
 |**2024-11-12**|**Universal coarse geometry of spin systems**|Ali Elokl et.al.|[2411.07912](http://arxiv.org/abs/2411.07912)|null|
@@ -3862,6 +3872,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan et.al.|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
+|**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui et.al.|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
+|**2024-11-13**|**Inference-Aware State Reconstruction for Industrial Metaverse under Synchronous/Asynchronous Short-Packet Transmission**|Qinqin Xiong et.al.|[2411.08413](http://arxiv.org/abs/2411.08413)|null|
+|**2024-11-12**|**Cavity-Vacuum-Induced Chiral Spin Liquids in Kagome Lattices: Tuning and Probing Topological Quantum Phases via Cavity Quantum Electrodynamics**|Chenan Wei et.al.|[2411.08121](http://arxiv.org/abs/2411.08121)|null|
 |**2024-11-11**|**A non-rational Verlinde formula from Virasoro TQFT**|Boris Post et.al.|[2411.07285](http://arxiv.org/abs/2411.07285)|null|
 |**2024-11-11**|**Fractionalized superconductivity from Majorana glue in the Kitaev-Kondo lattice**|Matthew Bunney et.al.|[2411.07201](http://arxiv.org/abs/2411.07201)|null|
 |**2024-11-11**|**Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings**|Shuangyuan Lu et.al.|[2411.07174](http://arxiv.org/abs/2411.07174)|null|
