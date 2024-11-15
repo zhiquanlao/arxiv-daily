@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen et.al.|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
+|**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu et.al.|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
+|**2024-11-14**|**On the Ferrimagnetic State of CrCl $_2$(pyz)$_2$**|Freja Schou Guttesen et.al.|[2411.09662](http://arxiv.org/abs/2411.09662)|null|
+|**2024-11-14**|**Quantum computing inspired paintings: reinterpreting classical masterpieces**|Arianna Crippa et.al.|[2411.09549](http://arxiv.org/abs/2411.09549)|null|
+|**2024-11-14**|**On the distillablity conjecture in matrix theory**|Saiqi Liu et.al.|[2411.09527](http://arxiv.org/abs/2411.09527)|null|
+|**2024-11-14**|**Distinctive features of inhomogeneous spin chains**|Pierre-Antoine Bernard et.al.|[2411.09487](http://arxiv.org/abs/2411.09487)|null|
+|**2024-11-14**|**Bipartite Relativistic Quantum Information from Effective Field Theory Approach with Implications to Contextual Meanings of Locality and Quantumness**|Feng-Li Lin et.al.|[2411.09409](http://arxiv.org/abs/2411.09409)|null|
+|**2024-11-14**|**Quantum Machine Learning: An Interplay Between Quantum Computing and Machine Learning**|Jun Qi et.al.|[2411.09403](http://arxiv.org/abs/2411.09403)|null|
+|**2024-11-14**|**Nonlinear squeezing generation via multimode PDC and single photon measurement**|Vojtěch Kala et.al.|[2411.09379](http://arxiv.org/abs/2411.09379)|null|
+|**2024-11-14**|**AMARETTO: Enabling Efficient Quantum Algorithm Emulation on Low-Tier FPGAs**|Christian Conti et.al.|[2411.09320](http://arxiv.org/abs/2411.09320)|null|
 |**2024-11-13**|**Quantum cryptography beyond key distribution: theory and experiment**|Mathieu Bozzio et.al.|[2411.08877](http://arxiv.org/abs/2411.08877)|null|
 |**2024-11-13**|**How NOT to Fool the Masses When Giving Performance Results for Quantum Computers**|Catherine McGeoch et.al.|[2411.08860](http://arxiv.org/abs/2411.08860)|null|
 |**2024-11-13**|**Trapped-ion laser cooling in structured light fields**|Zhenzhong et.al.|[2411.08844](http://arxiv.org/abs/2411.08844)|null|
@@ -3872,6 +3882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
 |**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan et.al.|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
 |**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui et.al.|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
 |**2024-11-13**|**Inference-Aware State Reconstruction for Industrial Metaverse under Synchronous/Asynchronous Short-Packet Transmission**|Qinqin Xiong et.al.|[2411.08413](http://arxiv.org/abs/2411.08413)|null|
