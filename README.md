@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Nitrogen vacancy center in diamond-based Faraday magnetometer**|Reza Kashtiban et.al.|[2411.10437](http://arxiv.org/abs/2411.10437)|null|
+|**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
+|**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
+|**2024-11-15**|**Dynamics of Quantum Correlations and Entanglement Generation in Electron-Molecule Inelastic Scattering**|Martin Mendez et.al.|[2411.10358](http://arxiv.org/abs/2411.10358)|null|
+|**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad et.al.|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
+|**2024-11-15**|**Quantum-assisted Stacking Sequence Retrieval and Laminated Composite Design**|Arne Wulff et.al.|[2411.10303](http://arxiv.org/abs/2411.10303)|null|
+|**2024-11-15**|**Uncertainty in Supply Chain Digital Twins: A Quantum-Classical Hybrid Approach**|Abdullah Abdullah et.al.|[2411.10254](http://arxiv.org/abs/2411.10254)|null|
+|**2024-11-15**|**Measuring Butterfly Velocity in the XY Model on Emerging Quantum Computers**|Calum McCartney et.al.|[2411.10206](http://arxiv.org/abs/2411.10206)|null|
+|**2024-11-15**|**Virtual entanglement purification via noisy entanglement**|Kaoru Yamamoto et.al.|[2411.10024](http://arxiv.org/abs/2411.10024)|null|
+|**2024-11-15**|**Strategic Roadmap for Quantum- Resistant Security: A Framework for Preparing Industries for the Quantum Threat**|Arit Kumar Bishwas et.al.|[2411.09995](http://arxiv.org/abs/2411.09995)|null|
 |**2024-11-14**|**A Universal Circuit Set Using the $S_3$ Quantum Double**|Liyuan Chen et.al.|[2411.09697](http://arxiv.org/abs/2411.09697)|null|
 |**2024-11-14**|**Letting the tiger out of its cage: bosonic coding without concatenation**|Yijia Xu et.al.|[2411.09668](http://arxiv.org/abs/2411.09668)|null|
 |**2024-11-14**|**On the Ferrimagnetic State of CrCl $_2$(pyz)$_2$**|Freja Schou Guttesen et.al.|[2411.09662](http://arxiv.org/abs/2411.09662)|null|
