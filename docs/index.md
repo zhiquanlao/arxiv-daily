@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Logical computation demonstrated with a neutral atom quantum processor**|Ben W. Reichardt et.al.|[2411.11822](http://arxiv.org/abs/2411.11822)|null|
+|**2024-11-18**|**On the hardness of cloning and connections to representation theory**|Vojtěch Havlíček et.al.|[2411.11805](http://arxiv.org/abs/2411.11805)|null|
+|**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|null|
+|**2024-11-18**|**Optimization Algorithm for Inventory Management on Classical, Quantum and Quantum-Hybrid Hardware**|Gabriel P. L. M. Fernandes et.al.|[2411.11756](http://arxiv.org/abs/2411.11756)|null|
+|**2024-11-18**|**Nanoscale control over single vortex motion in an unconventional superconductor**|Sang Yong Song et.al.|[2411.11724](http://arxiv.org/abs/2411.11724)|null|
+|**2024-11-18**|**Stabilizer disentangling of conformal field theories**|Martina Frau et.al.|[2411.11720](http://arxiv.org/abs/2411.11720)|null|
+|**2024-11-18**|**High-fidelity universal gates in the $^{171}$ Yb ground state nuclear spin qubit**|J. A. Muniz et.al.|[2411.11708](http://arxiv.org/abs/2411.11708)|null|
+|**2024-11-18**|**Suppressing Si Valley Excitation and Valley-Induced Spin Dephasing for Long-Distance Shuttling**|Yasuo Oda et.al.|[2411.11695](http://arxiv.org/abs/2411.11695)|null|
+|**2024-11-18**|**Strong nanophotonic quantum squeezing exceeding 3.5 dB in a foundry-compatible Kerr microresonator**|Yichen Shen et.al.|[2411.11679](http://arxiv.org/abs/2411.11679)|null|
+|**2024-11-18**|**Encoding of Probability Distributions for Quantum Monte Carlo Using Tensor Networks**|Antonio Pereira et.al.|[2411.11660](http://arxiv.org/abs/2411.11660)|null|
 |**2024-11-15**|**Nitrogen vacancy center in diamond-based Faraday magnetometer**|Reza Kashtiban et.al.|[2411.10437](http://arxiv.org/abs/2411.10437)|null|
 |**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
