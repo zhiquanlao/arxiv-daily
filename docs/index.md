@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-19**|**Testing classical properties from quantum data**|Matthias C. Caro et.al.|[2411.12730](http://arxiv.org/abs/2411.12730)|null|
+|**2024-11-19**|**Quantum ergodicity and scrambling in quantum annealers**|Manuel H. Muñoz-Arias et.al.|[2411.12625](http://arxiv.org/abs/2411.12625)|null|
+|**2024-11-19**|**Universal programmable waveguide arrays**|Akram Youssry et.al.|[2411.12610](http://arxiv.org/abs/2411.12610)|null|
+|**2024-11-19**|**Solving the Perfect Domination Problem by Quantum Approximate Optimization Algorithm with Small Layers**|Haoqian Pan et.al.|[2411.12608](http://arxiv.org/abs/2411.12608)|null|
+|**2024-11-19**|**Quantum advantage from soft decoders**|André Chailloux et.al.|[2411.12553](http://arxiv.org/abs/2411.12553)|null|
+|**2024-11-19**|**Sequential Quantum Maximum Confidence Discrimination**|Hanwool Lee et.al.|[2411.12550](http://arxiv.org/abs/2411.12550)|null|
+|**2024-11-19**|**Asymptotic robustness of entanglement in noisy quantum networks and graph connectivity**|Fernando Lledó et.al.|[2411.12548](http://arxiv.org/abs/2411.12548)|null|
+|**2024-11-19**|**Measurement-Based Quantum Compiling via Gauge Invariance**|Sebastiano Corli et.al.|[2411.12485](http://arxiv.org/abs/2411.12485)|null|
+|**2024-11-19**|**Variational learning of integrated quantum photonic circuits**|Hui Zhang et.al.|[2411.12417](http://arxiv.org/abs/2411.12417)|null|
+|**2024-11-19**|**Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing**|Xiaorang Guo et.al.|[2411.12401](http://arxiv.org/abs/2411.12401)|null|
 |**2024-11-18**|**Logical computation demonstrated with a neutral atom quantum processor**|Ben W. Reichardt et.al.|[2411.11822](http://arxiv.org/abs/2411.11822)|null|
 |**2024-11-18**|**On the hardness of cloning and connections to representation theory**|Vojtěch Havlíček et.al.|[2411.11805](http://arxiv.org/abs/2411.11805)|null|
 |**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|null|
@@ -3902,6 +3912,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li et.al.|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
 |**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
 |**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan et.al.|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
 |**2024-11-13**|**Twisted Kitaev quantum double model as local topological order**|Shawn X. Cui et.al.|[2411.08675](http://arxiv.org/abs/2411.08675)|null|
