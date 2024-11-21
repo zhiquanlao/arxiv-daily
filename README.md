@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo et.al.|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
+|**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
+|**2024-11-20**|**Improved fluxonium readout through dynamic flux pulsing**|Taryn V. Stefanski et.al.|[2411.13437](http://arxiv.org/abs/2411.13437)|null|
+|**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378](http://arxiv.org/abs/2411.13378)|null|
+|**2024-11-20**|**Multicomponent cat states with sub-Planck structures and their optomechanical analogues**|Tan Hailin et.al.|[2411.13349](http://arxiv.org/abs/2411.13349)|null|
+|**2024-11-20**|**Transforming the Hybrid Cloud for Emerging AI Workloads**|Deming Chen et.al.|[2411.13239](http://arxiv.org/abs/2411.13239)|null|
+|**2024-11-20**|**Quantum Kernel-Based Long Short-term Memory**|Yu-Chao Hsu et.al.|[2411.13225](http://arxiv.org/abs/2411.13225)|null|
+|**2024-11-20**|**A universal framework for the quantum simulation of Yang-Mills theory**|Jad C. Halimeh et.al.|[2411.13161](http://arxiv.org/abs/2411.13161)|null|
+|**2024-11-20**|**Cooperative quantum interface for noise mitigation in quantum networks**|Yan-Lei Zhang et.al.|[2411.13158](http://arxiv.org/abs/2411.13158)|null|
+|**2024-11-20**|**Measurement-free code-switching for low overhead quantum computation using permutation invariant codes**|Yingkai Ouyang et.al.|[2411.13142](http://arxiv.org/abs/2411.13142)|null|
 |**2024-11-19**|**Testing classical properties from quantum data**|Matthias C. Caro et.al.|[2411.12730](http://arxiv.org/abs/2411.12730)|null|
 |**2024-11-19**|**Quantum ergodicity and scrambling in quantum annealers**|Manuel H. Muñoz-Arias et.al.|[2411.12625](http://arxiv.org/abs/2411.12625)|null|
 |**2024-11-19**|**Universal programmable waveguide arrays**|Akram Youssry et.al.|[2411.12610](http://arxiv.org/abs/2411.12610)|null|
