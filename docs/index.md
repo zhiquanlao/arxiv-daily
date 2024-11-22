@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**QMA vs. QCMA and Pseudorandomness**|Jiahui Liu et.al.|[2411.14416](http://arxiv.org/abs/2411.14416)|null|
+|**2024-11-21**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
+|**2024-11-21**|**Non-Markovian to Markovian decay in structured environments with correlated disorder**|Mariana O. Monteiro et.al.|[2411.14304](http://arxiv.org/abs/2411.14304)|null|
+|**2024-11-21**|**Hypothesis testing of symmetry in quantum dynamics**|Yu-Ao Chen et.al.|[2411.14292](http://arxiv.org/abs/2411.14292)|null|
+|**2024-11-21**|**On braid statistics versus parastatistics**|Francesco Toppan et.al.|[2411.14261](http://arxiv.org/abs/2411.14261)|null|
+|**2024-11-21**|**Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning**|Chelsea A. Williams et.al.|[2411.14259](http://arxiv.org/abs/2411.14259)|null|
+|**2024-11-21**|**Current-induced brightening of vacancy-related emitters in hexagonal boron nitride**|Corinne Steiner et.al.|[2411.14152](http://arxiv.org/abs/2411.14152)|null|
+|**2024-11-21**|**Generating entangled pairs of vortex photons via induced emission**|D. V. Grosman et.al.|[2411.14148](http://arxiv.org/abs/2411.14148)|null|
+|**2024-11-21**|**Strongly Confined Atomic Excitation Localization in a Weakly-Driven Atom-Waveguide Interface**|Shao-Hung Chung et.al.|[2411.14098](http://arxiv.org/abs/2411.14098)|null|
+|**2024-11-21**|**Sample space filling analysis for boson sampling validation**|A. A. Mazanik et.al.|[2411.14076](http://arxiv.org/abs/2411.14076)|null|
 |**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo et.al.|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
 |**2024-11-20**|**Improved fluxonium readout through dynamic flux pulsing**|Taryn V. Stefanski et.al.|[2411.13437](http://arxiv.org/abs/2411.13437)|null|
@@ -3922,6 +3932,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**On the geometry of Kähler--Frobenius manifolds and their classification**|Noemie. C. Combe et.al.|[2411.14362](http://arxiv.org/abs/2411.14362)|null|
+|**2024-11-21**|**Dirac and chiral spin liquids on spin-1/2 square-lattice Heisenberg antiferromagnet**|Hui-Ke Jin et.al.|[2411.14114](http://arxiv.org/abs/2411.14114)|null|
 |**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li et.al.|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
 |**2024-11-14**|**Non-Invertible Symmetries in 6d from Green-Schwarz Automorphisms**|Fabio Apruzzi et.al.|[2411.09674](http://arxiv.org/abs/2411.09674)|null|
 |**2024-11-13**|**Fractional Chern mosaic in supermoiré graphene**|Yves H. Kwan et.al.|[2411.08880](http://arxiv.org/abs/2411.08880)|null|
