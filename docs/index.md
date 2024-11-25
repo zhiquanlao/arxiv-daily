@@ -3417,8 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol**|Lahoucine Bouhouch et.al.|[2411.15077](http://arxiv.org/abs/2411.15077)|null|
+|**2024-11-22**|**A Constant Measurement Quantum Algorithm for Graph Connectivity**|Maximilian Balthasar Mansky et.al.|[2411.15015](http://arxiv.org/abs/2411.15015)|null|
+|**2024-11-22**|**Towards Variational Quantum Algorithms for generalized linear and nonlinear transport phenomena**|Sergio Bengoechea et.al.|[2411.14931](http://arxiv.org/abs/2411.14931)|null|
+|**2024-11-22**|**Quantum Algorithm for the Multiple String Matching Problem**|Kamil Khadiev et.al.|[2411.14850](http://arxiv.org/abs/2411.14850)|null|
+|**2024-11-22**|**Fixed Points of Completely Positive Trace-Preserving Maps in Infinite Dimension**|Roderich Tumulka et.al.|[2411.14800](http://arxiv.org/abs/2411.14800)|null|
+|**2024-11-22**|**Uncorrectable-error-injection based reliable and secure quantum communication**|IlKwon Sohn et.al.|[2411.14710](http://arxiv.org/abs/2411.14710)|null|
+|**2024-11-21**|**Capacity-Achieving Entanglement Purification Protocol for Pauli Dephasing Channel**|Ozlem Erkilic et.al.|[2411.14573](http://arxiv.org/abs/2411.14573)|null|
+|**2024-11-21**|**A relativistic QFT description for the interaction of a spin with a magnetic field**|Ruhi Shah et.al.|[2411.14523](http://arxiv.org/abs/2411.14523)|null|
 |**2024-11-21**|**QMA vs. QCMA and Pseudorandomness**|Jiahui Liu et.al.|[2411.14416](http://arxiv.org/abs/2411.14416)|null|
-|**2024-11-21**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
+|**2024-11-22**|**Adversarial Poisoning Attack on Quantum Machine Learning Models**|Satwik Kundu et.al.|[2411.14412](http://arxiv.org/abs/2411.14412)|null|
 |**2024-11-21**|**Non-Markovian to Markovian decay in structured environments with correlated disorder**|Mariana O. Monteiro et.al.|[2411.14304](http://arxiv.org/abs/2411.14304)|null|
 |**2024-11-21**|**Hypothesis testing of symmetry in quantum dynamics**|Yu-Ao Chen et.al.|[2411.14292](http://arxiv.org/abs/2411.14292)|null|
 |**2024-11-21**|**On braid statistics versus parastatistics**|Francesco Toppan et.al.|[2411.14261](http://arxiv.org/abs/2411.14261)|null|
@@ -3932,6 +3940,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Gauging in Parameter Space: A Top-Down Perspective**|Xingyang Yu et.al.|[2411.14997](http://arxiv.org/abs/2411.14997)|null|
 |**2024-11-21**|**On the geometry of Kähler--Frobenius manifolds and their classification**|Noemie. C. Combe et.al.|[2411.14362](http://arxiv.org/abs/2411.14362)|null|
 |**2024-11-21**|**Dirac and chiral spin liquids on spin-1/2 square-lattice Heisenberg antiferromagnet**|Hui-Ke Jin et.al.|[2411.14114](http://arxiv.org/abs/2411.14114)|null|
 |**2024-11-18**|**Domain walls from SPT-sewing**|Yabo Li et.al.|[2411.11967](http://arxiv.org/abs/2411.11967)|null|
