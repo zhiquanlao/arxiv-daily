@@ -2027,7 +2027,7 @@
 |**2024-01-05**|**CoCoT: Contrastive Chain-of-Thought Prompting for Large Multimodal Models with Multiple Image Inputs**|Daoan Zhang et.al.|[2401.02582](http://arxiv.org/abs/2401.02582)|null|
 |**2024-01-03**|**Local Adaptive Clustering Based Image Matching for Automatic Visual Identification**|Zhizhen Wang et.al.|[2401.01720](http://arxiv.org/abs/2401.01720)|null|
 |**2024-01-03**|**A Transformer-Based Adaptive Semantic Aggregation Method for UAV Visual Geo-Localization**|Shishen Li et.al.|[2401.01574](http://arxiv.org/abs/2401.01574)|null|
-|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|null|
+|**2023-12-23**|**BEV-CV: Birds-Eye-View Transform for Cross-View Geo-Localisation**|Tavis Shore et.al.|[2312.15363](http://arxiv.org/abs/2312.15363)|**[link](https://github.com/tavisshore/BEV-CV)**|
 |**2023-12-22**|**Harnessing Diffusion Models for Visual Perception with Meta Prompts**|Qiang Wan et.al.|[2312.14733](http://arxiv.org/abs/2312.14733)|**[link](https://github.com/fudan-zvg/meta-prompts)**|
 |**2024-01-05**|**MatchDet: A Collaborative Framework for Image Matching and Object Detection**|Jinxiang Lai et.al.|[2312.10983](http://arxiv.org/abs/2312.10983)|null|
 |**2023-12-07**|**Visual Geometry Grounded Deep Structure From Motion**|Jianyuan Wang et.al.|[2312.04563](http://arxiv.org/abs/2312.04563)|null|
@@ -2941,7 +2941,7 @@
 |**2023-09-20**|**GenLayNeRF: Generalizable Layered Representations with 3D Model Alignment for Multi-Human View Synthesis**|Youssef Abdelkareem et.al.|[2309.11627](http://arxiv.org/abs/2309.11627)|null|
 |**2023-09-20**|**Light Field Diffusion for Single-View Novel View Synthesis**|Yifeng Xiong et.al.|[2309.11525](http://arxiv.org/abs/2309.11525)|null|
 |**2023-09-21**|**Controllable Dynamic Appearance for Neural 3D Portraits**|ShahRukh Athar et.al.|[2309.11009](http://arxiv.org/abs/2309.11009)|null|
-|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|null|
+|**2023-09-20**|**Spiking NeRF: Making Bio-inspired Neural Networks See through the Real World**|Xingting Yao et.al.|[2309.10987](http://arxiv.org/abs/2309.10987)|**[link](https://github.com/Ikarosy/SpikingNeRF-of-CASIA)**|
 |**2023-09-19**|**Locally Stylized Neural Radiance Fields**|Hong-Wing Pang et.al.|[2309.10684](http://arxiv.org/abs/2309.10684)|null|
 |**2023-09-19**|**Steganography for Neural Radiance Fields by Backdooring**|Weina Dong et.al.|[2309.10503](http://arxiv.org/abs/2309.10503)|null|
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
@@ -3451,7 +3451,7 @@
 |**2024-11-21**|**Sample space filling analysis for boson sampling validation**|A. A. Mazanik et.al.|[2411.14076](http://arxiv.org/abs/2411.14076)|null|
 |**2024-11-20**|**Degenerate quantum erasure decoding**|Kao-Yueh Kuo et.al.|[2411.13509](http://arxiv.org/abs/2411.13509)|null|
 |**2024-11-20**|**Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks**|Jun Yong Khoo et.al.|[2411.13468](http://arxiv.org/abs/2411.13468)|null|
-|**2024-11-20**|**Improved fluxonium readout through dynamic flux pulsing**|Taryn V. Stefanski et.al.|[2411.13437](http://arxiv.org/abs/2411.13437)|null|
+|**2024-11-20**|**Improved fluxonium readout through dynamic flux pulsing**|Taryn V. Stefanski et.al.|[2411.13437](http://arxiv.org/abs/2411.13437)|**[link](https://github.com/andersenqubitlab/fpa-ro-experimental)**|
 |**2024-11-20**|**Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding**|Hoang-Quan Nguyen et.al.|[2411.13378](http://arxiv.org/abs/2411.13378)|null|
 |**2024-11-20**|**Multicomponent cat states with sub-Planck structures and their optomechanical analogues**|Tan Hailin et.al.|[2411.13349](http://arxiv.org/abs/2411.13349)|null|
 |**2024-11-20**|**Transforming the Hybrid Cloud for Emerging AI Workloads**|Deming Chen et.al.|[2411.13239](http://arxiv.org/abs/2411.13239)|null|
@@ -3471,7 +3471,7 @@
 |**2024-11-19**|**Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing**|Xiaorang Guo et.al.|[2411.12401](http://arxiv.org/abs/2411.12401)|null|
 |**2024-11-18**|**Logical computation demonstrated with a neutral atom quantum processor**|Ben W. Reichardt et.al.|[2411.11822](http://arxiv.org/abs/2411.11822)|null|
 |**2024-11-18**|**On the hardness of cloning and connections to representation theory**|Vojtěch Havlíček et.al.|[2411.11805](http://arxiv.org/abs/2411.11805)|null|
-|**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|null|
+|**2024-11-18**|**Reuse-Aware Compilation for Zoned Quantum Architectures Based on Neutral Atoms**|Wan-Hsuan Lin et.al.|[2411.11784](http://arxiv.org/abs/2411.11784)|**[link](https://github.com/ucla-vast/zac)**|
 |**2024-11-18**|**Optimization Algorithm for Inventory Management on Classical, Quantum and Quantum-Hybrid Hardware**|Gabriel P. L. M. Fernandes et.al.|[2411.11756](http://arxiv.org/abs/2411.11756)|null|
 |**2024-11-18**|**Nanoscale control over single vortex motion in an unconventional superconductor**|Sang Yong Song et.al.|[2411.11724](http://arxiv.org/abs/2411.11724)|null|
 |**2024-11-18**|**Stabilizer disentangling of conformal field theories**|Martina Frau et.al.|[2411.11720](http://arxiv.org/abs/2411.11720)|null|
@@ -3484,7 +3484,7 @@
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
 |**2024-11-15**|**Dynamics of Quantum Correlations and Entanglement Generation in Electron-Molecule Inelastic Scattering**|Martin Mendez et.al.|[2411.10358](http://arxiv.org/abs/2411.10358)|null|
 |**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad et.al.|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
-|**2024-11-15**|**Quantum-assisted Stacking Sequence Retrieval and Laminated Composite Design**|Arne Wulff et.al.|[2411.10303](http://arxiv.org/abs/2411.10303)|null|
+|**2024-11-15**|**Quantum-assisted Stacking Sequence Retrieval and Laminated Composite Design**|Arne Wulff et.al.|[2411.10303](http://arxiv.org/abs/2411.10303)|**[link](https://github.com/arnewulff/quantum-mobility-quest-qaims)**|
 |**2024-11-15**|**Uncertainty in Supply Chain Digital Twins: A Quantum-Classical Hybrid Approach**|Abdullah Abdullah et.al.|[2411.10254](http://arxiv.org/abs/2411.10254)|null|
 |**2024-11-15**|**Measuring Butterfly Velocity in the XY Model on Emerging Quantum Computers**|Calum McCartney et.al.|[2411.10206](http://arxiv.org/abs/2411.10206)|null|
 |**2024-11-15**|**Virtual entanglement purification via noisy entanglement**|Kaoru Yamamoto et.al.|[2411.10024](http://arxiv.org/abs/2411.10024)|null|
@@ -3580,7 +3580,7 @@
 |**2024-11-04**|**Resource-optimized fault-tolerant simulation of the Fermi-Hubbard model and high-temperature superconductor models**|Angus Kan et.al.|[2411.02160](http://arxiv.org/abs/2411.02160)|null|
 |**2024-11-04**|**An Exponential Separation Between Quantum and Quantum-Inspired Classical Algorithms for Machine Learning**|Allan Grønlund et.al.|[2411.02087](http://arxiv.org/abs/2411.02087)|null|
 |**2024-10-31**|**Measurement-invisible quantum correlations in scrambling dynamics**|Alan Sherry et.al.|[2410.24212](http://arxiv.org/abs/2410.24212)|null|
-|**2024-10-31**|**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**|Cica Gustiani et.al.|[2410.24133](http://arxiv.org/abs/2410.24133)|null|
+|**2024-10-31**|**On-Chip Verified Quantum Computation with an Ion-Trap Quantum Processing Unit**|Cica Gustiani et.al.|[2410.24133](http://arxiv.org/abs/2410.24133)|**[link](https://github.com/cqcl/ocvqc-data)**|
 |**2024-10-31**|**More global randomness from less random local gates**|Ryotaro Suzuki et.al.|[2410.24127](http://arxiv.org/abs/2410.24127)|null|
 |**2024-10-31**|**Natural gradient and parameter estimation for quantum Boltzmann machines**|Dhrumil Patel et.al.|[2410.24058](http://arxiv.org/abs/2410.24058)|null|
 |**2024-10-31**|**Non-equilibrium and equilibrium thermodynamic foundations of the 2D toric code within the SEAQT framework**|Cesar Damian et.al.|[2410.24033](http://arxiv.org/abs/2410.24033)|null|
