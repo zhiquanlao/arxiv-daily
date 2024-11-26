@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Implementing transferable annealing protocols for combinatorial optimisation on neutral atom quantum processors: a case study on smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656](http://arxiv.org/abs/2411.16656)|null|
+|**2024-11-25**|**Protomon: A Multimode Qubit in the Fluxonium Molecule**|Shashwat Kumar et.al.|[2411.16648](http://arxiv.org/abs/2411.16648)|null|
+|**2024-11-25**|**Factoring integers via Schnorr's algorithm assisted with VQE**|Luis Sánchez Cano et.al.|[2411.16632](http://arxiv.org/abs/2411.16632)|null|
+|**2024-11-25**|**Measuring entanglement without local addressing via spiral quantum state tomography**|Giacomo Marmorini et.al.|[2411.16603](http://arxiv.org/abs/2411.16603)|null|
+|**2024-11-25**|**Distributing Quantum Computations, Shot-wise**|Giuseppe Bisicchia et.al.|[2411.16530](http://arxiv.org/abs/2411.16530)|null|
+|**2024-11-25**|**InAs/InP quantum dot based C-Band all-fiber plug-and-play triggered single-photon source integrated using micro-transfer printing**|Marek G. Mikulicz et.al.|[2411.16490](http://arxiv.org/abs/2411.16490)|null|
+|**2024-11-25**|**Nonlinear quantum computing by amplified encodings**|Matthias Deiml et.al.|[2411.16435](http://arxiv.org/abs/2411.16435)|**[link](https://github.com/MDeiml/quantum-nonlinear)**|
+|**2024-11-25**|**Ultrahigh-fidelity spatial mode quantum gates in high-dimensional space by diffractive deep neural networks**|Qianke Wang et.al.|[2411.16410](http://arxiv.org/abs/2411.16410)|null|
+|**2024-11-25**|**Graph Neural Networks-based Parameter Design towards Large-Scale Superconducting Quantum Circuits for Crosstalk Mitigation**|Hao Ai et.al.|[2411.16354](http://arxiv.org/abs/2411.16354)|null|
+|**2024-11-25**|**Simulation of two-dimensional electronic spectroscopy on a near-term quantum computer using a probe qubit protocol**|José D. Guimarães et.al.|[2411.16290](http://arxiv.org/abs/2411.16290)|null|
 |**2024-11-22**|**Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol**|Lahoucine Bouhouch et.al.|[2411.15077](http://arxiv.org/abs/2411.15077)|null|
 |**2024-11-22**|**A Constant Measurement Quantum Algorithm for Graph Connectivity**|Maximilian Balthasar Mansky et.al.|[2411.15015](http://arxiv.org/abs/2411.15015)|null|
 |**2024-11-22**|**Towards Variational Quantum Algorithms for generalized linear and nonlinear transport phenomena**|Sergio Bengoechea et.al.|[2411.14931](http://arxiv.org/abs/2411.14931)|null|
@@ -3964,6 +3974,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678](http://arxiv.org/abs/2411.16678)|null|
+|**2024-11-25**|**The final state problem for the nonlinear Schrodinger equation in dimensions 1, 2 and 3**|Andrew Hassell et.al.|[2411.16090](http://arxiv.org/abs/2411.16090)|null|
+|**2024-11-22**|**Thermal Hall response of an abelian chiral spin liquid at finite temperatures**|Avijit Maity et.al.|[2411.15304](http://arxiv.org/abs/2411.15304)|null|
+|**2024-11-22**|**Regularizing 3D conformal field theories via anyons on the fuzzy sphere**|Cristian Voinea et.al.|[2411.15299](http://arxiv.org/abs/2411.15299)|null|
 |**2024-11-22**|**Gauging in Parameter Space: A Top-Down Perspective**|Xingyang Yu et.al.|[2411.14997](http://arxiv.org/abs/2411.14997)|null|
 |**2024-11-21**|**On the geometry of Kähler--Frobenius manifolds and their classification**|Noemie. C. Combe et.al.|[2411.14362](http://arxiv.org/abs/2411.14362)|null|
 |**2024-11-21**|**Dirac and chiral spin liquids on spin-1/2 square-lattice Heisenberg antiferromagnet**|Hui-Ke Jin et.al.|[2411.14114](http://arxiv.org/abs/2411.14114)|null|
