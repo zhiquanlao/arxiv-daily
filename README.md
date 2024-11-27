@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation**|Juan C. Domínguez et.al.|[2411.17657](http://arxiv.org/abs/2411.17657)|null|
+|**2024-11-26**|**Quantum Wave Simulation with Sources and Loss Functions**|Cyrill Bösch et.al.|[2411.17630](http://arxiv.org/abs/2411.17630)|null|
+|**2024-11-26**|**Mixed-State Quantum Denoising Diffusion Probabilistic Model**|Gino Kwun et.al.|[2411.17608](http://arxiv.org/abs/2411.17608)|null|
+|**2024-11-26**|**Warehouse optimization using a trapped-ion quantum processor**|Alexandre C. Ricardo et.al.|[2411.17575](http://arxiv.org/abs/2411.17575)|null|
+|**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno et.al.|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
+|**2024-11-26**|**An Improved Quantum Algorithm of the Multislice Method**|Y. C. Wang et.al.|[2411.17482](http://arxiv.org/abs/2411.17482)|null|
+|**2024-11-26**|**Experimental entanglement swapping through single-photon $χ^{(2)}$ nonlinearity**|Yoshiaki Tsujimoto et.al.|[2411.17267](http://arxiv.org/abs/2411.17267)|null|
+|**2024-11-26**|**Polarization and Orbital Angular Momentum Encoded Quantum Toffoli Gate Enabled by Diffractive Neural Networks**|Qianke Wang et.al.|[2411.17266](http://arxiv.org/abs/2411.17266)|null|
+|**2024-11-26**|**Divergence Inequalities with Applications in Ergodic Theory**|Ian George et.al.|[2411.17241](http://arxiv.org/abs/2411.17241)|null|
+|**2024-11-26**|**Targeted Clifford logical gates for hypergraph product codes**|Adway Patra et.al.|[2411.17050](http://arxiv.org/abs/2411.17050)|null|
 |**2024-11-25**|**Implementing transferable annealing protocols for combinatorial optimisation on neutral atom quantum processors: a case study on smart-charging of electric vehicles**|Lucas Leclerc et.al.|[2411.16656](http://arxiv.org/abs/2411.16656)|null|
 |**2024-11-25**|**Protomon: A Multimode Qubit in the Fluxonium Molecule**|Shashwat Kumar et.al.|[2411.16648](http://arxiv.org/abs/2411.16648)|null|
 |**2024-11-25**|**Factoring integers via Schnorr's algorithm assisted with VQE**|Luis Sánchez Cano et.al.|[2411.16632](http://arxiv.org/abs/2411.16632)|null|
@@ -3974,6 +3984,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217](http://arxiv.org/abs/2411.17217)|null|
+|**2024-11-25**|**Anyons on M5-Probes of Seifert 3-Orbifolds via Flux Quantization**|Hisham Sati et.al.|[2411.16852](http://arxiv.org/abs/2411.16852)|null|
 |**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678](http://arxiv.org/abs/2411.16678)|null|
 |**2024-11-25**|**The final state problem for the nonlinear Schrodinger equation in dimensions 1, 2 and 3**|Andrew Hassell et.al.|[2411.16090](http://arxiv.org/abs/2411.16090)|null|
 |**2024-11-22**|**Thermal Hall response of an abelian chiral spin liquid at finite temperatures**|Avijit Maity et.al.|[2411.15304](http://arxiv.org/abs/2411.15304)|null|
