@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles**|Joshua Quinton et.al.|[2411.18608](http://arxiv.org/abs/2411.18608)|null|
+|**2024-11-27**|**Bit symmetry entails the symmetry of the quantum transition probability**|Gerd Niestegge et.al.|[2411.18589](http://arxiv.org/abs/2411.18589)|null|
+|**2024-11-27**|**Parallel Token Swapping for Qubit Routing**|Ishan Bansal et.al.|[2411.18581](http://arxiv.org/abs/2411.18581)|null|
+|**2024-11-27**|**Ground-State Preparation of the Fermi-Hubbard Model on a Quantum Computer with 2D Topology via Quantum Eigenvalue Transformation of Unitary Matrices**|Thilo R. Müller et.al.|[2411.18535](http://arxiv.org/abs/2411.18535)|null|
+|**2024-11-27**|**Displaced Fermionic Gaussian States and their Classical Simulation**|Xingjian Lyu et.al.|[2411.18517](http://arxiv.org/abs/2411.18517)|null|
+|**2024-11-27**|**Second-order correlation and squeezing of photons in cavities with ultrastrong magnon-photon interactions**|Vemund Falch et.al.|[2411.18512](http://arxiv.org/abs/2411.18512)|null|
+|**2024-11-27**|**Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond**|Daniel Dulog et.al.|[2411.18450](http://arxiv.org/abs/2411.18450)|null|
+|**2024-11-27**|**Classical optimisation of reduced density matrix estimations with classical shadows using N-representability conditions under shot noise considerations**|Gian-Luca R. Anselmetti et.al.|[2411.18430](http://arxiv.org/abs/2411.18430)|null|
+|**2024-11-27**|**Krylov Complexity in early universe**|Ke-Hong Zhai et.al.|[2411.18405](http://arxiv.org/abs/2411.18405)|null|
+|**2024-11-27**|**Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs**|Youssef Moawad et.al.|[2411.18354](http://arxiv.org/abs/2411.18354)|null|
 |**2024-11-26**|**Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation**|Juan C. Domínguez et.al.|[2411.17657](http://arxiv.org/abs/2411.17657)|null|
 |**2024-11-26**|**Quantum Wave Simulation with Sources and Loss Functions**|Cyrill Bösch et.al.|[2411.17630](http://arxiv.org/abs/2411.17630)|null|
 |**2024-11-26**|**Mixed-State Quantum Denoising Diffusion Probabilistic Model**|Gino Kwun et.al.|[2411.17608](http://arxiv.org/abs/2411.17608)|null|
@@ -3960,7 +3970,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-11-26**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217](http://arxiv.org/abs/2411.17217)|null|
+|**2024-11-27**|**SymTFT Approach to 2D Orbifold Groupoids: `t Hooft Anomalies, Gauging, and Partition Functions**|Jin Chen et.al.|[2411.18056](http://arxiv.org/abs/2411.18056)|null|
+|**2024-11-27**|**Probing topological degeneracy on a torus using superconducting altermagnets**|Tsz Fung Heung et.al.|[2411.17964](http://arxiv.org/abs/2411.17964)|null|
+|**2024-11-26**|**The Inverse Laplacian: Traces in Infinite Dimensions**|Bryce Morrow et.al.|[2411.17890](http://arxiv.org/abs/2411.17890)|null|
+|**2024-11-26**|**Development of an MKID frequency-to-pixel LED mapper for SPT-3G+**|E. S. Martsen et.al.|[2411.17878](http://arxiv.org/abs/2411.17878)|null|
+|**2024-11-27**|**Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning**|Hui-Yue Yang et.al.|[2411.17217](http://arxiv.org/abs/2411.17217)|null|
 |**2024-11-25**|**Anyons on M5-Probes of Seifert 3-Orbifolds via Flux Quantization**|Hisham Sati et.al.|[2411.16852](http://arxiv.org/abs/2411.16852)|null|
 |**2024-11-25**|**Modified recombination and the Hubble tension**|Seyed Hamidreza Mirpoorian et.al.|[2411.16678](http://arxiv.org/abs/2411.16678)|null|
 |**2024-11-25**|**The final state problem for the nonlinear Schrodinger equation in dimensions 1, 2 and 3**|Andrew Hassell et.al.|[2411.16090](http://arxiv.org/abs/2411.16090)|null|
