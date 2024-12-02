@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
+|**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
+|**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|null|
+|**2024-11-29**|**Efficient quantum-enhanced classical simulation for patches of quantum landscapes**|Sacha Lerch et.al.|[2411.19896](http://arxiv.org/abs/2411.19896)|null|
+|**2024-11-29**|**Reverse-type Data Processing Inequality**|Paula Belzig et.al.|[2411.19890](http://arxiv.org/abs/2411.19890)|null|
+|**2024-11-29**|**Parametrized multiqubit gate design for neutral-atom based quantum platforms**|Madhav Mohan et.al.|[2411.19785](http://arxiv.org/abs/2411.19785)|null|
+|**2024-11-29**|**Quantum Dot Behaviour under the Influence of Non-Resonant Structured Laser Beams**|T. A. Sargsian et.al.|[2411.19752](http://arxiv.org/abs/2411.19752)|null|
+|**2024-11-29**|**Quantum computing architecture with Rydberg gates in trapped ions**|Han Bao et.al.|[2411.19684](http://arxiv.org/abs/2411.19684)|null|
+|**2024-11-29**|**Understanding the anisotropic growth of VS grown PbSnTe nanowires**|Mathijs G. C. Mientjes et.al.|[2411.19627](http://arxiv.org/abs/2411.19627)|null|
+|**2024-11-29**|**Quantum simulation of thermal field theories**|Iván Cuntín et.al.|[2411.19601](http://arxiv.org/abs/2411.19601)|null|
 |**2024-11-27**|**Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles**|Joshua Quinton et.al.|[2411.18608](http://arxiv.org/abs/2411.18608)|null|
 |**2024-11-27**|**Bit symmetry entails the symmetry of the quantum transition probability**|Gerd Niestegge et.al.|[2411.18589](http://arxiv.org/abs/2411.18589)|null|
 |**2024-11-27**|**Parallel Token Swapping for Qubit Routing**|Ishan Bansal et.al.|[2411.18581](http://arxiv.org/abs/2411.18581)|null|
@@ -3970,6 +3980,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**Interacting Dark Sector (ETHOS $n=0$ ): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**|Asmaa Mazoun et.al.|[2411.19911](http://arxiv.org/abs/2411.19911)|null|
+|**2024-11-28**|**Genus 2 Superstring Chiral Measure From The 3-Dimensional Gelca-Hamilton TQFT**|Saki Koizumi et.al.|[2411.19342](http://arxiv.org/abs/2411.19342)|null|
+|**2024-11-28**|**Connection between Free-Fermion and Interacting Crystalline Symmetry-Protected Topological Phases**|Chen-Shen Lee et.al.|[2411.19287](http://arxiv.org/abs/2411.19287)|null|
+|**2024-11-28**|**Crystalline-equivalent topological phases of many-body fermionic systems in one dimension**|Chen-Shen Lee et.al.|[2411.19268](http://arxiv.org/abs/2411.19268)|null|
+|**2024-11-28**|**Fracton and topological order in the XY checkerboard toric code**|M. Vieweg et.al.|[2411.19051](http://arxiv.org/abs/2411.19051)|null|
+|**2024-11-28**|**Noninvertible Symmetry-Enriched Quantum Critical Point**|Linhao Li et.al.|[2411.19034](http://arxiv.org/abs/2411.19034)|null|
 |**2024-11-27**|**SymTFT Approach to 2D Orbifold Groupoids: `t Hooft Anomalies, Gauging, and Partition Functions**|Jin Chen et.al.|[2411.18056](http://arxiv.org/abs/2411.18056)|null|
 |**2024-11-27**|**Probing topological degeneracy on a torus using superconducting altermagnets**|Tsz Fung Heung et.al.|[2411.17964](http://arxiv.org/abs/2411.17964)|null|
 |**2024-11-26**|**The Inverse Laplacian: Traces in Infinite Dimensions**|Bryce Morrow et.al.|[2411.17890](http://arxiv.org/abs/2411.17890)|null|
