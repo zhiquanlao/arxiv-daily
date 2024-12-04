@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Sample Complexity of Black Box Work Extraction**|Shantanav Chakraborty et.al.|[2412.02673](http://arxiv.org/abs/2412.02673)|null|
+|**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
+|**2024-12-03**|**Demonstration of a Photonic Time-Multiplexed C-NOT Gate**|Federico Pegoraro et.al.|[2412.02478](http://arxiv.org/abs/2412.02478)|null|
+|**2024-12-03**|**Reinforcement learning to learn quantum states for Heisenberg scaling accuracy**|Jeongwoo Jae et.al.|[2412.02334](http://arxiv.org/abs/2412.02334)|null|
+|**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
+|**2024-12-03**|**GQWformer: A Quantum-based Transformer for Graph Representation Learning**|Lei Yu et.al.|[2412.02285](http://arxiv.org/abs/2412.02285)|null|
+|**2024-12-03**|**Density matrix exponentiation and sample-based Hamiltonian simulation: Non-asymptotic analysis of sample complexity**|Byeongseon Go et.al.|[2412.02134](http://arxiv.org/abs/2412.02134)|null|
+|**2024-12-03**|**Thermal state structure in the Tavis--Cummings model and rapid simulations in mesoscopic quantum ensembles**|Lane G. Gunderman et.al.|[2412.02133](http://arxiv.org/abs/2412.02133)|null|
+|**2024-12-03**|**Ptychographic estimation of pure multiqubit states in a quantum device**|Warley M. S. Alves et.al.|[2412.02120](http://arxiv.org/abs/2412.02120)|null|
+|**2024-12-03**|**A Classic-Quantum Hybrid Network Framework: CQH-Net**|Ao Liu et.al.|[2412.02059](http://arxiv.org/abs/2412.02059)|null|
 |**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
 |**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
 |**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
@@ -4004,6 +4014,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**Higher symmetries of the lattices in 3D**|I. T. Habibullin et.al.|[2412.02221](http://arxiv.org/abs/2412.02221)|null|
+|**2024-12-03**|**Quantum phase diagram and non-abelian Moore-Read state in double twisted bilayer graphene**|Sen Niu et.al.|[2412.02128](http://arxiv.org/abs/2412.02128)|null|
+|**2024-12-02**|**Phase transitions and remnants of fractionalization at finite temperature in the triangular lattice quantum loop model**|Xiaoxue Ran et.al.|[2412.01503](http://arxiv.org/abs/2412.01503)|null|
+|**2024-12-01**|**Compressed 'CMB-lite' Likelihoods Using Automatic Differentiation**|L. Balkenhol et.al.|[2412.00826](http://arxiv.org/abs/2412.00826)|null|
+|**2024-11-30**|**Solving and visualizing fractional quantum Hall wavefunctions with neural network**|Yi Teng et.al.|[2412.00618](http://arxiv.org/abs/2412.00618)|null|
+|**2024-11-29**|**String theory and the SymTFT of 3d orthosymplectic Chern-Simons theory**|Oren Bergman et.al.|[2412.00184](http://arxiv.org/abs/2412.00184)|null|
 |**2024-11-29**|**Interacting Dark Sector (ETHOS $n=0$ ): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**|Asmaa Mazoun et.al.|[2411.19911](http://arxiv.org/abs/2411.19911)|null|
 |**2024-11-28**|**Genus 2 Superstring Chiral Measure From The 3-Dimensional Gelca-Hamilton TQFT**|Saki Koizumi et.al.|[2411.19342](http://arxiv.org/abs/2411.19342)|null|
 |**2024-11-28**|**Connection between Free-Fermion and Interacting Crystalline Symmetry-Protected Topological Phases**|Chen-Shen Lee et.al.|[2411.19287](http://arxiv.org/abs/2411.19287)|null|
