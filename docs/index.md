@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-04**|**Thermodynamic Theory of Linear Optical and Electro-Optic Properties of Ferroelectrics**|Aiden Ross et.al.|[2412.03459](http://arxiv.org/abs/2412.03459)|null|
+|**2024-12-04**|**A new fidelity of quantum channel evolution and its geometric interpretation**|Xiaojing Yan et.al.|[2412.03444](http://arxiv.org/abs/2412.03444)|null|
+|**2024-12-04**|**BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap**|Xian Wu et.al.|[2412.03443](http://arxiv.org/abs/2412.03443)|null|
+|**2024-12-04**|**Sensing and Control of Single Trapped Electrons Above 1 Kelvin**|K. E. Castoria et.al.|[2412.03404](http://arxiv.org/abs/2412.03404)|null|
+|**2024-12-04**|**Light structuring via nonlinear total angular momentum addition with flat optics**|Evgenii Menshikov et.al.|[2412.03367](http://arxiv.org/abs/2412.03367)|null|
+|**2024-12-04**|**Diverse methods and practical aspects in controlling single semiconductor qubits: a review**|Jia-Ao Peng et.al.|[2412.03286](http://arxiv.org/abs/2412.03286)|null|
+|**2024-12-04**|**Quantum Correlations in Neutrino and Neutral Meson Oscillations**|Subhashish Banerjee et.al.|[2412.03260](http://arxiv.org/abs/2412.03260)|null|
+|**2024-12-04**|**MLQM: Machine Learning Approach for Accelerating Optimal Qubit Mapping**|Wenjie Sun et.al.|[2412.03249](http://arxiv.org/abs/2412.03249)|null|
+|**2024-12-04**|**Directly measured squeeze factors over GHz bandwidth from monolithic ppKTP resonators**|Benedict Tohermes et.al.|[2412.03221](http://arxiv.org/abs/2412.03221)|null|
+|**2024-12-04**|**Null device-independent prepare-and-prepare bipartite dimension test with a single joint measurement**|Josep Batle et.al.|[2412.03197](http://arxiv.org/abs/2412.03197)|null|
 |**2024-12-03**|**Sample Complexity of Black Box Work Extraction**|Shantanav Chakraborty et.al.|[2412.02673](http://arxiv.org/abs/2412.02673)|null|
 |**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
 |**2024-12-03**|**Demonstration of a Photonic Time-Multiplexed C-NOT Gate**|Federico Pegoraro et.al.|[2412.02478](http://arxiv.org/abs/2412.02478)|null|
@@ -3990,10 +4000,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-03**|**Intertwined order of generalized global symmetries**|Benjamin Moy et.al.|[2412.02748](http://arxiv.org/abs/2412.02748)|null|
 |**2024-12-03**|**Higher symmetries of the lattices in 3D**|I. T. Habibullin et.al.|[2412.02221](http://arxiv.org/abs/2412.02221)|null|
 |**2024-12-03**|**Quantum phase diagram and non-abelian Moore-Read state in double twisted bilayer graphene**|Sen Niu et.al.|[2412.02128](http://arxiv.org/abs/2412.02128)|null|
 |**2024-12-02**|**Phase transitions and remnants of fractionalization at finite temperature in the triangular lattice quantum loop model**|Xiaoxue Ran et.al.|[2412.01503](http://arxiv.org/abs/2412.01503)|null|
-|**2024-12-01**|**Compressed 'CMB-lite' Likelihoods Using Automatic Differentiation**|L. Balkenhol et.al.|[2412.00826](http://arxiv.org/abs/2412.00826)|null|
+|**2024-12-01**|**Compressed 'CMB-lite' Likelihoods Using Automatic Differentiation**|L. Balkenhol et.al.|[2412.00826](http://arxiv.org/abs/2412.00826)|**[link](https://github.com/lbalkenhol/candl)**|
 |**2024-11-30**|**Solving and visualizing fractional quantum Hall wavefunctions with neural network**|Yi Teng et.al.|[2412.00618](http://arxiv.org/abs/2412.00618)|null|
 |**2024-11-29**|**String theory and the SymTFT of 3d orthosymplectic Chern-Simons theory**|Oren Bergman et.al.|[2412.00184](http://arxiv.org/abs/2412.00184)|null|
 |**2024-11-29**|**Interacting Dark Sector (ETHOS $n=0$ ): Cosmological Constraints from SPT Cluster Abundance with DES and HST Weak Lensing Data**|Asmaa Mazoun et.al.|[2411.19911](http://arxiv.org/abs/2411.19911)|null|
