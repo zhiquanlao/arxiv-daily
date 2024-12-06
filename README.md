@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**From Magic State Distillation to Dynamical Systems**|Yunzhe Zheng et.al.|[2412.04402](http://arxiv.org/abs/2412.04402)|null|
+|**2024-12-05**|**Boosting quantum annealing performance through direct polynomial unconstrained binary optimization**|Sebastian Nagies et.al.|[2412.04398](http://arxiv.org/abs/2412.04398)|null|
+|**2024-12-05**|**Clustering-induced localization of quantum walks on networks**|Lucas Böttcher et.al.|[2412.04325](http://arxiv.org/abs/2412.04325)|null|
+|**2024-12-05**|**Two-detector reconstruction of multiphoton states in linear optical networks**|Tudor-Alexandru Isdrailǎ et.al.|[2412.04271](http://arxiv.org/abs/2412.04271)|null|
+|**2024-12-05**|**Multipartite entanglement distribution in Bell-pair networks without Steiner trees and with reduced gate cost**|S. Siddardha Chelluri et.al.|[2412.04252](http://arxiv.org/abs/2412.04252)|null|
+|**2024-12-05**|**Pruning qLDPC codes: Towards bivariate bicycle codes with open boundary conditions**|Jens Niklas Eberhardt et.al.|[2412.04181](http://arxiv.org/abs/2412.04181)|null|
+|**2024-12-05**|**Demonstration of Enhanced Qubit Readout via Reinforcement Learning**|Aniket Chatterjee et.al.|[2412.04053](http://arxiv.org/abs/2412.04053)|null|
+|**2024-12-05**|**Predicting Machining Stability with a Quantum Regression Model**|Sascha Mücke et.al.|[2412.04048](http://arxiv.org/abs/2412.04048)|null|
+|**2024-12-05**|**Calibration of cascaded phase shifters using pairwise scan method in silicon photonics integrated chip**|Yanxiang Jia et.al.|[2412.03951](http://arxiv.org/abs/2412.03951)|null|
+|**2024-12-05**|**A robust quantum nonlinear solver based on the asymptotic numerical method**|Yongchun Xu et.al.|[2412.03939](http://arxiv.org/abs/2412.03939)|null|
 |**2024-12-04**|**Thermodynamic Theory of Linear Optical and Electro-Optic Properties of Ferroelectrics**|Aiden Ross et.al.|[2412.03459](http://arxiv.org/abs/2412.03459)|null|
 |**2024-12-04**|**A new fidelity of quantum channel evolution and its geometric interpretation**|Xiaojing Yan et.al.|[2412.03444](http://arxiv.org/abs/2412.03444)|null|
 |**2024-12-04**|**BOSS: Blocking algorithm for optimizing shuttling scheduling in Ion Trap**|Xian Wu et.al.|[2412.03443](http://arxiv.org/abs/2412.03443)|null|
@@ -4024,6 +4034,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Learning on hexagonal structures and Monge-Ampère operators**|Noémie C. Combe et.al.|[2412.04407](http://arxiv.org/abs/2412.04407)|null|
+|**2024-12-05**|**The Thermal Sunyaev-Zel'dovich Effect from the Epoch of Reionization**|Ilian T. Iliev et.al.|[2412.04385](http://arxiv.org/abs/2412.04385)|null|
 |**2024-12-03**|**Intertwined order of generalized global symmetries**|Benjamin Moy et.al.|[2412.02748](http://arxiv.org/abs/2412.02748)|null|
 |**2024-12-03**|**Higher symmetries of the lattices in 3D**|I. T. Habibullin et.al.|[2412.02221](http://arxiv.org/abs/2412.02221)|null|
 |**2024-12-03**|**Quantum phase diagram and non-abelian Moore-Read state in double twisted bilayer graphene**|Sen Niu et.al.|[2412.02128](http://arxiv.org/abs/2412.02128)|null|
