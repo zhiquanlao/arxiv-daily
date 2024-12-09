@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,7 +3417,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-05**|**From Magic State Distillation to Dynamical Systems**|Yunzhe Zheng et.al.|[2412.04402](http://arxiv.org/abs/2412.04402)|null|
+|**2024-12-05**|**From Magic State Distillation to Dynamical Systems**|Yunzhe Zheng et.al.|[2412.04402](http://arxiv.org/abs/2412.04402)|**[link](https://github.com/Dran-Z/Mapping-MSD-to-Dynamical-Systems)**|
 |**2024-12-05**|**Boosting quantum annealing performance through direct polynomial unconstrained binary optimization**|Sebastian Nagies et.al.|[2412.04398](http://arxiv.org/abs/2412.04398)|null|
 |**2024-12-05**|**Clustering-induced localization of quantum walks on networks**|Lucas Böttcher et.al.|[2412.04325](http://arxiv.org/abs/2412.04325)|null|
 |**2024-12-05**|**Two-detector reconstruction of multiphoton states in linear optical networks**|Tudor-Alexandru Isdrailǎ et.al.|[2412.04271](http://arxiv.org/abs/2412.04271)|null|
