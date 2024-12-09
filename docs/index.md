@@ -82,7 +82,7 @@ layout: default
 |**2024-06-24**|**Compressing Search with Language Models**|Thomas Mulc et.al.|[2407.00085](http://arxiv.org/abs/2407.00085)|null|
 |**2024-06-28**|**CLOi-Mapper: Consistent, Lightweight, Robust, and Incremental Mapper With Embedded Systems for Commercial Robot Services**|DongKi Noh et.al.|[2406.19634](http://arxiv.org/abs/2406.19634)|null|
 |**2024-06-25**|**Benchmarking SLAM Algorithms in the Cloud: The SLAM Hive System**|Xinzhe Liu et.al.|[2406.17586](http://arxiv.org/abs/2406.17586)|null|
-|**2024-07-02**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
+|**2024-07-02**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-24**|**From Perfect to Noisy World Simulation: Customizable Embodied Multi-modal Perturbations for SLAM Robustness Benchmarking**|Xiaohao Xu et.al.|[2406.16850](http://arxiv.org/abs/2406.16850)|**[link](https://github.com/xiaohao-xu/slam-under-perturbation)**|
 |**2024-06-23**|**Imperative Learning: A Self-supervised Neural-Symbolic Learning Framework for Robot Autonomy**|Chen Wang et.al.|[2406.16087](http://arxiv.org/abs/2406.16087)|null|
 |**2024-06-19**|**Simultaneous Map and Object Reconstruction**|Nathaniel Chodosh et.al.|[2406.13896](http://arxiv.org/abs/2406.13896)|null|
@@ -887,7 +887,7 @@ layout: default
 |**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
 |**2024-06-26**|**View-Invariant Pixelwise Anomaly Detection in Multi-object Scenes with Adaptive View Synthesis**|Subin Varghese et.al.|[2406.18012](http://arxiv.org/abs/2406.18012)|null|
 |**2024-06-25**|**Tell Me Where You Are: Multimodal LLMs Meet Place Recognition**|Zonglin Lyu et.al.|[2406.17520](http://arxiv.org/abs/2406.17520)|null|
-|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|null|
+|**2024-06-25**|**SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation**|Xu Liu et.al.|[2406.17249](http://arxiv.org/abs/2406.17249)|**[link](https://github.com/xurobotics/slide_slam)**|
 |**2024-06-23**|**Breaking the Frame: Image Retrieval by Visual Overlap Prediction**|Tong Wei et.al.|[2406.16204](http://arxiv.org/abs/2406.16204)|**[link](https://github.com/weitong8591/vop)**|
 |**2024-06-19**|**Towards a multimodal framework for remote sensing image change retrieval and captioning**|Roger Ferrod et.al.|[2406.13424](http://arxiv.org/abs/2406.13424)|**[link](https://github.com/rogerferrod/rsicrc)**|
 |**2024-06-19**|**CLIP-Branches: Interactive Fine-Tuning for Text-Image Retrieval**|Christian Lülf et.al.|[2406.13322](http://arxiv.org/abs/2406.13322)|**[link](https://github.com/cluel01/clip-branches)**|
@@ -3440,7 +3440,7 @@ layout: default
 |**2024-12-03**|**Sample Complexity of Black Box Work Extraction**|Shantanav Chakraborty et.al.|[2412.02673](http://arxiv.org/abs/2412.02673)|null|
 |**2024-12-03**|**Ground State Energy Estimation on Current Quantum Hardware Through The Variational Quantum Eigensolver: A Comprehensive Study**|Nacer Eddine Belaloui et.al.|[2412.02606](http://arxiv.org/abs/2412.02606)|null|
 |**2024-12-03**|**Demonstration of a Photonic Time-Multiplexed C-NOT Gate**|Federico Pegoraro et.al.|[2412.02478](http://arxiv.org/abs/2412.02478)|null|
-|**2024-12-03**|**Reinforcement learning to learn quantum states for Heisenberg scaling accuracy**|Jeongwoo Jae et.al.|[2412.02334](http://arxiv.org/abs/2412.02334)|null|
+|**2024-12-03**|**Reinforcement learning to learn quantum states for Heisenberg scaling accuracy**|Jeongwoo Jae et.al.|[2412.02334](http://arxiv.org/abs/2412.02334)|**[link](https://github.com/quantum-jwjae/rl2lqs)**|
 |**2024-12-03**|**FL-QDSNNs: Federated Learning with Quantum Dynamic Spiking Neural Networks**|Nouhaila Innan et.al.|[2412.02293](http://arxiv.org/abs/2412.02293)|null|
 |**2024-12-03**|**GQWformer: A Quantum-based Transformer for Graph Representation Learning**|Lei Yu et.al.|[2412.02285](http://arxiv.org/abs/2412.02285)|null|
 |**2024-12-03**|**Density matrix exponentiation and sample-based Hamiltonian simulation: Non-asymptotic analysis of sample complexity**|Byeongseon Go et.al.|[2412.02134](http://arxiv.org/abs/2412.02134)|null|
@@ -3468,7 +3468,7 @@ layout: default
 |**2024-11-27**|**Krylov Complexity in early universe**|Ke-Hong Zhai et.al.|[2411.18405](http://arxiv.org/abs/2411.18405)|null|
 |**2024-11-27**|**Optimising Iteration Scheduling for Full-State Vector Simulation of Quantum Circuits on FPGAs**|Youssef Moawad et.al.|[2411.18354](http://arxiv.org/abs/2411.18354)|null|
 |**2024-11-26**|**Toward a Quantum Computing Formulation of the Electron Nuclear Dynamics Method via Fukutome Unitary Representation**|Juan C. Domínguez et.al.|[2411.17657](http://arxiv.org/abs/2411.17657)|null|
-|**2024-11-26**|**Quantum Wave Simulation with Sources and Loss Functions**|Cyrill Bösch et.al.|[2411.17630](http://arxiv.org/abs/2411.17630)|null|
+|**2024-11-26**|**Quantum Wave Simulation with Sources and Loss Functions**|Cyrill Bösch et.al.|[2411.17630](http://arxiv.org/abs/2411.17630)|**[link](https://github.com/malteschade/Quantum-Wave-Simulation-with-Sources-and-Loss-Functions)**|
 |**2024-11-26**|**Mixed-State Quantum Denoising Diffusion Probabilistic Model**|Gino Kwun et.al.|[2411.17608](http://arxiv.org/abs/2411.17608)|null|
 |**2024-11-26**|**Warehouse optimization using a trapped-ion quantum processor**|Alexandre C. Ricardo et.al.|[2411.17575](http://arxiv.org/abs/2411.17575)|null|
 |**2024-11-26**|**High-Performance and Scalable Fault-Tolerant Quantum Computation with Lattice Surgery on a 2.5D Architecture**|Yosuke Ueno et.al.|[2411.17519](http://arxiv.org/abs/2411.17519)|null|
