@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Scalable and shallow quantum circuits encoding probability distributions informed by asymptotic entanglement analysis**|Vladyslav Bohun et.al.|[2412.05202](http://arxiv.org/abs/2412.05202)|null|
+|**2024-12-06**|**Fast Laplace transforms on quantum computers**|Julien Zylberman et.al.|[2412.05173](http://arxiv.org/abs/2412.05173)|null|
+|**2024-12-06**|**Exploiting the combined dynamic and geometric phases for optical vortex beam generation using metasurfaces**|Jialong Cui et.al.|[2412.05121](http://arxiv.org/abs/2412.05121)|null|
+|**2024-12-06**|**Enhancing fidelity in teleportation of a two-qubit state via a quantum communication channel formed by spin-1/2 Ising-Heisenberg trimer chains due to a magnetic fieldxx**|Jozef Strecka et.al.|[2412.05113](http://arxiv.org/abs/2412.05113)|null|
+|**2024-12-06**|**Exact Model Reduction for Continuous-Time Open Quantum Dynamics**|Tommaso Grigoletto et.al.|[2412.05102](http://arxiv.org/abs/2412.05102)|null|
+|**2024-12-06**|**Space Time Algebra Formulation of Cold Magnetized Plasmas**|Kyriakos Hizanidis et.al.|[2412.05009](http://arxiv.org/abs/2412.05009)|null|
+|**2024-12-06**|**Solid-state qubits in moire superlattices**|Zhigang Song et.al.|[2412.04904](http://arxiv.org/abs/2412.04904)|null|
+|**2024-12-06**|**Cutting is All You Need: Execution of Large-Scale Quantum Neural Networks on Limited-Qubit Devices**|Alberto Marchisio et.al.|[2412.04844](http://arxiv.org/abs/2412.04844)|null|
+|**2024-12-06**|**Optimizing Quantum Communication for Quantum Data Centers with Reconfigurable Networks**|Hezi Zhang et.al.|[2412.04837](http://arxiv.org/abs/2412.04837)|null|
+|**2024-12-06**|**Universal Hamming Weight Preserving Variational Quantum Ansatz**|Ge Yan et.al.|[2412.04825](http://arxiv.org/abs/2412.04825)|null|
 |**2024-12-05**|**From Magic State Distillation to Dynamical Systems**|Yunzhe Zheng et.al.|[2412.04402](http://arxiv.org/abs/2412.04402)|**[link](https://github.com/Dran-Z/Mapping-MSD-to-Dynamical-Systems)**|
 |**2024-12-05**|**Boosting quantum annealing performance through direct polynomial unconstrained binary optimization**|Sebastian Nagies et.al.|[2412.04398](http://arxiv.org/abs/2412.04398)|null|
 |**2024-12-05**|**Clustering-induced localization of quantum walks on networks**|Lucas Böttcher et.al.|[2412.04325](http://arxiv.org/abs/2412.04325)|null|
