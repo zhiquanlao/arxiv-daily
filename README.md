@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor et.al.|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
+|**2024-12-09**|**Robust Quantum Reservoir Computing for Molecular Property Prediction**|Daniel Beaulieu et.al.|[2412.06758](http://arxiv.org/abs/2412.06758)|null|
+|**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa et.al.|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
+|**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng et.al.|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
+|**2024-12-09**|**Using optimal control to guide neural-network interpolation of continuously-parameterized gates**|Bikrant Bhattacharyya et.al.|[2412.06623](http://arxiv.org/abs/2412.06623)|null|
+|**2024-12-09**|**Seismic Traveltime Inversion with Quantum Annealing**|Hoang Anh Nguyen et.al.|[2412.06611](http://arxiv.org/abs/2412.06611)|null|
+|**2024-12-09**|**Multimodal Purcell enhancement and optical coherence of Eu $^{\text{3+}}$ ions in a single nanoparticle coupled to a microcavity**|Timon Eichhorn et.al.|[2412.06576](http://arxiv.org/abs/2412.06576)|null|
+|**2024-12-09**|**Towards novel tunability schemes for hybrid ferromagnetic transmon qubits**|Halima Giovanna Ahmad et.al.|[2412.06562](http://arxiv.org/abs/2412.06562)|null|
+|**2024-12-09**|**Enhanced quantum sensitivity and coherence of symmetric magnetic clusters**|Lorenzo Amato et.al.|[2412.06554](http://arxiv.org/abs/2412.06554)|null|
+|**2024-12-09**|**The Dilemma of Random Parameter Initialization and Barren Plateaus in Variational Quantum Algorithms**|Muhammad Kashif et.al.|[2412.06462](http://arxiv.org/abs/2412.06462)|null|
 |**2024-12-06**|**Scalable and shallow quantum circuits encoding probability distributions informed by asymptotic entanglement analysis**|Vladyslav Bohun et.al.|[2412.05202](http://arxiv.org/abs/2412.05202)|null|
 |**2024-12-06**|**Fast Laplace transforms on quantum computers**|Julien Zylberman et.al.|[2412.05173](http://arxiv.org/abs/2412.05173)|null|
 |**2024-12-06**|**Exploiting the combined dynamic and geometric phases for optical vortex beam generation using metasurfaces**|Jialong Cui et.al.|[2412.05121](http://arxiv.org/abs/2412.05121)|null|
@@ -4044,6 +4054,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf et.al.|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
+|**2024-12-07**|**Topological entanglement entropy meets holographic entropy inequalities**|Joydeep Naskar et.al.|[2412.05484](http://arxiv.org/abs/2412.05484)|null|
+|**2024-12-07**|**SZ-X-ray Surface Brightness Fluctuations in the SPT-XMM clusters**|Charles Romero et.al.|[2412.05478](http://arxiv.org/abs/2412.05478)|null|
 |**2024-12-05**|**Learning on hexagonal structures and Monge-Ampère operators**|Noémie C. Combe et.al.|[2412.04407](http://arxiv.org/abs/2412.04407)|null|
 |**2024-12-05**|**The Thermal Sunyaev-Zel'dovich Effect from the Epoch of Reionization**|Ilian T. Iliev et.al.|[2412.04385](http://arxiv.org/abs/2412.04385)|null|
 |**2024-12-03**|**Intertwined order of generalized global symmetries**|Benjamin Moy et.al.|[2412.02748](http://arxiv.org/abs/2412.02748)|null|
