@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Robust analog quantum simulators by quantum error-detecting codes**|Yingkang Cao et.al.|[2412.07764](http://arxiv.org/abs/2412.07764)|null|
+|**2024-12-10**|**Quantum vs. Classical Machine Learning Algorithms for Software Defect Prediction: Challenges and Opportunities**|Md Nadim et.al.|[2412.07698](http://arxiv.org/abs/2412.07698)|null|
+|**2024-12-10**|**BATIS: Bootstrapping, Autonomous Testing, and Initialization System for Quantum Dot Devices**|Tyler J. Kovach et.al.|[2412.07676](http://arxiv.org/abs/2412.07676)|null|
+|**2024-12-10**|**Fault-Tolerant Operation and Materials Science with Neutral Atom Logical Qubits**|Matt. J. Bedalov et.al.|[2412.07670](http://arxiv.org/abs/2412.07670)|null|
+|**2024-12-10**|**Direct Fidelity Estimation for Generic Quantum States**|Christopher Vairogs et.al.|[2412.07623](http://arxiv.org/abs/2412.07623)|null|
+|**2024-12-10**|**A clustering aggregation algorithm on neutral-atoms and annealing quantum processors**|Riccardo Scotti et.al.|[2412.07558](http://arxiv.org/abs/2412.07558)|null|
+|**2024-12-10**|**Controlling and engineering a quantum state in a multi-qubit system employing the quantum Zeno effect**|Dhruva Naik et.al.|[2412.07535](http://arxiv.org/abs/2412.07535)|null|
+|**2024-12-10**|**Deterministic Storage of Quantum Information in the Genetic Code**|Roberto Rivelino et.al.|[2412.07504](http://arxiv.org/abs/2412.07504)|null|
+|**2024-12-10**|**The magic of top quarks**|Chris D. White et.al.|[2412.07479](http://arxiv.org/abs/2412.07479)|null|
+|**2024-12-10**|**Controlling discrete time crystals via single-site operations in zero-field diamond quantum simulators**|Naoya Egawa et.al.|[2412.07400](http://arxiv.org/abs/2412.07400)|null|
 |**2024-12-09**|**Vision transformer based Deep Learning of Topological indicators in Majorana Nanowires**|Jacob R. Taylor et.al.|[2412.06768](http://arxiv.org/abs/2412.06768)|null|
 |**2024-12-09**|**Robust Quantum Reservoir Computing for Molecular Property Prediction**|Daniel Beaulieu et.al.|[2412.06758](http://arxiv.org/abs/2412.06758)|null|
 |**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa et.al.|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
@@ -4030,6 +4040,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|null|
 |**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf et.al.|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
 |**2024-12-07**|**Topological entanglement entropy meets holographic entropy inequalities**|Joydeep Naskar et.al.|[2412.05484](http://arxiv.org/abs/2412.05484)|null|
 |**2024-12-07**|**SZ-X-ray Surface Brightness Fluctuations in the SPT-XMM clusters**|Charles Romero et.al.|[2412.05478](http://arxiv.org/abs/2412.05478)|null|
