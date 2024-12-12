@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices**|Stephen C. Wein et.al.|[2412.08611](http://arxiv.org/abs/2412.08611)|null|
+|**2024-12-11**|**High Dimensional Quantum Eavesdropping: A Hypothetical Attack on BB84 & SSP**|Christopher Dunne et.al.|[2412.08487](http://arxiv.org/abs/2412.08487)|null|
+|**2024-12-11**|**Commercial CMOS Process for Quantum Computing: Quantum Dots and Charge Sensing in a 22 nm Fully Depleted Silicon-on-Insulator Process**|S. V. Amitonov et.al.|[2412.08422](http://arxiv.org/abs/2412.08422)|null|
+|**2024-12-11**|**Input-dependence in quantum reservoir computing**|Rodrigo Martínez-Peña et.al.|[2412.08322](http://arxiv.org/abs/2412.08322)|null|
+|**2024-12-11**|**Quadratically enhancing optomechanical entanglement via dark mode control**|A. -H. Abdel-Aty et.al.|[2412.08288](http://arxiv.org/abs/2412.08288)|null|
+|**2024-12-11**|**Measurement-based quantum convolutional neural network for deep learning**|Yifan Sun et.al.|[2412.08207](http://arxiv.org/abs/2412.08207)|null|
+|**2024-12-11**|**On the Bargmann invariants for quantum imaginarity**|Mao-Sheng Li et.al.|[2412.08022](http://arxiv.org/abs/2412.08022)|null|
+|**2024-12-11**|**A mechanical quantum memory for microwave photons**|Alkım B. Bozkurt et.al.|[2412.08006](http://arxiv.org/abs/2412.08006)|null|
+|**2024-12-11**|**Topological columnar nano-SQUID based on a 3D topological insulator**|Ella Nikodem et.al.|[2412.07993](http://arxiv.org/abs/2412.07993)|null|
+|**2024-12-10**|**Agents for self-driving laboratories applied to quantum computing**|Shuxiang Cao et.al.|[2412.07978](http://arxiv.org/abs/2412.07978)|null|
 |**2024-12-10**|**Robust analog quantum simulators by quantum error-detecting codes**|Yingkang Cao et.al.|[2412.07764](http://arxiv.org/abs/2412.07764)|null|
 |**2024-12-10**|**Quantum vs. Classical Machine Learning Algorithms for Software Defect Prediction: Challenges and Opportunities**|Md Nadim et.al.|[2412.07698](http://arxiv.org/abs/2412.07698)|null|
 |**2024-12-10**|**BATIS: Bootstrapping, Autonomous Testing, and Initialization System for Quantum Dot Devices**|Tyler J. Kovach et.al.|[2412.07676](http://arxiv.org/abs/2412.07676)|null|
@@ -4064,6 +4074,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji et.al.|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
 |**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|null|
 |**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf et.al.|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
 |**2024-12-07**|**Topological entanglement entropy meets holographic entropy inequalities**|Joydeep Naskar et.al.|[2412.05484](http://arxiv.org/abs/2412.05484)|null|
