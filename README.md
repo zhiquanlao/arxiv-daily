@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598](http://arxiv.org/abs/2412.09598)|null|
+|**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
+|**2024-12-12**|**Experimental Machine Learning with Classical and Quantum Data via NMR Quantum Kernels**|Vivek Sabarad et.al.|[2412.09557](http://arxiv.org/abs/2412.09557)|null|
+|**2024-12-12**|**Regression and Classification with Single-Qubit Quantum Neural Networks**|Leandro C. Souza et.al.|[2412.09486](http://arxiv.org/abs/2412.09486)|null|
+|**2024-12-12**|**Data Efficient Prediction of excited-state properties using Quantum Neural Networks**|Manuel Hagelüken et.al.|[2412.09423](http://arxiv.org/abs/2412.09423)|null|
+|**2024-12-12**|**HfO $_2$ -based platform for high-index-contrast visible/UV integrated photonics**|Oscar Jaramillo et.al.|[2412.09421](http://arxiv.org/abs/2412.09421)|null|
+|**2024-12-12**|**Multi-Layer Cycle Benchmarking for high-accuracy error characterization**|Alessio Calzona et.al.|[2412.09332](http://arxiv.org/abs/2412.09332)|null|
+|**2024-12-12**|**A simple algorithm to reflect through eigenspaces of unitaries**|Baptiste Claudon et.al.|[2412.09320](http://arxiv.org/abs/2412.09320)|null|
+|**2024-12-12**|**An Optical Interconnect for Modular Quantum Computers**|Daisuke Sakuma et.al.|[2412.09299](http://arxiv.org/abs/2412.09299)|null|
+|**2024-12-12**|**Emerging Ta $_{4}$C$_{3}$ and Mo$_{2}$Ti$_{2}$C$_{3}$ MXene Nanosheets for Ultrafast Photonics**|Michalis Stavrou et.al.|[2412.09270](http://arxiv.org/abs/2412.09270)|null|
 |**2024-12-11**|**Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices**|Stephen C. Wein et.al.|[2412.08611](http://arxiv.org/abs/2412.08611)|null|
 |**2024-12-11**|**High Dimensional Quantum Eavesdropping: A Hypothetical Attack on BB84 & SSP**|Christopher Dunne et.al.|[2412.08487](http://arxiv.org/abs/2412.08487)|null|
 |**2024-12-11**|**Commercial CMOS Process for Quantum Computing: Quantum Dots and Charge Sensing in a 22 nm Fully Depleted Silicon-on-Insulator Process**|S. V. Amitonov et.al.|[2412.08422](http://arxiv.org/abs/2412.08422)|null|
