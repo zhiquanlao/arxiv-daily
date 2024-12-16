@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**Analysis and suppression of errors in quantum random access memory errors under extended noise models**|Rohan Mehta et.al.|[2412.10318](http://arxiv.org/abs/2412.10318)|null|
+|**2024-12-13**|**Exchange-Symmetrized Qudit Bell Bases and Bell-State Distinguishability**|Oscar Scholin et.al.|[2412.10297](http://arxiv.org/abs/2412.10297)|null|
+|**2024-12-13**|**Anticoncentration and magic spreading under ergodic quantum dynamics**|Emanuele Tirrito et.al.|[2412.10229](http://arxiv.org/abs/2412.10229)|null|
+|**2024-12-13**|**Tunable Josephson voltage source for quantum circuits**|J. -L. Smirr et.al.|[2412.10227](http://arxiv.org/abs/2412.10227)|null|
+|**2024-12-13**|**Electron matter waves with internal torque**|Y. Fang et.al.|[2412.10076](http://arxiv.org/abs/2412.10076)|null|
+|**2024-12-13**|**Deterministic steady-state subradiance within a single-excitation basis**|Meng-Jia Chu et.al.|[2412.09944](http://arxiv.org/abs/2412.09944)|null|
+|**2024-12-13**|**Emission and Coherent Control of Levitons in Graphene**|A. Assouline et.al.|[2412.09918](http://arxiv.org/abs/2412.09918)|null|
+|**2024-12-13**|**A 3D lattice defect and efficient computations in topological MBQC**|Gabrielle Tournaire et.al.|[2412.09781](http://arxiv.org/abs/2412.09781)|null|
+|**2024-12-13**|**A high optical access cryogenic system for Rydberg atom arrays with a 3000-second trap lifetime**|Zhenpu Zhang et.al.|[2412.09780](http://arxiv.org/abs/2412.09780)|null|
+|**2024-12-13**|**Nonlocal transfer of high-dimensional unitary operations**|Dilip Paneru et.al.|[2412.09768](http://arxiv.org/abs/2412.09768)|null|
 |**2024-12-12**|**Bottlenecks in quantum channels and finite temperature phases of matter**|Tibor Rakovszky et.al.|[2412.09598](http://arxiv.org/abs/2412.09598)|null|
 |**2024-12-12**|**Characterizing maximally many-body entangled fermionic states by using $M$ -body density matrix**|Irakli Giorgadze et.al.|[2412.09576](http://arxiv.org/abs/2412.09576)|null|
 |**2024-12-12**|**Experimental Machine Learning with Classical and Quantum Data via NMR Quantum Kernels**|Vivek Sabarad et.al.|[2412.09557](http://arxiv.org/abs/2412.09557)|null|
@@ -4060,6 +4070,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-13**|**SPT: Sequence Prompt Transformer for Interactive Image Segmentation**|Senlin Cheng et.al.|[2412.10224](http://arxiv.org/abs/2412.10224)|null|
+|**2024-12-12**|**Formal Languages and TQFTs with Defects**|Luisa Boateng et.al.|[2412.09688](http://arxiv.org/abs/2412.09688)|null|
 |**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji et.al.|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
 |**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|null|
 |**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf et.al.|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
