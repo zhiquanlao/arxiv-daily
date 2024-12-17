@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**The State Preparation of Multivariate Normal Distributions using Tree Tensor Network**|Hidetaka Manabe et.al.|[2412.12067](http://arxiv.org/abs/2412.12067)|null|
+|**2024-12-16**|**The isoholonomic inequality and tight implementations of holonomic quantum gates**|Ole Sönnerborn et.al.|[2412.12013](http://arxiv.org/abs/2412.12013)|null|
+|**2024-12-16**|**Control of a Josephson Digital Phase Detector via an SFQ-based Flux Bias Driver**|Laura Di Marino et.al.|[2412.11961](http://arxiv.org/abs/2412.11961)|null|
+|**2024-12-16**|**Euclid: Field-level inference of primordial non-Gaussianity and cosmic initial conditions**|A. Andrews et.al.|[2412.11945](http://arxiv.org/abs/2412.11945)|null|
+|**2024-12-16**|**Establishing a New Benchmark in Quantum Computational Advantage with 105-qubit Zuchongzhi 3.0 Processor**|Dongxin Gao et.al.|[2412.11924](http://arxiv.org/abs/2412.11924)|null|
+|**2024-12-16**|**Harvesting stabilizer entropy and non-locality from a quantum field**|S. Cepollaro et.al.|[2412.11918](http://arxiv.org/abs/2412.11918)|null|
+|**2024-12-16**|**On the Protection Against Noise for Measurement-Based Quantum Computation**|Valentin Vankov Iliev et.al.|[2412.11903](http://arxiv.org/abs/2412.11903)|null|
+|**2024-12-16**|**Learning Equivariant Maps with Variational Quantum Circuits**|Zachary P. Bradshaw et.al.|[2412.11889](http://arxiv.org/abs/2412.11889)|null|
+|**2024-12-16**|**Realizing Fulde-Ferrell-Larkin-Ovchinnikov pairing assisted topological Majorana zero modes and superconducting diode effect in helical Shiba chain**|Sayak Bhowmik et.al.|[2412.11784](http://arxiv.org/abs/2412.11784)|null|
+|**2024-12-16**|**Conveyor-belt superconducting quantum computer**|Francesco Cioni et.al.|[2412.11782](http://arxiv.org/abs/2412.11782)|null|
 |**2024-12-13**|**Analysis and suppression of errors in quantum random access memory errors under extended noise models**|Rohan Mehta et.al.|[2412.10318](http://arxiv.org/abs/2412.10318)|null|
 |**2024-12-13**|**Exchange-Symmetrized Qudit Bell Bases and Bell-State Distinguishability**|Oscar Scholin et.al.|[2412.10297](http://arxiv.org/abs/2412.10297)|null|
 |**2024-12-13**|**Anticoncentration and magic spreading under ergodic quantum dynamics**|Emanuele Tirrito et.al.|[2412.10229](http://arxiv.org/abs/2412.10229)|null|
@@ -4094,6 +4104,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory**|Andrea Perin et.al.|[2412.11521](http://arxiv.org/abs/2412.11521)|null|
+|**2024-12-16**|**Anyon Condensation in Virasoro TQFT**|Shunta Takahashi et.al.|[2412.11486](http://arxiv.org/abs/2412.11486)|null|
 |**2024-12-13**|**SPT: Sequence Prompt Transformer for Interactive Image Segmentation**|Senlin Cheng et.al.|[2412.10224](http://arxiv.org/abs/2412.10224)|null|
 |**2024-12-12**|**Formal Languages and TQFTs with Defects**|Luisa Boateng et.al.|[2412.09688](http://arxiv.org/abs/2412.09688)|null|
 |**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji et.al.|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
