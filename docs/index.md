@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.16
+## Updated on 2024.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4073,7 +4073,7 @@ layout: default
 |**2024-12-13**|**SPT: Sequence Prompt Transformer for Interactive Image Segmentation**|Senlin Cheng et.al.|[2412.10224](http://arxiv.org/abs/2412.10224)|null|
 |**2024-12-12**|**Formal Languages and TQFTs with Defects**|Luisa Boateng et.al.|[2412.09688](http://arxiv.org/abs/2412.09688)|null|
 |**2024-12-11**|**Simplex tensor network renormalization group for boundary theory of 3+1D symTFT**|Kaixin Ji et.al.|[2412.08374](http://arxiv.org/abs/2412.08374)|null|
-|**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|null|
+|**2024-12-10**|**Multiprobe Cosmology from the Abundance of SPT Clusters and DES Galaxy Clustering and Weak Lensing**|S. Bocquet et.al.|[2412.07765](http://arxiv.org/abs/2412.07765)|**[link](https://github.com/SebastianBocquet/flowjax)**|
 |**2024-12-09**|**The Ising dual-reflection interface: $\mathbb{Z}_4$ symmetry, Majorana strong zero modes and SPT phases**|Juliane Graf et.al.|[2412.06377](http://arxiv.org/abs/2412.06377)|null|
 |**2024-12-07**|**Topological entanglement entropy meets holographic entropy inequalities**|Joydeep Naskar et.al.|[2412.05484](http://arxiv.org/abs/2412.05484)|null|
 |**2024-12-07**|**SZ-X-ray Surface Brightness Fluctuations in the SPT-XMM clusters**|Charles Romero et.al.|[2412.05478](http://arxiv.org/abs/2412.05478)|null|
