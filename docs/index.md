@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**Factoring an integer with three oscillators and a qubit**|Lukas Brenner et.al.|[2412.13164](http://arxiv.org/abs/2412.13164)|null|
+|**2024-12-17**|**Quantum community detection via deterministic elimination**|Chukwudubem Umeano et.al.|[2412.13160](http://arxiv.org/abs/2412.13160)|null|
+|**2024-12-17**|**Optimal Hamiltonian recognition of unknown quantum dynamics**|Chengkai Zhu et.al.|[2412.13067](http://arxiv.org/abs/2412.13067)|null|
+|**2024-12-17**|**Assessing Quantum and Classical Approaches to Combinatorial Optimization: Testing Quadratic Speed-ups for Heuristic Algorithms**|Pedro C. S. Costa et.al.|[2412.13035](http://arxiv.org/abs/2412.13035)|null|
+|**2024-12-17**|**Modeling Quantum Volume Using Randomized Benchmarking of Room-Temperature NV Center Quantum Registers**|Tom Jaeger et.al.|[2412.12959](http://arxiv.org/abs/2412.12959)|null|
+|**2024-12-17**|**Microwave-to-Optical Quantum Transduction with Antiferromagnets**|Akihiko Sekine et.al.|[2412.12907](http://arxiv.org/abs/2412.12907)|null|
+|**2024-12-17**|**Near-Term Spin-Qubit Architecture Design via Multipartite Maximally-Entangled States**|Nikiforos Paraskevopoulos et.al.|[2412.12874](http://arxiv.org/abs/2412.12874)|null|
+|**2024-12-17**|**Quantum Coherent State Transform on Continuous-Variable Systems**|Xi Lu et.al.|[2412.12871](http://arxiv.org/abs/2412.12871)|null|
+|**2024-12-17**|**Enhancement of non-Gaussianity and nonclassicality of pair coherent states with postselected von Neumann measurement**|Yi-Fang Ren et.al.|[2412.12824](http://arxiv.org/abs/2412.12824)|null|
+|**2024-12-17**|**Optimization of Flight Routes: Quantum Approximate Optimization Algorithm for the Tail Assignment Problem**|Marta Gili et.al.|[2412.12773](http://arxiv.org/abs/2412.12773)|null|
 |**2024-12-16**|**The State Preparation of Multivariate Normal Distributions using Tree Tensor Network**|Hidetaka Manabe et.al.|[2412.12067](http://arxiv.org/abs/2412.12067)|null|
 |**2024-12-16**|**The isoholonomic inequality and tight implementations of holonomic quantum gates**|Ole Sönnerborn et.al.|[2412.12013](http://arxiv.org/abs/2412.12013)|null|
 |**2024-12-16**|**Control of a Josephson Digital Phase Detector via an SFQ-based Flux Bias Driver**|Laura Di Marino et.al.|[2412.11961](http://arxiv.org/abs/2412.11961)|null|
@@ -4080,7 +4090,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-16**|**On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory**|Andrea Perin et.al.|[2412.11521](http://arxiv.org/abs/2412.11521)|null|
+|**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu et.al.|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
+|**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang et.al.|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
+|**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner et.al.|[2412.12186](http://arxiv.org/abs/2412.12186)|null|
+|**2024-12-16**|**On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory**|Andrea Perin et.al.|[2412.11521](http://arxiv.org/abs/2412.11521)|**[link](https://github.com/andrea-perin/gpsymm)**|
 |**2024-12-16**|**Anyon Condensation in Virasoro TQFT**|Shunta Takahashi et.al.|[2412.11486](http://arxiv.org/abs/2412.11486)|null|
 |**2024-12-13**|**SPT: Sequence Prompt Transformer for Interactive Image Segmentation**|Senlin Cheng et.al.|[2412.10224](http://arxiv.org/abs/2412.10224)|null|
 |**2024-12-12**|**Formal Languages and TQFTs with Defects**|Luisa Boateng et.al.|[2412.09688](http://arxiv.org/abs/2412.09688)|null|
