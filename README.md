@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Determining the $^3$P$_0$ excited-state tune-out wavelength of $^{174}$ Yb in a triple-magic lattice**|Tim O. Höhn et.al.|[2412.14163](http://arxiv.org/abs/2412.14163)|null|
+|**2024-12-18**|**Topology optimization of high-performance optomechanical resonator**|Yincheng Shi et.al.|[2412.14102](http://arxiv.org/abs/2412.14102)|null|
+|**2024-12-18**|**Hyperbolic Quantum Processor**|Evgenii E. Narimanov et.al.|[2412.14098](http://arxiv.org/abs/2412.14098)|null|
+|**2024-12-18**|**Quantum Optimization for Energy Management: A Coherent Variational Approach**|Farshad Amani et.al.|[2412.14095](http://arxiv.org/abs/2412.14095)|null|
+|**2024-12-18**|**EOM Minimum Point Bias Voltage Estimation for Application in Quantum Computing**|Frank Obernosterer et.al.|[2412.14060](http://arxiv.org/abs/2412.14060)|null|
+|**2024-12-18**|**The random coupled-plaquette gauge model and the surface code under circuit-level noise**|Manuel Rispler et.al.|[2412.14004](http://arxiv.org/abs/2412.14004)|null|
+|**2024-12-18**|**Optimizing Quantum Transformation Matrices: A Block Decomposition Approach for Efficient Gate Reduction**|Lai Kin Man et.al.|[2412.13915](http://arxiv.org/abs/2412.13915)|null|
+|**2024-12-18**|**Two-photon interference at a telecom wavelength for quantum networking**|Mathis Cohen et.al.|[2412.13900](http://arxiv.org/abs/2412.13900)|null|
+|**2024-12-18**|**Benchmarking Quantum Models for Time-series Forecasting**|Caitlin Jones et.al.|[2412.13878](http://arxiv.org/abs/2412.13878)|null|
+|**2024-12-18**|**99.9%-fidelity in measuring a superconducting qubit**|Can Wang et.al.|[2412.13849](http://arxiv.org/abs/2412.13849)|null|
 |**2024-12-17**|**Factoring an integer with three oscillators and a qubit**|Lukas Brenner et.al.|[2412.13164](http://arxiv.org/abs/2412.13164)|null|
 |**2024-12-17**|**Quantum community detection via deterministic elimination**|Chukwudubem Umeano et.al.|[2412.13160](http://arxiv.org/abs/2412.13160)|null|
 |**2024-12-17**|**Optimal Hamiltonian recognition of unknown quantum dynamics**|Chengkai Zhu et.al.|[2412.13067](http://arxiv.org/abs/2412.13067)|null|
@@ -4114,6 +4124,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Graded Frobenius Algebras**|Jonathan Clivio et.al.|[2412.13909](http://arxiv.org/abs/2412.13909)|null|
+|**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke et.al.|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu et.al.|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
 |**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang et.al.|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
 |**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner et.al.|[2412.12186](http://arxiv.org/abs/2412.12186)|null|
