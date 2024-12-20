@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Universal quantum computation via scalable measurement-free error correction**|Stefano Veroni et.al.|[2412.15187](http://arxiv.org/abs/2412.15187)|null|
+|**2024-12-19**|**Capturing the Page Curve and Entanglement Dynamics of Black Holes in Quantum Computers**|Talal Ahmed Chowdhury et.al.|[2412.15180](http://arxiv.org/abs/2412.15180)|null|
+|**2024-12-19**|**Experimental Demonstration of Logical Magic State Distillation**|Pedro Sales Rodriguez et.al.|[2412.15165](http://arxiv.org/abs/2412.15165)|null|
+|**2024-12-19**|**Coherent spin-1 dynamics encoded in the rotational states of ultracold molecules**|Tom R. Hepworth et.al.|[2412.15088](http://arxiv.org/abs/2412.15088)|null|
+|**2024-12-19**|**Reservoir engineering to protect quantum coherence in tripartite systems under dephasing noise**|Sovik Roy et.al.|[2412.15082](http://arxiv.org/abs/2412.15082)|null|
+|**2024-12-19**|**Eigenstate Preparation on Quantum Computers**|Joey Bonitati et.al.|[2412.15081](http://arxiv.org/abs/2412.15081)|null|
+|**2024-12-19**|**Quantum computation over the vibrational modes of a single trapped ion**|Alexandre C. Ricardo et.al.|[2412.15025](http://arxiv.org/abs/2412.15025)|null|
+|**2024-12-19**|**Estimating the impact of light pollution on quantum communication between QEYSSat and Canadian quantum ground station sites**|Mathew Yastremski et.al.|[2412.14944](http://arxiv.org/abs/2412.14944)|null|
+|**2024-12-19**|**Efficient Experimental Qudit State Estimation via Point Tomography**|D. Martínez et.al.|[2412.14915](http://arxiv.org/abs/2412.14915)|null|
+|**2024-12-19**|**Revealing Hidden States in Quantum Dot Array Dynamics: Quantum Polyspectra Versus Waiting Time Analysis**|Markus Sifft et.al.|[2412.14893](http://arxiv.org/abs/2412.14893)|null|
 |**2024-12-18**|**Determining the $^3$P$_0$ excited-state tune-out wavelength of $^{174}$ Yb in a triple-magic lattice**|Tim O. Höhn et.al.|[2412.14163](http://arxiv.org/abs/2412.14163)|null|
 |**2024-12-18**|**Topology optimization of high-performance optomechanical resonator**|Yincheng Shi et.al.|[2412.14102](http://arxiv.org/abs/2412.14102)|null|
 |**2024-12-18**|**Hyperbolic Quantum Processor**|Evgenii E. Narimanov et.al.|[2412.14098](http://arxiv.org/abs/2412.14098)|null|
@@ -4124,6 +4134,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167](http://arxiv.org/abs/2412.15167)|null|
+|**2024-12-19**|**Defining extended TQFTs via handle attachments**|Benjamin Haïoun et.al.|[2412.14649](http://arxiv.org/abs/2412.14649)|null|
+|**2024-12-18**|**Braiding for the win: Harnessing braiding statistics in topological states to win quantum games**|Oliver Hart et.al.|[2412.14288](http://arxiv.org/abs/2412.14288)|null|
 |**2024-12-18**|**Graded Frobenius Algebras**|Jonathan Clivio et.al.|[2412.13909](http://arxiv.org/abs/2412.13909)|null|
 |**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke et.al.|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu et.al.|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
