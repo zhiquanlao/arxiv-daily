@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Engineering high-Q superconducting tantalum microwave coplanar waveguide resonators for compact coherent quantum circuits**|Shima Poorgholam-Khanjari et.al.|[2412.16099](http://arxiv.org/abs/2412.16099)|null|
+|**2024-12-20**|**Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations**|Yasuo Oda et.al.|[2412.16092](http://arxiv.org/abs/2412.16092)|null|
+|**2024-12-20**|**Error-corrected fermionic quantum processors with neutral atoms**|Robert Ott et.al.|[2412.16081](http://arxiv.org/abs/2412.16081)|null|
+|**2024-12-20**|**Multipartite entanglement structure of monitored quantum circuits**|Arnau Lira-Solanilla et.al.|[2412.16062](http://arxiv.org/abs/2412.16062)|null|
+|**2024-12-20**|**A two-dimensional 10-qubit array in germanium with robust and localised qubit control**|Valentin John et.al.|[2412.16044](http://arxiv.org/abs/2412.16044)|null|
+|**2024-12-20**|**A quantum dual logarithmic barrier method for linear optimization**|Zeguan Wu et.al.|[2412.15977](http://arxiv.org/abs/2412.15977)|null|
+|**2024-12-20**|**Stability conditions and Artin--Tits groups**|Edmund Heng et.al.|[2412.15919](http://arxiv.org/abs/2412.15919)|null|
+|**2024-12-20**|**Efficient Hamiltonian Simulation: A Utility Scale Perspective for Covalent Inhibitor Reactivity Prediction**|Marek Kowalik et.al.|[2412.15804](http://arxiv.org/abs/2412.15804)|null|
+|**2024-12-20**|**Variance of the sum of independent quantum computing errors**|Jesús Lacalle et.al.|[2412.15800](http://arxiv.org/abs/2412.15800)|null|
+|**2024-12-20**|**Combinatorial Optimization with Quantum Computers**|Francisco Chicano et.al.|[2412.15778](http://arxiv.org/abs/2412.15778)|null|
 |**2024-12-19**|**Universal quantum computation via scalable measurement-free error correction**|Stefano Veroni et.al.|[2412.15187](http://arxiv.org/abs/2412.15187)|null|
 |**2024-12-19**|**Capturing the Page Curve and Entanglement Dynamics of Black Holes in Quantum Computers**|Talal Ahmed Chowdhury et.al.|[2412.15180](http://arxiv.org/abs/2412.15180)|null|
 |**2024-12-19**|**Experimental Demonstration of Logical Magic State Distillation**|Pedro Sales Rodriguez et.al.|[2412.15165](http://arxiv.org/abs/2412.15165)|null|
