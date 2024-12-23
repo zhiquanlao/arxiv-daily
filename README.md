@@ -713,7 +713,7 @@
 |**2023-09-22**|**Scalable Semantic 3D Mapping of Coral Reefs with Deep Learning**|Jonathan Sauder et.al.|[2309.12804](http://arxiv.org/abs/2309.12804)|null|
 |**2023-09-21**|**On-the-Fly SfM: What you capture is What you get**|Zongqian Zhan et.al.|[2309.11883](http://arxiv.org/abs/2309.11883)|**[link](https://github.com/RayShark0605/On_the_fly_SfM)**|
 |**2023-09-19**|**Using an Uncrewed Surface Vehicle to Create a Volumetric Model of Non-Navigable Rivers and Other Shallow Bodies of Water**|Jayesh Tripathi et.al.|[2309.10269](http://arxiv.org/abs/2309.10269)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-08**|**Robot Localization and Mapping Final Report -- Sequential Adversarial Learning for Self-Supervised Deep Visual Odometry**|Akankshya Kar et.al.|[2309.04147](http://arxiv.org/abs/2309.04147)|null|
 |**2023-09-01**|**SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation**|Youhong Wang et.al.|[2309.00526](http://arxiv.org/abs/2309.00526)|null|
 |**2023-09-01**|**Dense Voxel 3D Reconstruction Using a Monocular Event Camera**|Haodong Chen et.al.|[2309.00385](http://arxiv.org/abs/2309.00385)|null|
@@ -1189,7 +1189,7 @@
 |**2023-09-18**|**DynaPix SLAM: A Pixel-Based Dynamic SLAM Approach**|Chenghao Xu et.al.|[2309.09879](http://arxiv.org/abs/2309.09879)|null|
 |**2023-09-18**|**Decompose Semantic Shifts for Composed Image Retrieval**|Xingyu Yang et.al.|[2309.09531](http://arxiv.org/abs/2309.09531)|null|
 |**2023-09-16**|**Efficient Object Rearrangement via Multi-view Fusion**|Dehao Huang et.al.|[2309.08994](http://arxiv.org/abs/2309.08994)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Active Learning for Fine-Grained Sketch-Based Image Retrieval**|Himanshu Thakur et.al.|[2309.08743](http://arxiv.org/abs/2309.08743)|null|
 |**2023-09-15**|**Optimization of Rank Losses for Image Retrieval**|Elias Ramzi et.al.|[2309.08250](http://arxiv.org/abs/2309.08250)|**[link](https://github.com/cvdfoundation/google-landmark)**|
@@ -2298,7 +2298,7 @@
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
 |**2024-07-01**|**Active Human Pose Estimation via an Autonomous UAV Agent**|Jingxi Chen et.al.|[2407.01811](http://arxiv.org/abs/2407.01811)|null|
 |**2024-07-01**|**DRAGON: Drone and Ground Gaussian Splatting for 3D Building Reconstruction**|Yujin Ham et.al.|[2407.01761](http://arxiv.org/abs/2407.01761)|null|
-|**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220](http://arxiv.org/abs/2407.01220)|null|
+|**2024-07-01**|**Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation**|Zihan Gao et.al.|[2407.01220](http://arxiv.org/abs/2407.01220)|**[link](https://github.com/keloee/maskfield)**|
 |**2024-06-29**|**Intrinsic PAPR for Point-level 3D Scene Albedo and Shading Editing**|Alireza Moazeni et.al.|[2407.00500](http://arxiv.org/abs/2407.00500)|null|
 |**2024-06-28**|**ASSR-NeRF: Arbitrary-Scale Super-Resolution on Voxel Grid for High-Quality Radiance Fields Reconstruction**|Ding-Jiun Huang et.al.|[2406.20066](http://arxiv.org/abs/2406.20066)|null|
 |**2024-06-28**|**EgoGaussian: Dynamic Scene Understanding from Egocentric Video with 3D Gaussian Splatting**|Daiwei Zhang et.al.|[2406.19811](http://arxiv.org/abs/2406.19811)|null|
@@ -2947,7 +2947,7 @@
 |**2023-09-18**|**Instant Photorealistic Style Transfer: A Lightweight and Adaptive Approach**|Rong Liu et.al.|[2309.10011](http://arxiv.org/abs/2309.10011)|null|
 |**2023-09-18**|**RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision**|Mingjie Pan et.al.|[2309.09502](http://arxiv.org/abs/2309.09502)|**[link](https://github.com/pmj110119/renderocc)**|
 |**2023-09-17**|**NeRF-VINS: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System**|Saimouli Katragadda et.al.|[2309.09295](http://arxiv.org/abs/2309.09295)|null|
-|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|null|
+|**2023-09-16**|**DynaMoN: Motion-Aware Fast And Robust Camera Localization for Dynamic NeRF**|Mert Asim Karaoglu et.al.|[2309.08927](http://arxiv.org/abs/2309.08927)|**[link](https://github.com/hannahhaensen/dynamon)**|
 |**2023-09-15**|**Robust e-NeRF: NeRF from Sparse & Noisy Events under Non-Uniform Motion**|Weng Fei Low et.al.|[2309.08596](http://arxiv.org/abs/2309.08596)|**[link](https://github.com/wengflow/robust-e-nerf)**|
 |**2023-09-14**|**Gradient based Grasp Pose Optimization on a NeRF that Approximates Grasp Success**|Gergely Sóti et.al.|[2309.08040](http://arxiv.org/abs/2309.08040)|null|
 |**2023-09-14**|**MC-NeRF: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems**|Yu Gao et.al.|[2309.07846](http://arxiv.org/abs/2309.07846)|null|
@@ -3502,7 +3502,7 @@
 |**2024-12-11**|**Minimizing resource overhead in fusion-based quantum computation using hybrid spin-photon devices**|Stephen C. Wein et.al.|[2412.08611](http://arxiv.org/abs/2412.08611)|null|
 |**2024-12-11**|**High Dimensional Quantum Eavesdropping: A Hypothetical Attack on BB84 & SSP**|Christopher Dunne et.al.|[2412.08487](http://arxiv.org/abs/2412.08487)|null|
 |**2024-12-11**|**Commercial CMOS Process for Quantum Computing: Quantum Dots and Charge Sensing in a 22 nm Fully Depleted Silicon-on-Insulator Process**|S. V. Amitonov et.al.|[2412.08422](http://arxiv.org/abs/2412.08422)|null|
-|**2024-12-11**|**Input-dependence in quantum reservoir computing**|Rodrigo Martínez-Peña et.al.|[2412.08322](http://arxiv.org/abs/2412.08322)|null|
+|**2024-12-11**|**Input-dependence in quantum reservoir computing**|Rodrigo Martínez-Peña et.al.|[2412.08322](http://arxiv.org/abs/2412.08322)|**[link](https://github.com/RMPhys/input-dependence-QRC)**|
 |**2024-12-11**|**Quadratically enhancing optomechanical entanglement via dark mode control**|A. -H. Abdel-Aty et.al.|[2412.08288](http://arxiv.org/abs/2412.08288)|null|
 |**2024-12-11**|**Measurement-based quantum convolutional neural network for deep learning**|Yifan Sun et.al.|[2412.08207](http://arxiv.org/abs/2412.08207)|null|
 |**2024-12-11**|**On the Bargmann invariants for quantum imaginarity**|Mao-Sheng Li et.al.|[2412.08022](http://arxiv.org/abs/2412.08022)|null|
@@ -3523,7 +3523,7 @@
 |**2024-12-09**|**Robust Quantum Reservoir Computing for Molecular Property Prediction**|Daniel Beaulieu et.al.|[2412.06758](http://arxiv.org/abs/2412.06758)|null|
 |**2024-12-09**|**Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions**|Phattharaporn Singkanipa et.al.|[2412.06744](http://arxiv.org/abs/2412.06744)|null|
 |**2024-12-09**|**Performance and achievable rates of the Gottesman-Kitaev-Preskill code for pure-loss and amplification channels**|Guo Zheng et.al.|[2412.06715](http://arxiv.org/abs/2412.06715)|null|
-|**2024-12-09**|**Using optimal control to guide neural-network interpolation of continuously-parameterized gates**|Bikrant Bhattacharyya et.al.|[2412.06623](http://arxiv.org/abs/2412.06623)|null|
+|**2024-12-09**|**Using optimal control to guide neural-network interpolation of continuously-parameterized gates**|Bikrant Bhattacharyya et.al.|[2412.06623](http://arxiv.org/abs/2412.06623)|**[link](https://github.com/BBhattacharyya1729/vqe-gate-families)**|
 |**2024-12-09**|**Seismic Traveltime Inversion with Quantum Annealing**|Hoang Anh Nguyen et.al.|[2412.06611](http://arxiv.org/abs/2412.06611)|null|
 |**2024-12-09**|**Multimodal Purcell enhancement and optical coherence of Eu $^{\text{3+}}$ ions in a single nanoparticle coupled to a microcavity**|Timon Eichhorn et.al.|[2412.06576](http://arxiv.org/abs/2412.06576)|null|
 |**2024-12-09**|**Towards novel tunability schemes for hybrid ferromagnetic transmon qubits**|Halima Giovanna Ahmad et.al.|[2412.06562](http://arxiv.org/abs/2412.06562)|null|
@@ -3582,7 +3582,7 @@
 |**2024-11-27**|**Magnetic-field dependence of spin-phonon relaxation and dephasing due to g-factor fluctuations from first principles**|Joshua Quinton et.al.|[2411.18608](http://arxiv.org/abs/2411.18608)|null|
 |**2024-11-27**|**Bit symmetry entails the symmetry of the quantum transition probability**|Gerd Niestegge et.al.|[2411.18589](http://arxiv.org/abs/2411.18589)|null|
 |**2024-11-27**|**Parallel Token Swapping for Qubit Routing**|Ishan Bansal et.al.|[2411.18581](http://arxiv.org/abs/2411.18581)|null|
-|**2024-11-27**|**Ground-State Preparation of the Fermi-Hubbard Model on a Quantum Computer with 2D Topology via Quantum Eigenvalue Transformation of Unitary Matrices**|Thilo R. Müller et.al.|[2411.18535](http://arxiv.org/abs/2411.18535)|null|
+|**2024-11-27**|**Ground-State Preparation of the Fermi-Hubbard Model on a Quantum Computer with 2D Topology via Quantum Eigenvalue Transformation of Unitary Matrices**|Thilo R. Müller et.al.|[2411.18535](http://arxiv.org/abs/2411.18535)|**[link](https://github.com/thilomueller/qetu)**|
 |**2024-11-27**|**Displaced Fermionic Gaussian States and their Classical Simulation**|Xingjian Lyu et.al.|[2411.18517](http://arxiv.org/abs/2411.18517)|null|
 |**2024-11-27**|**Second-order correlation and squeezing of photons in cavities with ultrastrong magnon-photon interactions**|Vemund Falch et.al.|[2411.18512](http://arxiv.org/abs/2411.18512)|null|
 |**2024-11-27**|**Towards quantum error correction with two-body gates for quantum registers based on nitrogen-vacancy centers in diamond**|Daniel Dulog et.al.|[2411.18450](http://arxiv.org/abs/2411.18450)|null|
@@ -3705,7 +3705,7 @@
 |**2024-11-11**|**Computable Model-Independent Bounds for Adversarial Quantum Machine Learning**|Bacui Li et.al.|[2411.06863](http://arxiv.org/abs/2411.06863)|null|
 |**2024-11-11**|**External Control over Magnon-Magnon Coupling in a Two-Dimensional Array of Square Shaped Nanomagnets**|Swapnil Barman et.al.|[2411.06849](http://arxiv.org/abs/2411.06849)|null|
 |**2024-11-11**|**Test-Time Training with Quantum Auto-Encoder: From Distribution Shift to Noisy Quantum Circuits**|Damien Jian et.al.|[2411.06828](http://arxiv.org/abs/2411.06828)|null|
-|**2024-11-11**|**Efficient Classical Computation of Single-Qubit Marginal Measurement Probabilities to Simulate Certain Classes of Quantum Algorithms**|Santana Y. Pradata et.al.|[2411.06822](http://arxiv.org/abs/2411.06822)|null|
+|**2024-11-11**|**Efficient Classical Computation of Single-Qubit Marginal Measurement Probabilities to Simulate Certain Classes of Quantum Algorithms**|Santana Y. Pradata et.al.|[2411.06822](http://arxiv.org/abs/2411.06822)|**[link](https://github.com/brin-q/qcdft-ml)**|
 |**2024-11-11**|**Emergence of steady quantum transport in a superconducting processor**|Pengfei Zhang et.al.|[2411.06794](http://arxiv.org/abs/2411.06794)|null|
 |**2024-11-08**|**Unstructured Adiabatic Quantum Optimization: Optimality with Limitations**|Arthur Braida et.al.|[2411.05736](http://arxiv.org/abs/2411.05736)|null|
 |**2024-11-08**|**On properties of Schmidt Decomposition**|Mithilesh Kumar et.al.|[2411.05703](http://arxiv.org/abs/2411.05703)|null|
@@ -4141,7 +4141,7 @@
 |**2024-12-17**|**Topological Quantum Spin Glass Order and its realization in qLDPC codes**|Benedikt Placke et.al.|[2412.13248](http://arxiv.org/abs/2412.13248)|null|
 |**2024-12-17**|**Alterfold Theory and Topological Modular Invariance**|Zhengwei Liu et.al.|[2412.12702](http://arxiv.org/abs/2412.12702)|null|
 |**2024-12-16**|**Coherent information as a mixed-state topological order parameter of fermions**|Ze-Min Huang et.al.|[2412.12279](http://arxiv.org/abs/2412.12279)|null|
-|**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner et.al.|[2412.12186](http://arxiv.org/abs/2412.12186)|null|
+|**2024-12-13**|**Emergent electrostatics in planar XY spin models: the bridge connecting topological order/nonergodicity with broken $U(1)$ symmetry**|Michael F. Faulkner et.al.|[2412.12186](http://arxiv.org/abs/2412.12186)|**[link](https://github.com/michaelfaulkner/super-alby)**|
 |**2024-12-16**|**On the Ability of Deep Networks to Learn Symmetries from Data: A Neural Kernel Theory**|Andrea Perin et.al.|[2412.11521](http://arxiv.org/abs/2412.11521)|**[link](https://github.com/andrea-perin/gpsymm)**|
 |**2024-12-16**|**Anyon Condensation in Virasoro TQFT**|Shunta Takahashi et.al.|[2412.11486](http://arxiv.org/abs/2412.11486)|null|
 |**2024-12-13**|**SPT: Sequence Prompt Transformer for Interactive Image Segmentation**|Senlin Cheng et.al.|[2412.10224](http://arxiv.org/abs/2412.10224)|null|
