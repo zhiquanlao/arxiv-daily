@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors**|Luke Ellert-Beck et.al.|[2412.17789](http://arxiv.org/abs/2412.17789)|null|
+|**2024-12-23**|**Hiding, Shuffling, and Triangle Finding: Quantum Algorithms on Edge Lists**|Amin Shiraz Gilani et.al.|[2412.17786](http://arxiv.org/abs/2412.17786)|null|
+|**2024-12-23**|**Towards structure-preserving quantum encodings**|Arthur J. Parzygnat et.al.|[2412.17772](http://arxiv.org/abs/2412.17772)|null|
+|**2024-12-23**|**Ultrashort-pulse-pumped, single-mode type-0 squeezers in lithium niobate nanophotonics**|Martin Houde et.al.|[2412.17708](http://arxiv.org/abs/2412.17708)|null|
+|**2024-12-23**|**Lindblad engineering for quantum Gibbs state preparation under the eigenstate thermalization hypothesis**|Eric Brunner et.al.|[2412.17706](http://arxiv.org/abs/2412.17706)|null|
+|**2024-12-23**|**On-chip frequency-bin quantum photonics**|Karthik V. Myilswamy et.al.|[2412.17683](http://arxiv.org/abs/2412.17683)|null|
+|**2024-12-23**|**Tailoring the properties of the 2D ferromagnet CrSBr by lanthanide doping**|Sourav Dey et.al.|[2412.17682](http://arxiv.org/abs/2412.17682)|null|
+|**2024-12-23**|**Rigidity of non-negligible objects of moderate growth in braided categories**|Pavel Etingof et.al.|[2412.17681](http://arxiv.org/abs/2412.17681)|null|
+|**2024-12-23**|**Interplay between dressed and strong-axial-field states in Nitrogen-Vacancy centers for quantum sensing and computation**|G. Zanelli et.al.|[2412.17608](http://arxiv.org/abs/2412.17608)|null|
+|**2024-12-23**|**Quantum Time-Series Learning with Evolutionary Algorithms**|Vignesh Anantharamakrishnan et.al.|[2412.17580](http://arxiv.org/abs/2412.17580)|null|
 |**2024-12-20**|**Engineering high-Q superconducting tantalum microwave coplanar waveguide resonators for compact coherent quantum circuits**|Shima Poorgholam-Khanjari et.al.|[2412.16099](http://arxiv.org/abs/2412.16099)|null|
 |**2024-12-20**|**Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations**|Yasuo Oda et.al.|[2412.16092](http://arxiv.org/abs/2412.16092)|null|
 |**2024-12-20**|**Error-corrected fermionic quantum processors with neutral atoms**|Robert Ott et.al.|[2412.16081](http://arxiv.org/abs/2412.16081)|null|
@@ -4120,6 +4130,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-23**|**Variational Quantum Simulation of Anyonic Chains**|Ananda Roy et.al.|[2412.17781](http://arxiv.org/abs/2412.17781)|null|
+|**2024-12-22**|**A tensor network formulation of Lattice Gauge Theories based only on symmetric tensors**|Manu Canals et.al.|[2412.16961](http://arxiv.org/abs/2412.16961)|null|
 |**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167](http://arxiv.org/abs/2412.15167)|null|
 |**2024-12-19**|**Defining extended TQFTs via handle attachments**|Benjamin Haïoun et.al.|[2412.14649](http://arxiv.org/abs/2412.14649)|null|
 |**2024-12-18**|**Braiding for the win: Harnessing braiding statistics in topological states to win quantum games**|Oliver Hart et.al.|[2412.14288](http://arxiv.org/abs/2412.14288)|null|
