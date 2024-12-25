@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Probing Entanglement Scaling Across a Quantum Phase Transition on a Quantum Computer**|Qiang Miao et.al.|[2412.18602](http://arxiv.org/abs/2412.18602)|null|
+|**2024-12-24**|**Uniform Additivity of Tripartite Optimized Correlation Measures**|Joshua Levin et.al.|[2412.18586](http://arxiv.org/abs/2412.18586)|null|
+|**2024-12-24**|**Randomized Benchmarking with Synthetic Quantum Circuits**|Yale Fan et.al.|[2412.18578](http://arxiv.org/abs/2412.18578)|null|
+|**2024-12-24**|**Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression**|Co Tran et.al.|[2412.18571](http://arxiv.org/abs/2412.18571)|null|
+|**2024-12-24**|**A Time Optimization Framework for the Implementation of Robust and Low-latency Quantum Circuits**|Eduardo Willwock Lussi et.al.|[2412.18533](http://arxiv.org/abs/2412.18533)|null|
+|**2024-12-24**|**Pilot-Quantum: A Quantum-HPC Middleware for Resource, Workload and Task Management**|Pradeep Mantha et.al.|[2412.18519](http://arxiv.org/abs/2412.18519)|null|
+|**2024-12-24**|**Efficient broadband antenna for a quantum emitter working at telecommunication wavelengths**|Monika Dziubelski et.al.|[2412.18472](http://arxiv.org/abs/2412.18472)|null|
+|**2024-12-24**|**Hardware-aware Circuit Cutting and Distributed Qubit Mapping for Connected Quantum Systems**|Zefan Du et.al.|[2412.18458](http://arxiv.org/abs/2412.18458)|null|
+|**2024-12-24**|**Relativistic Dynamics and Electron Transport in Isolated Chiral Molecules**|Sushant Kumar Behera et.al.|[2412.18413](http://arxiv.org/abs/2412.18413)|null|
+|**2024-12-24**|**Universal pulses for superconducting qudit ladder gates**|Boxi Li et.al.|[2412.18339](http://arxiv.org/abs/2412.18339)|null|
 |**2024-12-23**|**Power-optimized amplitude modulation for robust trapped-ion entangling gates: a study of gate-timing errors**|Luke Ellert-Beck et.al.|[2412.17789](http://arxiv.org/abs/2412.17789)|null|
 |**2024-12-23**|**Hiding, Shuffling, and Triangle Finding: Quantum Algorithms on Edge Lists**|Amin Shiraz Gilani et.al.|[2412.17786](http://arxiv.org/abs/2412.17786)|null|
 |**2024-12-23**|**Towards structure-preserving quantum encodings**|Arthur J. Parzygnat et.al.|[2412.17772](http://arxiv.org/abs/2412.17772)|null|
@@ -4130,6 +4140,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**A new way to prove configuration reducibility using gauge theory**|Scott Baldridge et.al.|[2412.18558](http://arxiv.org/abs/2412.18558)|null|
+|**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
 |**2024-12-23**|**Variational Quantum Simulation of Anyonic Chains**|Ananda Roy et.al.|[2412.17781](http://arxiv.org/abs/2412.17781)|null|
 |**2024-12-22**|**A tensor network formulation of Lattice Gauge Theories based only on symmetric tensors**|Manu Canals et.al.|[2412.16961](http://arxiv.org/abs/2412.16961)|null|
 |**2024-12-19**|**Pointing Accuracy Improvements for the South Pole Telescope with Machine Learning**|P. M. Chichura et.al.|[2412.15167](http://arxiv.org/abs/2412.15167)|null|
