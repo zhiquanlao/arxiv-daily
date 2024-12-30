@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian et.al.|[2412.19803](http://arxiv.org/abs/2412.19803)|null|
+|**2024-12-27**|**Continuous majorization in quantum phase space with Wigner negativity**|Jan de Boer et.al.|[2412.19698](http://arxiv.org/abs/2412.19698)|null|
+|**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
+|**2024-12-27**|**Super-bath Quantum Eigensolver**|Tianren Wang et.al.|[2412.19599](http://arxiv.org/abs/2412.19599)|null|
+|**2024-12-27**|**Robust phase estimation of the ground-state energy without controlled time evolution on a quantum device**|Hiroki Kuji et.al.|[2412.19590](http://arxiv.org/abs/2412.19590)|null|
+|**2024-12-27**|**Readout of strongly coupled NV center-pair spin states with deep neural networks**|Matthew Joliffe et.al.|[2412.19581](http://arxiv.org/abs/2412.19581)|null|
+|**2024-12-27**|**Single-qubit quantum gate at an arbitrary speed**|Seongjin Ahn et.al.|[2412.19561](http://arxiv.org/abs/2412.19561)|null|
+|**2024-12-27**|**GHZ-W Genuinely Entangled Subspace Verification with Adaptive Local Measurements**|Congcong Zheng et.al.|[2412.19540](http://arxiv.org/abs/2412.19540)|null|
+|**2024-12-27**|**Two superconducting thin films systems with potential integration of different quantum functionalities**|Snehal Mandal et.al.|[2412.19493](http://arxiv.org/abs/2412.19493)|null|
+|**2024-12-27**|**A C-Band Cryogenic GaAs MMIC Low-Noise Amplifier for Quantum Applications**|Zechen Guo et.al.|[2412.19477](http://arxiv.org/abs/2412.19477)|null|
 |**2024-12-24**|**Probing Entanglement Scaling Across a Quantum Phase Transition on a Quantum Computer**|Qiang Miao et.al.|[2412.18602](http://arxiv.org/abs/2412.18602)|null|
 |**2024-12-24**|**Uniform Additivity of Tripartite Optimized Correlation Measures**|Joshua Levin et.al.|[2412.18586](http://arxiv.org/abs/2412.18586)|null|
 |**2024-12-24**|**Randomized Benchmarking with Synthetic Quantum Circuits**|Yale Fan et.al.|[2412.18578](http://arxiv.org/abs/2412.18578)|null|
@@ -4140,6 +4150,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-27**|**Gauging or extending bulk and boundary conformal field theories: Application to bulk and domain wall problem in topological matter and their descriptions by (mock) modular covariant**|Yoshiki Fukusumi et.al.|[2412.19577](http://arxiv.org/abs/2412.19577)|null|
 |**2024-12-24**|**A new way to prove configuration reducibility using gauge theory**|Scott Baldridge et.al.|[2412.18558](http://arxiv.org/abs/2412.18558)|null|
 |**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
 |**2024-12-23**|**Variational Quantum Simulation of Anyonic Chains**|Ananda Roy et.al.|[2412.17781](http://arxiv.org/abs/2412.17781)|null|
