@@ -899,7 +899,7 @@ layout: default
 |**2024-06-14**|**BiVLC: Extending Vision-Language Compositionality Evaluation with Text-to-Image Retrieval**|Imanol Miranda et.al.|[2406.09952](http://arxiv.org/abs/2406.09952)|**[link](https://github.com/imirandam/bivlc)**|
 |**2024-06-13**|**Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases**|Meng Wang et.al.|[2406.09317](http://arxiv.org/abs/2406.09317)|**[link](https://github.com/LooKing9218/RetiZero)**|
 |**2024-06-13**|**Reducing Task Discrepancy of Text Encoders for Zero-Shot Composed Image Retrieval**|Jaeseok Byun et.al.|[2406.09188](http://arxiv.org/abs/2406.09188)|null|
-|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|null|
+|**2024-06-13**|**DenoiseReID: Denoising Model for Representation Learning of Person Re-Identification**|Zhengrui Xu et.al.|[2406.08773](http://arxiv.org/abs/2406.08773)|**[link](https://github.com/wangguanan/denoiserep)**|
 |**2024-06-12**|**Self-supervised Learning of Neural Implicit Feature Fields for Camera Pose Refinement**|Maxime Pietrantoni et.al.|[2406.08463](http://arxiv.org/abs/2406.08463)|null|
 |**2024-06-12**|**ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery**|Kam Woh Ng et.al.|[2406.08457](http://arxiv.org/abs/2406.08457)|**[link](https://github.com/kamwoh/concepthash)**|
 |**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
@@ -2463,7 +2463,7 @@ layout: default
 |**2024-04-10**|**MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views**|Runfa Li et.al.|[2404.06753](http://arxiv.org/abs/2404.06753)|null|
 |**2024-04-10**|**Bayesian NeRF: Quantifying Uncertainty with Volume Density in Neural Radiance Fields**|Sibeak Lee et.al.|[2404.06727](http://arxiv.org/abs/2404.06727)|**[link](https://github.com/lab-of-ai-and-robotics/bayesian_nerf)**|
 |**2024-04-11**|**SpikeNVS: Enhancing Novel View Synthesis from Blurry Images via Spike Camera**|Gaole Dai et.al.|[2404.06710](http://arxiv.org/abs/2404.06710)|null|
-|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|null|
+|**2024-04-09**|**Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion**|Fan Yang et.al.|[2404.06429](http://arxiv.org/abs/2404.06429)|**[link](https://github.com/magic-research/magic-boost)**|
 |**2024-04-09**|**3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis**|Zhicheng Lu et.al.|[2404.06270](http://arxiv.org/abs/2404.06270)|null|
 |**2024-04-09**|**GHNeRF: Learning Generalizable Human Features with Efficient Neural Radiance Fields**|Arnab Dey et.al.|[2404.06246](http://arxiv.org/abs/2404.06246)|null|
 |**2024-04-09**|**HFNeRF: Learning Human Biomechanic Features with Neural Radiance Fields**|Arnab Dey et.al.|[2404.06152](http://arxiv.org/abs/2404.06152)|null|
@@ -3436,7 +3436,7 @@ layout: default
 |**2024-12-23**|**Tailoring the properties of the 2D ferromagnet CrSBr by lanthanide doping**|Sourav Dey et.al.|[2412.17682](http://arxiv.org/abs/2412.17682)|null|
 |**2024-12-23**|**Rigidity of non-negligible objects of moderate growth in braided categories**|Pavel Etingof et.al.|[2412.17681](http://arxiv.org/abs/2412.17681)|null|
 |**2024-12-23**|**Interplay between dressed and strong-axial-field states in Nitrogen-Vacancy centers for quantum sensing and computation**|G. Zanelli et.al.|[2412.17608](http://arxiv.org/abs/2412.17608)|null|
-|**2024-12-23**|**Quantum Time-Series Learning with Evolutionary Algorithms**|Vignesh Anantharamakrishnan et.al.|[2412.17580](http://arxiv.org/abs/2412.17580)|null|
+|**2024-12-23**|**Quantum Time-Series Learning with Evolutionary Algorithms**|Vignesh Anantharamakrishnan et.al.|[2412.17580](http://arxiv.org/abs/2412.17580)|**[link](https://github.com/viggi999999/evoalgocode)**|
 |**2024-12-20**|**Engineering high-Q superconducting tantalum microwave coplanar waveguide resonators for compact coherent quantum circuits**|Shima Poorgholam-Khanjari et.al.|[2412.16099](http://arxiv.org/abs/2412.16099)|null|
 |**2024-12-20**|**Sparse Non-Markovian Noise Modeling of Transmon-Based Multi-Qubit Operations**|Yasuo Oda et.al.|[2412.16092](http://arxiv.org/abs/2412.16092)|null|
 |**2024-12-20**|**Error-corrected fermionic quantum processors with neutral atoms**|Robert Ott et.al.|[2412.16081](http://arxiv.org/abs/2412.16081)|null|
