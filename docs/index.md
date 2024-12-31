@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Quantum algorithms for the simulation of QCD processes in the perturbative regime**|Herschel A. Chawdhry et.al.|[2412.21177](http://arxiv.org/abs/2412.21177)|null|
+|**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
+|**2024-12-30**|**Measuring Quantum Discord at the LHC**|Tao Han et.al.|[2412.21158](http://arxiv.org/abs/2412.21158)|null|
+|**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova et.al.|[2412.21153](http://arxiv.org/abs/2412.21153)|null|
+|**2024-12-30**|**Anyonization of bosons**|Sudipta Dhar et.al.|[2412.21131](http://arxiv.org/abs/2412.21131)|null|
+|**2024-12-30**|**Quantum States with Maximal Magic**|Gianluca Cuffaro et.al.|[2412.21083](http://arxiv.org/abs/2412.21083)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|null|
+|**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
+|**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062](http://arxiv.org/abs/2412.21062)|null|
+|**2024-12-30**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian et.al.|[2412.19803](http://arxiv.org/abs/2412.19803)|null|
 |**2024-12-27**|**Continuous majorization in quantum phase space with Wigner negativity**|Jan de Boer et.al.|[2412.19698](http://arxiv.org/abs/2412.19698)|null|
 |**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
@@ -4150,6 +4160,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196](http://arxiv.org/abs/2412.21196)|null|
+|**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
+|**2024-12-30**|**3d $\mathcal{N}=4$ Mirror Symmetry, TQFTs, and 't Hooft Anomaly Matching**|Mahesh K. N. Balasubramanian et.al.|[2412.21066](http://arxiv.org/abs/2412.21066)|null|
+|**2024-12-30**|**The 3BF theory as a TQFT**|Tijana Radenkovic et.al.|[2412.21032](http://arxiv.org/abs/2412.21032)|null|
+|**2024-12-30**|**Formal Theory at ICHEP 2024**|Sakura Schafer-Nameki et.al.|[2412.21007](http://arxiv.org/abs/2412.21007)|null|
+|**2024-12-30**|**Parametrized topological phases in 1d and T-duality**|Roman Geiko et.al.|[2412.20905](http://arxiv.org/abs/2412.20905)|null|
+|**2024-12-29**|**Non-invertible SPTs: an on-site realization of (1+1)d anomaly-free fusion category symmetry**|Chenqi Meng et.al.|[2412.20546](http://arxiv.org/abs/2412.20546)|null|
 |**2024-12-27**|**Gauging or extending bulk and boundary conformal field theories: Application to bulk and domain wall problem in topological matter and their descriptions by (mock) modular covariant**|Yoshiki Fukusumi et.al.|[2412.19577](http://arxiv.org/abs/2412.19577)|null|
 |**2024-12-24**|**A new way to prove configuration reducibility using gauge theory**|Scott Baldridge et.al.|[2412.18558](http://arxiv.org/abs/2412.18558)|null|
 |**2024-12-24**|**Combining GPT and Code-Based Similarity Checking for Effective Smart Contract Vulnerability Detection**|Jango Zhang et.al.|[2412.18225](http://arxiv.org/abs/2412.18225)|null|
