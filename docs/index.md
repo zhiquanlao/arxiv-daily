@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.01
+## Updated on 2025.01.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3423,7 +3423,7 @@ layout: default
 |**2024-12-30**|**Particle-Soliton Degeneracy in 2D Quantum Chromodynamics**|Clay Cordova et.al.|[2412.21153](http://arxiv.org/abs/2412.21153)|null|
 |**2024-12-30**|**Anyonization of bosons**|Sudipta Dhar et.al.|[2412.21131](http://arxiv.org/abs/2412.21131)|null|
 |**2024-12-30**|**Quantum States with Maximal Magic**|Gianluca Cuffaro et.al.|[2412.21083](http://arxiv.org/abs/2412.21083)|null|
-|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|null|
+|**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
 |**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
 |**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062](http://arxiv.org/abs/2412.21062)|null|
 |**2024-12-30**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
