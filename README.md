@@ -3448,7 +3448,7 @@
 |**2024-12-30**|**Quantum Diffusion Model for Quark and Gluon Jet Generation**|Mariia Baidachna et.al.|[2412.21082](http://arxiv.org/abs/2412.21082)|**[link](https://github.com/mashathepotato/GSoC-Quantum-Diffusion-Model)**|
 |**2024-12-30**|**Investigating layer-selective transfer learning of QAOA parameters for Max-Cut problem**|Francesco Aldo Venturelli et.al.|[2412.21071](http://arxiv.org/abs/2412.21071)|null|
 |**2024-12-30**|**Exponentially reduced circuit depths in Lindbladian simulation**|Wenjun Yu et.al.|[2412.21062](http://arxiv.org/abs/2412.21062)|null|
-|**2024-12-30**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
+|**2024-12-31**|**First-principles Spin and Optical Properties of Vacancy Clusters in Lithium Fluoride**|Mariano Guerrero Perez et.al.|[2412.21060](http://arxiv.org/abs/2412.21060)|null|
 |**2024-12-27**|**A local automaton for the 2D toric code**|Shankar Balasubramanian et.al.|[2412.19803](http://arxiv.org/abs/2412.19803)|null|
 |**2024-12-27**|**Continuous majorization in quantum phase space with Wigner negativity**|Jan de Boer et.al.|[2412.19698](http://arxiv.org/abs/2412.19698)|null|
 |**2024-12-27**|**Quantum Cluster State Model with Haagerup Fusion Category Symmetry**|Zhian Jia et.al.|[2412.19657](http://arxiv.org/abs/2412.19657)|null|
