@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.04
+## Updated on 2025.01.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412](http://arxiv.org/abs/2501.01412)|**[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)**|
+|**2025-01-02**|**Parallel assembly of neutral atom arrays with an SLM using linear phase interpolation**|Ivo H. A. Knottnerus et.al.|[2501.01391](http://arxiv.org/abs/2501.01391)|null|
+|**2025-01-02**|**Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled Photon Sources**|Alessio Baldazzi et.al.|[2501.01301](http://arxiv.org/abs/2501.01301)|null|
+|**2025-01-02**|**Symmetric quantum computation**|Davi Castro-Silva et.al.|[2501.01214](http://arxiv.org/abs/2501.01214)|null|
+|**2025-01-02**|**Measurable Improvement in Multi-Qubit Readout Using a Kinetic Inductance Traveling Wave Parametric Amplifier**|M. A. Castellanos-Beltran et.al.|[2501.01185](http://arxiv.org/abs/2501.01185)|null|
+|**2025-01-02**|**Quantum Computing for Partition Function Estimation of a Markov Random Field in a Radar Anomaly Detection Problem**|Timothe Presles et.al.|[2501.01154](http://arxiv.org/abs/2501.01154)|null|
+|**2025-01-02**|**Detecting high-dimensional entanglement by local randomized projections**|Jin-Min Liang et.al.|[2501.01088](http://arxiv.org/abs/2501.01088)|null|
+|**2025-01-01**|**Pseudorandom quantum authentication**|Tobias Haug et.al.|[2501.00951](http://arxiv.org/abs/2501.00951)|null|
+|**2025-01-01**|**Photon-photon coupling induced bound state in the continuum and transparency**|Ekta Tunwal et.al.|[2501.00900](http://arxiv.org/abs/2501.00900)|null|
+|**2024-12-31**|**The phase diagram of quantum chromodynamics in one dimension on a quantum computer**|Anton T. Than et.al.|[2501.00579](http://arxiv.org/abs/2501.00579)|null|
 |**2024-12-30**|**Quantum algorithms for the simulation of QCD processes in the perturbative regime**|Herschel A. Chawdhry et.al.|[2412.21177](http://arxiv.org/abs/2412.21177)|null|
 |**2024-12-30**|**Quantum Error Correction near the Coding Theoretical Bound**|Daiki Komoto et.al.|[2412.21171](http://arxiv.org/abs/2412.21171)|null|
 |**2024-12-30**|**Measuring Quantum Discord at the LHC**|Tao Han et.al.|[2412.21158](http://arxiv.org/abs/2412.21158)|null|
@@ -4160,6 +4170,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-31**|**Generic symmetry analysis of charmonium decay**|X. H. Mo et.al.|[2501.00670](http://arxiv.org/abs/2501.00670)|null|
+|**2024-12-31**|**Topological Leptogenesis**|Juven Wang et.al.|[2501.00607](http://arxiv.org/abs/2501.00607)|null|
+|**2024-12-31**|**Time-reversal invariant TQFTs from self-mirror symmetric SCFTs**|Hongliang Jiang et.al.|[2501.00460](http://arxiv.org/abs/2501.00460)|null|
+|**2024-12-31**|**Topic Review: Hatsugai-Kohmoto models: Exactly solvable playground for Mottness and Non-Fermi Liquid**|Miaomiao Zhao et.al.|[2501.00388](http://arxiv.org/abs/2501.00388)|null|
 |**2024-12-30**|**Topological Responses of the Standard Model Gauge Group**|Zheyan Wan et.al.|[2412.21196](http://arxiv.org/abs/2412.21196)|null|
 |**2024-12-30**|**Z $_2$ topological orders in kagomé dipolar systems: Feedback from Rydberg quantum simulator**|Pengwei Zhao et.al.|[2412.21112](http://arxiv.org/abs/2412.21112)|null|
 |**2024-12-30**|**3d $\mathcal{N}=4$ Mirror Symmetry, TQFTs, and 't Hooft Anomaly Matching**|Mahesh K. N. Balasubramanian et.al.|[2412.21066](http://arxiv.org/abs/2412.21066)|null|
