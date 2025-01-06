@@ -3439,6 +3439,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales et.al.|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
+|**2025-01-03**|**Two-cavity-mediated photon-pair emission by one atom**|Gianvito Chiarella et.al.|[2501.01891](http://arxiv.org/abs/2501.01891)|null|
+|**2025-01-03**|**Light Interaction With a Space-Time-Modulated Josephson Junction Array and Application to Angular-Frequency Beam Multiplexing**|Sajjad Taravati et.al.|[2501.01842](http://arxiv.org/abs/2501.01842)|null|
+|**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long et.al.|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
+|**2025-01-03**|**Topological quantum compilation of metaplectic anyons**|Jiangwei Long et.al.|[2501.01745](http://arxiv.org/abs/2501.01745)|null|
+|**2025-01-03**|**Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation**|Wanqi Sun et.al.|[2501.01646](http://arxiv.org/abs/2501.01646)|null|
 |**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412](http://arxiv.org/abs/2501.01412)|**[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)**|
 |**2025-01-02**|**Parallel assembly of neutral atom arrays with an SLM using linear phase interpolation**|Ivo H. A. Knottnerus et.al.|[2501.01391](http://arxiv.org/abs/2501.01391)|null|
 |**2025-01-02**|**Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled Photon Sources**|Alessio Baldazzi et.al.|[2501.01301](http://arxiv.org/abs/2501.01301)|null|
