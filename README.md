@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Compact superconducting vacuum-gap capacitors with low microwave loss and high mechanical coherence for scalable quantum circuits**|Amir Youssefi et.al.|[2501.03211](http://arxiv.org/abs/2501.03211)|null|
+|**2025-01-06**|**Probing Magnetism in Self-Assembled Organometallic Complexes using Kondo Spectroscopy**|Wantong Huang et.al.|[2501.03104](http://arxiv.org/abs/2501.03104)|null|
+|**2025-01-06**|**Frobenius-Schur Indicators of Dual Fusion Categories and Semisimple Partially Dualized Quasi-Hopf Algebras**|Kangqiao Li et.al.|[2501.03042](http://arxiv.org/abs/2501.03042)|null|
+|**2025-01-06**|**Operating semiconductor qubits without individual barrier gates**|A. S. Ivlev et.al.|[2501.03033](http://arxiv.org/abs/2501.03033)|null|
+|**2025-01-06**|**Bidirectional controlled quantum state preparation in high-dimensional quantum system**|Si-Qi Du et.al.|[2501.02986](http://arxiv.org/abs/2501.02986)|null|
+|**2025-01-06**|**Reducing Circuit Depth in Quantum State Preparation for Quantum Simulation Using Measurements and Feedforward**|Hyeonjun Yeo et.al.|[2501.02929](http://arxiv.org/abs/2501.02929)|null|
+|**2025-01-06**|**QSCL-EWIL: Quantum Stochastic Contrast Learning for Enhanced WiFi-Based Indoor Localization**|Muhammad Bilal Akram Dastagir et.al.|[2501.02884](http://arxiv.org/abs/2501.02884)|null|
+|**2025-01-06**|**Robust Mølmer-Sørensen Gate Against Symmetric and Asymmetric Errors**|Wenhao Zhang et.al.|[2501.02847](http://arxiv.org/abs/2501.02847)|null|
+|**2025-01-06**|**Image-charge detection of electrons on helium in an on-chip trapping device**|Mikhail Belianchikov et.al.|[2501.02779](http://arxiv.org/abs/2501.02779)|null|
+|**2025-01-05**|**Improving Quantum Machine Learning via Heat-Bath Algorithmic Cooling**|Nayeli A. Rodríguez-Briones et.al.|[2501.02687](http://arxiv.org/abs/2501.02687)|null|
 |**2025-01-03**|**Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform**|Alvin Gonzales et.al.|[2501.01953](http://arxiv.org/abs/2501.01953)|null|
 |**2025-01-03**|**Two-cavity-mediated photon-pair emission by one atom**|Gianvito Chiarella et.al.|[2501.01891](http://arxiv.org/abs/2501.01891)|null|
 |**2025-01-03**|**Light Interaction With a Space-Time-Modulated Josephson Junction Array and Application to Angular-Frequency Beam Multiplexing**|Sajjad Taravati et.al.|[2501.01842](http://arxiv.org/abs/2501.01842)|null|
@@ -4200,6 +4210,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-04**|**Mixed state topological order: operator algebraic approach**|Yoshiko Ogata et.al.|[2501.02398](http://arxiv.org/abs/2501.02398)|null|
+|**2025-01-04**|**Predicting the cryogenic performance of superconducting detectors by their visual properties**|K. R. Ferguson et.al.|[2501.02357](http://arxiv.org/abs/2501.02357)|null|
+|**2025-01-02**|**Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs**|Joao Fonseca et.al.|[2501.02018](http://arxiv.org/abs/2501.02018)|null|
 |**2024-12-31**|**Generic symmetry analysis of charmonium decay**|X. H. Mo et.al.|[2501.00670](http://arxiv.org/abs/2501.00670)|null|
 |**2024-12-31**|**Topological Leptogenesis**|Juven Wang et.al.|[2501.00607](http://arxiv.org/abs/2501.00607)|null|
 |**2024-12-31**|**Time-reversal invariant TQFTs from self-mirror symmetric SCFTs**|Hongliang Jiang et.al.|[2501.00460](http://arxiv.org/abs/2501.00460)|null|
