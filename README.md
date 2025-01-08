@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Cartan-covariant Quantum Channels and the PPT $^{2}$ conjecture**|Sean Prudhoe et.al.|[2501.03959](http://arxiv.org/abs/2501.03959)|null|
+|**2025-01-07**|**Modes, states and superselection rules in quantum optics and quantum information**|Eloi Descamps et.al.|[2501.03943](http://arxiv.org/abs/2501.03943)|null|
+|**2025-01-07**|**Efficient Protein Ground State Energy Computation via Fragmentation and Reassembly**|Laia Coronas Sala et.al.|[2501.03766](http://arxiv.org/abs/2501.03766)|null|
+|**2025-01-07**|**Multiparticle quantum walks for distinguishing hard graphs**|Sachin Kasture et.al.|[2501.03683](http://arxiv.org/abs/2501.03683)|null|
+|**2025-01-07**|**Quantum simulations of defects near the (0001) surface of $α$-Al$_2$O$_3$**|Vijaya Begum-Hudde et.al.|[2501.03524](http://arxiv.org/abs/2501.03524)|null|
+|**2025-01-07**|**Inductive Construction of Variational Quantum Circuit for Constrained Combinatorial Optimization**|Hyakka Nakada et.al.|[2501.03521](http://arxiv.org/abs/2501.03521)|null|
+|**2025-01-06**|**Magnetic properties of Cr $_8$ and V$_8$ molecular rings from ab initio calculations**|Elia Stocco et.al.|[2501.03393](http://arxiv.org/abs/2501.03393)|null|
+|**2025-01-06**|**Evolved Quantum Boltzmann Machines**|Michele Minervini et.al.|[2501.03367](http://arxiv.org/abs/2501.03367)|null|
+|**2025-01-06**|**Lindblad estimation with fast and precise quantum control**|James W. Gardner et.al.|[2501.03364](http://arxiv.org/abs/2501.03364)|null|
+|**2025-01-06**|**Quantum Feature-Empowered Deep Classification for Fast Mangrove Mapping**|Chia-Hsiang Lin et.al.|[2501.03360](http://arxiv.org/abs/2501.03360)|null|
 |**2025-01-06**|**Compact superconducting vacuum-gap capacitors with low microwave loss and high mechanical coherence for scalable quantum circuits**|Amir Youssefi et.al.|[2501.03211](http://arxiv.org/abs/2501.03211)|null|
 |**2025-01-06**|**Probing Magnetism in Self-Assembled Organometallic Complexes using Kondo Spectroscopy**|Wantong Huang et.al.|[2501.03104](http://arxiv.org/abs/2501.03104)|null|
 |**2025-01-06**|**Frobenius-Schur Indicators of Dual Fusion Categories and Semisimple Partially Dualized Quasi-Hopf Algebras**|Kangqiao Li et.al.|[2501.03042](http://arxiv.org/abs/2501.03042)|null|
@@ -4210,6 +4220,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Towards reconstruction of finite tensor categories**|Mitchell Jubeir et.al.|[2501.03987](http://arxiv.org/abs/2501.03987)|null|
+|**2025-01-06**|**Strong Lensing analysis of SPT-CLJ2325 $-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$ ) from the SPT Clusters Sample**|Guillaume Mahler et.al.|[2501.03361](http://arxiv.org/abs/2501.03361)|null|
+|**2025-01-06**|**Soft symmetries of topological orders**|Ryohei Kobayashi et.al.|[2501.03314](http://arxiv.org/abs/2501.03314)|null|
 |**2025-01-04**|**Mixed state topological order: operator algebraic approach**|Yoshiko Ogata et.al.|[2501.02398](http://arxiv.org/abs/2501.02398)|null|
 |**2025-01-04**|**Predicting the cryogenic performance of superconducting detectors by their visual properties**|K. R. Ferguson et.al.|[2501.02357](http://arxiv.org/abs/2501.02357)|null|
 |**2025-01-02**|**Safeguarding Large Language Models in Real-time with Tunable Safety-Performance Trade-offs**|Joao Fonseca et.al.|[2501.02018](http://arxiv.org/abs/2501.02018)|null|
