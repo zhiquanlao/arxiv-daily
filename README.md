@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
+|**2025-01-08**|**Extracting the spin excitation spectrum of a fermionic system using a quantum processor**|Lucia Vilchez-Estevez et.al.|[2501.04649](http://arxiv.org/abs/2501.04649)|null|
+|**2025-01-08**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636](http://arxiv.org/abs/2501.04636)|null|
+|**2025-01-08**|**Realizing Lattice Surgery on Two Distance-Three Repetition Codes with Superconducting Qubits**|Ilya Besedin et.al.|[2501.04612](http://arxiv.org/abs/2501.04612)|null|
+|**2025-01-08**|**Accelerated Discovery of Vanadium Oxide Compositions: A WGAN-VAE Framework for Materials Design**|Danial Ebrahimzadeh et.al.|[2501.04604](http://arxiv.org/abs/2501.04604)|null|
+|**2025-01-08**|**Cavity enhancement of V2 centers in 4H-SiC with a fiber-based Fabry-Pérot microcavity**|Jannis Hessenauer et.al.|[2501.04583](http://arxiv.org/abs/2501.04583)|null|
+|**2025-01-08**|**Physics-inspired Machine Learning for Quantum Error Mitigation**|Xiao-Yue Xu et.al.|[2501.04558](http://arxiv.org/abs/2501.04558)|null|
+|**2025-01-08**|**Roadmap on Atomic-scale Semiconductor Devices**|Steven R. Schofield et.al.|[2501.04535](http://arxiv.org/abs/2501.04535)|null|
+|**2025-01-08**|**Non-Markovian noise limits for sustaining entanglement in multiparty quantum states**|Suchetana Goswami et.al.|[2501.04526](http://arxiv.org/abs/2501.04526)|null|
+|**2025-01-08**|**Hypersonic acoustic wave control via hyperuniform phononic nanostructures**|Michele Diego et.al.|[2501.04428](http://arxiv.org/abs/2501.04428)|null|
 |**2025-01-07**|**Cartan-covariant Quantum Channels and the PPT $^{2}$ conjecture**|Sean Prudhoe et.al.|[2501.03959](http://arxiv.org/abs/2501.03959)|null|
 |**2025-01-07**|**Modes, states and superselection rules in quantum optics and quantum information**|Eloi Descamps et.al.|[2501.03943](http://arxiv.org/abs/2501.03943)|null|
 |**2025-01-07**|**Efficient Protein Ground State Energy Computation via Fragmentation and Reassembly**|Laia Coronas Sala et.al.|[2501.03766](http://arxiv.org/abs/2501.03766)|null|
@@ -4220,6 +4230,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-07**|**Detecting rotation from lensing in the CMB**|Julien Carron et.al.|[2501.04158](http://arxiv.org/abs/2501.04158)|null|
 |**2025-01-07**|**Towards reconstruction of finite tensor categories**|Mitchell Jubeir et.al.|[2501.03987](http://arxiv.org/abs/2501.03987)|null|
 |**2025-01-06**|**Strong Lensing analysis of SPT-CLJ2325 $-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$ ) from the SPT Clusters Sample**|Guillaume Mahler et.al.|[2501.03361](http://arxiv.org/abs/2501.03361)|null|
 |**2025-01-06**|**Soft symmetries of topological orders**|Ryohei Kobayashi et.al.|[2501.03314](http://arxiv.org/abs/2501.03314)|null|
