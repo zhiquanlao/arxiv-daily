@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Blind calibration of a quantum computer**|Liam M. Jeanette et.al.|[2501.05355](http://arxiv.org/abs/2501.05355)|null|
+|**2025-01-09**|**A learning agent-based approach to the characterization of open quantum systems**|Lorenzo Fioroni et.al.|[2501.05350](http://arxiv.org/abs/2501.05350)|null|
+|**2025-01-09**|**Discovery of Spin-Crossover Candidates with Equivariant Graph Neural Networks**|Angel Albavera-Mata et.al.|[2501.05341](http://arxiv.org/abs/2501.05341)|null|
+|**2025-01-09**|**Research on quantum compilation of neutral atom quantum computing platform**|Chongyuan Xu et.al.|[2501.05266](http://arxiv.org/abs/2501.05266)|null|
+|**2025-01-09**|**Grid Cost Allocation in Peer-to-Peer Electricity Markets: Benchmarking Classical and Quantum Optimization Approaches**|David Bucher et.al.|[2501.05253](http://arxiv.org/abs/2501.05253)|null|
+|**2025-01-09**|**Almost Optimal Synthesis of Reversible Function in Qudit Model**|Buji Xu et.al.|[2501.05237](http://arxiv.org/abs/2501.05237)|null|
+|**2025-01-09**|**Implementation of phase gates using single photons**|V. Hizhnyakov et.al.|[2501.05230](http://arxiv.org/abs/2501.05230)|null|
+|**2025-01-09**|**Electron-phonon coupling in lattice engineering of lithium niobate single crystal thin films**|Guoqiang Shi et.al.|[2501.05060](http://arxiv.org/abs/2501.05060)|null|
+|**2025-01-09**|**Quantum-Assisted Space Logistics Mission Planning**|Amiratabak Bahengam et.al.|[2501.05046](http://arxiv.org/abs/2501.05046)|null|
+|**2025-01-09**|**Non-Markovian Noise Mitigation: Practical Implementation, Error Analysis, and the Role of Environment Spectral Properties**|Ke Wang et.al.|[2501.05019](http://arxiv.org/abs/2501.05019)|null|
 |**2025-01-08**|**Comparative Analysis of Quantum and Classical Support Vector Classifiers for Software Bug Prediction: An Exploratory Study**|Md Nadim et.al.|[2501.04690](http://arxiv.org/abs/2501.04690)|null|
 |**2025-01-08**|**Extracting the spin excitation spectrum of a fermionic system using a quantum processor**|Lucia Vilchez-Estevez et.al.|[2501.04649](http://arxiv.org/abs/2501.04649)|null|
 |**2025-01-08**|**Efficient Online Quantum Circuit Learning with No Upfront Training**|Tom O'Leary et.al.|[2501.04636](http://arxiv.org/abs/2501.04636)|null|
@@ -4206,6 +4216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372](http://arxiv.org/abs/2501.05372)|null|
 |**2025-01-07**|**Detecting rotation from lensing in the CMB**|Julien Carron et.al.|[2501.04158](http://arxiv.org/abs/2501.04158)|null|
 |**2025-01-07**|**Towards reconstruction of finite tensor categories**|Mitchell Jubeir et.al.|[2501.03987](http://arxiv.org/abs/2501.03987)|null|
 |**2025-01-06**|**Strong Lensing analysis of SPT-CLJ2325 $-$4111 and SPT-CLJ0049$-$2440, two Powerful Cosmic Telescopes ($R_E > 40''$ ) from the SPT Clusters Sample**|Guillaume Mahler et.al.|[2501.03361](http://arxiv.org/abs/2501.03361)|null|
