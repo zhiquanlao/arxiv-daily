@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
+|**2025-01-10**|**Spin polarised quantised transport via one-dimensional nanowire-graphene contacts**|Daniel Burrow et.al.|[2501.06160](http://arxiv.org/abs/2501.06160)|null|
+|**2025-01-10**|**Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms**|R. L. Rincón Celis et.al.|[2501.06136](http://arxiv.org/abs/2501.06136)|null|
+|**2025-01-10**|**Quantum networks using rare-earth ions**|Wolfgang Tittel et.al.|[2501.06110](http://arxiv.org/abs/2501.06110)|null|
+|**2025-01-10**|**Practical Quantum Circuit Implementation for Simulating Coupled Classical Oscillators**|Natt Luangsirapornchai et.al.|[2501.06100](http://arxiv.org/abs/2501.06100)|null|
+|**2025-01-10**|**Variational simulation of the Lipkin-Meshkov-Glick model on a neutral atom quantum computer**|R. Chinnarasu et.al.|[2501.06097](http://arxiv.org/abs/2501.06097)|null|
+|**2025-01-10**|**Theory of Magnon Purcell Effect in Cavity Magnonic System**|G. Zhao et.al.|[2501.06026](http://arxiv.org/abs/2501.06026)|null|
+|**2025-01-10**|**The Hitchhiker's Guide to QSP pre-processing**|S. E. Skelton et.al.|[2501.05977](http://arxiv.org/abs/2501.05977)|null|
+|**2025-01-10**|**Dissipating quartets of excitations in a superconducting circuit**|Aron Vanselow et.al.|[2501.05960](http://arxiv.org/abs/2501.05960)|null|
+|**2025-01-10**|**Plane-selective coherent manipulations of nuclear spin qubits in a three-dimensional optical tweezer array**|Toshi Kusano et.al.|[2501.05935](http://arxiv.org/abs/2501.05935)|null|
 |**2025-01-09**|**Blind calibration of a quantum computer**|Liam M. Jeanette et.al.|[2501.05355](http://arxiv.org/abs/2501.05355)|null|
 |**2025-01-09**|**A learning agent-based approach to the characterization of open quantum systems**|Lorenzo Fioroni et.al.|[2501.05350](http://arxiv.org/abs/2501.05350)|null|
 |**2025-01-09**|**Discovery of Spin-Crossover Candidates with Equivariant Graph Neural Networks**|Angel Albavera-Mata et.al.|[2501.05341](http://arxiv.org/abs/2501.05341)|null|
@@ -4240,6 +4250,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-10**|**The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity ${-}$Spectral Type Dependence in Taurus${-}$ Auriga YSOs**|Ramisa Akther Rahman et.al.|[2501.06188](http://arxiv.org/abs/2501.06188)|null|
+|**2025-01-09**|**Kitaev Quantum Spin Liquids**|Yuji Matsuda et.al.|[2501.05608](http://arxiv.org/abs/2501.05608)|null|
 |**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372](http://arxiv.org/abs/2501.05372)|null|
 |**2025-01-07**|**Detecting rotation from lensing in the CMB**|Julien Carron et.al.|[2501.04158](http://arxiv.org/abs/2501.04158)|null|
 |**2025-01-07**|**Towards reconstruction of finite tensor categories**|Mitchell Jubeir et.al.|[2501.03987](http://arxiv.org/abs/2501.03987)|null|
