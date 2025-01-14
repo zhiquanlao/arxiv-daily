@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3 $\times$ 2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559](http://arxiv.org/abs/2501.07559)|null|
+|**2025-01-13**|**Equivalence between exponential concentration in quantum machine learning kernels and barren plateaus in variational algorithms**|Pranav Kairon et.al.|[2501.07433](http://arxiv.org/abs/2501.07433)|null|
+|**2025-01-13**|**Second quantization for classical nonlinear dynamics**|Dimitrios Giannakis et.al.|[2501.07419](http://arxiv.org/abs/2501.07419)|null|
+|**2025-01-13**|**Efficient Quantum Circuit Compilation for Near-Term Quantum Advantage**|Yuchen Guo et.al.|[2501.07387](http://arxiv.org/abs/2501.07387)|null|
+|**2025-01-13**|**Estimating quantum relative entropies on quantum computers**|Yuchen Lu et.al.|[2501.07292](http://arxiv.org/abs/2501.07292)|null|
+|**2025-01-13**|**A Multiplexed Programmable Quantum Photonic Network**|Natalia Herrera Valencia et.al.|[2501.07272](http://arxiv.org/abs/2501.07272)|null|
+|**2025-01-13**|**Selective band interaction and long-range hopping in a structured environment with giant atoms**|Ying Xia et.al.|[2501.07254](http://arxiv.org/abs/2501.07254)|null|
+|**2025-01-13**|**Eigenstate Thermalization Hypothesis: A Short Review**|Mohsen Alishahiha et.al.|[2501.07243](http://arxiv.org/abs/2501.07243)|null|
+|**2025-01-13**|**Exposing a Fatal Flaw in Sample-based Quantum Diagonalization Methods**|Peter Reinholdt et.al.|[2501.07231](http://arxiv.org/abs/2501.07231)|null|
+|**2025-01-13**|**Tensor decomposition technique for qubit encoding of maximal-fidelity Lorentzian orbitals in real-space quantum chemistry**|Taichi Kosugi et.al.|[2501.07211](http://arxiv.org/abs/2501.07211)|null|
 |**2025-01-10**|**Faster quantum chemistry simulations on a quantum computer with improved tensor factorization and active volume compilation**|Athena Caesura et.al.|[2501.06165](http://arxiv.org/abs/2501.06165)|null|
 |**2025-01-10**|**Spin polarised quantised transport via one-dimensional nanowire-graphene contacts**|Daniel Burrow et.al.|[2501.06160](http://arxiv.org/abs/2501.06160)|null|
 |**2025-01-10**|**Hidden entanglement in twin beams generated through optical parametric amplification in hot alkali atoms**|R. L. Rincón Celis et.al.|[2501.06136](http://arxiv.org/abs/2501.06136)|null|
@@ -4250,6 +4260,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**A generalized Lalanne--Kreweras involution for rectangular and staircase tableaux**|Sergi Elizalde et.al.|[2501.07573](http://arxiv.org/abs/2501.07573)|null|
+|**2025-01-13**|**Epitaxial thin films of pyrochlore iridates: a forward looking approach**|Araceli Gutiérrez-Llorente et.al.|[2501.07190](http://arxiv.org/abs/2501.07190)|null|
+|**2025-01-13**|**Rank, two-color partitions and Mock theta function**|George E. Andrews et.al.|[2501.07068](http://arxiv.org/abs/2501.07068)|null|
 |**2025-01-10**|**The Radiowave Hunt for Young Stellar Object Emission and Demographics (RADIOHEAD): A Radio Luminosity ${-}$Spectral Type Dependence in Taurus${-}$ Auriga YSOs**|Ramisa Akther Rahman et.al.|[2501.06188](http://arxiv.org/abs/2501.06188)|null|
 |**2025-01-09**|**Kitaev Quantum Spin Liquids**|Yuji Matsuda et.al.|[2501.05608](http://arxiv.org/abs/2501.05608)|null|
 |**2025-01-09**|**Self-diffusion in isotropic and liquid crystalline phases of fd virus colloidal rods: a combined single particle tracking and differential dynamic microscopy study**|Eric Grelet et.al.|[2501.05372](http://arxiv.org/abs/2501.05372)|null|
