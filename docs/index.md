@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Frequency Fluctuations in Nanomechanical Resonators due to Quantum Defects**|M. P. Maksymowych et.al.|[2501.08289](http://arxiv.org/abs/2501.08289)|null|
+|**2025-01-14**|**Modeling Feature Maps for Quantum Machine Learning**|Navneet Singh et.al.|[2501.08205](http://arxiv.org/abs/2501.08205)|null|
+|**2025-01-14**|**Modeling Quantum Machine Learning for Genomic Data Analysis**|Navneet Singh et.al.|[2501.08193](http://arxiv.org/abs/2501.08193)|null|
+|**2025-01-14**|**Optical information encryption using general temporal ghost imaging with practical experimental condition**|Juan Wu et.al.|[2501.08136](http://arxiv.org/abs/2501.08136)|null|
+|**2025-01-14**|**Wasserstein distances and divergences of order $p$ by quantum channels**|Gergely Bunth et.al.|[2501.08066](http://arxiv.org/abs/2501.08066)|null|
+|**2025-01-14**|**Decoherence time of the ground state spin of $V_{B}$ centers in hexagonal boron nitride**|Fatemeh Tarighi Tabesh et.al.|[2501.08055](http://arxiv.org/abs/2501.08055)|null|
+|**2025-01-14**|**Noise-resistant adaptive Hamiltonian learning**|Wenxuan Wang et.al.|[2501.08017](http://arxiv.org/abs/2501.08017)|null|
+|**2025-01-14**|**QGHNN: A quantum graph Hamiltonian neural network**|Wenxuan Wang et.al.|[2501.07986](http://arxiv.org/abs/2501.07986)|null|
+|**2025-01-14**|**The Clifford hierarchy for one qubit or qudit**|Nadish de Silva et.al.|[2501.07939](http://arxiv.org/abs/2501.07939)|null|
+|**2025-01-14**|**Quantum Direct Steganography Scheme Based on Modified Generator Projection Directions of Steane Code over a Single-Type Pauli Channel**|Chaolong Hao et.al.|[2501.07578](http://arxiv.org/abs/2501.07578)|null|
 |**2025-01-13**|**Euclid: Optimising tomographic redshift binning for 3 $\times$ 2pt power spectrum constraints on dark energy**|J. H. W. Wong et.al.|[2501.07559](http://arxiv.org/abs/2501.07559)|null|
 |**2025-01-13**|**Equivalence between exponential concentration in quantum machine learning kernels and barren plateaus in variational algorithms**|Pranav Kairon et.al.|[2501.07433](http://arxiv.org/abs/2501.07433)|null|
 |**2025-01-13**|**Second quantization for classical nonlinear dynamics**|Dimitrios Giannakis et.al.|[2501.07419](http://arxiv.org/abs/2501.07419)|null|
@@ -4236,6 +4246,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**SymSETs and self-dualities under gauging non-invertible symmetries**|Da-Chuan Lu et.al.|[2501.07787](http://arxiv.org/abs/2501.07787)|null|
+|**2025-01-14**|**Self-similar inverse cascade from generalized symmetries**|Yuji Hirono et.al.|[2501.07781](http://arxiv.org/abs/2501.07781)|null|
 |**2025-01-13**|**A generalized Lalanne--Kreweras involution for rectangular and staircase tableaux**|Sergi Elizalde et.al.|[2501.07573](http://arxiv.org/abs/2501.07573)|null|
 |**2025-01-13**|**Epitaxial thin films of pyrochlore iridates: a forward looking approach**|Araceli Gutiérrez-Llorente et.al.|[2501.07190](http://arxiv.org/abs/2501.07190)|null|
 |**2025-01-13**|**Rank, two-color partitions and Mock theta function**|George E. Andrews et.al.|[2501.07068](http://arxiv.org/abs/2501.07068)|null|
