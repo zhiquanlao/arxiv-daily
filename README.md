@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Integrated Photonic Programmable Random Matrix Generator with Minimal Active Components**|Kevin Zelaya et.al.|[2501.08953](http://arxiv.org/abs/2501.08953)|null|
+|**2025-01-15**|**Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantum Walk on Dual-Rail Qubit Arrays**|Hao-Yu Guan et.al.|[2501.08904](http://arxiv.org/abs/2501.08904)|null|
+|**2025-01-15**|**The parametric instability landscape of coupled Kerr parametric oscillators**|Orjan Ameye et.al.|[2501.08793](http://arxiv.org/abs/2501.08793)|null|
+|**2025-01-15**|**Floquet controlled-phase gates in Rydberg atoms**|Jun Wu et.al.|[2501.08773](http://arxiv.org/abs/2501.08773)|null|
+|**2025-01-15**|**Investigating Parameter-Efficiency of Hybrid QuGANs Based on Geometric Properties of Generated Sea Route Graphs**|Tobias Rohe et.al.|[2501.08678](http://arxiv.org/abs/2501.08678)|null|
+|**2025-01-15**|**Recurrence in discrete-time quantum stochastic walks**|Martin Stefanak et.al.|[2501.08674](http://arxiv.org/abs/2501.08674)|null|
+|**2025-01-15**|**Design and Benchmarks for Emulating Kondo Dynamics on a Quantum Chip**|Soumyadeep Sarma et.al.|[2501.08499](http://arxiv.org/abs/2501.08499)|null|
+|**2025-01-14**|**Modular Compilation for Quantum Chiplet Architectures**|Mingyoung Jessica Jeng et.al.|[2501.08478](http://arxiv.org/abs/2501.08478)|null|
+|**2025-01-14**|**Modeling Entanglement-Based Quantum Key Distribution for the NASA Quantum Communications Analysis Suite**|Michael J. P. Kuban et.al.|[2501.08476](http://arxiv.org/abs/2501.08476)|null|
+|**2025-01-14**|**Secure Composition of Quantum Key Distribution and Symmetric Key Encryption**|Kunal Dey et.al.|[2501.08435](http://arxiv.org/abs/2501.08435)|null|
 |**2025-01-14**|**Frequency Fluctuations in Nanomechanical Resonators due to Quantum Defects**|M. P. Maksymowych et.al.|[2501.08289](http://arxiv.org/abs/2501.08289)|null|
 |**2025-01-14**|**Modeling Feature Maps for Quantum Machine Learning**|Navneet Singh et.al.|[2501.08205](http://arxiv.org/abs/2501.08205)|null|
 |**2025-01-14**|**Modeling Quantum Machine Learning for Genomic Data Analysis**|Navneet Singh et.al.|[2501.08193](http://arxiv.org/abs/2501.08193)|null|
