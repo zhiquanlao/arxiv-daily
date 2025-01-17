@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Coming full circle -- A unified framework for Kochen-Specker contextuality**|Markus Frembs et.al.|[2501.09750](http://arxiv.org/abs/2501.09750)|null|
+|**2025-01-16**|**Converse bounds for quantum hypothesis exclusion: A divergence-radius approach**|Kaiyuan Ji et.al.|[2501.09712](http://arxiv.org/abs/2501.09712)|null|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
+|**2025-01-16**|**Incorporating Quantum Advantage in Quantum Circuit Generation through Genetic Programming**|Christoph Stein et.al.|[2501.09682](http://arxiv.org/abs/2501.09682)|null|
+|**2025-01-16**|**A Simplification Method for Inequality Constraints in Integer Binary Encoding HOBO Formulations**|Yuichiro Minato et.al.|[2501.09670](http://arxiv.org/abs/2501.09670)|null|
+|**2025-01-16**|**Unitary Expressions: A Necessary Abstraction for Extensible Quantum Programming Languages and Systems**|Ed Younis et.al.|[2501.09667](http://arxiv.org/abs/2501.09667)|null|
+|**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic et.al.|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
+|**2025-01-16**|**Elucidating the Physical and Mathematical Properties of the Prouhet-Thue-Morse Sequence in Quantum Computing**|Denis Janković et.al.|[2501.09610](http://arxiv.org/abs/2501.09610)|null|
+|**2025-01-16**|**Performance Analysis for Crosstalk Errors between Parallel Entangling Gates in Trapped Ion Quantum Error Correction**|Fangxuan Liu et.al.|[2501.09554](http://arxiv.org/abs/2501.09554)|null|
+|**2025-01-16**|**Strong and Noise-Tolerant Entanglement in Dissipative Optomechanics**|Jiaojiao Chen et.al.|[2501.09541](http://arxiv.org/abs/2501.09541)|null|
 |**2025-01-15**|**Integrated Photonic Programmable Random Matrix Generator with Minimal Active Components**|Kevin Zelaya et.al.|[2501.08953](http://arxiv.org/abs/2501.08953)|null|
 |**2025-01-15**|**Photon-Number Conserved Universal Quantum Logic Employing Continuous-Time Quantum Walk on Dual-Rail Qubit Arrays**|Hao-Yu Guan et.al.|[2501.08904](http://arxiv.org/abs/2501.08904)|null|
 |**2025-01-15**|**The parametric instability landscape of coupled Kerr parametric oscillators**|Orjan Ameye et.al.|[2501.08793](http://arxiv.org/abs/2501.08793)|null|
@@ -4280,6 +4290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-15**|**Higher Representations and Quark Confinement**|Finn Gagliano et.al.|[2501.09069](http://arxiv.org/abs/2501.09069)|null|
 |**2025-01-14**|**SymSETs and self-dualities under gauging non-invertible symmetries**|Da-Chuan Lu et.al.|[2501.07787](http://arxiv.org/abs/2501.07787)|null|
 |**2025-01-14**|**Self-similar inverse cascade from generalized symmetries**|Yuji Hirono et.al.|[2501.07781](http://arxiv.org/abs/2501.07781)|null|
 |**2025-01-13**|**A generalized Lalanne--Kreweras involution for rectangular and staircase tableaux**|Sergi Elizalde et.al.|[2501.07573](http://arxiv.org/abs/2501.07573)|null|
