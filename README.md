@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314](http://arxiv.org/abs/2501.10314)|null|
+|**2025-01-17**|**Optimal multicore quantum computing with few interconnects**|J. Montes et.al.|[2501.10247](http://arxiv.org/abs/2501.10247)|null|
+|**2025-01-17**|**Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems**|Kuan-Cheng Chen et.al.|[2501.10242](http://arxiv.org/abs/2501.10242)|null|
+|**2025-01-17**|**End-to-end compilable implementation of quantum elliptic curve logarithm in Qrisp**|Diego Polimeni et.al.|[2501.10228](http://arxiv.org/abs/2501.10228)|null|
+|**2025-01-17**|**Continuous variable measurement-device-independent quantum certification**|B. L. Larsen et.al.|[2501.10217](http://arxiv.org/abs/2501.10217)|null|
+|**2025-01-17**|**Quantum simulation of a class of highly-oscillatory transport equations via Schrödingerisation**|Anjiao Gu et.al.|[2501.10176](http://arxiv.org/abs/2501.10176)|null|
+|**2025-01-17**|**Implementing Finite Impulse Response Filters on Quantum Computers**|Aishwarya Majumdar et.al.|[2501.10166](http://arxiv.org/abs/2501.10166)|null|
+|**2025-01-17**|**Quantum Advantage in Private Multiple Hypothesis Testing**|Seung-Hyun Nam et.al.|[2501.10152](http://arxiv.org/abs/2501.10152)|null|
+|**2025-01-17**|**Quantum tomography from the evolution of a single expectation**|Hjalmar Rall et.al.|[2501.10118](http://arxiv.org/abs/2501.10118)|null|
+|**2025-01-17**|**Double descent in quantum machine learning**|Marie Kempkes et.al.|[2501.10077](http://arxiv.org/abs/2501.10077)|null|
 |**2025-01-16**|**Coming full circle -- A unified framework for Kochen-Specker contextuality**|Markus Frembs et.al.|[2501.09750](http://arxiv.org/abs/2501.09750)|null|
 |**2025-01-16**|**Converse bounds for quantum hypothesis exclusion: A divergence-radius approach**|Kaiyuan Ji et.al.|[2501.09712](http://arxiv.org/abs/2501.09712)|null|
 |**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
@@ -4290,6 +4300,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-17**|**2D HQFTs and Frobenius $(\mathcal{G},\mathcal{V})$ -categories**|Paul Großkopf et.al.|[2501.10113](http://arxiv.org/abs/2501.10113)|null|
 |**2025-01-15**|**Higher Representations and Quark Confinement**|Finn Gagliano et.al.|[2501.09069](http://arxiv.org/abs/2501.09069)|null|
 |**2025-01-14**|**SymSETs and self-dualities under gauging non-invertible symmetries**|Da-Chuan Lu et.al.|[2501.07787](http://arxiv.org/abs/2501.07787)|null|
 |**2025-01-14**|**Self-similar inverse cascade from generalized symmetries**|Yuji Hirono et.al.|[2501.07781](http://arxiv.org/abs/2501.07781)|null|
