@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**A quantum algorithm for Khovanov homology**|Alexander Schmidhuber et.al.|[2501.12378](http://arxiv.org/abs/2501.12378)|null|
+|**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335](http://arxiv.org/abs/2501.12335)|null|
+|**2025-01-21**|**Quantum entanglement correlations in double quark PDFs**|Adrian Dumitru et.al.|[2501.12312](http://arxiv.org/abs/2501.12312)|null|
+|**2025-01-21**|**Practical scheme for efficient distillation of GHZ states**|Áron Rozgonyi et.al.|[2501.12268](http://arxiv.org/abs/2501.12268)|null|
+|**2025-01-21**|**Experimental protocol for qubit-environment entanglement detection**|Gabriele Bizzarri et.al.|[2501.12196](http://arxiv.org/abs/2501.12196)|null|
+|**2025-01-21**|**State Transfer in Latent-Symmetric Networks**|Jonas Himmel et.al.|[2501.12185](http://arxiv.org/abs/2501.12185)|null|
+|**2025-01-21**|**The Quantum Internet (Technical Version)**|Peter P. Rohde et.al.|[2501.12107](http://arxiv.org/abs/2501.12107)|null|
+|**2025-01-21**|**Time-resolved spectral diffusion of a multimode mechanical memory**|Niccolò Fiaschi et.al.|[2501.12056](http://arxiv.org/abs/2501.12056)|null|
+|**2025-01-21**|**Quantum First-Order Logics That Capture Logarithmic-Time/Space Quantum Computability**|Tomoyuki Yamakami et.al.|[2501.12007](http://arxiv.org/abs/2501.12007)|null|
+|**2025-01-21**|**Observation of Subnatural-Linewidth Biphotons In a Two-Level Atomic Ensemble**|Jyun-Kai Lin et.al.|[2501.11908](http://arxiv.org/abs/2501.11908)|null|
 |**2025-01-17**|**Fault-tolerant quantum simulation of generalized Hubbard models**|Andreas Juul Bay-Smidt et.al.|[2501.10314](http://arxiv.org/abs/2501.10314)|null|
 |**2025-01-17**|**Optimal multicore quantum computing with few interconnects**|J. Montes et.al.|[2501.10247](http://arxiv.org/abs/2501.10247)|null|
 |**2025-01-17**|**Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems**|Kuan-Cheng Chen et.al.|[2501.10242](http://arxiv.org/abs/2501.10242)|null|
@@ -4276,6 +4286,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Stochastic Calculus and Hochschild Homology**|Si Li et.al.|[2501.12360](http://arxiv.org/abs/2501.12360)|null|
+|**2025-01-20**|**The 3d $A$ -model and generalised symmetries, Part I: bosonic Chern-Simons theories**|Cyril Closset et.al.|[2501.11665](http://arxiv.org/abs/2501.11665)|null|
+|**2025-01-20**|**Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model**|Axel Fünfhaus et.al.|[2501.11396](http://arxiv.org/abs/2501.11396)|null|
+|**2025-01-20**|**Direct ab initio calculation of magnons in altermagnets: method, spin-space symmetry aspects, and application to MnTe**|L. M. Sandratskii et.al.|[2501.11327](http://arxiv.org/abs/2501.11327)|null|
 |**2025-01-17**|**2D HQFTs and Frobenius $(\mathcal{G},\mathcal{V})$ -categories**|Paul Großkopf et.al.|[2501.10113](http://arxiv.org/abs/2501.10113)|null|
 |**2025-01-15**|**Higher Representations and Quark Confinement**|Finn Gagliano et.al.|[2501.09069](http://arxiv.org/abs/2501.09069)|null|
 |**2025-01-14**|**SymSETs and self-dualities under gauging non-invertible symmetries**|Da-Chuan Lu et.al.|[2501.07787](http://arxiv.org/abs/2501.07787)|null|
