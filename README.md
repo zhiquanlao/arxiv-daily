@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-22**|**Achievability of Covert Quantum Communication**|Evan J. D. Anderson et.al.|[2501.13103](http://arxiv.org/abs/2501.13103)|null|
+|**2025-01-22**|**Preparing low-variance states using a distributed quantum algorithm**|Xiaoyu Liu et.al.|[2501.13097](http://arxiv.org/abs/2501.13097)|null|
+|**2025-01-22**|**Creation of Wavepackets for Quantum Chromodynamics on Quantum Computers**|Matteo Turco et.al.|[2501.13069](http://arxiv.org/abs/2501.13069)|null|
+|**2025-01-22**|**Irreducible matrix representations for the walled Brauer algebra**|Michał Studziński et.al.|[2501.13067](http://arxiv.org/abs/2501.13067)|null|
+|**2025-01-22**|**Neural network enhanced cross entropy benchmark for monitored circuits**|Yangrui Hu et.al.|[2501.13005](http://arxiv.org/abs/2501.13005)|null|
+|**2025-01-22**|**Measurement-induced Lévy flights of quantum information**|Igor Poboiko et.al.|[2501.12903](http://arxiv.org/abs/2501.12903)|null|
+|**2025-01-22**|**Data re-uploading in Quantum Machine Learning for time series: application to traffic forecasting**|Nikolaos Schetakis et.al.|[2501.12776](http://arxiv.org/abs/2501.12776)|null|
+|**2025-01-22**|**Stability and Generalization of Quantum Neural Networks**|Jiaqi Yang et.al.|[2501.12737](http://arxiv.org/abs/2501.12737)|null|
+|**2025-01-22**|**Cavity Mode Initialization via a Rabi Driven Qubit**|N. Karaev et.al.|[2501.12710](http://arxiv.org/abs/2501.12710)|null|
+|**2025-01-22**|**Practical quantum federated learning and its experimental demonstration**|Zhi-Ping Liu et.al.|[2501.12709](http://arxiv.org/abs/2501.12709)|null|
 |**2025-01-21**|**A quantum algorithm for Khovanov homology**|Alexander Schmidhuber et.al.|[2501.12378](http://arxiv.org/abs/2501.12378)|null|
 |**2025-01-21**|**Quantum Compressive Sensing Meets Quantum Noise: A Practical Exploration**|Naveed Naimipour et.al.|[2501.12335](http://arxiv.org/abs/2501.12335)|null|
 |**2025-01-21**|**Quantum entanglement correlations in double quark PDFs**|Adrian Dumitru et.al.|[2501.12312](http://arxiv.org/abs/2501.12312)|null|
