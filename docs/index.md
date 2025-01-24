@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-23**|**Hamiltonian Simulation via Stochastic Zassenhaus Expansions**|Joseph Peetz et.al.|[2501.13922](http://arxiv.org/abs/2501.13922)|null|
+|**2025-01-23**|**The simplest 2D quantum walk detects chaoticity**|C. Alonso-Lobo et.al.|[2501.13900](http://arxiv.org/abs/2501.13900)|null|
+|**2025-01-23**|**Can effective descriptions of bosonic systems be considered complete?**|Francesco Arzani et.al.|[2501.13857](http://arxiv.org/abs/2501.13857)|null|
+|**2025-01-23**|**Rudraksh: A compact and lightweight post-quantum key-encapsulation mechanism**|Suparna Kundu et.al.|[2501.13799](http://arxiv.org/abs/2501.13799)|null|
+|**2025-01-23**|**Post-Quantum Stealth Address Protocols**|Marija Mikic et.al.|[2501.13733](http://arxiv.org/abs/2501.13733)|null|
+|**2025-01-23**|**Probabilistic Channel Distillation via Indefinite Causal Order**|Spiros Kechrimparis et.al.|[2501.13696](http://arxiv.org/abs/2501.13696)|null|
+|**2025-01-23**|**Characterization and Optimization of Tunable Couplers via Adiabatic Control in Superconducting Circuits**|Xuan Zhang et.al.|[2501.13646](http://arxiv.org/abs/2501.13646)|null|
+|**2025-01-23**|**(111) Si spin qubits constructed on L point of band structure**|Takafumi Tokunaga et.al.|[2501.13546](http://arxiv.org/abs/2501.13546)|null|
+|**2025-01-23**|**Improving Quantum Optimization to Achieve Quadratic Time Complexity**|Ji Jiang et.al.|[2501.13469](http://arxiv.org/abs/2501.13469)|null|
+|**2025-01-23**|**Quantum computational advantage of noisy boson sampling with partially distinguishable photons**|Byeongseon Go et.al.|[2501.13433](http://arxiv.org/abs/2501.13433)|null|
 |**2025-01-22**|**Achievability of Covert Quantum Communication**|Evan J. D. Anderson et.al.|[2501.13103](http://arxiv.org/abs/2501.13103)|null|
 |**2025-01-22**|**Preparing low-variance states using a distributed quantum algorithm**|Xiaoyu Liu et.al.|[2501.13097](http://arxiv.org/abs/2501.13097)|null|
 |**2025-01-22**|**Creation of Wavepackets for Quantum Chromodynamics on Quantum Computers**|Matteo Turco et.al.|[2501.13069](http://arxiv.org/abs/2501.13069)|null|
