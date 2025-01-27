@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck et.al.|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
+|**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
+|**2025-01-24**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
+|**2025-01-24**|**Hybrid Quantum-Classical Multi-Agent Pathfinding**|Thore Gerlach et.al.|[2501.14568](http://arxiv.org/abs/2501.14568)|null|
+|**2025-01-24**|**Towards a Cryogenic CMOS-Memristor Neural Decoder for Quantum Error Correction**|Pierre-Antoine Mouny et.al.|[2501.14525](http://arxiv.org/abs/2501.14525)|null|
+|**2025-01-24**|**Investigating topological in-gap states in non-Hermitian quasicrystal with unconventional $p$ -wave pairing**|Shaina Gandhi et.al.|[2501.14481](http://arxiv.org/abs/2501.14481)|null|
+|**2025-01-24**|**Quantum Neural Networks: A Comparative Analysis and Noise Robustness Evaluation**|Tasnim Ahmed et.al.|[2501.14412](http://arxiv.org/abs/2501.14412)|null|
+|**2025-01-24**|**Bipartite Current Fluctuations in Quantum Wires through Charge Fractionalization**|Magali Korolev et.al.|[2501.14410](http://arxiv.org/abs/2501.14410)|null|
+|**2025-01-24**|**Euclid preparation: Extracting physical parameters from galaxies with machine learning**|Euclid Collaboration et.al.|[2501.14408](http://arxiv.org/abs/2501.14408)|null|
+|**2025-01-24**|**Verifying Fault-Tolerance of Quantum Error Correction Codes**|Kean Chen et.al.|[2501.14380](http://arxiv.org/abs/2501.14380)|null|
 |**2025-01-23**|**Hamiltonian Simulation via Stochastic Zassenhaus Expansions**|Joseph Peetz et.al.|[2501.13922](http://arxiv.org/abs/2501.13922)|null|
 |**2025-01-23**|**The simplest 2D quantum walk detects chaoticity**|C. Alonso-Lobo et.al.|[2501.13900](http://arxiv.org/abs/2501.13900)|null|
 |**2025-01-23**|**Can effective descriptions of bosonic systems be considered complete?**|Francesco Arzani et.al.|[2501.13857](http://arxiv.org/abs/2501.13857)|null|
