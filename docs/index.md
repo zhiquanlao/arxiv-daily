@@ -2584,7 +2584,7 @@ layout: default
 |**2024-03-07**|**Closing the Visual Sim-to-Real Gap with Object-Composable NeRFs**|Nikhil Mishra et.al.|[2403.04114](http://arxiv.org/abs/2403.04114)|**[link](https://github.com/nikhilmishra000/cov-nerf)**|
 |**2024-03-06**|**GSNeRF: Generalizable Semantic Neural Radiance Fields with Enhanced 3D Scene Understanding**|Zi-Ting Chou et.al.|[2403.03608](http://arxiv.org/abs/2403.03608)|null|
 |**2024-03-05**|**A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction**|Haofan Lu et.al.|[2403.03241](http://arxiv.org/abs/2403.03241)|null|
-|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|null|
+|**2024-03-05**|**Splat-Nav: Safe Real-Time Robot Navigation in Gaussian Splatting Maps**|Timothy Chen et.al.|[2403.02751](http://arxiv.org/abs/2403.02751)|**[link](https://github.com/chengine/splatnav)**|
 |**2024-03-04**|**DaReNeRF: Direction-aware Representation for Dynamic Scenes**|Ange Lou et.al.|[2403.02265](http://arxiv.org/abs/2403.02265)|null|
 |**2024-03-04**|**Depth-Guided Robust and Fast Point Cloud Fusion NeRF for Sparse Input Views**|Shuai Guo et.al.|[2403.02063](http://arxiv.org/abs/2403.02063)|null|
 |**2024-03-02**|**NeRF-VPT: Learning Novel View Representations with Neural Radiance Fields via View Prompt Tuning**|Linsheng Chen et.al.|[2403.01325](http://arxiv.org/abs/2403.01325)|**[link](https://github.com/freedomcls/nerf-vpt)**|
@@ -3456,11 +3456,11 @@ layout: default
 |**2025-01-17**|**Implementing Finite Impulse Response Filters on Quantum Computers**|Aishwarya Majumdar et.al.|[2501.10166](http://arxiv.org/abs/2501.10166)|null|
 |**2025-01-17**|**Quantum Advantage in Private Multiple Hypothesis Testing**|Seung-Hyun Nam et.al.|[2501.10152](http://arxiv.org/abs/2501.10152)|null|
 |**2025-01-17**|**Quantum tomography from the evolution of a single expectation**|Hjalmar Rall et.al.|[2501.10118](http://arxiv.org/abs/2501.10118)|null|
-|**2025-01-17**|**Double descent in quantum machine learning**|Marie Kempkes et.al.|[2501.10077](http://arxiv.org/abs/2501.10077)|null|
+|**2025-01-17**|**Double descent in quantum machine learning**|Marie Kempkes et.al.|[2501.10077](http://arxiv.org/abs/2501.10077)|**[link](https://github.com/bpcarlos/double_descent_quantum_ml)**|
 |**2025-01-16**|**Coming full circle -- A unified framework for Kochen-Specker contextuality**|Markus Frembs et.al.|[2501.09750](http://arxiv.org/abs/2501.09750)|null|
 |**2025-01-16**|**Converse bounds for quantum hypothesis exclusion: A divergence-radius approach**|Kaiyuan Ji et.al.|[2501.09712](http://arxiv.org/abs/2501.09712)|null|
-|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|null|
-|**2025-01-16**|**Incorporating Quantum Advantage in Quantum Circuit Generation through Genetic Programming**|Christoph Stein et.al.|[2501.09682](http://arxiv.org/abs/2501.09682)|null|
+|**2025-01-16**|**Sample-based Krylov Quantum Diagonalization**|Jeffery Yu et.al.|[2501.09702](http://arxiv.org/abs/2501.09702)|**[link](https://github.com/qiskit/qiskit-addon-sqd)**|
+|**2025-01-16**|**Incorporating Quantum Advantage in Quantum Circuit Generation through Genetic Programming**|Christoph Stein et.al.|[2501.09682](http://arxiv.org/abs/2501.09682)|**[link](https://github.com/westoun/gp4qc)**|
 |**2025-01-16**|**A Simplification Method for Inequality Constraints in Integer Binary Encoding HOBO Formulations**|Yuichiro Minato et.al.|[2501.09670](http://arxiv.org/abs/2501.09670)|null|
 |**2025-01-16**|**Unitary Expressions: A Necessary Abstraction for Extensible Quantum Programming Languages and Systems**|Ed Younis et.al.|[2501.09667](http://arxiv.org/abs/2501.09667)|null|
 |**2025-01-16**|**Quantum Contextual Hypergraphs, Operators, Inequalities, and Applications in Higher Dimensions**|Mladen Pavicic et.al.|[2501.09637](http://arxiv.org/abs/2501.09637)|null|
