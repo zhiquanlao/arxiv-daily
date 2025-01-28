@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Quantum frequency resampling**|Emanuele Tumbiolo et.al.|[2501.16283](http://arxiv.org/abs/2501.16283)|null|
+|**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu et.al.|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
+|**2025-01-27**|**State Permutation Control in Non-Hermitian Multiqubit Systems with Suppressed Non-Adiabatic Transitions**|Ievgen I. Arkhipov et.al.|[2501.16160](http://arxiv.org/abs/2501.16160)|null|
+|**2025-01-27**|**Quantum binary field multiplication with subquadratic Toffoli gate count and low space-time cost**|Vivien Vandaele et.al.|[2501.16136](http://arxiv.org/abs/2501.16136)|null|
+|**2025-01-27**|**How to Design a Classically Difficult Random Quantum Circuit for Quantum Computational Advantage Experiments**|He-Liang Huang et.al.|[2501.16035](http://arxiv.org/abs/2501.16035)|null|
+|**2025-01-27**|**Remarks on controlled measurement and quantum algorithm for calculating Hermitian conjugate**|Edward B. Fel'dman et.al.|[2501.16028](http://arxiv.org/abs/2501.16028)|null|
+|**2025-01-27**|**Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits**|Gabin Schieffer et.al.|[2501.15939](http://arxiv.org/abs/2501.15939)|null|
+|**2025-01-27**|**Eigenstate solutions of the Fermi-Hubbard model via symmetry-enhanced variational quantum eigensolver**|Shaohui Yao et.al.|[2501.15903](http://arxiv.org/abs/2501.15903)|null|
+|**2025-01-27**|**Quantum Pattern Detection: Accurate State- and Circuit-based Analyses**|Julian Shen et.al.|[2501.15895](http://arxiv.org/abs/2501.15895)|null|
+|**2025-01-27**|**Benchmarking Quantum Reinforcement Learning**|Nico Meyer et.al.|[2501.15893](http://arxiv.org/abs/2501.15893)|**[link](https://github.com/nicomeyer96/qrl-benchmark)**|
 |**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck et.al.|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
 |**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
 |**2025-01-24**|**Impact of phonon lifetimes on the single-photon indistinguishability in quantum emitters based on 2D materials**|Alexander Steinhoff et.al.|[2501.14656](http://arxiv.org/abs/2501.14656)|null|
