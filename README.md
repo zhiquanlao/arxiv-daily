@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Quantum Search with the Signless Laplacian**|Molly E. McLaughlin et.al.|[2501.17128](http://arxiv.org/abs/2501.17128)|null|
+|**2025-01-28**|**Two measurement bases are asymptotically informationally complete for any pure state tomography**|Tianfeng Feng et.al.|[2501.17061](http://arxiv.org/abs/2501.17061)|null|
+|**2025-01-28**|**Simulating methylamine using symmetry adapted qubit-excitation-based variational quantum eigensolver**|Konstantin M. Makushin et.al.|[2501.17035](http://arxiv.org/abs/2501.17035)|null|
+|**2025-01-28**|**Dephasing-induced leakage in multi-level superconducting quantum circuits**|Frederick W. Strauch et.al.|[2501.17008](http://arxiv.org/abs/2501.17008)|null|
+|**2025-01-28**|**Quantum Phase Transition of Non-Hermitian Systems using Variational Quantum Techniques**|James Hancock et.al.|[2501.17003](http://arxiv.org/abs/2501.17003)|null|
+|**2025-01-28**|**Generative quantum combinatorial optimization by means of a novel conditional generative quantum eigensolver**|Shunya Minami et.al.|[2501.16986](http://arxiv.org/abs/2501.16986)|null|
+|**2025-01-28**|**Programming tools for Analogue Quantum Computing in the High-Performance Computing Context -- A Review**|Mateusz Meller et.al.|[2501.16943](http://arxiv.org/abs/2501.16943)|null|
+|**2025-01-28**|**Two-photon interference between mutually-detuned resonance fluorescence signals scattered off a semiconductor quantum dot**|Guoqi Huang et.al.|[2501.16939](http://arxiv.org/abs/2501.16939)|null|
+|**2025-01-28**|**Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing**|Sajjad Taravati et.al.|[2501.16872](http://arxiv.org/abs/2501.16872)|null|
+|**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang et.al.|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
 |**2025-01-27**|**Quantum frequency resampling**|Emanuele Tumbiolo et.al.|[2501.16283](http://arxiv.org/abs/2501.16283)|null|
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu et.al.|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
 |**2025-01-27**|**State Permutation Control in Non-Hermitian Multiqubit Systems with Suppressed Non-Adiabatic Transitions**|Ievgen I. Arkhipov et.al.|[2501.16160](http://arxiv.org/abs/2501.16160)|null|
