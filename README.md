@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration**|Sirshi S Ram et.al.|[2501.17825](http://arxiv.org/abs/2501.17825)|null|
+|**2025-01-29**|**A trilinear quantum dot architecture for semiconductor spin qubits**|R. Li et.al.|[2501.17814](http://arxiv.org/abs/2501.17814)|null|
+|**2025-01-29**|**Quantum circuit for exponentiation of Hamiltonians: an algorithmic description based on tensor products**|Gerard Fleury et.al.|[2501.17780](http://arxiv.org/abs/2501.17780)|null|
+|**2025-01-29**|**Fidelity-Enhanced Variational Quantum Optimal Control**|Robert de Keijzer et.al.|[2501.17692](http://arxiv.org/abs/2501.17692)|null|
+|**2025-01-29**|**Nuclear Electric Resonance for Spatially-Resolved Spin Control via Pulsed Optical Excitation in the UV-Visible Spectrum**|Johannes K. Krondorfer et.al.|[2501.17575](http://arxiv.org/abs/2501.17575)|null|
+|**2025-01-29**|**Reproducible generation of green-emitting color centers in hBN using oxygen annealing**|Helmi Fartas et.al.|[2501.17562](http://arxiv.org/abs/2501.17562)|null|
+|**2025-01-29**|**Entanglement-informed Construction of Variational Quantum Circuits**|Alina Joch et.al.|[2501.17533](http://arxiv.org/abs/2501.17533)|null|
+|**2025-01-29**|**Time dispersion in bound states**|John Ashmead et.al.|[2501.17407](http://arxiv.org/abs/2501.17407)|null|
+|**2025-01-29**|**Computing entanglement costs of non-local operations on the basis of algebraic geometry**|Seiseki Akibue et.al.|[2501.17394](http://arxiv.org/abs/2501.17394)|null|
+|**2025-01-28**|**Discrimination of arbitrary unknown quantum channels and measurements**|Marcin Markiewicz et.al.|[2501.17317](http://arxiv.org/abs/2501.17317)|null|
 |**2025-01-28**|**Quantum Search with the Signless Laplacian**|Molly E. McLaughlin et.al.|[2501.17128](http://arxiv.org/abs/2501.17128)|null|
 |**2025-01-28**|**Two measurement bases are asymptotically informationally complete for any pure state tomography**|Tianfeng Feng et.al.|[2501.17061](http://arxiv.org/abs/2501.17061)|null|
 |**2025-01-28**|**Simulating methylamine using symmetry adapted qubit-excitation-based variational quantum eigensolver**|Konstantin M. Makushin et.al.|[2501.17035](http://arxiv.org/abs/2501.17035)|null|
@@ -4360,6 +4370,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-29**|**Generalized symmetries and the dimensional reduction of 6d so SCFTs**|Gabi Zafrir et.al.|[2501.17744](http://arxiv.org/abs/2501.17744)|null|
+|**2025-01-29**|**Topological insulator constrictions -- Dirac particles in a magneto-chiral box**|Michael Barth et.al.|[2501.17687](http://arxiv.org/abs/2501.17687)|null|
 |**2025-01-21**|**Stochastic Calculus and Hochschild Homology**|Si Li et.al.|[2501.12360](http://arxiv.org/abs/2501.12360)|null|
 |**2025-01-20**|**The 3d $A$ -model and generalised symmetries, Part I: bosonic Chern-Simons theories**|Cyril Closset et.al.|[2501.11665](http://arxiv.org/abs/2501.11665)|null|
 |**2025-01-20**|**Band representations in Strongly Correlated Settings: The Kitaev Honeycomb Model**|Axel Fünfhaus et.al.|[2501.11396](http://arxiv.org/abs/2501.11396)|null|
