@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Probing topological matter and fermion dynamics on a neutral-atom quantum computer**|Simon J. Evered et.al.|[2501.18554](http://arxiv.org/abs/2501.18554)|null|
+|**2025-01-30**|**Mitigating shot noise in local overlapping quantum tomography with semidefinite programming**|Zherui Jerry Wang et.al.|[2501.18546](http://arxiv.org/abs/2501.18546)|null|
+|**2025-01-30**|**Digital Quantum Simulations of the Non-Resonant Open Tavis-Cummings Model**|Aidan N. Sims et.al.|[2501.18522](http://arxiv.org/abs/2501.18522)|null|
+|**2025-01-30**|**Hamiltonian dynamics simulation using linear combination of unitaries on an ion trap quantum computer**|Michelle Wynne Sze et.al.|[2501.18515](http://arxiv.org/abs/2501.18515)|null|
+|**2025-01-30**|**Enhancing Quantum Expectation Values via Exponential Error Suppression and CVaR Optimization**|Touheed Anwar Atif et.al.|[2501.18513](http://arxiv.org/abs/2501.18513)|null|
+|**2025-01-30**|**Dissipation in fermionic two-body continuous-time quantum walk under the steepest entropy ascent formalism**|Rohit Kishan Ray et.al.|[2501.18489](http://arxiv.org/abs/2501.18489)|null|
+|**2025-01-30**|**Solving Drone Routing Problems with Quantum Computing: A Hybrid Approach Combining Quantum Annealing and Gate-Based Paradigms**|Eneko Osaba et.al.|[2501.18432](http://arxiv.org/abs/2501.18432)|null|
+|**2025-01-30**|**Direct Implementation of High-Fidelity Three-Qubit Gates for Superconducting Processor with Tunable Couplers**|Hao-Tian Liu et.al.|[2501.18319](http://arxiv.org/abs/2501.18319)|null|
+|**2025-01-30**|**Tensor network state methods and quantum information theory for strongly correlated molecular systems**|Miklós Antal Werner et.al.|[2501.18263](http://arxiv.org/abs/2501.18263)|null|
+|**2025-01-30**|**QNN-QRL: Quantum Neural Network Integrated with Quantum Reinforcement Learning for Quantum Key Distribution**|Bikash K. Behera et.al.|[2501.18188](http://arxiv.org/abs/2501.18188)|null|
 |**2025-01-29**|**Optimizing Superconducting Qubit Performance: A Theoretical Framework for Design, Analysis, and Calibration**|Sirshi S Ram et.al.|[2501.17825](http://arxiv.org/abs/2501.17825)|null|
 |**2025-01-29**|**A trilinear quantum dot architecture for semiconductor spin qubits**|R. Li et.al.|[2501.17814](http://arxiv.org/abs/2501.17814)|null|
 |**2025-01-29**|**Quantum circuit for exponentiation of Hamiltonians: an algorithmic description based on tensor products**|Gerard Fleury et.al.|[2501.17780](http://arxiv.org/abs/2501.17780)|null|
@@ -4346,6 +4356,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will et.al.|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
+|**2025-01-29**|**Engineering of Anyons on M5-Probes via Flux Quantization**|Hisham Sati et.al.|[2501.17927](http://arxiv.org/abs/2501.17927)|null|
 |**2025-01-29**|**Generalized symmetries and the dimensional reduction of 6d so SCFTs**|Gabi Zafrir et.al.|[2501.17744](http://arxiv.org/abs/2501.17744)|null|
 |**2025-01-29**|**Topological insulator constrictions -- Dirac particles in a magneto-chiral box**|Michael Barth et.al.|[2501.17687](http://arxiv.org/abs/2501.17687)|null|
 |**2025-01-21**|**Stochastic Calculus and Hochschild Homology**|Si Li et.al.|[2501.12360](http://arxiv.org/abs/2501.12360)|null|
