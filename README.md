@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu et.al.|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
+|**2025-01-31**|**Benchmark of the Full and Reduced Effective Resistance Kernel for Molecular Classification**|Adam Wesołowski et.al.|[2501.19352](http://arxiv.org/abs/2501.19352)|null|
+|**2025-01-31**|**Quantum-Inspired Fidelity-based Divergence**|Yifeng Peng et.al.|[2501.19307](http://arxiv.org/abs/2501.19307)|null|
+|**2025-01-31**|**VeloxQ: A Fast and Efficient QUBO Solver**|J. Pawłowski et.al.|[2501.19221](http://arxiv.org/abs/2501.19221)|null|
+|**2025-01-31**|**Signatures of Non-Abelian Kitaev quantum spin liquids in noise magnetormetry**|Xiao Xiao et.al.|[2501.19165](http://arxiv.org/abs/2501.19165)|null|
+|**2025-01-31**|**Fractons from covariant higher-rank 3D BF theory**|Erica Bertolini et.al.|[2501.19154](http://arxiv.org/abs/2501.19154)|null|
+|**2025-01-31**|**Quantum Internet Use Case Analysis for the Automotive Industry**|K. L. van der Enden et.al.|[2501.19070](http://arxiv.org/abs/2501.19070)|null|
+|**2025-01-31**|**On the application of a Silicon photomultiplier-based receiver for binary phase-shift-keying protocols**|Silvia Cassina et.al.|[2501.19008](http://arxiv.org/abs/2501.19008)|null|
+|**2025-01-31**|**Quantum SMOTE with Angular Outliers: Redefining Minority Class Handling**|Nishikanta Mohanty et.al.|[2501.19001](http://arxiv.org/abs/2501.19001)|null|
+|**2025-01-31**|**Calibrated hypergraph states: II calibrated hypergraph state construction and applications**|Roberto Zucchini et.al.|[2501.18968](http://arxiv.org/abs/2501.18968)|null|
 |**2025-01-30**|**Probing topological matter and fermion dynamics on a neutral-atom quantum computer**|Simon J. Evered et.al.|[2501.18554](http://arxiv.org/abs/2501.18554)|null|
 |**2025-01-30**|**Mitigating shot noise in local overlapping quantum tomography with semidefinite programming**|Zherui Jerry Wang et.al.|[2501.18546](http://arxiv.org/abs/2501.18546)|null|
 |**2025-01-30**|**Digital Quantum Simulations of the Non-Resonant Open Tavis-Cummings Model**|Aidan N. Sims et.al.|[2501.18522](http://arxiv.org/abs/2501.18522)|null|
@@ -4380,6 +4390,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu et.al.|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
+|**2025-01-30**|**Quantum Phase Transitions between Symmetry-Enriched Fracton Phases**|Julian Boesl et.al.|[2501.18688](http://arxiv.org/abs/2501.18688)|null|
 |**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will et.al.|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
 |**2025-01-29**|**Engineering of Anyons on M5-Probes via Flux Quantization**|Hisham Sati et.al.|[2501.17927](http://arxiv.org/abs/2501.17927)|null|
 |**2025-01-29**|**Generalized symmetries and the dimensional reduction of 6d so SCFTs**|Gabi Zafrir et.al.|[2501.17744](http://arxiv.org/abs/2501.17744)|null|
