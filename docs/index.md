@@ -2681,7 +2681,7 @@ layout: default
 |**2024-01-02**|**GD^2-NeRF: Generative Detail Compensation via GAN and Diffusion for One-shot Generalizable Neural Radiance Fields**|Xiao Pan et.al.|[2401.00616](http://arxiv.org/abs/2401.00616)|null|
 |**2023-12-30**|**Inpaint4DNeRF: Promptable Spatio-Temporal NeRF Inpainting with Generative Diffusion Models**|Han Jiang et.al.|[2401.00208](http://arxiv.org/abs/2401.00208)|null|
 |**2023-12-29**|**Informative Rays Selection for Few-Shot Neural Radiance Fields**|Marco Orsingher et.al.|[2312.17561](http://arxiv.org/abs/2312.17561)|null|
-|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|null|
+|**2023-12-27**|**City-on-Web: Real-time Neural Rendering of Large-scale Scenes on the Web**|Kaiwen Song et.al.|[2312.16457](http://arxiv.org/abs/2312.16457)|**[link](https://github.com/USTC3DV/MERFStudio)**|
 |**2023-12-26**|**DL3DV-10K: A Large-Scale Scene Dataset for Deep Learning-based 3D Vision**|Lu Ling et.al.|[2312.16256](http://arxiv.org/abs/2312.16256)|null|
 |**2023-12-24**|**SUNDIAL: 3D Satellite Understanding through Direct, Ambient, and Complex Lighting Decomposition**|Nikhil Behari et.al.|[2312.16215](http://arxiv.org/abs/2312.16215)|null|
 |**2023-12-23**|**INFAMOUS-NeRF: ImproviNg FAce MOdeling Using Semantically-Aligned Hypernetworks with Neural Radiance Fields**|Andrew Hou et.al.|[2312.16197](http://arxiv.org/abs/2312.16197)|null|
@@ -3447,7 +3447,7 @@ layout: default
 |**2025-01-28**|**Two-photon interference between mutually-detuned resonance fluorescence signals scattered off a semiconductor quantum dot**|Guoqi Huang et.al.|[2501.16939](http://arxiv.org/abs/2501.16939)|null|
 |**2025-01-28**|**Space-Time-Coupled Qubits for Enhanced Superconducting Quantum Computing**|Sajjad Taravati et.al.|[2501.16872](http://arxiv.org/abs/2501.16872)|null|
 |**2025-01-28**|**Quantum XYZ cyclic codes for biased noise**|Zhipeng Liang et.al.|[2501.16827](http://arxiv.org/abs/2501.16827)|null|
-|**2025-01-27**|**Quantum frequency resampling**|Emanuele Tumbiolo et.al.|[2501.16283](http://arxiv.org/abs/2501.16283)|null|
+|**2025-01-27**|**Quantum frequency resampling**|Emanuele Tumbiolo et.al.|[2501.16283](http://arxiv.org/abs/2501.16283)|**[link](https://github.com/gittumb/qufres)**|
 |**2025-01-27**|**Optimizer-Dependent Generalization Bound for Quantum Neural Networks**|Chenghong Zhu et.al.|[2501.16228](http://arxiv.org/abs/2501.16228)|null|
 |**2025-01-27**|**State Permutation Control in Non-Hermitian Multiqubit Systems with Suppressed Non-Adiabatic Transitions**|Ievgen I. Arkhipov et.al.|[2501.16160](http://arxiv.org/abs/2501.16160)|null|
 |**2025-01-27**|**Quantum binary field multiplication with subquadratic Toffoli gate count and low space-time cost**|Vivien Vandaele et.al.|[2501.16136](http://arxiv.org/abs/2501.16136)|null|
@@ -3455,7 +3455,7 @@ layout: default
 |**2025-01-27**|**Remarks on controlled measurement and quantum algorithm for calculating Hermitian conjugate**|Edward B. Fel'dman et.al.|[2501.16028](http://arxiv.org/abs/2501.16028)|null|
 |**2025-01-27**|**Harnessing CUDA-Q's MPS for Tensor Network Simulations of Large-Scale Quantum Circuits**|Gabin Schieffer et.al.|[2501.15939](http://arxiv.org/abs/2501.15939)|null|
 |**2025-01-27**|**Eigenstate solutions of the Fermi-Hubbard model via symmetry-enhanced variational quantum eigensolver**|Shaohui Yao et.al.|[2501.15903](http://arxiv.org/abs/2501.15903)|null|
-|**2025-01-27**|**Quantum Pattern Detection: Accurate State- and Circuit-based Analyses**|Julian Shen et.al.|[2501.15895](http://arxiv.org/abs/2501.15895)|null|
+|**2025-01-27**|**Quantum Pattern Detection: Accurate State- and Circuit-based Analyses**|Julian Shen et.al.|[2501.15895](http://arxiv.org/abs/2501.15895)|**[link](https://github.com/kit-tva/quantum-pattern-detector)**|
 |**2025-01-27**|**Benchmarking Quantum Reinforcement Learning**|Nico Meyer et.al.|[2501.15893](http://arxiv.org/abs/2501.15893)|**[link](https://github.com/nicomeyer96/qrl-benchmark)**|
 |**2025-01-24**|**Dualities between 2+1d fusion surface models from braided fusion categories**|Luisa Eck et.al.|[2501.14722](http://arxiv.org/abs/2501.14722)|null|
 |**2025-01-24**|**End-to-end workflow for machine learning-based qubit readout with QICK and hls4ml**|Giuseppe Di Guglielmo et.al.|[2501.14663](http://arxiv.org/abs/2501.14663)|null|
@@ -3602,7 +3602,7 @@ layout: default
 |**2025-01-03**|**Light Interaction With a Space-Time-Modulated Josephson Junction Array and Application to Angular-Frequency Beam Multiplexing**|Sajjad Taravati et.al.|[2501.01842](http://arxiv.org/abs/2501.01842)|null|
 |**2025-01-03**|**Genetic algorithm enhanced Solovay-Kitaev algorithm for quantum compiling**|Jiangwei Long et.al.|[2501.01746](http://arxiv.org/abs/2501.01746)|null|
 |**2025-01-03**|**Topological quantum compilation of metaplectic anyons**|Jiangwei Long et.al.|[2501.01745](http://arxiv.org/abs/2501.01745)|null|
-|**2025-01-03**|**Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation**|Wanqi Sun et.al.|[2501.01646](http://arxiv.org/abs/2501.01646)|null|
+|**2025-01-03**|**Noise-Mitigated Variational Quantum Eigensolver with Pre-training and Zero-Noise Extrapolation**|Wanqi Sun et.al.|[2501.01646](http://arxiv.org/abs/2501.01646)|**[link](https://github.com/mindspore-lab/models)**|
 |**2025-01-02**|**Polynomial Time Quantum Gibbs Sampling for Fermi-Hubbard Model at any Temperature**|Štěpán Šmíd et.al.|[2501.01412](http://arxiv.org/abs/2501.01412)|**[link](https://github.com/Quantum-AI-Lab-ICL/Quantum-Gibbs-Sampling)**|
 |**2025-01-02**|**Parallel assembly of neutral atom arrays with an SLM using linear phase interpolation**|Ivo H. A. Knottnerus et.al.|[2501.01391](http://arxiv.org/abs/2501.01391)|null|
 |**2025-01-02**|**Four-Qubit Variational Algorithms in Silicon Photonics with Integrated Entangled Photon Sources**|Alessio Baldazzi et.al.|[2501.01301](http://arxiv.org/abs/2501.01301)|null|
@@ -3794,7 +3794,7 @@ layout: default
 |**2024-12-03**|**Ptychographic estimation of pure multiqubit states in a quantum device**|Warley M. S. Alves et.al.|[2412.02120](http://arxiv.org/abs/2412.02120)|null|
 |**2024-12-03**|**A Classic-Quantum Hybrid Network Framework: CQH-Net**|Ao Liu et.al.|[2412.02059](http://arxiv.org/abs/2412.02059)|null|
 |**2024-11-29**|**It's Quick to be Square: Fast Quadratisation for Quantum Toolchains**|Lukas Schmidbauer et.al.|[2411.19934](http://arxiv.org/abs/2411.19934)|null|
-|**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|null|
+|**2024-11-29**|**Learning Feedback Mechanisms for Measurement-Based Variational Quantum State Preparation**|Daniel Alcalde Puente et.al.|[2411.19914](http://arxiv.org/abs/2411.19914)|**[link](https://github.com/danielalcalde/mvqe)**|
 |**2024-11-29**|**Classical and Quantum Algorithms for the Deterministic L-system Inductive Inference Problem**|Ali Lotfi et.al.|[2411.19906](http://arxiv.org/abs/2411.19906)|**[link](https://github.com/alilotfi90/D0L-Quant-and-Classical-Solver)**|
 |**2024-11-29**|**Efficient quantum-enhanced classical simulation for patches of quantum landscapes**|Sacha Lerch et.al.|[2411.19896](http://arxiv.org/abs/2411.19896)|null|
 |**2024-11-29**|**Reverse-type Data Processing Inequality**|Paula Belzig et.al.|[2411.19890](http://arxiv.org/abs/2411.19890)|null|
