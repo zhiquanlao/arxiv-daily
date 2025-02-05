@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**Benchmarking quantum devices beyond classical capabilities**|Rafał Bistroń et.al.|[2502.02575](http://arxiv.org/abs/2502.02575)|null|
+|**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu et.al.|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
+|**2025-02-04**|**Automated tuning and characterization of a single-electron transistor charge sensor**|Andrija Paurevic et.al.|[2502.02521](http://arxiv.org/abs/2502.02521)|null|
+|**2025-02-04**|**Developing techniques for Simulation of SU(3) Quantum Field Theories on State-of-the-Art Quantum Devices**|Ivan Chernyshev et.al.|[2502.02502](http://arxiv.org/abs/2502.02502)|null|
+|**2025-02-04**|**Frequency auto-homogenization using group-velocity-matched downconversion**|Dylan Heberle et.al.|[2502.02466](http://arxiv.org/abs/2502.02466)|null|
+|**2025-02-04**|**Quantum-enabled framework for the Advanced Encryption Standard in the post-quantum era**|Albert Nieto Morales et.al.|[2502.02445](http://arxiv.org/abs/2502.02445)|null|
+|**2025-02-04**|**Unlocking the power of global quantum gates with machine learning**|Vinit Singh et.al.|[2502.02405](http://arxiv.org/abs/2502.02405)|null|
+|**2025-02-04**|**Rate-reliability functions for deterministic identification**|Pau Colomer et.al.|[2502.02389](http://arxiv.org/abs/2502.02389)|null|
+|**2025-02-04**|**Noise-Aware Mixed-State Quantum Computation via Parameterized Quantum Channels**|Giuseppe Clemente et.al.|[2502.02324](http://arxiv.org/abs/2502.02324)|null|
+|**2025-02-04**|**Qubit-efficient quantum local search for combinatorial optimization**|M. Podobrii et.al.|[2502.02245](http://arxiv.org/abs/2502.02245)|null|
 |**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu et.al.|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
 |**2025-01-31**|**Benchmark of the Full and Reduced Effective Resistance Kernel for Molecular Classification**|Adam Wesołowski et.al.|[2501.19352](http://arxiv.org/abs/2501.19352)|null|
 |**2025-01-31**|**Quantum-Inspired Fidelity-based Divergence**|Yifeng Peng et.al.|[2501.19307](http://arxiv.org/abs/2501.19307)|null|
@@ -4366,6 +4376,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
+|**2025-02-03**|**Extended string-net models with all anyons at finite temperature**|André O. Soares et.al.|[2502.01454](http://arxiv.org/abs/2502.01454)|null|
+|**2025-02-03**|**Generating logical magic states with the aid of non-Abelian topological order**|Sheng-Jie Huang et.al.|[2502.00998](http://arxiv.org/abs/2502.00998)|null|
+|**2025-02-02**|**Doped resonating valence bond states: How robust are the spin ice phases in 3D Rydberg arrays**|Jingya Wang et.al.|[2502.00836](http://arxiv.org/abs/2502.00836)|null|
+|**2025-02-01**|**Generalized Lie Symmetries in Physics-Informed Neural Operators**|Amy Xiang Wang et.al.|[2502.00373](http://arxiv.org/abs/2502.00373)|null|
 |**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu et.al.|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
 |**2025-01-30**|**Quantum Phase Transitions between Symmetry-Enriched Fracton Phases**|Julian Boesl et.al.|[2501.18688](http://arxiv.org/abs/2501.18688)|null|
 |**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will et.al.|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
