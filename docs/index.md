@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-05**|**Contextuality with Pauli observables in cycle scenarios**|Raman Choudhary et.al.|[2502.03451](http://arxiv.org/abs/2502.03451)|null|
+|**2025-02-05**|**TensorQC: Towards Scalable Distributed Quantum Computing via Tensor Networks**|Wei Tang et.al.|[2502.03445](http://arxiv.org/abs/2502.03445)|null|
+|**2025-02-05**|**Jet evolution in a quantum computer: quark and gluon dynamics**|Nuno Filipe Castro et.al.|[2502.03431](http://arxiv.org/abs/2502.03431)|null|
+|**2025-02-05**|**Polarization entanglement and qubit error rate dependance on the exciton-phonon coupling in self-assembled quantum dots**|Urmimala Dewan et.al.|[2502.03413](http://arxiv.org/abs/2502.03413)|null|
+|**2025-02-05**|**The Thermodynamic Cost of Ignorance: Thermal State Preparation with One Ancilla Qubit**|Matthew Hagan et.al.|[2502.03410](http://arxiv.org/abs/2502.03410)|null|
+|**2025-02-05**|**Implementing Large Quantum Boltzmann Machines as Generative AI Models for Dataset Balancing**|Salvatore Sinno et.al.|[2502.03086](http://arxiv.org/abs/2502.03086)|null|
+|**2025-02-05**|**Gain compression in Josephson Traveling-Wave Parametric Amplifiers**|Gwenael Le Gal et.al.|[2502.03022](http://arxiv.org/abs/2502.03022)|null|
+|**2025-02-05**|**Certified Random Number Generation using Quantum Computers**|Pingal Pratyush Nath et.al.|[2502.02973](http://arxiv.org/abs/2502.02973)|null|
+|**2025-02-05**|**High-fidelity initialization a logical qubit with multiple injections**|Zhi-Cheng He et.al.|[2502.02897](http://arxiv.org/abs/2502.02897)|null|
+|**2025-02-05**|**5G-AKA-HPQC: Hybrid Post-Quantum Cryptography Protocol for Quantum-Resilient 5G Primary Authentication with Forward Secrecy**|Yongho Ko et.al.|[2502.02851](http://arxiv.org/abs/2502.02851)|null|
 |**2025-02-04**|**Benchmarking quantum devices beyond classical capabilities**|Rafał Bistroń et.al.|[2502.02575](http://arxiv.org/abs/2502.02575)|null|
 |**2025-02-04**|**Contextuality of Quantum Error-Correcting Codes**|Derek Khu et.al.|[2502.02553](http://arxiv.org/abs/2502.02553)|null|
 |**2025-02-04**|**Automated tuning and characterization of a single-electron transistor charge sensor**|Andrija Paurevic et.al.|[2502.02521](http://arxiv.org/abs/2502.02521)|null|
