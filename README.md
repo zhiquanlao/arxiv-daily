@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Exponentially Better Bounds for Quantum Optimization via Dynamical Simulation**|Ahmet Burak Catli et.al.|[2502.04285](http://arxiv.org/abs/2502.04285)|null|
+|**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He et.al.|[2502.04277](http://arxiv.org/abs/2502.04277)|null|
+|**2025-02-06**|**Variational decision diagrams for quantum-inspired machine learning applications**|Santiago Acevedo-Mancera et.al.|[2502.04271](http://arxiv.org/abs/2502.04271)|null|
+|**2025-02-06**|**Exploring operation parallelism vs. ion movement in ion-trapped QCCD architectures**|Anabel Ovide et.al.|[2502.04181](http://arxiv.org/abs/2502.04181)|null|
+|**2025-02-06**|**Cyclic functional causal models beyond unique solvability with a graph separation theorem**|Carla Ferradini et.al.|[2502.04171](http://arxiv.org/abs/2502.04171)|null|
+|**2025-02-06**|**Gate teleportation-assisted routing for quantum algorithms**|Aravind Plathanam Babu et.al.|[2502.04138](http://arxiv.org/abs/2502.04138)|null|
+|**2025-02-06**|**Variational Quantum Optimization with Continuous Bandits**|Marc Wanner et.al.|[2502.04021](http://arxiv.org/abs/2502.04021)|null|
+|**2025-02-06**|**A Critical Analysis of Deployed Use Cases for Quantum Key Distribution and Comparison with Post-Quantum Cryptography**|Nick Aquina et.al.|[2502.04009](http://arxiv.org/abs/2502.04009)|null|
+|**2025-02-06**|**Deep Learning-Optimized, Fabrication Error-Tolerant Photonic Crystal Nanobeam Cavities for Scalable On-Chip Diamond Quantum Systems**|Sander van Haagen et.al.|[2502.03987](http://arxiv.org/abs/2502.03987)|null|
+|**2025-02-06**|**Raman signature of multiple phase transitions and quasi-particle excitations in putative Kitaev spin liquid candidate Na2Co2TeO6**|Atul G. Chakkar et.al.|[2502.03970](http://arxiv.org/abs/2502.03970)|null|
 |**2025-02-05**|**Contextuality with Pauli observables in cycle scenarios**|Raman Choudhary et.al.|[2502.03451](http://arxiv.org/abs/2502.03451)|null|
 |**2025-02-05**|**TensorQC: Towards Scalable Distributed Quantum Computing via Tensor Networks**|Wei Tang et.al.|[2502.03445](http://arxiv.org/abs/2502.03445)|null|
 |**2025-02-05**|**Jet evolution in a quantum computer: quark and gluon dynamics**|Nuno Filipe Castro et.al.|[2502.03431](http://arxiv.org/abs/2502.03431)|null|
