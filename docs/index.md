@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Non-linear Quantum Monte Carlo**|Jose Blanchet et.al.|[2502.05094](http://arxiv.org/abs/2502.05094)|null|
+|**2025-02-07**|**Quantum stochastic communication via high-dimensional entanglement**|Chao Zhang et.al.|[2502.04887](http://arxiv.org/abs/2502.04887)|null|
+|**2025-02-07**|**Probabilistic pulse-position modulation for classical communication on quantum channels**|Farzad Kianvash et.al.|[2502.04856](http://arxiv.org/abs/2502.04856)|null|
+|**2025-02-07**|**Quantum Supremacy in Tomographic Imaging: Advances in Quantum Tomography Algorithms**|Hyunju Lee et.al.|[2502.04830](http://arxiv.org/abs/2502.04830)|null|
+|**2025-02-07**|**Differential Privacy of Quantum and Quantum-Inspired-Classical Recommendation Algorithms**|Chenjian Li et.al.|[2502.04758](http://arxiv.org/abs/2502.04758)|null|
+|**2025-02-07**|**Fundamental Factors Governing Stabilization of Janus 2D-Bulk Heterostructures with Machine Learning**|Tara M. Boland et.al.|[2502.04603](http://arxiv.org/abs/2502.04603)|null|
+|**2025-02-07**|**Arbitrary state preparation in quantum harmonic oscillators using neural networks**|Nicolas Parra-A. et.al.|[2502.04598](http://arxiv.org/abs/2502.04598)|null|
+|**2025-02-06**|**Lattice stitching by eigenvector continuation for Holstein polaron**|Elham Torabian et.al.|[2502.04500](http://arxiv.org/abs/2502.04500)|null|
+|**2025-02-06**|**Out-of-distribution generalisation for learning quantum channels with low-energy coherent states**|Jason L. Pereira et.al.|[2502.04454](http://arxiv.org/abs/2502.04454)|null|
+|**2025-02-06**|**Unitary Categorical Symmetries**|Thomas Bartsch et.al.|[2502.04440](http://arxiv.org/abs/2502.04440)|null|
 |**2025-02-06**|**Exponentially Better Bounds for Quantum Optimization via Dynamical Simulation**|Ahmet Burak Catli et.al.|[2502.04285](http://arxiv.org/abs/2502.04285)|null|
 |**2025-02-06**|**Non-Variational Quantum Random Access Optimization with Alternating Operator Ansatz**|Zichang He et.al.|[2502.04277](http://arxiv.org/abs/2502.04277)|null|
 |**2025-02-06**|**Variational decision diagrams for quantum-inspired machine learning applications**|Santiago Acevedo-Mancera et.al.|[2502.04271](http://arxiv.org/abs/2502.04271)|null|
@@ -4396,6 +4406,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani et.al.|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
+|**2025-02-06**|**Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems**|Shangbin Feng et.al.|[2502.04510](http://arxiv.org/abs/2502.04510)|null|
+|**2025-02-06**|**Two-dimensional topological quantum field theories of rank two over Dedekind domains**|Fabian Espinoza et.al.|[2502.04502](http://arxiv.org/abs/2502.04502)|null|
 |**2025-02-04**|**On likelihood-based analysis of the gravitationally (de)lensed CMB**|Julien Carron et.al.|[2502.02399](http://arxiv.org/abs/2502.02399)|null|
 |**2025-02-03**|**Extended string-net models with all anyons at finite temperature**|André O. Soares et.al.|[2502.01454](http://arxiv.org/abs/2502.01454)|null|
 |**2025-02-03**|**Generating logical magic states with the aid of non-Abelian topological order**|Sheng-Jie Huang et.al.|[2502.00998](http://arxiv.org/abs/2502.00998)|null|
