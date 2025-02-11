@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
+|**2025-02-10**|**Exact NESS of XXZ circuits boundary driven with arbitrary resets or fields**|Vladislav Popkov et.al.|[2502.06731](http://arxiv.org/abs/2502.06731)|null|
+|**2025-02-10**|**A Review and Collection of Metrics and Benchmarks for Quantum Computers: definitions, methodologies and software**|Deep Lall et.al.|[2502.06717](http://arxiv.org/abs/2502.06717)|null|
+|**2025-02-10**|**Heisenberg-limited calibration of entangling gates with robust phase estimation**|Kenneth Rudinger et.al.|[2502.06698](http://arxiv.org/abs/2502.06698)|null|
+|**2025-02-10**|**Compact Quantum Dot Models for Analog Microwave co-Simulation**|Lorenzo Peri et.al.|[2502.06690](http://arxiv.org/abs/2502.06690)|null|
+|**2025-02-10**|**Onion Routing Key Distribution for QKDN**|Pedro Otero-García et.al.|[2502.06657](http://arxiv.org/abs/2502.06657)|null|
+|**2025-02-10**|**Hamiltonian formulations of centroid-based clustering**|Myeonghwan Seong et.al.|[2502.06542](http://arxiv.org/abs/2502.06542)|null|
+|**2025-02-10**|**On the utility of the switching theorem for adiabatic state preparation**|Thomas D. Cohen et.al.|[2502.06534](http://arxiv.org/abs/2502.06534)|null|
+|**2025-02-10**|**Convex Split Lemma without Inequalities**|Gilad Gour et.al.|[2502.06526](http://arxiv.org/abs/2502.06526)|null|
+|**2025-02-10**|**Euclid: A complete Einstein ring in NGC 6505**|C. M. O'Riordan et.al.|[2502.06505](http://arxiv.org/abs/2502.06505)|null|
 |**2025-02-07**|**Non-linear Quantum Monte Carlo**|Jose Blanchet et.al.|[2502.05094](http://arxiv.org/abs/2502.05094)|null|
 |**2025-02-07**|**Quantum stochastic communication via high-dimensional entanglement**|Chao Zhang et.al.|[2502.04887](http://arxiv.org/abs/2502.04887)|null|
 |**2025-02-07**|**Probabilistic pulse-position modulation for classical communication on quantum channels**|Farzad Kianvash et.al.|[2502.04856](http://arxiv.org/abs/2502.04856)|null|
@@ -4430,6 +4440,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-10**|**WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
+|**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen et.al.|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
 |**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani et.al.|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
 |**2025-02-06**|**Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems**|Shangbin Feng et.al.|[2502.04510](http://arxiv.org/abs/2502.04510)|null|
 |**2025-02-06**|**Two-dimensional topological quantum field theories of rank two over Dedekind domains**|Fabian Espinoza et.al.|[2502.04502](http://arxiv.org/abs/2502.04502)|null|
