@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.11
+## Updated on 2025.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4425,7 +4425,7 @@ layout: default
 |**2025-02-03**|**Extended string-net models with all anyons at finite temperature**|André O. Soares et.al.|[2502.01454](http://arxiv.org/abs/2502.01454)|null|
 |**2025-02-03**|**Generating logical magic states with the aid of non-Abelian topological order**|Sheng-Jie Huang et.al.|[2502.00998](http://arxiv.org/abs/2502.00998)|null|
 |**2025-02-02**|**Doped resonating valence bond states: How robust are the spin ice phases in 3D Rydberg arrays**|Jingya Wang et.al.|[2502.00836](http://arxiv.org/abs/2502.00836)|null|
-|**2025-02-01**|**Generalized Lie Symmetries in Physics-Informed Neural Operators**|Amy Xiang Wang et.al.|[2502.00373](http://arxiv.org/abs/2502.00373)|null|
+|**2025-02-01**|**Generalized Lie Symmetries in Physics-Informed Neural Operators**|Amy Xiang Wang et.al.|[2502.00373](http://arxiv.org/abs/2502.00373)|**[link](https://github.com/xiwang129/gps_pino)**|
 |**2025-01-31**|**A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier**|Guanyu Zhu et.al.|[2501.19375](http://arxiv.org/abs/2501.19375)|null|
 |**2025-01-30**|**Quantum Phase Transitions between Symmetry-Enriched Fracton Phases**|Julian Boesl et.al.|[2501.18688](http://arxiv.org/abs/2501.18688)|null|
 |**2025-01-30**|**Probing Non-Equilibrium Topological Order on a Quantum Processor**|M. Will et.al.|[2501.18461](http://arxiv.org/abs/2501.18461)|null|
