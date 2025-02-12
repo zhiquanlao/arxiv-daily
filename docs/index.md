@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Quantum-driven Zero Trust Framework with Dynamic Anomaly Detection in 7G Technology: A Neural Network Approach**|Shakil Ahmed et.al.|[2502.07779](http://arxiv.org/abs/2502.07779)|null|
+|**2025-02-11**|**Next-to-minimal weight of toric codes defined over hypersimplices**|Cícero Carvalho et.al.|[2502.07718](http://arxiv.org/abs/2502.07718)|null|
+|**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti et.al.|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
+|**2025-02-11**|**Unsupervised Feature Extraction and Reconstruction Using Parameterized Quantum Circuits**|Li-An Lo et.al.|[2502.07667](http://arxiv.org/abs/2502.07667)|null|
+|**2025-02-11**|**Estimation of Nonlinear Physical Quantities By Measuring Ancillas**|Nhat A. Nghiem et.al.|[2502.07571](http://arxiv.org/abs/2502.07571)|null|
+|**2025-02-11**|**Optimization Methods for Joint Eigendecomposition**|Erik Troedsson et.al.|[2502.07484](http://arxiv.org/abs/2502.07484)|null|
+|**2025-02-11**|**Quantum Communication Advantage for Leader Election and Agreement**|Fabien Dufoulon et.al.|[2502.07416](http://arxiv.org/abs/2502.07416)|null|
+|**2025-02-11**|**Hybrid classical-quantum communication networks**|Joseph M. Lukens et.al.|[2502.07298](http://arxiv.org/abs/2502.07298)|null|
+|**2025-02-11**|**Negative Dependence as a toolbox for machine learning : review and new developments**|Hoang-Son Tran et.al.|[2502.07285](http://arxiv.org/abs/2502.07285)|null|
+|**2025-02-11**|**Quantifying Quantumness in (A)dS spacetimes with Unruh-DeWitt Detector**|Li-Juan Li et.al.|[2502.07167](http://arxiv.org/abs/2502.07167)|null|
 |**2025-02-10**|**Fat-Tree QRAM: A High-Bandwidth Shared Quantum Random Access Memory for Parallel Queries**|Shifan Xu et.al.|[2502.06767](http://arxiv.org/abs/2502.06767)|null|
 |**2025-02-10**|**Exact NESS of XXZ circuits boundary driven with arbitrary resets or fields**|Vladislav Popkov et.al.|[2502.06731](http://arxiv.org/abs/2502.06731)|null|
 |**2025-02-10**|**A Review and Collection of Metrics and Benchmarks for Quantum Computers: definitions, methodologies and software**|Deep Lall et.al.|[2502.06717](http://arxiv.org/abs/2502.06717)|null|
@@ -4416,6 +4426,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
+|**2025-02-11**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
+|**2025-02-10**|**Detection of chiral spin fluctuations driven by frustration in Mott insulators**|Kuan H. Hsu et.al.|[2502.07108](http://arxiv.org/abs/2502.07108)|null|
 |**2025-02-10**|**WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
 |**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen et.al.|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
 |**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani et.al.|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
