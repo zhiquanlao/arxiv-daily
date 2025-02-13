@@ -3417,6 +3417,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Noise Reversal by Entropy Quantum Computing**|Yu-Ping Huang et.al.|[2502.08591](http://arxiv.org/abs/2502.08591)|null|
+|**2025-02-12**|**Multiplexed qubit readout quality metric beyond assignment fidelity**|Andras Di Giovanni et.al.|[2502.08589](http://arxiv.org/abs/2502.08589)|null|
+|**2025-02-12**|**The Born rule -- 100 years ago and today**|Arnold Neumaier et.al.|[2502.08545](http://arxiv.org/abs/2502.08545)|null|
+|**2025-02-12**|**Non-Reciprocal Current-Phase Relation and Superconducting Diode Effect in Topological-Insulator-Based Josephson Junctions**|A. Kudriashov et.al.|[2502.08527](http://arxiv.org/abs/2502.08527)|null|
+|**2025-02-12**|**Towards a function-scalable quantum network with multiplexed energy-time entanglement**|Xiao Xiang et.al.|[2502.08423](http://arxiv.org/abs/2502.08423)|null|
+|**2025-02-12**|**Deterministic generation of non-classical mechanical states in cavity optomechanics via reinforcement learning**|Yu-Hong Liu et.al.|[2502.08350](http://arxiv.org/abs/2502.08350)|null|
+|**2025-02-12**|**Quantum-Efficient Kernel Target Alignment**|Rodrigo Coelho et.al.|[2502.08225](http://arxiv.org/abs/2502.08225)|null|
+|**2025-02-11**|**Enhancing dissipative cat qubit protection by squeezing**|Rémi Rousseau et.al.|[2502.07892](http://arxiv.org/abs/2502.07892)|null|
+|**2025-02-11**|**A unifying account of warm start guarantees for patches of quantum landscapes**|Hela Mhiri et.al.|[2502.07889](http://arxiv.org/abs/2502.07889)|null|
 |**2025-02-11**|**Quantum-driven Zero Trust Framework with Dynamic Anomaly Detection in 7G Technology: A Neural Network Approach**|Shakil Ahmed et.al.|[2502.07779](http://arxiv.org/abs/2502.07779)|null|
 |**2025-02-11**|**Next-to-minimal weight of toric codes defined over hypersimplices**|Cícero Carvalho et.al.|[2502.07718](http://arxiv.org/abs/2502.07718)|null|
 |**2025-02-11**|**Interplay of resources for universal continuous-variable quantum computing**|Varun Upreti et.al.|[2502.07670](http://arxiv.org/abs/2502.07670)|null|
@@ -4426,8 +4435,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-12**|**Emergent dimer-model topological order and quasi-particle excitations in liquid crystals: combinatorial vortex lattices**|Cuiling Meng et.al.|[2502.08314](http://arxiv.org/abs/2502.08314)|null|
 |**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
-|**2025-02-11**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
+|**2025-02-12**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
 |**2025-02-10**|**Detection of chiral spin fluctuations driven by frustration in Mott insulators**|Kuan H. Hsu et.al.|[2502.07108](http://arxiv.org/abs/2502.07108)|null|
 |**2025-02-10**|**WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
 |**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen et.al.|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
