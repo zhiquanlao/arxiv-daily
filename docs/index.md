@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
+|**2025-02-13**|**Constant-Overhead Fault-Tolerant Bell-Pair Distillation using High-Rate Codes**|J. Pablo Bonilla Ataides et.al.|[2502.09542](http://arxiv.org/abs/2502.09542)|null|
+|**2025-02-13**|**The Impact of Architecture and Cost Function on Dissipative Quantum Neural Networks**|Tobias C. Sutter et.al.|[2502.09526](http://arxiv.org/abs/2502.09526)|null|
+|**2025-02-13**|**Quantum Synchronizing Words: Resetting and Preparing Qutrit States**|Andrzej Grudka et.al.|[2502.09522](http://arxiv.org/abs/2502.09522)|null|
+|**2025-02-13**|**Constant Overhead Entanglement Distillation via Scrambling**|Andi Gu et.al.|[2502.09483](http://arxiv.org/abs/2502.09483)|null|
+|**2025-02-13**|**One-shot manipulation of coherence in dynamic quantum resource theory**|Yu Luo et.al.|[2502.09345](http://arxiv.org/abs/2502.09345)|null|
+|**2025-02-13**|**Oracle Separations for RPH**|Thekla Hamm et.al.|[2502.09279](http://arxiv.org/abs/2502.09279)|null|
+|**2025-02-13**|**Space-Efficient Quantum Error Reduction without log Factors**|Aleksandrs Belovs et.al.|[2502.09249](http://arxiv.org/abs/2502.09249)|null|
+|**2025-02-13**|**Composing Quantum Algorithms**|Stacey Jeffery et.al.|[2502.09240](http://arxiv.org/abs/2502.09240)|null|
+|**2025-02-13**|**Approximate Dynamical Quantum Error-Correcting Codes**|Nirupam Basak et.al.|[2502.09177](http://arxiv.org/abs/2502.09177)|null|
 |**2025-02-12**|**Noise Reversal by Entropy Quantum Computing**|Yu-Ping Huang et.al.|[2502.08591](http://arxiv.org/abs/2502.08591)|null|
 |**2025-02-12**|**Multiplexed qubit readout quality metric beyond assignment fidelity**|Andras Di Giovanni et.al.|[2502.08589](http://arxiv.org/abs/2502.08589)|null|
 |**2025-02-12**|**The Born rule -- 100 years ago and today**|Arnold Neumaier et.al.|[2502.08545](http://arxiv.org/abs/2502.08545)|null|
