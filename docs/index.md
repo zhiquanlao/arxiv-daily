@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383](http://arxiv.org/abs/2502.10383)|null|
+|**2025-02-14**|**Diamond Circuits for Surface Codes**|Dripto M. Debroy et.al.|[2502.10355](http://arxiv.org/abs/2502.10355)|null|
+|**2025-02-14**|**Analog Quantum Teleportation**|Uesli Alushi et.al.|[2502.10253](http://arxiv.org/abs/2502.10253)|null|
+|**2025-02-14**|**Quantum Neural Networks for Cloud Cover Parameterizations in Climate Models**|Lorenzo Pastori et.al.|[2502.10131](http://arxiv.org/abs/2502.10131)|null|
+|**2025-02-14**|**Nonreciprocal routing induced by chirality in an atom-dimer waveguide-QED system**|Shi-Yu Liu et.al.|[2502.10121](http://arxiv.org/abs/2502.10121)|null|
+|**2025-02-14**|**SWAP Attack: Stealthy Side-Channel Attack on Multi-Tenant Quantum Cloud System**|Wei Jie Bryan Lee et.al.|[2502.10115](http://arxiv.org/abs/2502.10115)|null|
+|**2025-02-14**|**Entangling power of Anti-Jaynes-Cummings model and its efficiency to encode information in atomic system**|M. Kh. Ismail et.al.|[2502.10083](http://arxiv.org/abs/2502.10083)|null|
+|**2025-02-14**|**Floquet Engineering and Harnessing Giant Atoms in Frequency-Comb Emission and Bichromatic Correlations in Waveguide QED**|Qing-Yang Qiu et.al.|[2502.09901](http://arxiv.org/abs/2502.09901)|null|
+|**2025-02-14**|**Effects of finite trapping on the decay, recoil, and decoherence of dark states of quantum emitter arrays**|M. Eltohfa et.al.|[2502.09851](http://arxiv.org/abs/2502.09851)|null|
+|**2025-02-13**|**Implementation and Analysis of Regev's Quantum Factorization Algorithm**|Przemysław Pawlitko et.al.|[2502.09772](http://arxiv.org/abs/2502.09772)|null|
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
 |**2025-02-13**|**Constant-Overhead Fault-Tolerant Bell-Pair Distillation using High-Rate Codes**|J. Pablo Bonilla Ataides et.al.|[2502.09542](http://arxiv.org/abs/2502.09542)|null|
 |**2025-02-13**|**The Impact of Architecture and Cost Function on Dissipative Quantum Neural Networks**|Tobias C. Sutter et.al.|[2502.09526](http://arxiv.org/abs/2502.09526)|null|
