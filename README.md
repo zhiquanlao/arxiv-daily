@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Real operator systems**|David P. Blecher et.al.|[2502.12126](http://arxiv.org/abs/2502.12126)|null|
+|**2025-02-17**|**Interplay of Quantum Coherence and Nonequilibrium Quantum Transport: An Exact Density Matrix Formulation in the Heisenberg Framework**|Saikumar Krithivasan et.al.|[2502.12105](http://arxiv.org/abs/2502.12105)|null|
+|**2025-02-17**|**Quantum Byzantine Multiple Access Channels**|Minglai Cai et.al.|[2502.12047](http://arxiv.org/abs/2502.12047)|null|
+|**2025-02-17**|**A Conceptual Framework for Integrating Awareness into Relational Quantum Dynamics (RQD)**|Arash Zaghi et.al.|[2502.12016](http://arxiv.org/abs/2502.12016)|null|
+|**2025-02-17**|**Variational Quantum Algorithms for Many-Body Systems**|Mirko Consiglio et.al.|[2502.11985](http://arxiv.org/abs/2502.11985)|null|
+|**2025-02-17**|**Waveguide QED Analysis of Quantum-Coherent Links for Modular Quantum Computing**|Junaid Khan et.al.|[2502.11972](http://arxiv.org/abs/2502.11972)|null|
+|**2025-02-17**|**Unitality Conditions on Subsystems in Quantum Dynamics**|Anumita Mukhopadhyay et.al.|[2502.11956](http://arxiv.org/abs/2502.11956)|null|
+|**2025-02-17**|**Qubit-Based Framework for Quantum Machine Learning: Bridging Classical Data and Quantum Algorithms**|Bhavna Bose et.al.|[2502.11951](http://arxiv.org/abs/2502.11951)|null|
+|**2025-02-17**|**Clifford circuit based heuristic optimization of fermion-to-qubit mappings**|Jeffery Yu et.al.|[2502.11933](http://arxiv.org/abs/2502.11933)|null|
+|**2025-02-17**|**Ansatz-free Hamiltonian learning with Heisenberg-limited scaling**|Hong-Ye Hu et.al.|[2502.11900](http://arxiv.org/abs/2502.11900)|null|
 |**2025-02-14**|**Representation and Interpretation in Artificial and Natural Computing**|Luis A. Pineda et.al.|[2502.10383](http://arxiv.org/abs/2502.10383)|null|
 |**2025-02-14**|**Diamond Circuits for Surface Codes**|Dripto M. Debroy et.al.|[2502.10355](http://arxiv.org/abs/2502.10355)|null|
 |**2025-02-14**|**Analog Quantum Teleportation**|Uesli Alushi et.al.|[2502.10253](http://arxiv.org/abs/2502.10253)|null|
@@ -4479,6 +4489,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-16**|**Point-group symmetry enriched topological orders**|Zhaoyang Ding et.al.|[2502.11106](http://arxiv.org/abs/2502.11106)|null|
 |**2025-02-12**|**Emergent dimer-model topological order and quasi-particle excitations in liquid crystals: combinatorial vortex lattices**|Cuiling Meng et.al.|[2502.08314](http://arxiv.org/abs/2502.08314)|null|
 |**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
 |**2025-02-12**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
