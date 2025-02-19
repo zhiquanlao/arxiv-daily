@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**Towards Quantum Tensor Decomposition in Biomedical Applications**|Myson Burch et.al.|[2502.13140](http://arxiv.org/abs/2502.13140)|null|
+|**2025-02-18**|**Analysis of Josephson Junction Barrier Variation -- a Combined STEM, Breakdown and Monte-Carlo Approach**|Oscar W. Kennedy et.al.|[2502.13072](http://arxiv.org/abs/2502.13072)|null|
+|**2025-02-18**|**Benchmarking MedMNIST dataset on real quantum hardware**|Gurinder Singh et.al.|[2502.13056](http://arxiv.org/abs/2502.13056)|null|
+|**2025-02-18**|**Fundamental constraints on quantum fluctuations: Conservation laws, reality, and no-signaling**|Thales Augusto Barbosa Pinto Silva et.al.|[2502.12905](http://arxiv.org/abs/2502.12905)|null|
+|**2025-02-18**|**Stabilization of magnetic bubbles in [Ni/Co] $_{n}$ multilayers on an oxygen-reconstructed Nb(110) surface via an ultra-thin Cu interlayer**|Ahmad Dibajeh et.al.|[2502.12649](http://arxiv.org/abs/2502.12649)|null|
+|**2025-02-18**|**Matrix Product States as Observations of Entangled Hidden Markov Models**|Abdessatar Souissi et.al.|[2502.12641](http://arxiv.org/abs/2502.12641)|null|
+|**2025-02-18**|**Low-loss polarization-maintaining router for single and entangled photons at a telecom wavelength**|Pengfei Wang et.al.|[2502.12554](http://arxiv.org/abs/2502.12554)|null|
+|**2025-02-18**|**A Compact One-Way Fault-Tolerant Optical Quantum Computation**|Peilin Du et.al.|[2502.12429](http://arxiv.org/abs/2502.12429)|null|
+|**2025-02-17**|**Programmable photonic waveguide arrays: opportunities and challenges**|Yang Yang et.al.|[2502.12385](http://arxiv.org/abs/2502.12385)|null|
+|**2025-02-17**|**Temporal Coarse Graining for Classical Stochastic Noise in Quantum Systems**|Tameem Albash et.al.|[2502.12296](http://arxiv.org/abs/2502.12296)|null|
 |**2025-02-17**|**Real operator systems**|David P. Blecher et.al.|[2502.12126](http://arxiv.org/abs/2502.12126)|null|
 |**2025-02-17**|**Interplay of Quantum Coherence and Nonequilibrium Quantum Transport: An Exact Density Matrix Formulation in the Heisenberg Framework**|Saikumar Krithivasan et.al.|[2502.12105](http://arxiv.org/abs/2502.12105)|null|
 |**2025-02-17**|**Quantum Byzantine Multiple Access Channels**|Minglai Cai et.al.|[2502.12047](http://arxiv.org/abs/2502.12047)|null|
@@ -4489,6 +4499,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-18**|**U(1) Gauging, Continuous TQFTs, and Higher Symmetry Structures**|Adrien Arbalestrier et.al.|[2502.12997](http://arxiv.org/abs/2502.12997)|null|
+|**2025-02-18**|**Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**|S. Grandis et.al.|[2502.12914](http://arxiv.org/abs/2502.12914)|null|
+|**2025-02-17**|**Extracting the topological spins from bulk multipartite entanglement**|Yarden Sheffer et.al.|[2502.12259](http://arxiv.org/abs/2502.12259)|null|
 |**2025-02-16**|**Point-group symmetry enriched topological orders**|Zhaoyang Ding et.al.|[2502.11106](http://arxiv.org/abs/2502.11106)|null|
 |**2025-02-12**|**Emergent dimer-model topological order and quasi-particle excitations in liquid crystals: combinatorial vortex lattices**|Cuiling Meng et.al.|[2502.08314](http://arxiv.org/abs/2502.08314)|null|
 |**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
