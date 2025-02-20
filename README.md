@@ -3439,6 +3439,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot et.al.|[2502.13889](http://arxiv.org/abs/2502.13889)|null|
+|**2025-02-19**|**Correcting and extending Trotterized quantum many-body dynamics**|Gian Gentinetta et.al.|[2502.13784](http://arxiv.org/abs/2502.13784)|null|
+|**2025-02-19**|**Induced Quantum Divergence: A New Lens on Communication and Source Coding**|Gilad Gour et.al.|[2502.13669](http://arxiv.org/abs/2502.13669)|null|
+|**2025-02-19**|**New Quantum Algorithm For Solving Linear System of Equations**|Nhat A. Nghiem et.al.|[2502.13630](http://arxiv.org/abs/2502.13630)|null|
+|**2025-02-18**|**Conditional Mutual Information and Information-Theoretic Phases of Decohered Gibbs States**|Yifan Zhang et.al.|[2502.13210](http://arxiv.org/abs/2502.13210)|null|
 |**2025-02-18**|**Towards Quantum Tensor Decomposition in Biomedical Applications**|Myson Burch et.al.|[2502.13140](http://arxiv.org/abs/2502.13140)|null|
 |**2025-02-18**|**Analysis of Josephson Junction Barrier Variation -- a Combined STEM, Breakdown and Monte-Carlo Approach**|Oscar W. Kennedy et.al.|[2502.13072](http://arxiv.org/abs/2502.13072)|null|
 |**2025-02-18**|**Benchmarking MedMNIST dataset on real quantum hardware**|Gurinder Singh et.al.|[2502.13056](http://arxiv.org/abs/2502.13056)|null|
@@ -4499,6 +4504,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-19**|**On dimensions of (2+1)D abelian bosonic topological systems on unoriented manifolds**|Ippo Orii et.al.|[2502.13532](http://arxiv.org/abs/2502.13532)|null|
 |**2025-02-18**|**U(1) Gauging, Continuous TQFTs, and Higher Symmetry Structures**|Adrien Arbalestrier et.al.|[2502.12997](http://arxiv.org/abs/2502.12997)|null|
 |**2025-02-18**|**Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**|S. Grandis et.al.|[2502.12914](http://arxiv.org/abs/2502.12914)|null|
 |**2025-02-17**|**Extracting the topological spins from bulk multipartite entanglement**|Yarden Sheffer et.al.|[2502.12259](http://arxiv.org/abs/2502.12259)|null|
