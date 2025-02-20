@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.19
+## Updated on 2025.02.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4483,7 +4483,7 @@ layout: default
 |**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
 |**2025-02-12**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
 |**2025-02-10**|**Detection of chiral spin fluctuations driven by frustration in Mott insulators**|Kuan H. Hsu et.al.|[2502.07108](http://arxiv.org/abs/2502.07108)|null|
-|**2025-02-10**|**WyckoffDiff - A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
+|**2025-02-10**|**WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
 |**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen et.al.|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
 |**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani et.al.|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
 |**2025-02-06**|**Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems**|Shangbin Feng et.al.|[2502.04510](http://arxiv.org/abs/2502.04510)|null|
