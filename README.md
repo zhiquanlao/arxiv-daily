@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen et.al.|[2502.14835](http://arxiv.org/abs/2502.14835)|null|
+|**2025-02-20**|**Passive Demultiplexed Two-photon State Generation from a Quantum Dot**|Yusuf Karli et.al.|[2502.14806](http://arxiv.org/abs/2502.14806)|null|
+|**2025-02-20**|**Noise Mitigation in Single Microwave Photon Counting by Cascaded Quantum Measurements**|Alexandre S. May et.al.|[2502.14804](http://arxiv.org/abs/2502.14804)|null|
+|**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi et.al.|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
+|**2025-02-20**|**Experimental randomness certification in a quantum network with independent sources**|Giorgio Minati et.al.|[2502.14658](http://arxiv.org/abs/2502.14658)|null|
+|**2025-02-20**|**Crosstalk Analysis in Quantum Networks: Detection and Localization Insights with photon counting OTDR**|Anouar Rahmouni et.al.|[2502.14623](http://arxiv.org/abs/2502.14623)|null|
+|**2025-02-20**|**Quantum computer formulation of the FKP-operator eigenvalue problem for probabilistic learning on manifolds**|Christian Soize et.al.|[2502.14580](http://arxiv.org/abs/2502.14580)|null|
+|**2025-02-20**|**Exploring the phase diagram of $SU(2)_4$ strange correlator**|Ce Shen et.al.|[2502.14556](http://arxiv.org/abs/2502.14556)|null|
+|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467](http://arxiv.org/abs/2502.14467)|null|
+|**2025-02-20**|**PQBFL: A Post-Quantum Blockchain-based Protocol for Federated Learning**|Hadi GHaravi et.al.|[2502.14464](http://arxiv.org/abs/2502.14464)|null|
 |**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot et.al.|[2502.13889](http://arxiv.org/abs/2502.13889)|null|
 |**2025-02-19**|**Correcting and extending Trotterized quantum many-body dynamics**|Gian Gentinetta et.al.|[2502.13784](http://arxiv.org/abs/2502.13784)|null|
 |**2025-02-19**|**Induced Quantum Divergence: A New Lens on Communication and Source Coding**|Gilad Gour et.al.|[2502.13669](http://arxiv.org/abs/2502.13669)|null|
@@ -4504,6 +4514,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi et.al.|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
+|**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang et.al.|[2502.14034](http://arxiv.org/abs/2502.14034)|null|
+|**2025-02-19**|**Critical theories connecting gapped phases with $\mathbb{Z}_2\times\mathbb{Z}_2$ symmetry from the duality web**|Andreas Karch et.al.|[2502.14032](http://arxiv.org/abs/2502.14032)|null|
 |**2025-02-19**|**On dimensions of (2+1)D abelian bosonic topological systems on unoriented manifolds**|Ippo Orii et.al.|[2502.13532](http://arxiv.org/abs/2502.13532)|null|
 |**2025-02-18**|**U(1) Gauging, Continuous TQFTs, and Higher Symmetry Structures**|Adrien Arbalestrier et.al.|[2502.12997](http://arxiv.org/abs/2502.12997)|null|
 |**2025-02-18**|**Selection Function of Clusters in Dark Energy Survey Year 3 Data from Cross-Matching with South Pole Telescope Detections**|S. Grandis et.al.|[2502.12914](http://arxiv.org/abs/2502.12914)|null|
