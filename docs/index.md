@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang et.al.|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
+|**2025-02-21**|**A New Type of MPd5 Kagome Superconductors**|Dan Li et.al.|[2502.15445](http://arxiv.org/abs/2502.15445)|null|
+|**2025-02-21**|**Solving quadratic binary optimization problems using quantum SDP methods: Non-asymptotic running time analysis**|Fabian Henze et.al.|[2502.15426](http://arxiv.org/abs/2502.15426)|null|
+|**2025-02-21**|**Digitized Counter-Diabatic Quantum Optimization for Bin Packing Problem**|Ruoqian Xu et.al.|[2502.15375](http://arxiv.org/abs/2502.15375)|null|
+|**2025-02-21**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs: Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297](http://arxiv.org/abs/2502.15297)|null|
+|**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
+|**2025-02-21**|**RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices**|Motoya Shinozaki et.al.|[2502.15239](http://arxiv.org/abs/2502.15239)|null|
+|**2025-02-20**|**Optimizing Continuous-Wave Pumped Entanglement-based QKD in Noisy Environment**|Hashir Kuniyil et.al.|[2502.15059](http://arxiv.org/abs/2502.15059)|null|
+|**2025-02-20**|**The measurement problem in liquid NMR quantum computers**|Omid Jalili et.al.|[2502.15038](http://arxiv.org/abs/2502.15038)|null|
+|**2025-02-20**|**A Quantum Signature Validation Algorithm for Efficient Detection of Tampered Transactions in Blockchain**|Jaime Torres et.al.|[2502.15023](http://arxiv.org/abs/2502.15023)|null|
 |**2025-02-20**|**Adaptive Syndrome Extraction**|Noah Berthusen et.al.|[2502.14835](http://arxiv.org/abs/2502.14835)|null|
 |**2025-02-20**|**Passive Demultiplexed Two-photon State Generation from a Quantum Dot**|Yusuf Karli et.al.|[2502.14806](http://arxiv.org/abs/2502.14806)|null|
 |**2025-02-20**|**Noise Mitigation in Single Microwave Photon Counting by Cascaded Quantum Measurements**|Alexandre S. May et.al.|[2502.14804](http://arxiv.org/abs/2502.14804)|null|
@@ -4490,6 +4500,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-21**|**A Stacked Analysis of GeV Gamma-Ray Emission from SPT-SZ Galaxy Clusters with 16 Years of Fermi-LAT Data**|Siddhant Manna et.al.|[2502.15235](http://arxiv.org/abs/2502.15235)|null|
+|**2025-02-20**|**Universal Quantum Computation with the $S_3$ Quantum Double: A Pedagogical Exposition**|Chiu Fan Bowen Lo et.al.|[2502.14974](http://arxiv.org/abs/2502.14974)|null|
 |**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi et.al.|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
 |**2025-02-19**|**Decoherence-induced self-dual criticality in topological states of matter**|Qingyuan Wang et.al.|[2502.14034](http://arxiv.org/abs/2502.14034)|null|
 |**2025-02-19**|**Critical theories connecting gapped phases with $\mathbb{Z}_2\times\mathbb{Z}_2$ symmetry from the duality web**|Andreas Karch et.al.|[2502.14032](http://arxiv.org/abs/2502.14032)|null|
