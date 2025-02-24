@@ -2272,7 +2272,7 @@ layout: default
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597](http://arxiv.org/abs/2407.05597)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586](http://arxiv.org/abs/2407.05586)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254](http://arxiv.org/abs/2407.05254)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023](http://arxiv.org/abs/2407.05023)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923](http://arxiv.org/abs/2407.03923)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668](http://arxiv.org/abs/2407.02668)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174](http://arxiv.org/abs/2407.02174)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
@@ -3425,7 +3425,7 @@ layout: default
 |**2025-02-20**|**Crosstalk Analysis in Quantum Networks: Detection and Localization Insights with photon counting OTDR**|Anouar Rahmouni et.al.|[2502.14623](http://arxiv.org/abs/2502.14623)|null|
 |**2025-02-20**|**Quantum computer formulation of the FKP-operator eigenvalue problem for probabilistic learning on manifolds**|Christian Soize et.al.|[2502.14580](http://arxiv.org/abs/2502.14580)|null|
 |**2025-02-20**|**Exploring the phase diagram of $SU(2)_4$ strange correlator**|Ce Shen et.al.|[2502.14556](http://arxiv.org/abs/2502.14556)|null|
-|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467](http://arxiv.org/abs/2502.14467)|null|
+|**2025-02-20**|**Provable Quantum Algorithm Advantage for Gaussian Process Quadrature**|Cristian A. Galvis-Florez et.al.|[2502.14467](http://arxiv.org/abs/2502.14467)|**[link](https://github.com/cagalvisf/quantum_hsgpq)**|
 |**2025-02-20**|**PQBFL: A Post-Quantum Blockchain-based Protocol for Federated Learning**|Hadi GHaravi et.al.|[2502.14464](http://arxiv.org/abs/2502.14464)|null|
 |**2025-02-19**|**On the Addressability Problem on CSS Codes**|Jérôme Guyot et.al.|[2502.13889](http://arxiv.org/abs/2502.13889)|null|
 |**2025-02-19**|**Correcting and extending Trotterized quantum many-body dynamics**|Gian Gentinetta et.al.|[2502.13784](http://arxiv.org/abs/2502.13784)|null|
@@ -3461,7 +3461,7 @@ layout: default
 |**2025-02-14**|**Entangling power of Anti-Jaynes-Cummings model and its efficiency to encode information in atomic system**|M. Kh. Ismail et.al.|[2502.10083](http://arxiv.org/abs/2502.10083)|null|
 |**2025-02-14**|**Floquet Engineering and Harnessing Giant Atoms in Frequency-Comb Emission and Bichromatic Correlations in Waveguide QED**|Qing-Yang Qiu et.al.|[2502.09901](http://arxiv.org/abs/2502.09901)|null|
 |**2025-02-14**|**Effects of finite trapping on the decay, recoil, and decoherence of dark states of quantum emitter arrays**|M. Eltohfa et.al.|[2502.09851](http://arxiv.org/abs/2502.09851)|null|
-|**2025-02-13**|**Implementation and Analysis of Regev's Quantum Factorization Algorithm**|Przemysław Pawlitko et.al.|[2502.09772](http://arxiv.org/abs/2502.09772)|null|
+|**2025-02-13**|**Implementation and Analysis of Regev's Quantum Factorization Algorithm**|Przemysław Pawlitko et.al.|[2502.09772](http://arxiv.org/abs/2502.09772)|**[link](https://github.com/Wlitkopa/regev-quantum-algorithm)**|
 |**2025-02-13**|**BenchQC: A Benchmarking Toolkit for Quantum Computation**|Nia Pollard et.al.|[2502.09595](http://arxiv.org/abs/2502.09595)|null|
 |**2025-02-13**|**Constant-Overhead Fault-Tolerant Bell-Pair Distillation using High-Rate Codes**|J. Pablo Bonilla Ataides et.al.|[2502.09542](http://arxiv.org/abs/2502.09542)|null|
 |**2025-02-13**|**The Impact of Architecture and Cost Function on Dissipative Quantum Neural Networks**|Tobias C. Sutter et.al.|[2502.09526](http://arxiv.org/abs/2502.09526)|null|
@@ -3478,7 +3478,7 @@ layout: default
 |**2025-02-12**|**Non-Reciprocal Current-Phase Relation and Superconducting Diode Effect in Topological-Insulator-Based Josephson Junctions**|A. Kudriashov et.al.|[2502.08527](http://arxiv.org/abs/2502.08527)|null|
 |**2025-02-12**|**Towards a function-scalable quantum network with multiplexed energy-time entanglement**|Xiao Xiang et.al.|[2502.08423](http://arxiv.org/abs/2502.08423)|null|
 |**2025-02-12**|**Deterministic generation of non-classical mechanical states in cavity optomechanics via reinforcement learning**|Yu-Hong Liu et.al.|[2502.08350](http://arxiv.org/abs/2502.08350)|null|
-|**2025-02-12**|**Quantum-Efficient Kernel Target Alignment**|Rodrigo Coelho et.al.|[2502.08225](http://arxiv.org/abs/2502.08225)|null|
+|**2025-02-12**|**Quantum-Efficient Kernel Target Alignment**|Rodrigo Coelho et.al.|[2502.08225](http://arxiv.org/abs/2502.08225)|**[link](https://github.com/RodrigoCoelho7/qekta)**|
 |**2025-02-11**|**Enhancing dissipative cat qubit protection by squeezing**|Rémi Rousseau et.al.|[2502.07892](http://arxiv.org/abs/2502.07892)|null|
 |**2025-02-11**|**A unifying account of warm start guarantees for patches of quantum landscapes**|Hela Mhiri et.al.|[2502.07889](http://arxiv.org/abs/2502.07889)|null|
 |**2025-02-11**|**Quantum-driven Zero Trust Framework with Dynamic Anomaly Detection in 7G Technology: A Neural Network Approach**|Shakil Ahmed et.al.|[2502.07779](http://arxiv.org/abs/2502.07779)|null|
