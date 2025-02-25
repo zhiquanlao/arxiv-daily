@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Entanglement fidelity of Petz decoder for one-shot entanglement transmission**|Laura Burri et.al.|[2502.17411](http://arxiv.org/abs/2502.17411)|null|
+|**2025-02-24**|**Parallelized telecom quantum networking with a ytterbium-171 atom array**|Lintao Li et.al.|[2502.17406](http://arxiv.org/abs/2502.17406)|null|
+|**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill et.al.|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
+|**2025-02-24**|**Quadrature squeezing in a nanophotonic microresonator**|Alexander E. Ulanov et.al.|[2502.17337](http://arxiv.org/abs/2502.17337)|null|
+|**2025-02-24**|**1 Particle - 1 Qubit: Particle Physics Data Encoding for Quantum Machine Learning**|Aritra Bal et.al.|[2502.17301](http://arxiv.org/abs/2502.17301)|null|
+|**2025-02-24**|**Estimation of Quantum Fisher Information via Stein's Identity in Variational Quantum Algorithms**|Mourad Halla et.al.|[2502.17231](http://arxiv.org/abs/2502.17231)|null|
+|**2025-02-24**|**Quantum-Safe integration of TLS in SDN networks**|Jaime S. Buruaga et.al.|[2502.17202](http://arxiv.org/abs/2502.17202)|null|
+|**2025-02-24**|**Holonomic quantum computation: a scalable adiabatic architecture**|Clara Wassner et.al.|[2502.17188](http://arxiv.org/abs/2502.17188)|null|
+|**2025-02-24**|**Ultrafast Plasmonic Rotors for Electron Beams**|Fatemeh Chahshouri et.al.|[2502.17183](http://arxiv.org/abs/2502.17183)|null|
+|**2025-02-24**|**Measuring network quantum steerability utilizing artificial neural networks**|Mengyan Li et.al.|[2502.17084](http://arxiv.org/abs/2502.17084)|null|
 |**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang et.al.|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
 |**2025-02-21**|**A New Type of MPd5 Kagome Superconductors**|Dan Li et.al.|[2502.15445](http://arxiv.org/abs/2502.15445)|null|
 |**2025-02-21**|**Solving quadratic binary optimization problems using quantum SDP methods: Non-asymptotic running time analysis**|Fabian Henze et.al.|[2502.15426](http://arxiv.org/abs/2502.15426)|null|
@@ -4500,6 +4510,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-23**|**Puzzles in 3D Off-Shell Geometries via VTQFT**|Cynthia Yan et.al.|[2502.16686](http://arxiv.org/abs/2502.16686)|null|
+|**2025-02-19**|**Spiking Point Transformer for Point Cloud Classification**|Peixi Wu et.al.|[2502.15811](http://arxiv.org/abs/2502.15811)|null|
 |**2025-02-21**|**A Stacked Analysis of GeV Gamma-Ray Emission from SPT-SZ Galaxy Clusters with 16 Years of Fermi-LAT Data**|Siddhant Manna et.al.|[2502.15235](http://arxiv.org/abs/2502.15235)|null|
 |**2025-02-20**|**Universal Quantum Computation with the $S_3$ Quantum Double: A Pedagogical Exposition**|Chiu Fan Bowen Lo et.al.|[2502.14974](http://arxiv.org/abs/2502.14974)|null|
 |**2025-02-20**|**Discovery of transient topological crystalline order in optically driven SnSe**|Masataka Mogi et.al.|[2502.14800](http://arxiv.org/abs/2502.14800)|null|
