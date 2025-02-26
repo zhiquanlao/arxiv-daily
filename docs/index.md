@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-25**|**Nuclear Spin Engineering for Quantum Information Science**|Jonathan C. Marcks et.al.|[2502.18450](http://arxiv.org/abs/2502.18450)|null|
+|**2025-02-25**|**Min-reflected entropy = doubly minimized Petz Renyi mutual information of order 1/2**|Laura Burri et.al.|[2502.18433](http://arxiv.org/abs/2502.18433)|null|
+|**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|null|
+|**2025-02-25**|**Improving success probability in the LHZ parity embedding by computing with quantum walks**|Jemma Bennett et.al.|[2502.18324](http://arxiv.org/abs/2502.18324)|null|
+|**2025-02-25**|**Demolition measurement protocol for transmon qubits**|Ashutosh Mishra et.al.|[2502.18322](http://arxiv.org/abs/2502.18322)|null|
+|**2025-02-25**|**Tuning of Josephson junctions -- the effects of depinning physics**|Oscar W. Kennedy et.al.|[2502.18304](http://arxiv.org/abs/2502.18304)|null|
+|**2025-02-25**|**Z-basis measurements using mixed parity and direct readout**|Pieter Thijs Eendebak et.al.|[2502.18247](http://arxiv.org/abs/2502.18247)|null|
+|**2025-02-25**|**Quantum implicit representation of vortex filaments in turbulence**|Chenjia Zhu et.al.|[2502.18212](http://arxiv.org/abs/2502.18212)|null|
+|**2025-02-25**|**Experimentally separating vacuum fluctuations from source radiation**|Alexa Herter et.al.|[2502.18208](http://arxiv.org/abs/2502.18208)|null|
+|**2025-02-25**|**Transformation-free generation of a quasi-diabatic representation from the state-average orbital-optimized variational quantum eigensolver**|Silvie Illésová et.al.|[2502.18194](http://arxiv.org/abs/2502.18194)|null|
 |**2025-02-24**|**Entanglement fidelity of Petz decoder for one-shot entanglement transmission**|Laura Burri et.al.|[2502.17411](http://arxiv.org/abs/2502.17411)|null|
 |**2025-02-24**|**Parallelized telecom quantum networking with a ytterbium-171 atom array**|Lintao Li et.al.|[2502.17406](http://arxiv.org/abs/2502.17406)|null|
 |**2025-02-24**|**Beyond NISQ: The Megaquop Machine**|John Preskill et.al.|[2502.17368](http://arxiv.org/abs/2502.17368)|null|
@@ -4510,6 +4520,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-24**|**Detecting emergent 1-form symmetries with quantum error correction**|Yu-Jie Liu et.al.|[2502.17572](http://arxiv.org/abs/2502.17572)|null|
 |**2025-02-23**|**Puzzles in 3D Off-Shell Geometries via VTQFT**|Cynthia Yan et.al.|[2502.16686](http://arxiv.org/abs/2502.16686)|null|
 |**2025-02-19**|**Spiking Point Transformer for Point Cloud Classification**|Peixi Wu et.al.|[2502.15811](http://arxiv.org/abs/2502.15811)|null|
 |**2025-02-21**|**A Stacked Analysis of GeV Gamma-Ray Emission from SPT-SZ Galaxy Clusters with 16 Years of Fermi-LAT Data**|Siddhant Manna et.al.|[2502.15235](http://arxiv.org/abs/2502.15235)|null|
