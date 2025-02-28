@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Fault-Resilience of Dissipative Processes for Quantum Computing**|James Purcell et.al.|[2502.20374](http://arxiv.org/abs/2502.20374)|null|
+|**2025-02-27**|**Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems**|Lixing Zhang et.al.|[2502.20373](http://arxiv.org/abs/2502.20373)|null|
+|**2025-02-27**|**Shadow measurements for feedback-based quantum optimization**|Leticia Bertuzzi et.al.|[2502.20366](http://arxiv.org/abs/2502.20366)|null|
+|**2025-02-27**|**Quantum machine learning with Adaptive Boson Sampling via post-selection**|Francesco Hoch et.al.|[2502.20305](http://arxiv.org/abs/2502.20305)|null|
+|**2025-02-27**|**Quantum Natural Gradient optimizer on noisy platforms: QAOA as a case study**|Federico Dell'Anna et.al.|[2502.20288](http://arxiv.org/abs/2502.20288)|null|
+|**2025-02-27**|**On the interpretability of neural network decoders**|Lukas Bödeker et.al.|[2502.20269](http://arxiv.org/abs/2502.20269)|null|
+|**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang et.al.|[2502.20254](http://arxiv.org/abs/2502.20254)|null|
+|**2025-02-27**|**Polynomial time classical versus quantum algorithms for representation theoretic multiplicities**|Greta Panova et.al.|[2502.20253](http://arxiv.org/abs/2502.20253)|null|
+|**2025-02-27**|**Exploring experimental limit of deep quantum signal processing using a trapped-ion simulator**|J. -T. Bu et.al.|[2502.20199](http://arxiv.org/abs/2502.20199)|null|
+|**2025-02-27**|**Quantum LDPC codes for erasure-biased atomic quantum processors**|Laura Pecorari et.al.|[2502.20189](http://arxiv.org/abs/2502.20189)|null|
 |**2025-02-26**|**Nontrapping Tunable Topological Photonic Memory**|Amirreza Ahmadnejad et.al.|[2502.19398](http://arxiv.org/abs/2502.19398)|null|
 |**2025-02-26**|**The Octo-Rail Lattice: a four-dimensional cluster state design**|Emil E. B. Østergaard et.al.|[2502.19393](http://arxiv.org/abs/2502.19393)|null|
 |**2025-02-26**|**Qmod: Expressive High-Level Quantum Modeling**|Matan Vax et.al.|[2502.19368](http://arxiv.org/abs/2502.19368)|null|
@@ -4530,6 +4540,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang et.al.|[2502.20254](http://arxiv.org/abs/2502.20254)|null|
 |**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383](http://arxiv.org/abs/2502.19383)|null|
 |**2025-02-26**|**Symmetries of Living Systems: Symmetry Fibrations and Synchronization in Biological Networks**|Hernan A. Makse et.al.|[2502.18713](http://arxiv.org/abs/2502.18713)|null|
 |**2025-02-24**|**Detecting emergent 1-form symmetries with quantum error correction**|Yu-Jie Liu et.al.|[2502.17572](http://arxiv.org/abs/2502.17572)|null|
