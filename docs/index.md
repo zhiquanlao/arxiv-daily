@@ -3439,7 +3439,7 @@ layout: default
 |**2025-02-26**|**Network-assisted collective operations for efficient distributed quantum computing**|I. F. Llovo et.al.|[2502.19118](http://arxiv.org/abs/2502.19118)|null|
 |**2025-02-25**|**Nuclear Spin Engineering for Quantum Information Science**|Jonathan C. Marcks et.al.|[2502.18450](http://arxiv.org/abs/2502.18450)|null|
 |**2025-02-25**|**Min-reflected entropy = doubly minimized Petz Renyi mutual information of order 1/2**|Laura Burri et.al.|[2502.18433](http://arxiv.org/abs/2502.18433)|null|
-|**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|null|
+|**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|**[link](https://github.com/mteynor/ri4et)**|
 |**2025-02-25**|**Improving success probability in the LHZ parity embedding by computing with quantum walks**|Jemma Bennett et.al.|[2502.18324](http://arxiv.org/abs/2502.18324)|null|
 |**2025-02-25**|**Demolition measurement protocol for transmon qubits**|Ashutosh Mishra et.al.|[2502.18322](http://arxiv.org/abs/2502.18322)|null|
 |**2025-02-25**|**Tuning of Josephson junctions -- the effects of depinning physics**|Oscar W. Kennedy et.al.|[2502.18304](http://arxiv.org/abs/2502.18304)|null|
@@ -3460,7 +3460,7 @@ layout: default
 |**2025-02-21**|**Efficient approximation of regularized relative entropies and applications**|Kun Fang et.al.|[2502.15659](http://arxiv.org/abs/2502.15659)|null|
 |**2025-02-21**|**A New Type of MPd5 Kagome Superconductors**|Dan Li et.al.|[2502.15445](http://arxiv.org/abs/2502.15445)|null|
 |**2025-02-21**|**Solving quadratic binary optimization problems using quantum SDP methods: Non-asymptotic running time analysis**|Fabian Henze et.al.|[2502.15426](http://arxiv.org/abs/2502.15426)|null|
-|**2025-02-21**|**Digitized Counter-Diabatic Quantum Optimization for Bin Packing Problem**|Ruoqian Xu et.al.|[2502.15375](http://arxiv.org/abs/2502.15375)|null|
+|**2025-02-21**|**Digitized Counter-Diabatic Quantum Optimization for Bin Packing Problem**|Ruoqian Xu et.al.|[2502.15375](http://arxiv.org/abs/2502.15375)|**[link](https://github.com/Ruoqian-Xu/Digitized-Counterdiabatic-Optimization-Algorithms-for-Bin-Packing-Problem)**|
 |**2025-02-21**|**Comparative Analysis of Black Hole Mass Estimation in Type-2 AGNs: Classical vs. Quantum Machine Learning and Deep Learning Approaches**|Sathwik Narkedimilli et.al.|[2502.15297](http://arxiv.org/abs/2502.15297)|null|
 |**2025-02-21**|**Quantum autoencoders for image classification**|Hinako Asaoka et.al.|[2502.15254](http://arxiv.org/abs/2502.15254)|null|
 |**2025-02-21**|**RFSoC-based radio-frequency reflectometry in gate-defined bilayer graphene quantum devices**|Motoya Shinozaki et.al.|[2502.15239](http://arxiv.org/abs/2502.15239)|null|
