@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Learning-Driven Annealing with Adaptive Hamiltonian Modification for Solving Large-Scale Problems on Quantum Devices**|Sebastian Schulz et.al.|[2502.21246](http://arxiv.org/abs/2502.21246)|null|
+|**2025-02-28**|**The iSWAP gate with polar molecules: Robustness criteria for entangling operations**|Matteo Bergonzoni et.al.|[2502.21238](http://arxiv.org/abs/2502.21238)|null|
+|**2025-02-28**|**Quantum information elements in Quantum Gravity states and processes**|Daniele Oriti et.al.|[2502.21234](http://arxiv.org/abs/2502.21234)|null|
+|**2025-02-28**|**BBGKY hierarchy for quantum error mitigation**|Theo Saporiti et.al.|[2502.21159](http://arxiv.org/abs/2502.21159)|null|
+|**2025-02-28**|**Extending the OmpSs-2 Programming Model for Hybrid Quantum-Classical Programming**|Philip Döbler et.al.|[2502.21104](http://arxiv.org/abs/2502.21104)|null|
+|**2025-02-28**|**Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction**|Yuichiro Yoshida et.al.|[2502.21081](http://arxiv.org/abs/2502.21081)|null|
+|**2025-02-28**|**Quantum-aware Transformer model for state classification**|Przemysław Sekuła et.al.|[2502.21055](http://arxiv.org/abs/2502.21055)|null|
+|**2025-02-28**|**Bound-state formation and thermalization within the Lindblad approach**|Jan Rais et.al.|[2502.21047](http://arxiv.org/abs/2502.21047)|null|
+|**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings et.al.|[2502.21044](http://arxiv.org/abs/2502.21044)|null|
+|**2025-02-28**|**AutoQML: A Framework for Automated Quantum Machine Learning**|Marco Roth et.al.|[2502.21025](http://arxiv.org/abs/2502.21025)|null|
 |**2025-02-27**|**Fault-Resilience of Dissipative Processes for Quantum Computing**|James Purcell et.al.|[2502.20374](http://arxiv.org/abs/2502.20374)|null|
 |**2025-02-27**|**Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems**|Lixing Zhang et.al.|[2502.20373](http://arxiv.org/abs/2502.20373)|null|
 |**2025-02-27**|**Shadow measurements for feedback-based quantum optimization**|Leticia Bertuzzi et.al.|[2502.20366](http://arxiv.org/abs/2502.20366)|null|
@@ -4540,7 +4550,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|null|
+|**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang et.al.|[2502.21319](http://arxiv.org/abs/2502.21319)|null|
+|**2025-02-28**|**The quantum Newton's bucket: Active and passive rotations in quantum theory**|Augusto Facundes da Silva et.al.|[2502.21298](http://arxiv.org/abs/2502.21298)|null|
+|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801](http://arxiv.org/abs/2502.20801)|null|
+|**2025-02-27**|**Universal Anyon Tunneling in a Chiral Luttinger Liquid**|Ramon Guerrero-Suarez et.al.|[2502.20551](http://arxiv.org/abs/2502.20551)|null|
+|**2025-02-27**|**Vlasov Perturbation Theory and the role of higher cumulants**|Mathias Garny et.al.|[2502.20451](http://arxiv.org/abs/2502.20451)|null|
+|**2025-02-27**|**Gapped Phases in (2+1)d with Non-Invertible Symmetries: Part II**|Lakshya Bhardwaj et.al.|[2502.20440](http://arxiv.org/abs/2502.20440)|null|
+|**2025-02-27**|**Duality viewpoint of noninvertible symmetry protected topological phases**|Weiguang Cao et.al.|[2502.20435](http://arxiv.org/abs/2502.20435)|null|
+|**2025-02-27**|**Scalable Signature Kernel Computations for Long Time Series via Local Neumann Series Expansions**|Matthew Tamayo-Rios et.al.|[2502.20392](http://arxiv.org/abs/2502.20392)|**[link](https://github.com/geekbeast/powersig)**|
 |**2025-02-27**|**Digital Simulation of Non-Abelian Parafermions in Superconducting Circuits**|Hong-Yu Wang et.al.|[2502.20254](http://arxiv.org/abs/2502.20254)|null|
 |**2025-02-26**|**The End of Easy Phenomenology for CMB Experiments: A Case Study in the Dark Sector**|Cynthia Trendafilova et.al.|[2502.19383](http://arxiv.org/abs/2502.19383)|null|
 |**2025-02-26**|**Symmetries of Living Systems: Symmetry Fibrations and Synchronization in Biological Networks**|Hernan A. Makse et.al.|[2502.18713](http://arxiv.org/abs/2502.18713)|null|
