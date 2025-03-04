@@ -4552,7 +4552,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang et.al.|[2502.21319](http://arxiv.org/abs/2502.21319)|null|
 |**2025-02-28**|**The quantum Newton's bucket: Active and passive rotations in quantum theory**|Augusto Facundes da Silva et.al.|[2502.21298](http://arxiv.org/abs/2502.21298)|null|
-|**2025-02-28**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801](http://arxiv.org/abs/2502.20801)|null|
+|**2025-03-03**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801](http://arxiv.org/abs/2502.20801)|null|
 |**2025-02-27**|**Universal Anyon Tunneling in a Chiral Luttinger Liquid**|Ramon Guerrero-Suarez et.al.|[2502.20551](http://arxiv.org/abs/2502.20551)|null|
 |**2025-02-27**|**Vlasov Perturbation Theory and the role of higher cumulants**|Mathias Garny et.al.|[2502.20451](http://arxiv.org/abs/2502.20451)|null|
 |**2025-02-27**|**Gapped Phases in (2+1)d with Non-Invertible Symmetries: Part II**|Lakshya Bhardwaj et.al.|[2502.20440](http://arxiv.org/abs/2502.20440)|null|
