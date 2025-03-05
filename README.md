@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Atomistic tight-binding Hartree-Fock calculations of multielectron configurations in P-doped silicon devices: wavefunction reshaping**|Maicol A. Ochoa et.al.|[2503.02843](http://arxiv.org/abs/2503.02843)|null|
+|**2025-03-04**|**Hardness of computation of quantum invariants on 3-manifolds with restricted topology**|Henrique Ennes et.al.|[2503.02814](http://arxiv.org/abs/2503.02814)|null|
+|**2025-03-04**|**Quantum Computer Does Not Need Coherent Quantum Access for Advantage**|Nhat A. Nghiem et.al.|[2503.02515](http://arxiv.org/abs/2503.02515)|null|
+|**2025-03-04**|**PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset**|Haider Asif et.al.|[2503.02497](http://arxiv.org/abs/2503.02497)|null|
+|**2025-03-04**|**Realizing Quantum Adversarial Defense on a Trapped-ion Quantum Processor**|Alex Jin et.al.|[2503.02436](http://arxiv.org/abs/2503.02436)|null|
+|**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345](http://arxiv.org/abs/2503.02345)|null|
+|**2025-03-04**|**Light Control of Triplet Pairing in Correlated Electrons with Mixed-Sign Interactions**|Zecheng Shen et.al.|[2503.02294](http://arxiv.org/abs/2503.02294)|null|
+|**2025-03-04**|**Variety of Superradiant Phase Transition in Bose-Fermi System with Tight-Binding Model in the weak-coupling regime**|Xing Su et.al.|[2503.02226](http://arxiv.org/abs/2503.02226)|null|
+|**2025-03-04**|**Linear Programming Bounds on $k$ -Uniform States**|Yu Ning et.al.|[2503.02222](http://arxiv.org/abs/2503.02222)|null|
+|**2025-03-03**|**Enforced Gaplessness from States with Exponentially Decaying Correlations**|Rahul Sahay et.al.|[2503.01977](http://arxiv.org/abs/2503.01977)|null|
 |**2025-02-28**|**Learning-Driven Annealing with Adaptive Hamiltonian Modification for Solving Large-Scale Problems on Quantum Devices**|Sebastian Schulz et.al.|[2502.21246](http://arxiv.org/abs/2502.21246)|null|
 |**2025-02-28**|**The iSWAP gate with polar molecules: Robustness criteria for entangling operations**|Matteo Bergonzoni et.al.|[2502.21238](http://arxiv.org/abs/2502.21238)|null|
 |**2025-02-28**|**Quantum information elements in Quantum Gravity states and processes**|Daniele Oriti et.al.|[2502.21234](http://arxiv.org/abs/2502.21234)|null|
@@ -4574,6 +4584,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-04**|**Bosonizations and dualities in 2+1 dimensions**|Andrea Cappelli et.al.|[2503.02801](http://arxiv.org/abs/2503.02801)|null|
+|**2025-03-04**|**Row and column detection complexities of character tables**|Adrian Padellaro et.al.|[2503.02543](http://arxiv.org/abs/2503.02543)|null|
+|**2025-03-01**|**Correlated hopping induced topological order in an atomic mixture**|Ashirbad Padhan et.al.|[2503.00589](http://arxiv.org/abs/2503.00589)|null|
+|**2025-02-28**|**Anomalies of Coset Non-Invertible Symmetries**|Po-Shen Hsin et.al.|[2503.00105](http://arxiv.org/abs/2503.00105)|null|
 |**2025-02-28**|**Topological Quantum Dark Matter via Global Anomaly Cancellation**|Juven Wang et.al.|[2502.21319](http://arxiv.org/abs/2502.21319)|null|
 |**2025-02-28**|**The quantum Newton's bucket: Active and passive rotations in quantum theory**|Augusto Facundes da Silva et.al.|[2502.21298](http://arxiv.org/abs/2502.21298)|null|
 |**2025-03-03**|**Quantifying Bias due to non-Gaussian Foregrounds in an Optimal Reconstruction of CMB Lensing and Temperature Power Spectra**|M. Doohan et.al.|[2502.20801](http://arxiv.org/abs/2502.20801)|null|
