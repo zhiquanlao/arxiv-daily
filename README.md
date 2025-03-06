@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Compact Superconducting Kinetic Inductance Traveling Wave Parametric Amplifiers with On-chip rf Components**|Logan Howe et.al.|[2503.03608](http://arxiv.org/abs/2503.03608)|null|
+|**2025-03-05**|**Bounding the computational power of bosonic systems**|Varun Upreti et.al.|[2503.03600](http://arxiv.org/abs/2503.03600)|null|
+|**2025-03-05**|**Fault-Tolerant Qudit Gate Optimization in Solid-State Quantum Memory**|William Boone Samuels et.al.|[2503.03578](http://arxiv.org/abs/2503.03578)|null|
+|**2025-03-05**|**KLiNQ: Knowledge Distillation-Assisted Lightweight Neural Network for Qubit Readout on FPGA**|Xiaorang Guo et.al.|[2503.03544](http://arxiv.org/abs/2503.03544)|null|
+|**2025-03-05**|**Deterministic generation of multi-qubit entangled states among distant parties using indefinite causal order**|Wen-Qiang Liu et.al.|[2503.03411](http://arxiv.org/abs/2503.03411)|null|
+|**2025-03-05**|**Quantum Magic in Quantum Electrodynamics**|Qiaofeng Liu et.al.|[2503.03098](http://arxiv.org/abs/2503.03098)|null|
+|**2025-03-04**|**Quantum Non-Linear Bandit Optimization**|Zakaria Shams Siam et.al.|[2503.03023](http://arxiv.org/abs/2503.03023)|null|
+|**2025-03-04**|**QCLAB: A Matlab Toolbox for Quantum Computing**|Sophia Keip et.al.|[2503.03016](http://arxiv.org/abs/2503.03016)|null|
+|**2025-03-04**|**Quantum resource estimates for computing binary elliptic curve discrete logarithms**|Michael Garn et.al.|[2503.02984](http://arxiv.org/abs/2503.02984)|null|
+|**2025-03-04**|**Towards a complexity-theoretic dichotomy for TQFT invariants**|Nicolas Bridges et.al.|[2503.02945](http://arxiv.org/abs/2503.02945)|null|
 |**2025-03-04**|**Atomistic tight-binding Hartree-Fock calculations of multielectron configurations in P-doped silicon devices: wavefunction reshaping**|Maicol A. Ochoa et.al.|[2503.02843](http://arxiv.org/abs/2503.02843)|null|
 |**2025-03-04**|**Hardness of computation of quantum invariants on 3-manifolds with restricted topology**|Henrique Ennes et.al.|[2503.02814](http://arxiv.org/abs/2503.02814)|null|
 |**2025-03-04**|**Quantum Computer Does Not Need Coherent Quantum Access for Advantage**|Nhat A. Nghiem et.al.|[2503.02515](http://arxiv.org/abs/2503.02515)|null|
@@ -4584,6 +4594,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-05**|**Quantum effects on pyrochlore higher-rank U(1) spin liquids: pinch-line singularities, spin nematics, and connections to oxide materials**|Lasse Gresista et.al.|[2503.03749](http://arxiv.org/abs/2503.03749)|null|
+|**2025-03-05**|**Optimal joint reconstruction from CMB observations: application to cosmic birefringence, patchy reionization and CMB lensing**|Omar Darwish et.al.|[2503.03682](http://arxiv.org/abs/2503.03682)|null|
+|**2025-03-05**|**Symmetries and Noether's theorem for multicontact field theories**|Xavier Rivas et.al.|[2503.03463](http://arxiv.org/abs/2503.03463)|null|
+|**2025-03-04**|**Towards a complexity-theoretic dichotomy for TQFT invariants**|Nicolas Bridges et.al.|[2503.02945](http://arxiv.org/abs/2503.02945)|null|
+|**2025-03-04**|**Extensions from within**|Shadi Ali Ahmad et.al.|[2503.02944](http://arxiv.org/abs/2503.02944)|null|
+|**2025-03-04**|**Finite-temperature quantum topological order in three dimensions**|Shu-Tong Zhou et.al.|[2503.02928](http://arxiv.org/abs/2503.02928)|null|
 |**2025-03-04**|**Bosonizations and dualities in 2+1 dimensions**|Andrea Cappelli et.al.|[2503.02801](http://arxiv.org/abs/2503.02801)|null|
 |**2025-03-04**|**Row and column detection complexities of character tables**|Adrian Padellaro et.al.|[2503.02543](http://arxiv.org/abs/2503.02543)|null|
 |**2025-03-01**|**Correlated hopping induced topological order in an atomic mixture**|Ashirbad Padhan et.al.|[2503.00589](http://arxiv.org/abs/2503.00589)|null|
