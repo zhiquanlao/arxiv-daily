@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702](http://arxiv.org/abs/2503.04702)|null|
+|**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen et.al.|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
+|**2025-03-06**|**Characterizing $S=3/2$ AKLT Hamiltonian with Scanning Tunneling Spectroscopy**|M. Ferri-Cortés et.al.|[2503.04676](http://arxiv.org/abs/2503.04676)|null|
+|**2025-03-06**|**Characterization and Mitigation of Crosstalk in Quantum Error Correction**|Zeyuan Zhou et.al.|[2503.04642](http://arxiv.org/abs/2503.04642)|null|
+|**2025-03-06**|**Optimal interpolation-based coordinate descent method for parameterized quantum circuits**|Zhijian Lai et.al.|[2503.04620](http://arxiv.org/abs/2503.04620)|null|
+|**2025-03-06**|**Conclusive exclusion of quantum states with group action**|Hongshun Yao et.al.|[2503.04605](http://arxiv.org/abs/2503.04605)|null|
+|**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei et.al.|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
+|**2025-03-06**|**Scalable quantum simulator with an extended gate set in giant atoms**|Guangze Chen et.al.|[2503.04537](http://arxiv.org/abs/2503.04537)|null|
+|**2025-03-06**|**Succinct Perfect Zero-knowledge for MIP***|Honghao Fu et.al.|[2503.04517](http://arxiv.org/abs/2503.04517)|null|
+|**2025-03-06**|**Tensor Network Techniques for Quantum Computation**|Mario Collura et.al.|[2503.04423](http://arxiv.org/abs/2503.04423)|null|
 |**2025-03-05**|**Compact Superconducting Kinetic Inductance Traveling Wave Parametric Amplifiers with On-chip rf Components**|Logan Howe et.al.|[2503.03608](http://arxiv.org/abs/2503.03608)|null|
 |**2025-03-05**|**Bounding the computational power of bosonic systems**|Varun Upreti et.al.|[2503.03600](http://arxiv.org/abs/2503.03600)|null|
 |**2025-03-05**|**Fault-Tolerant Qudit Gate Optimization in Solid-State Quantum Memory**|William Boone Samuels et.al.|[2503.03578](http://arxiv.org/abs/2503.03578)|null|
@@ -4594,6 +4604,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen et.al.|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
+|**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei et.al.|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
+|**2025-03-06**|**Detection of 2D SPT Order with Partial Symmetries**|Alex Turzillo et.al.|[2503.04510](http://arxiv.org/abs/2503.04510)|null|
+|**2025-03-05**|**Pretrained LLMs as Real-Time Controllers for Robot Operated Serial Production Line**|Muhammad Waseem et.al.|[2503.03889](http://arxiv.org/abs/2503.03889)|null|
+|**2025-03-05**|**Generalized toric codes on twisted tori for quantum error correction**|Zijian Liang et.al.|[2503.03827](http://arxiv.org/abs/2503.03827)|null|
 |**2025-03-05**|**Quantum effects on pyrochlore higher-rank U(1) spin liquids: pinch-line singularities, spin nematics, and connections to oxide materials**|Lasse Gresista et.al.|[2503.03749](http://arxiv.org/abs/2503.03749)|null|
 |**2025-03-05**|**Optimal joint reconstruction from CMB observations: application to cosmic birefringence, patchy reionization and CMB lensing**|Omar Darwish et.al.|[2503.03682](http://arxiv.org/abs/2503.03682)|null|
 |**2025-03-05**|**Symmetries and Noether's theorem for multicontact field theories**|Xavier Rivas et.al.|[2503.03463](http://arxiv.org/abs/2503.03463)|null|
