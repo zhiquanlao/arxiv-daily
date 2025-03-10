@@ -3469,14 +3469,14 @@ layout: default
 |**2025-02-27**|**Quantum LDPC codes for erasure-biased atomic quantum processors**|Laura Pecorari et.al.|[2502.20189](http://arxiv.org/abs/2502.20189)|null|
 |**2025-02-26**|**Nontrapping Tunable Topological Photonic Memory**|Amirreza Ahmadnejad et.al.|[2502.19398](http://arxiv.org/abs/2502.19398)|null|
 |**2025-02-26**|**The Octo-Rail Lattice: a four-dimensional cluster state design**|Emil E. B. Østergaard et.al.|[2502.19393](http://arxiv.org/abs/2502.19393)|null|
-|**2025-02-26**|**Qmod: Expressive High-Level Quantum Modeling**|Matan Vax et.al.|[2502.19368](http://arxiv.org/abs/2502.19368)|null|
-|**2025-02-26**|**Estimating the Percentage of GBS Advantage in Gaussian Expectation Problems**|Jørgen Ellegaard Andersen et.al.|[2502.19362](http://arxiv.org/abs/2502.19362)|null|
+|**2025-02-26**|**Qmod: Expressive High-Level Quantum Modeling**|Matan Vax et.al.|[2502.19368](http://arxiv.org/abs/2502.19368)|**[link](https://github.com/classiq/classiq-library)**|
+|**2025-02-26**|**Estimating the Percentage of GBS Advantage in Gaussian Expectation Problems**|Jørgen Ellegaard Andersen et.al.|[2502.19362](http://arxiv.org/abs/2502.19362)|**[link](https://github.com/sshanshans/GBSPE)**|
 |**2025-02-26**|**Non-paraxial effects on laser-qubit interactions**|L. P. H. Gallagher et.al.|[2502.19345](http://arxiv.org/abs/2502.19345)|null|
 |**2025-02-26**|**Simulating Work Extraction in a Dinuclear Quantum Battery Using a Variational Quantum Algorithm**|Lucas Galvão et.al.|[2502.19331](http://arxiv.org/abs/2502.19331)|null|
 |**2025-02-26**|**Dynamical cluster-based optimization of tensor network algorithms for quantum circuit simulations**|Andrea De Girolamo et.al.|[2502.19289](http://arxiv.org/abs/2502.19289)|null|
 |**2025-02-26**|**Quantum Annealing Feature Selection on Light-weight Medical Image Datasets**|Merlin A. Nau et.al.|[2502.19201](http://arxiv.org/abs/2502.19201)|null|
 |**2025-02-26**|**A new introduction rule for disjunction**|Alejandro Díaz-Caro et.al.|[2502.19172](http://arxiv.org/abs/2502.19172)|null|
-|**2025-02-26**|**Network-assisted collective operations for efficient distributed quantum computing**|I. F. Llovo et.al.|[2502.19118](http://arxiv.org/abs/2502.19118)|null|
+|**2025-02-26**|**Network-assisted collective operations for efficient distributed quantum computing**|I. F. Llovo et.al.|[2502.19118](http://arxiv.org/abs/2502.19118)|**[link](https://github.com/iagobkstar/dqc-grover)**|
 |**2025-02-25**|**Nuclear Spin Engineering for Quantum Information Science**|Jonathan C. Marcks et.al.|[2502.18450](http://arxiv.org/abs/2502.18450)|null|
 |**2025-02-25**|**Min-reflected entropy = doubly minimized Petz Renyi mutual information of order 1/2**|Laura Burri et.al.|[2502.18433](http://arxiv.org/abs/2502.18433)|null|
 |**2025-02-25**|**A Digital Quantum Algorithm for Non-Markovian Electron Transfer Dynamics Using Repeated Interactions**|Lea K. Northcote et.al.|[2502.18426](http://arxiv.org/abs/2502.18426)|**[link](https://github.com/mteynor/ri4et)**|
