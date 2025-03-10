@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
+|**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
+|**2025-03-07**|**All-optical stochastic switching of magnetization textures in Fe $_3$Sn$_2$**|Jonathan T. Weber et.al.|[2503.05660](http://arxiv.org/abs/2503.05660)|null|
+|**2025-03-07**|**Phase estimation with partially randomized time evolution**|Jakob Günther et.al.|[2503.05647](http://arxiv.org/abs/2503.05647)|null|
+|**2025-03-07**|**Less Quantum, More Advantage: An End-to-End Quantum Algorithm for the Jones Polynomial**|Tuomas Laakkonen et.al.|[2503.05625](http://arxiv.org/abs/2503.05625)|null|
+|**2025-03-07**|**On the similarity of bandwidth-tuned quantum kernels and classical kernels**|Roberto Flórez Ablan et.al.|[2503.05602](http://arxiv.org/abs/2503.05602)|null|
+|**2025-03-07**|**Bridging Classical and Quantum String Matching: A Computational Reformulation of Bit-Parallelism**|Simone Faro et.al.|[2503.05596](http://arxiv.org/abs/2503.05596)|null|
+|**2025-03-07**|**Three-dimensional flat band in ultra-thin Kagome metal Mn3Sn film**|Mengting Zhao et.al.|[2503.05544](http://arxiv.org/abs/2503.05544)|null|
+|**2025-03-07**|**Generation of Frequency-Tunable Shaped Single Microwave Photons Using a Fixed-Frequency Superconducting Qubit**|Takeaki Miyamura et.al.|[2503.05536](http://arxiv.org/abs/2503.05536)|null|
+|**2025-03-07**|**Exploring Tensor Network Algorithms as a Quantum-Inspired Method for Quantum Reservoir Computing**|Payal D. Solanki et.al.|[2503.05535](http://arxiv.org/abs/2503.05535)|null|
 |**2025-03-06**|**Scalable and Site-Specific Frequency Tuning of Two-Level System Defects in Superconducting Qubit Arrays**|Larry Chen et.al.|[2503.04702](http://arxiv.org/abs/2503.04702)|null|
 |**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen et.al.|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
 |**2025-03-06**|**Characterizing $S=3/2$ AKLT Hamiltonian with Scanning Tunneling Spectroscopy**|M. Ferri-Cortés et.al.|[2503.04676](http://arxiv.org/abs/2503.04676)|null|
