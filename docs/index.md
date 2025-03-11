@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Real-Time Monitoring of Multimode Squeezing**|Mahmoud Kalash et.al.|[2503.07486](http://arxiv.org/abs/2503.07486)|null|
+|**2025-03-10**|**Multi-set variational quantum dynamics algorithm for simulating nonadiabatic dynamics on quantum computers**|Jingjing Li et.al.|[2503.07388](http://arxiv.org/abs/2503.07388)|null|
+|**2025-03-10**|**Time delay of mean field interaction in thermal Rydberg atomic gas**|Yuzhuo Wang et.al.|[2503.07370](http://arxiv.org/abs/2503.07370)|null|
+|**2025-03-10**|**Enhanced Hamiltonian Learning Precision with Multi-Stage Neural Networks**|Zhengjie Kang et.al.|[2503.07356](http://arxiv.org/abs/2503.07356)|null|
+|**2025-03-10**|**TANGO: A Robust Qubit Mapping Algorithm via Two-Stage Search and Bidirectional Look**|Kang Xu et.al.|[2503.07331](http://arxiv.org/abs/2503.07331)|null|
+|**2025-03-10**|**Distilling Knowledge into Quantum Vision Transformers for Biomedical Image Classification**|Thomas Boucher et.al.|[2503.07294](http://arxiv.org/abs/2503.07294)|null|
+|**2025-03-10**|**Signatures of hydrodynamic flow of topological carriers in SnTe multi-terminal nanowires**|Dawid Śnieżek et.al.|[2503.07039](http://arxiv.org/abs/2503.07039)|null|
+|**2025-03-10**|**Fabrication and Characterization of Impedance-transformed Josephson Parametric Amplifier**|Zhengyang Mei et.al.|[2503.06936](http://arxiv.org/abs/2503.06936)|null|
+|**2025-03-10**|**Scalable entanglement of nuclear spins mediated by electron exchange**|Holly G. Stemp et.al.|[2503.06872](http://arxiv.org/abs/2503.06872)|null|
+|**2025-03-10**|**Hybrid quantum surface acoustic wave with skyrmion qubit for quantum information processing**|Yu-Yuan Chen et.al.|[2503.06841](http://arxiv.org/abs/2503.06841)|null|
 |**2025-03-07**|**Fast and memory efficient strong simulation of noisy adaptive linear optical circuits**|Timothée Goubault de Brugière et.al.|[2503.05699](http://arxiv.org/abs/2503.05699)|null|
 |**2025-03-07**|**Quantum State Designs from Minimally Random Quantum Circuits**|Jonathon Riddell et.al.|[2503.05698](http://arxiv.org/abs/2503.05698)|null|
 |**2025-03-07**|**All-optical stochastic switching of magnetization textures in Fe $_3$Sn$_2$**|Jonathan T. Weber et.al.|[2503.05660](http://arxiv.org/abs/2503.05660)|null|
