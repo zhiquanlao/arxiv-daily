@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Tensor networks for quantum computing**|Aleksandr Berezutskii et.al.|[2503.08626](http://arxiv.org/abs/2503.08626)|null|
+|**2025-03-11**|**Aspects of Quantum Entanglement and Indistinguishability**|Soumya Das et.al.|[2503.08623](http://arxiv.org/abs/2503.08623)|null|
+|**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik et.al.|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
+|**2025-03-11**|**Composably Secure Delegated Quantum Computation with Weak Coherent Pulses**|Maxime Garnier et.al.|[2503.08559](http://arxiv.org/abs/2503.08559)|null|
+|**2025-03-11**|**Automated Quantum Algorithm Synthesis**|Amy Rouillard et.al.|[2503.08449](http://arxiv.org/abs/2503.08449)|null|
+|**2025-03-11**|**A Practically Scalable Approach to the Closest Vector Problem for Sieving via QAOA with Fixed Angles**|Ben Priestley et.al.|[2503.08403](http://arxiv.org/abs/2503.08403)|**[link](https://github.com/BenPrie/qaoa-for-cvp)**|
+|**2025-03-11**|**Macroscopic quantum coherence and entanglement in mechanical systems**|Benjamin Yadin et.al.|[2503.08324](http://arxiv.org/abs/2503.08324)|null|
+|**2025-03-11**|**Energy Scale Degradation in Sparse Quantum Solvers: A Barrier to Quantum Utility**|Thang N. Dinh et.al.|[2503.08303](http://arxiv.org/abs/2503.08303)|null|
+|**2025-03-11**|**Challenging the Quantum Advantage Frontier with Large-Scale Classical Simulations of Annealing Dynamics**|Linda Mauron et.al.|[2503.08247](http://arxiv.org/abs/2503.08247)|null|
+|**2025-03-11**|**Quantum squeezing amplification with a weak Kerr nonlinear oscillator**|Yanyan Cai et.al.|[2503.08197](http://arxiv.org/abs/2503.08197)|null|
 |**2025-03-10**|**Real-Time Monitoring of Multimode Squeezing**|Mahmoud Kalash et.al.|[2503.07486](http://arxiv.org/abs/2503.07486)|null|
 |**2025-03-10**|**Multi-set variational quantum dynamics algorithm for simulating nonadiabatic dynamics on quantum computers**|Jingjing Li et.al.|[2503.07388](http://arxiv.org/abs/2503.07388)|null|
 |**2025-03-10**|**Time delay of mean field interaction in thermal Rydberg atomic gas**|Yuzhuo Wang et.al.|[2503.07370](http://arxiv.org/abs/2503.07370)|null|
