@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3421,7 +3421,7 @@ layout: default
 |**2025-03-11**|**Aspects of Quantum Entanglement and Indistinguishability**|Soumya Das et.al.|[2503.08623](http://arxiv.org/abs/2503.08623)|null|
 |**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik et.al.|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
 |**2025-03-11**|**Composably Secure Delegated Quantum Computation with Weak Coherent Pulses**|Maxime Garnier et.al.|[2503.08559](http://arxiv.org/abs/2503.08559)|null|
-|**2025-03-11**|**Automated Quantum Algorithm Synthesis**|Amy Rouillard et.al.|[2503.08449](http://arxiv.org/abs/2503.08449)|null|
+|**2025-03-12**|**Automated Quantum Algorithm Synthesis**|Amy Rouillard et.al.|[2503.08449](http://arxiv.org/abs/2503.08449)|null|
 |**2025-03-11**|**A Practically Scalable Approach to the Closest Vector Problem for Sieving via QAOA with Fixed Angles**|Ben Priestley et.al.|[2503.08403](http://arxiv.org/abs/2503.08403)|**[link](https://github.com/BenPrie/qaoa-for-cvp)**|
 |**2025-03-11**|**Macroscopic quantum coherence and entanglement in mechanical systems**|Benjamin Yadin et.al.|[2503.08324](http://arxiv.org/abs/2503.08324)|null|
 |**2025-03-11**|**Energy Scale Degradation in Sparse Quantum Solvers: A Barrier to Quantum Utility**|Thang N. Dinh et.al.|[2503.08303](http://arxiv.org/abs/2503.08303)|null|
