@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$ -routing protocols**|Llorenç Escolà-Farràs et.al.|[2503.09544](http://arxiv.org/abs/2503.09544)|null|
+|**2025-03-12**|**No quantum advantage without classical communication: fundamental limitations of quantum networks**|Justus Neumann et.al.|[2503.09473](http://arxiv.org/abs/2503.09473)|null|
+|**2025-03-12**|**Entanglement and purity can help to detect systematic experimental errors**|Julia Freund et.al.|[2503.09459](http://arxiv.org/abs/2503.09459)|null|
+|**2025-03-12**|**Distributed quantum algorithm for divergence estimation and beyond**|Honglin Chen et.al.|[2503.09431](http://arxiv.org/abs/2503.09431)|null|
+|**2025-03-12**|**Quantum Computing and Cybersecurity Education: A Novel Curriculum for Enhancing Graduate STEM Learning**|Suryansh Upadhyay et.al.|[2503.09375](http://arxiv.org/abs/2503.09375)|null|
+|**2025-03-12**|**Optimal elemental configuration search in crystal using quantum approximate optimization algorithm**|Kazuhide Ichikawa et.al.|[2503.09356](http://arxiv.org/abs/2503.09356)|null|
+|**2025-03-12**|**Eigen-SNAP gate for photonic qubits in a cavity-transmon system**|Marcus Meschede et.al.|[2503.09292](http://arxiv.org/abs/2503.09292)|null|
+|**2025-03-12**|**Single-Qudit Quantum Neural Networks for Multiclass Classification**|Leandro C. Souza et.al.|[2503.09269](http://arxiv.org/abs/2503.09269)|null|
+|**2025-03-12**|**Hyperfine Coupling Constants on Quantum Computers: Performance, Errors, and Future Prospects**|Phillip W. K. Jensen et.al.|[2503.09214](http://arxiv.org/abs/2503.09214)|null|
+|**2025-03-12**|**Nanoscale spin ordering and spin screening effects in tunnel ferromagnetic Josephson junctions**|Roberta Satariano et.al.|[2503.09175](http://arxiv.org/abs/2503.09175)|null|
 |**2025-03-11**|**Tensor networks for quantum computing**|Aleksandr Berezutskii et.al.|[2503.08626](http://arxiv.org/abs/2503.08626)|null|
 |**2025-03-11**|**Aspects of Quantum Entanglement and Indistinguishability**|Soumya Das et.al.|[2503.08623](http://arxiv.org/abs/2503.08623)|null|
 |**2025-03-11**|**Fundamental solutions of heat equation on unitary groups establish an improved relation between $ε$-nets and approximate unitary $t$ -designs**|Oskar Słowik et.al.|[2503.08577](http://arxiv.org/abs/2503.08577)|null|
@@ -4610,6 +4620,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Universal Properties of Critical Mixed States from Measurement and Feedback**|Zhehao Zhang et.al.|[2503.09597](http://arxiv.org/abs/2503.09597)|null|
+|**2025-03-11**|**A Tutorial on Knots and Quantum Mechanics**|Dmitry Melnikov et.al.|[2503.08846](http://arxiv.org/abs/2503.08846)|null|
+|**2025-03-11**|**Robust Simulations of Many-Body Symmetry-Protected Topological Phase Transitions on a Quantum Processor**|Ruizhe Shen et.al.|[2503.08776](http://arxiv.org/abs/2503.08776)|null|
 |**2025-03-06**|**Anyon Theory and Topological Frustration of High-Efficiency Quantum LDPC Codes**|Keyang Chen et.al.|[2503.04699](http://arxiv.org/abs/2503.04699)|null|
 |**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei et.al.|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
 |**2025-03-06**|**Detection of 2D SPT Order with Partial Symmetries**|Alex Turzillo et.al.|[2503.04510](http://arxiv.org/abs/2503.04510)|null|
