@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623](http://arxiv.org/abs/2503.10623)|null|
+|**2025-03-13**|**Utilizing discrete variable representations for decoherence-accurate numerical simulation of superconducting circuits**|Brittany Richman et.al.|[2503.10607](http://arxiv.org/abs/2503.10607)|null|
+|**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
+|**2025-03-13**|**Experimental factoring integers using fixed-point-QAOA with a trapped-ion quantum processor**|Ilia V. Zalivako et.al.|[2503.10588](http://arxiv.org/abs/2503.10588)|null|
+|**2025-03-13**|**Simulating charging characteristics of lithium iron phosphate by electro-ionic optimization on a quantum annealer**|Tobias Binninger et.al.|[2503.10581](http://arxiv.org/abs/2503.10581)|null|
+|**2025-03-13**|**Extreme Learning Machines for Attention-based Multiple Instance Learning in Whole-Slide Image Classification**|Rajiv Krishnakumar et.al.|[2503.10510](http://arxiv.org/abs/2503.10510)|null|
+|**2025-03-13**|**Direct estimation of arbitrary observables of an oscillator**|Tanjung Krisnanda et.al.|[2503.10436](http://arxiv.org/abs/2503.10436)|null|
+|**2025-03-13**|**Extractors: QLDPC Architectures for Efficient Pauli-Based Computation**|Zhiyang He et.al.|[2503.10390](http://arxiv.org/abs/2503.10390)|null|
+|**2025-03-13**|**The quantum non-Markovianity for a special class of generalized Weyl channel**|Wen Xu et.al.|[2503.10338](http://arxiv.org/abs/2503.10338)|null|
+|**2025-03-13**|**Distributed implementation of tensor-product selected configuration interaction**|Enhua Xu et.al.|[2503.10335](http://arxiv.org/abs/2503.10335)|null|
 |**2025-03-12**|**Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$ -routing protocols**|Llorenç Escolà-Farràs et.al.|[2503.09544](http://arxiv.org/abs/2503.09544)|null|
 |**2025-03-12**|**No quantum advantage without classical communication: fundamental limitations of quantum networks**|Justus Neumann et.al.|[2503.09473](http://arxiv.org/abs/2503.09473)|null|
 |**2025-03-12**|**Entanglement and purity can help to detect systematic experimental errors**|Julia Freund et.al.|[2503.09459](http://arxiv.org/abs/2503.09459)|null|
@@ -4620,6 +4630,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Knot reconstruction of the scalar primordial power spectrum with Planck, ACT, and SPT CMB data**|Antonio Raffaelli et.al.|[2503.10609](http://arxiv.org/abs/2503.10609)|null|
+|**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno et.al.|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
+|**2025-03-13**|**General phase diagram features of superradiant phase transitions**|Wen Zhao et.al.|[2503.09982](http://arxiv.org/abs/2503.09982)|null|
+|**2025-03-12**|**Altermagnets with topological order in Kitaev bilayers**|Aayush Vijayvargia et.al.|[2503.09705](http://arxiv.org/abs/2503.09705)|null|
 |**2025-03-12**|**Universal Properties of Critical Mixed States from Measurement and Feedback**|Zhehao Zhang et.al.|[2503.09597](http://arxiv.org/abs/2503.09597)|null|
 |**2025-03-11**|**A Tutorial on Knots and Quantum Mechanics**|Dmitry Melnikov et.al.|[2503.08846](http://arxiv.org/abs/2503.08846)|null|
 |**2025-03-11**|**Robust Simulations of Many-Body Symmetry-Protected Topological Phase Transitions on a Quantum Processor**|Ruizhe Shen et.al.|[2503.08776](http://arxiv.org/abs/2503.08776)|null|
