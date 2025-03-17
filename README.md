@@ -54,7 +54,7 @@
 |**2024-08-07**|**AirSLAM: An Efficient and Illumination-Robust Point-Line Visual SLAM System**|Kuan Xu et.al.|[2408.03520](http://arxiv.org/abs/2408.03520)|**[link](https://github.com/sair-lab/AirSLAM)**|
 |**2024-08-06**|**BodySLAM: A Generalized Monocular Visual SLAM Framework for Surgical Applications**|G. Manni et.al.|[2408.03078](http://arxiv.org/abs/2408.03078)|**[link](https://github.com/GuidoManni/BodySLAM)**|
 |**2024-08-04**|**SLAMS-Propelled Electron Acceleration at High-Mach Number Astrophysical Shocks**|Vladimir Zeković et.al.|[2408.02084](http://arxiv.org/abs/2408.02084)|null|
-|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716](http://arxiv.org/abs/2408.01716)|null|
+|**2024-08-03**|**Visual-Inertial SLAM for Agricultural Robotics: Benchmarking the Benefits and Computational Costs of Loop Closing**|Fabian Schmidt et.al.|[2408.01716](http://arxiv.org/abs/2408.01716)|**[link](https://github.com/iis-esslingen/vi-slam_lc_benchmark)**|
 |**2024-08-03**|**Deep Patch Visual SLAM**|Lahav Lipson et.al.|[2408.01654](http://arxiv.org/abs/2408.01654)|**[link](https://github.com/princeton-vl/dpvo)**|
 |**2024-08-02**|**Momentum Capture and Prediction System Based on Wimbledon Open2023 Tournament Data**|Chang Liu et.al.|[2408.01544](http://arxiv.org/abs/2408.01544)|null|
 |**2024-08-07**|**IG-SLAM: Instant Gaussian SLAM**|F. Aykut Sarikamis et.al.|[2408.01126](http://arxiv.org/abs/2408.01126)|null|
@@ -2686,7 +2686,7 @@
 |**2024-01-10**|**Diffusion Priors for Dynamic View Synthesis from Monocular Videos**|Chaoyang Wang et.al.|[2401.05583](http://arxiv.org/abs/2401.05583)|null|
 |**2024-01-10**|**InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes**|Mohamad Shahbazi et.al.|[2401.05335](http://arxiv.org/abs/2401.05335)|null|
 |**2024-01-10**|**CTNeRF: Cross-Time Transformer for Dynamic Neural Radiance Field from Monocular Video**|Xingyu Miao et.al.|[2401.04861](http://arxiv.org/abs/2401.04861)|**[link](https://github.com/xingy038/ctnerf)**|
-|**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|null|
+|**2024-01-08**|**A Survey on 3D Gaussian Splatting**|Guikun Chen et.al.|[2401.03890](http://arxiv.org/abs/2401.03890)|**[link](https://github.com/guikunchen/awesome3dgs)**|
 |**2024-01-08**|**NeRFmentation: NeRF-based Augmentation for Monocular Depth Estimation**|Casimir Feldmann et.al.|[2401.03771](http://arxiv.org/abs/2401.03771)|null|
 |**2024-01-06**|**RustNeRF: Robust Neural Radiance Field with Low-Quality Images**|Mengfei Li et.al.|[2401.03257](http://arxiv.org/abs/2401.03257)|null|
 |**2024-01-06**|**Hi-Map: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping**|Tongyan Hua et.al.|[2401.03203](http://arxiv.org/abs/2401.03203)|null|
@@ -3496,7 +3496,7 @@
 |**2025-03-06**|**Optimal interpolation-based coordinate descent method for parameterized quantum circuits**|Zhijian Lai et.al.|[2503.04620](http://arxiv.org/abs/2503.04620)|null|
 |**2025-03-06**|**Conclusive exclusion of quantum states with group action**|Hongshun Yao et.al.|[2503.04605](http://arxiv.org/abs/2503.04605)|null|
 |**2025-03-06**|**Long-range nonstabilizerness from topology and correlation**|Fuchuan Wei et.al.|[2503.04566](http://arxiv.org/abs/2503.04566)|null|
-|**2025-03-06**|**Scalable quantum simulator with an extended gate set in giant atoms**|Guangze Chen et.al.|[2503.04537](http://arxiv.org/abs/2503.04537)|null|
+|**2025-03-06**|**Scalable quantum simulator with an extended gate set in giant atoms**|Guangze Chen et.al.|[2503.04537](http://arxiv.org/abs/2503.04537)|**[link](https://github.com/guangzechen/sing-atom)**|
 |**2025-03-06**|**Succinct Perfect Zero-knowledge for MIP***|Honghao Fu et.al.|[2503.04517](http://arxiv.org/abs/2503.04517)|null|
 |**2025-03-06**|**Tensor Network Techniques for Quantum Computation**|Mario Collura et.al.|[2503.04423](http://arxiv.org/abs/2503.04423)|null|
 |**2025-03-05**|**Compact Superconducting Kinetic Inductance Traveling Wave Parametric Amplifiers with On-chip rf Components**|Logan Howe et.al.|[2503.03608](http://arxiv.org/abs/2503.03608)|null|
@@ -3514,7 +3514,7 @@
 |**2025-03-04**|**Quantum Computer Does Not Need Coherent Quantum Access for Advantage**|Nhat A. Nghiem et.al.|[2503.02515](http://arxiv.org/abs/2503.02515)|null|
 |**2025-03-04**|**PennyLang: Pioneering LLM-Based Quantum Code Generation with a Novel PennyLane-Centric Dataset**|Haider Asif et.al.|[2503.02497](http://arxiv.org/abs/2503.02497)|null|
 |**2025-03-04**|**Realizing Quantum Adversarial Defense on a Trapped-ion Quantum Processor**|Alex Jin et.al.|[2503.02436](http://arxiv.org/abs/2503.02436)|null|
-|**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345](http://arxiv.org/abs/2503.02345)|null|
+|**2025-03-04**|**CQ CNN: A Hybrid Classical Quantum Convolutional Neural Network for Alzheimer's Disease Detection Using Diffusion Generated and U Net Segmented 3D MRI**|Mominul Islam et.al.|[2503.02345](http://arxiv.org/abs/2503.02345)|**[link](https://github.com/mominul-ssv/alz-cq-cnn)**|
 |**2025-03-04**|**Light Control of Triplet Pairing in Correlated Electrons with Mixed-Sign Interactions**|Zecheng Shen et.al.|[2503.02294](http://arxiv.org/abs/2503.02294)|null|
 |**2025-03-04**|**Variety of Superradiant Phase Transition in Bose-Fermi System with Tight-Binding Model in the weak-coupling regime**|Xing Su et.al.|[2503.02226](http://arxiv.org/abs/2503.02226)|null|
 |**2025-03-04**|**Linear Programming Bounds on $k$ -Uniform States**|Yu Ning et.al.|[2503.02222](http://arxiv.org/abs/2503.02222)|null|
@@ -3528,7 +3528,7 @@
 |**2025-02-28**|**Quantum-aware Transformer model for state classification**|Przemysław Sekuła et.al.|[2502.21055](http://arxiv.org/abs/2502.21055)|null|
 |**2025-02-28**|**Bound-state formation and thermalization within the Lindblad approach**|Jan Rais et.al.|[2502.21047](http://arxiv.org/abs/2502.21047)|null|
 |**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings et.al.|[2502.21044](http://arxiv.org/abs/2502.21044)|null|
-|**2025-02-28**|**AutoQML: A Framework for Automated Quantum Machine Learning**|Marco Roth et.al.|[2502.21025](http://arxiv.org/abs/2502.21025)|null|
+|**2025-02-28**|**AutoQML: A Framework for Automated Quantum Machine Learning**|Marco Roth et.al.|[2502.21025](http://arxiv.org/abs/2502.21025)|**[link](https://github.com/AutoQML/autoqml)**|
 |**2025-02-27**|**Fault-Resilience of Dissipative Processes for Quantum Computing**|James Purcell et.al.|[2502.20374](http://arxiv.org/abs/2502.20374)|null|
 |**2025-02-27**|**Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems**|Lixing Zhang et.al.|[2502.20373](http://arxiv.org/abs/2502.20373)|null|
 |**2025-02-27**|**Shadow measurements for feedback-based quantum optimization**|Leticia Bertuzzi et.al.|[2502.20366](http://arxiv.org/abs/2502.20366)|null|
