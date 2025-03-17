@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644](http://arxiv.org/abs/2503.11644)|null|
+|**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle et.al.|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
+|**2025-03-14**|**Chiral cat code: Enhanced error correction induced by higher-order nonlinearities**|Adrià Labay-Mora et.al.|[2503.11624](http://arxiv.org/abs/2503.11624)|null|
+|**2025-03-14**|**Euclid preparation. BAO analysis of photometric galaxy clustering in configuration space**|Euclid Collaboration et.al.|[2503.11621](http://arxiv.org/abs/2503.11621)|null|
+|**2025-03-14**|**Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems**|Abhishek Kumar et.al.|[2503.11613](http://arxiv.org/abs/2503.11613)|null|
+|**2025-03-14**|**Quantum algorithms for simulating systems coupled to bosonic modes using a hybrid resonator-qubit quantum computer**|Juha Leppäkangas et.al.|[2503.11507](http://arxiv.org/abs/2503.11507)|null|
+|**2025-03-14**|**Complex Magnetic Ordering in Candidate Topological Superconductors**|Purnima P. Balakrishnan et.al.|[2503.11502](http://arxiv.org/abs/2503.11502)|null|
+|**2025-03-14**|**Fault-tolerant logical state construction based on cavity-QED network**|Rui Asaoka et.al.|[2503.11500](http://arxiv.org/abs/2503.11500)|null|
+|**2025-03-14**|**Bridging wire and gate cutting with ZX-calculus**|Marco Schumann et.al.|[2503.11494](http://arxiv.org/abs/2503.11494)|null|
+|**2025-03-14**|**Exponential Quantum Advantage for Simulating Open Classical Systems**|Agi Villanyi et.al.|[2503.11483](http://arxiv.org/abs/2503.11483)|null|
 |**2025-03-13**|**Fast Sideband Control of a Weakly Coupled Multimode Bosonic Memory**|Jordan Huang et.al.|[2503.10623](http://arxiv.org/abs/2503.10623)|null|
 |**2025-03-13**|**Utilizing discrete variable representations for decoherence-accurate numerical simulation of superconducting circuits**|Brittany Richman et.al.|[2503.10607](http://arxiv.org/abs/2503.10607)|null|
 |**2025-03-13**|**Performance of the spin qubit shuttling architecture for a surface code implementation**|Berat Yenilen et.al.|[2503.10601](http://arxiv.org/abs/2503.10601)|null|
