@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388](http://arxiv.org/abs/2503.13388)|null|
+|**2025-03-17**|**Error bounds for composite quantum hypothesis testing and a new characterization of the weighted Kubo-Ando geometric means**|Péter E. Frenkel et.al.|[2503.13379](http://arxiv.org/abs/2503.13379)|null|
+|**2025-03-17**|**Exploring new variational quantum circuit ansatzes for solving $SU(2)$ matrix models**|H. L. Dao et.al.|[2503.13368](http://arxiv.org/abs/2503.13368)|null|
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
+|**2025-03-17**|**Non-asymptotic quantum communication on lossy transmission lines with memory**|Francesco Anna Mele et.al.|[2503.13207](http://arxiv.org/abs/2503.13207)|null|
+|**2025-03-17**|**Cycle-Aware ZZ Crosstalk Mitigation on Quantum Hardware**|Jiayi Zhong et.al.|[2503.13204](http://arxiv.org/abs/2503.13204)|null|
+|**2025-03-17**|**Symmetric channel verification for purifying noisy quantum channels**|Kento Tsubouchi et.al.|[2503.13114](http://arxiv.org/abs/2503.13114)|null|
+|**2025-03-17**|**Qutes: A High-Level Quantum Programming Language for Simplified Quantum Computing**|Simone Faro et.al.|[2503.13084](http://arxiv.org/abs/2503.13084)|null|
+|**2025-03-17**|**Atom-Field-Medium Interactions II: Covariance Matrix Dynamics for $N$ Harmonic Atoms in a Dielectric-Altered Quantum Field and Effects of Dielectric on Atom-Field Entanglement**|Jen-Tsung Hsiang et.al.|[2503.13022](http://arxiv.org/abs/2503.13022)|null|
+|**2025-03-17**|**Performance Analysis and Industry Deployment of Post-Quantum Cryptography Algorithms**|Elif Dicle Demir et.al.|[2503.12952](http://arxiv.org/abs/2503.12952)|null|
 |**2025-03-14**|**The waves-in-space Purcell effect for superconducting qubits**|Param Patel et.al.|[2503.11644](http://arxiv.org/abs/2503.11644)|null|
 |**2025-03-14**|**Scaling the Automated Discovery of Quantum Circuits via Reinforcement Learning with Gadgets**|Jan Olle et.al.|[2503.11638](http://arxiv.org/abs/2503.11638)|null|
 |**2025-03-14**|**Chiral cat code: Enhanced error correction induced by higher-order nonlinearities**|Adrià Labay-Mora et.al.|[2503.11624](http://arxiv.org/abs/2503.11624)|null|
@@ -4640,6 +4650,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Realizing a Symmetry Protected Topological Phase in a Superconducting Circuit**|Parameshwar R. Pasnoori et.al.|[2503.13406](http://arxiv.org/abs/2503.13406)|null|
+|**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
+|**2025-03-17**|**Higher-form anomaly and long-range entanglement of mixed states**|Leonardo A. Lessa et.al.|[2503.12792](http://arxiv.org/abs/2503.12792)|null|
+|**2025-03-16**|**Gapless Phases in (2+1)d with Non-Invertible Symmetries**|Lakshya Bhardwaj et.al.|[2503.12699](http://arxiv.org/abs/2503.12699)|null|
 |**2025-03-13**|**Knot reconstruction of the scalar primordial power spectrum with Planck, ACT, and SPT CMB data**|Antonio Raffaelli et.al.|[2503.10609](http://arxiv.org/abs/2503.10609)|null|
 |**2025-03-13**|**Strong-to-weak spontaneous symmetry breaking and average symmetry protected topological order in the doubled Hilbert space**|Yoshihito Kuno et.al.|[2503.10311](http://arxiv.org/abs/2503.10311)|null|
 |**2025-03-13**|**General phase diagram features of superradiant phase transitions**|Wen Zhao et.al.|[2503.09982](http://arxiv.org/abs/2503.09982)|null|
