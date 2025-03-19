@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-18**|**Scalable and fault-tolerant preparation of encoded k-uniform states**|Shayan Majidy et.al.|[2503.14506](http://arxiv.org/abs/2503.14506)|null|
+|**2025-03-18**|**EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data**|Jason Han et.al.|[2503.14473](http://arxiv.org/abs/2503.14473)|null|
+|**2025-03-18**|**Demonstration of High-Fidelity Entangled Logical Qubits using Transmons**|Arian Vezvaee et.al.|[2503.14472](http://arxiv.org/abs/2503.14472)|null|
+|**2025-03-18**|**Blockchain with proof of quantum work**|Mohammad H. Amin et.al.|[2503.14462](http://arxiv.org/abs/2503.14462)|null|
+|**2025-03-18**|**Measurement-Induced Multimode Squeezed Light Interferometers with Scalable Architectures**|Abhinav Verma et.al.|[2503.14449](http://arxiv.org/abs/2503.14449)|null|
+|**2025-03-18**|**Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits**|Akshay A. Murthy et.al.|[2503.14424](http://arxiv.org/abs/2503.14424)|null|
+|**2025-03-18**|**Device-independent secure correlations in sequential quantum scenarios**|Matteo Padovan et.al.|[2503.14404](http://arxiv.org/abs/2503.14404)|null|
+|**2025-03-18**|**Quantum simulation of superdiffusion breakdown in Heisenberg chains via 2D interactions**|Keerthi Kumaran et.al.|[2503.14371](http://arxiv.org/abs/2503.14371)|null|
+|**2025-03-18**|**QuGStep: Refining Step Size Selection in Gradient Estimation for Variational Quantum Algorithms**|Senwei Liang et.al.|[2503.14366](http://arxiv.org/abs/2503.14366)|null|
+|**2025-03-18**|**Scalable Linear-Cavity Enhanced Quantum Memory**|Bharath Srivathsan et.al.|[2503.14212](http://arxiv.org/abs/2503.14212)|null|
 |**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388](http://arxiv.org/abs/2503.13388)|null|
 |**2025-03-17**|**Error bounds for composite quantum hypothesis testing and a new characterization of the weighted Kubo-Ando geometric means**|Péter E. Frenkel et.al.|[2503.13379](http://arxiv.org/abs/2503.13379)|null|
 |**2025-03-17**|**Exploring new variational quantum circuit ansatzes for solving $SU(2)$ matrix models**|H. L. Dao et.al.|[2503.13368](http://arxiv.org/abs/2503.13368)|null|
@@ -4650,6 +4660,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Topological Holography for 2+1-D Gapped and Gapless Phases with Generalized Symmetries**|Rui Wen et.al.|[2503.13685](http://arxiv.org/abs/2503.13685)|null|
 |**2025-03-17**|**Realizing a Symmetry Protected Topological Phase in a Superconducting Circuit**|Parameshwar R. Pasnoori et.al.|[2503.13406](http://arxiv.org/abs/2503.13406)|null|
 |**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
 |**2025-03-17**|**Higher-form anomaly and long-range entanglement of mixed states**|Leonardo A. Lessa et.al.|[2503.12792](http://arxiv.org/abs/2503.12792)|null|
