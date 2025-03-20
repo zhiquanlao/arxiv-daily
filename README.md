@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
+|**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452](http://arxiv.org/abs/2503.15452)|null|
+|**2025-03-19**|**LuGo: an Enhanced Quantum Phase Estimation Implementation**|Chao Lu et.al.|[2503.15439](http://arxiv.org/abs/2503.15439)|null|
+|**2025-03-19**|**Two-qubit logic and teleportation with mobile spin qubits in silicon**|Yuta Matsumoto et.al.|[2503.15434](http://arxiv.org/abs/2503.15434)|null|
+|**2025-03-19**|**Simulated Non-Abelian Statistics of Majorana Zero Modes from a Kitaev Lattice**|Foster Sabatino et.al.|[2503.15405](http://arxiv.org/abs/2503.15405)|null|
+|**2025-03-19**|**HQNN-FSP: A Hybrid Classical-Quantum Neural Network for Regression-Based Financial Stock Market Prediction**|Prashant Kumar Choudhary et.al.|[2503.15403](http://arxiv.org/abs/2503.15403)|null|
+|**2025-03-19**|**Quasi- $Φ_0$ -periodic supercurrent at quantum Hall transitions**|Ivan Villani et.al.|[2503.15384](http://arxiv.org/abs/2503.15384)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). Galaxy shapes and alignments in the cosmic web**|Euclid Collaboration et.al.|[2503.15333](http://arxiv.org/abs/2503.15333)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). The role of cosmic connectivity in shaping galaxy clusters**|Euclid Collaboration et.al.|[2503.15332](http://arxiv.org/abs/2503.15332)|null|
+|**2025-03-19**|**Euclid Quick Data Release (Q1). The first catalogue of strong-lensing galaxy clusters**|Euclid Collaboration et.al.|[2503.15330](http://arxiv.org/abs/2503.15330)|null|
 |**2025-03-18**|**Scalable and fault-tolerant preparation of encoded k-uniform states**|Shayan Majidy et.al.|[2503.14506](http://arxiv.org/abs/2503.14506)|null|
 |**2025-03-18**|**EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data**|Jason Han et.al.|[2503.14473](http://arxiv.org/abs/2503.14473)|null|
 |**2025-03-18**|**Demonstration of High-Fidelity Entangled Logical Qubits using Transmons**|Arian Vezvaee et.al.|[2503.14472](http://arxiv.org/abs/2503.14472)|null|
