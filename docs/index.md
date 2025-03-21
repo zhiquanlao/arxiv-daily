@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Quantum Characterization, Verification, and Validation**|Robin Blume-Kohout et.al.|[2503.16383](http://arxiv.org/abs/2503.16383)|null|
+|**2025-03-20**|**No Practical Quantum Broadcasting: Even Virtually**|Yunlong Xiao et.al.|[2503.16380](http://arxiv.org/abs/2503.16380)|null|
+|**2025-03-20**|**Probabilistic Quantum SVM Training on Ising Machine**|Haoqi He et.al.|[2503.16363](http://arxiv.org/abs/2503.16363)|null|
+|**2025-03-20**|**Enhancing variational quantum algorithms by balancing training on classical and quantum hardware**|Rahul Bhowmick et.al.|[2503.16361](http://arxiv.org/abs/2503.16361)|null|
+|**2025-03-20**|**A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State**|Xiangyu Ren et.al.|[2503.16346](http://arxiv.org/abs/2503.16346)|null|
+|**2025-03-20**|**An experimental investigation of quantum frequency correlations resilience against white and colored noise**|Linda Sansoni et.al.|[2503.16314](http://arxiv.org/abs/2503.16314)|null|
+|**2025-03-20**|**A note on lower bounds of concurrence for arbitrary dimensional bipartite quantum states**|Zhi-Bo Chen et.al.|[2503.16291](http://arxiv.org/abs/2503.16291)|null|
+|**2025-03-20**|**Constant-Depth Quantum Circuits for Arbitrary Quantum State Preparation via Measurement and Feedback**|Wei Zi et.al.|[2503.16208](http://arxiv.org/abs/2503.16208)|null|
+|**2025-03-20**|**Topological Kleene Field Theories: A new model of computation**|Ángel González-Prieto et.al.|[2503.16100](http://arxiv.org/abs/2503.16100)|null|
+|**2025-03-20**|**Multimode Qubit-Conditional Operations via Generalized Cross-Resonance**|Mohammad Ayyash et.al.|[2503.15941](http://arxiv.org/abs/2503.15941)|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
 |**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452](http://arxiv.org/abs/2503.15452)|null|
 |**2025-03-19**|**LuGo: an Enhanced Quantum Phase Estimation Implementation**|Chao Lu et.al.|[2503.15439](http://arxiv.org/abs/2503.15439)|null|
@@ -4670,6 +4680,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**From Paramagnet to Dipolar Topological Order via Duality and Dipolar SPT**|Jintae Kim et.al.|[2503.15834](http://arxiv.org/abs/2503.15834)|null|
 |**2025-03-17**|**Topological Holography for 2+1-D Gapped and Gapless Phases with Generalized Symmetries**|Rui Wen et.al.|[2503.13685](http://arxiv.org/abs/2503.13685)|null|
 |**2025-03-17**|**Realizing a Symmetry Protected Topological Phase in a Superconducting Circuit**|Parameshwar R. Pasnoori et.al.|[2503.13406](http://arxiv.org/abs/2503.13406)|null|
 |**2025-03-17**|**Realization of fermionic Laughlin state on a quantum processor**|Lingnan Shen et.al.|[2503.13294](http://arxiv.org/abs/2503.13294)|null|
