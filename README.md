@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**Criteria for unbiased estimation: applications to noise-agnostic sensing and learnability of quantum channel**|Hyukgun Kwon et.al.|[2503.17362](http://arxiv.org/abs/2503.17362)|null|
+|**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356](http://arxiv.org/abs/2503.17356)|null|
+|**2025-03-21**|**QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**|Matteo Paltenghi et.al.|[2503.17322](http://arxiv.org/abs/2503.17322)|null|
+|**2025-03-21**|**On Quantum Perceptron Learning via Quantum Search**|Xiaoyu Sun et.al.|[2503.17308](http://arxiv.org/abs/2503.17308)|null|
+|**2025-03-21**|**Controlled Floquet Dynamics and Topological Bound States in Continuum via Colored Quantum Random Walks**|Zahra Jalali-Mola et.al.|[2503.17263](http://arxiv.org/abs/2503.17263)|null|
+|**2025-03-21**|**On the Importance of Error Mitigation for Quantum Computation**|Dorit Aharonov et.al.|[2503.17243](http://arxiv.org/abs/2503.17243)|null|
+|**2025-03-21**|**Superconducting non-volatile memory based on charge trapping and gate-controlled superconductivity**|Leon Ruf et.al.|[2503.17241](http://arxiv.org/abs/2503.17241)|null|
+|**2025-03-21**|**Infinite-fold Quantum Advantage in Classical Correlation Sensing**|Janis Nötzel et.al.|[2503.17235](http://arxiv.org/abs/2503.17235)|null|
+|**2025-03-21**|**Suppression of coherent errors during entangling operations in NV centers in diamond**|Regina Finsterhoelzl et.al.|[2503.17147](http://arxiv.org/abs/2503.17147)|null|
+|**2025-03-21**|**Conversion of photon temporal shape using single gradient metasurface**|Zhaohua Tian et.al.|[2503.17134](http://arxiv.org/abs/2503.17134)|null|
 |**2025-03-20**|**Quantum Characterization, Verification, and Validation**|Robin Blume-Kohout et.al.|[2503.16383](http://arxiv.org/abs/2503.16383)|null|
 |**2025-03-20**|**No Practical Quantum Broadcasting: Even Virtually**|Yunlong Xiao et.al.|[2503.16380](http://arxiv.org/abs/2503.16380)|null|
 |**2025-03-20**|**Probabilistic Quantum SVM Training on Ising Machine**|Haoqi He et.al.|[2503.16363](http://arxiv.org/abs/2503.16363)|null|
@@ -4704,6 +4714,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**|K. Kornoelje et.al.|[2503.17271](http://arxiv.org/abs/2503.17271)|null|
+|**2025-03-21**|**Topological order in symmetric blockade structures**|Tobias F. Maier et.al.|[2503.17123](http://arxiv.org/abs/2503.17123)|null|
 |**2025-03-20**|**From Paramagnet to Dipolar Topological Order via Duality and Dipolar SPT**|Jintae Kim et.al.|[2503.15834](http://arxiv.org/abs/2503.15834)|null|
 |**2025-03-17**|**Topological Holography for 2+1-D Gapped and Gapless Phases with Generalized Symmetries**|Rui Wen et.al.|[2503.13685](http://arxiv.org/abs/2503.13685)|null|
 |**2025-03-17**|**Realizing a Symmetry Protected Topological Phase in a Superconducting Circuit**|Parameshwar R. Pasnoori et.al.|[2503.13406](http://arxiv.org/abs/2503.13406)|null|
