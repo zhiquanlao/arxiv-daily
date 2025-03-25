@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection**|Gelo Noel M. Tabia et.al.|[2503.18949](http://arxiv.org/abs/2503.18949)|null|
+|**2025-03-24**|**$κ$ -Entanglement Entropy from Black Hole**|Fabiano F. Santos et.al.|[2503.18919](http://arxiv.org/abs/2503.18919)|null|
+|**2025-03-24**|**Hardware-level Interfaces for Hybrid Quantum-Classical Computing Systems**|Konstantinos Rallis et.al.|[2503.18868](http://arxiv.org/abs/2503.18868)|null|
+|**2025-03-24**|**Design of an aluminum nitride based electro-optic phase modulator and photonic switch for next generation scalable photonic integrated circuits**|Suat Icli et.al.|[2503.18861](http://arxiv.org/abs/2503.18861)|null|
+|**2025-03-24**|**Isoenergetic model for optical downconversion and error-specific limits of the parametric approximation**|D. B. Horoshko et.al.|[2503.18828](http://arxiv.org/abs/2503.18828)|null|
+|**2025-03-24**|**Characterization of a quantum bus between two driven qubits**|Alberto Hijano et.al.|[2503.18772](http://arxiv.org/abs/2503.18772)|null|
+|**2025-03-24**|**Optomechanical quantum bus for donor spins in silicon**|Henri Lyyra et.al.|[2503.18764](http://arxiv.org/abs/2503.18764)|null|
+|**2025-03-24**|**Quantum Arithmetic-based on Quantum Signal Processing**|Robin Ollive et.al.|[2503.18761](http://arxiv.org/abs/2503.18761)|null|
+|**2025-03-24**|**Witnessing Magic with Bell inequalities**|Rafael A. Macedo et.al.|[2503.18734](http://arxiv.org/abs/2503.18734)|null|
+|**2025-03-24**|**Quantum Advantage in Testing (Local) Convexity and Monotonicity of Function**|Nhat A. Nghiem et.al.|[2503.18696](http://arxiv.org/abs/2503.18696)|null|
 |**2025-03-21**|**Criteria for unbiased estimation: applications to noise-agnostic sensing and learnability of quantum channel**|Hyukgun Kwon et.al.|[2503.17362](http://arxiv.org/abs/2503.17362)|null|
 |**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356](http://arxiv.org/abs/2503.17356)|null|
 |**2025-03-21**|**QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**|Matteo Paltenghi et.al.|[2503.17322](http://arxiv.org/abs/2503.17322)|null|
@@ -4690,6 +4700,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin et.al.|[2503.18374](http://arxiv.org/abs/2503.18374)|null|
+|**2025-03-21**|**Strong LensIng and Cluster Evolution (SLICE) with JWST: Early Results, Lens Models, and High-Redshift Detections**|Catherine Cerny et.al.|[2503.17498](http://arxiv.org/abs/2503.17498)|null|
 |**2025-03-21**|**The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**|K. Kornoelje et.al.|[2503.17271](http://arxiv.org/abs/2503.17271)|null|
 |**2025-03-21**|**Topological order in symmetric blockade structures**|Tobias F. Maier et.al.|[2503.17123](http://arxiv.org/abs/2503.17123)|null|
 |**2025-03-20**|**From Paramagnet to Dipolar Topological Order via Duality and Dipolar SPT**|Jintae Kim et.al.|[2503.15834](http://arxiv.org/abs/2503.15834)|null|
