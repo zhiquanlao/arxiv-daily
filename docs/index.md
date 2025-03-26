@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation**|Yuncheng Lu et.al.|[2503.19894](http://arxiv.org/abs/2503.19894)|null|
+|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont et.al.|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
+|**2025-03-25**|**Applications of Certified Randomness**|Omar Amer et.al.|[2503.19759](http://arxiv.org/abs/2503.19759)|null|
+|**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718](http://arxiv.org/abs/2503.19718)|null|
+|**2025-03-25**|**Removal of high-voltage-induced surface charges by ultraviolet light**|M. T. Ziemba et.al.|[2503.19662](http://arxiv.org/abs/2503.19662)|null|
+|**2025-03-25**|**Highly efficient microwave memory using a superconducting artificial chiral atom**|Kai-I Chu et.al.|[2503.19608](http://arxiv.org/abs/2503.19608)|null|
+|**2025-03-25**|**Cryptoscope: Analyzing cryptographic usages in modern software**|Micha Moffie et.al.|[2503.19531](http://arxiv.org/abs/2503.19531)|null|
+|**2025-03-25**|**Floquet-Nambu Theory of Electron Quantum Optics with Superconductors**|Pablo Burset et.al.|[2503.19436](http://arxiv.org/abs/2503.19436)|null|
+|**2025-03-25**|**Robust spin-qubit control in a natural Si-MOS quantum dot using phase modulation**|Takuma Kuno et.al.|[2503.19410](http://arxiv.org/abs/2503.19410)|null|
+|**2025-03-24**|**Euclid Quick Data Release (Q1). First detections from the galaxy cluster workflow**|Euclid Collaboration et.al.|[2503.19196](http://arxiv.org/abs/2503.19196)|null|
 |**2025-03-24**|**Almost device-independent calibration beyond Born's rule: Bell tests for cross-talk detection**|Gelo Noel M. Tabia et.al.|[2503.18949](http://arxiv.org/abs/2503.18949)|null|
 |**2025-03-24**|**$κ$ -Entanglement Entropy from Black Hole**|Fabiano F. Santos et.al.|[2503.18919](http://arxiv.org/abs/2503.18919)|null|
 |**2025-03-24**|**Hardware-level Interfaces for Hybrid Quantum-Classical Computing Systems**|Konstantinos Rallis et.al.|[2503.18868](http://arxiv.org/abs/2503.18868)|null|
