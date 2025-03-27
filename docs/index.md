@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742](http://arxiv.org/abs/2503.20742)|null|
+|**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
+|**2025-03-26**|**New perspectives on quantum kernels through the lens of entangled tensor kernels**|Seongwook Shin et.al.|[2503.20683](http://arxiv.org/abs/2503.20683)|null|
+|**2025-03-26**|**Filter-enhanced adiabatic quantum computing on a digital quantum processor**|Erenay Karacan et.al.|[2503.20674](http://arxiv.org/abs/2503.20674)|null|
+|**2025-03-26**|**On light cone bounds in quantum open systems**|Israel Michael Sigal et.al.|[2503.20635](http://arxiv.org/abs/2503.20635)|null|
+|**2025-03-26**|**Measuring Incompatible Observables with Quantum Neural Networks**|Muchun Yang et.al.|[2503.20565](http://arxiv.org/abs/2503.20565)|null|
+|**2025-03-26**|**Problem-Structure-Informed Quantum Approximate Optimization Algorithm for Large-Scale Unit Commitment with Limited Qubits**|Jingxian Zhou et.al.|[2503.20509](http://arxiv.org/abs/2503.20509)|null|
+|**2025-03-26**|**Certified randomness using a trapped-ion quantum processor**|Minzhao Liu et.al.|[2503.20498](http://arxiv.org/abs/2503.20498)|null|
+|**2025-03-26**|**Electric Field Distortions in Surface Ion Traps with Integrated Nanophotonics**|Guochun Du et.al.|[2503.20387](http://arxiv.org/abs/2503.20387)|null|
+|**2025-03-26**|**Power Networks SCADA Communication Cybersecurity, A Qiskit Implementation**|Hillol Biswas et.al.|[2503.20365](http://arxiv.org/abs/2503.20365)|null|
 |**2025-03-25**|**Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation**|Yuncheng Lu et.al.|[2503.19894](http://arxiv.org/abs/2503.19894)|null|
 |**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont et.al.|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
 |**2025-03-25**|**Applications of Certified Randomness**|Omar Amer et.al.|[2503.19759](http://arxiv.org/abs/2503.19759)|null|
@@ -4710,6 +4720,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-26**|**A cosmological full-shape power spectra analysis using pre- and post-reconstructed density fields**|Weibing Zhang et.al.|[2503.20574](http://arxiv.org/abs/2503.20574)|null|
+|**2025-03-26**|**Topological Degeneracy Induced Flat Bands in two-Dimensional Holed Systems**|Yuge Chen et.al.|[2503.20389](http://arxiv.org/abs/2503.20389)|null|
 |**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin et.al.|[2503.18374](http://arxiv.org/abs/2503.18374)|null|
 |**2025-03-21**|**Strong LensIng and Cluster Evolution (SLICE) with JWST: Early Results, Lens Models, and High-Redshift Detections**|Catherine Cerny et.al.|[2503.17498](http://arxiv.org/abs/2503.17498)|null|
 |**2025-03-21**|**The SPT-Deep Cluster Catalog: Sunyaev-Zel'dovich Selected Clusters from Combined SPT-3G and SPTpol Measurements over 100 Square Degrees**|K. Kornoelje et.al.|[2503.17271](http://arxiv.org/abs/2503.17271)|null|
