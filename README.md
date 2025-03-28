@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773](http://arxiv.org/abs/2503.21773)|null|
+|**2025-03-27**|**Adiabatic quantum state preparation in integrable models**|Maximilian Lutz et.al.|[2503.21741](http://arxiv.org/abs/2503.21741)|null|
+|**2025-03-27**|**Molecular Quantum Transformer**|Yuichi Kamata et.al.|[2503.21686](http://arxiv.org/abs/2503.21686)|null|
+|**2025-03-27**|**Hacking quantum computers with row hammer attack**|Fernando Almaguer-Angeles et.al.|[2503.21650](http://arxiv.org/abs/2503.21650)|null|
+|**2025-03-27**|**Time hierarchies for sublogarithmic-space quantum computation**|A. C. Cem Say et.al.|[2503.21582](http://arxiv.org/abs/2503.21582)|null|
+|**2025-03-27**|**Quantitative Evaluation of Quantum/Classical Neural Network Using a Game Solver Metric**|Suzukaze Kamei et.al.|[2503.21514](http://arxiv.org/abs/2503.21514)|null|
+|**2025-03-27**|**Quantum umlaut information**|Filippo Girardi et.al.|[2503.21479](http://arxiv.org/abs/2503.21479)|null|
+|**2025-03-27**|**Beyond asymptotic scaling: Comparing functional quantum linear solvers**|Andreea-Iulia Lefterovici et.al.|[2503.21420](http://arxiv.org/abs/2503.21420)|null|
+|**2025-03-27**|**Generative Decoding for Quantum Error-correcting Codes**|Hanyan Cao et.al.|[2503.21374](http://arxiv.org/abs/2503.21374)|null|
+|**2025-03-27**|**Interferometric OTOC for Non-Markovian Open Quantum Systems**|Baibhab Bose et.al.|[2503.21345](http://arxiv.org/abs/2503.21345)|null|
 |**2025-03-26**|**Quantum Neural Network Restatement of Markov Jump Process**|Z. Zarezadeh et.al.|[2503.20742](http://arxiv.org/abs/2503.20742)|null|
 |**2025-03-26**|**Improving Variational Quantum Circuit Optimization via Hybrid Algorithms and Random Axis Initialization**|Joona V. Pankkonen et.al.|[2503.20728](http://arxiv.org/abs/2503.20728)|null|
 |**2025-03-26**|**New perspectives on quantum kernels through the lens of entangled tensor kernels**|Seongwook Shin et.al.|[2503.20683](http://arxiv.org/abs/2503.20683)|null|
@@ -4744,6 +4754,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
+|**2025-03-27**|**Reducing of system of partial differential equations and generalized symmetry of ordinary differential equations**|I. M. Tsyfra et.al.|[2503.21675](http://arxiv.org/abs/2503.21675)|null|
+|**2025-03-26**|**Non-semisimple WRT at the boundary of Crane-Yetter**|Benjamin Haïoun et.al.|[2503.20905](http://arxiv.org/abs/2503.20905)|null|
 |**2025-03-26**|**A cosmological full-shape power spectra analysis using pre- and post-reconstructed density fields**|Weibing Zhang et.al.|[2503.20574](http://arxiv.org/abs/2503.20574)|null|
 |**2025-03-26**|**Topological Degeneracy Induced Flat Bands in two-Dimensional Holed Systems**|Yuge Chen et.al.|[2503.20389](http://arxiv.org/abs/2503.20389)|null|
 |**2025-03-24**|**A Promising Method for Strongly Correlated Electrons in Two Dimensions: Gutzwiller-Guided Density Matrix Renormalization Group**|Hui-Ke Jin et.al.|[2503.18374](http://arxiv.org/abs/2503.18374)|null|
