@@ -3459,7 +3459,7 @@ layout: default
 |**2025-03-24**|**Quantum Advantage in Testing (Local) Convexity and Monotonicity of Function**|Nhat A. Nghiem et.al.|[2503.18696](http://arxiv.org/abs/2503.18696)|null|
 |**2025-03-21**|**Criteria for unbiased estimation: applications to noise-agnostic sensing and learnability of quantum channel**|Hyukgun Kwon et.al.|[2503.17362](http://arxiv.org/abs/2503.17362)|null|
 |**2025-03-21**|**Fast Convex Optimization with Quantum Gradient Methods**|Brandon Augustino et.al.|[2503.17356](http://arxiv.org/abs/2503.17356)|null|
-|**2025-03-21**|**QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**|Matteo Paltenghi et.al.|[2503.17322](http://arxiv.org/abs/2503.17322)|null|
+|**2025-03-21**|**QITE: Assembly-Level, Cross-Platform Testing of Quantum Computing Platforms**|Matteo Paltenghi et.al.|[2503.17322](http://arxiv.org/abs/2503.17322)|**[link](https://github.com/sola-st/qite-quantum-platform-testing)**|
 |**2025-03-21**|**On Quantum Perceptron Learning via Quantum Search**|Xiaoyu Sun et.al.|[2503.17308](http://arxiv.org/abs/2503.17308)|null|
 |**2025-03-21**|**Controlled Floquet Dynamics and Topological Bound States in Continuum via Colored Quantum Random Walks**|Zahra Jalali-Mola et.al.|[2503.17263](http://arxiv.org/abs/2503.17263)|null|
 |**2025-03-21**|**On the Importance of Error Mitigation for Quantum Computation**|Dorit Aharonov et.al.|[2503.17243](http://arxiv.org/abs/2503.17243)|null|
@@ -3478,7 +3478,7 @@ layout: default
 |**2025-03-20**|**Topological Kleene Field Theories: A new model of computation**|Ángel González-Prieto et.al.|[2503.16100](http://arxiv.org/abs/2503.16100)|null|
 |**2025-03-20**|**Multimode Qubit-Conditional Operations via Generalized Cross-Resonance**|Mohammad Ayyash et.al.|[2503.15941](http://arxiv.org/abs/2503.15941)|null|
 |**2025-03-19**|**Natural Quantization of Neural Networks**|Richard Barney et.al.|[2503.15482](http://arxiv.org/abs/2503.15482)|null|
-|**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452](http://arxiv.org/abs/2503.15452)|null|
+|**2025-03-19**|**Provably optimal exact gate synthesis from a discrete gate set**|Élie Gouzien et.al.|[2503.15452](http://arxiv.org/abs/2503.15452)|**[link](https://github.com/eliegouzien/quatum_gate_sat_synthesis)**|
 |**2025-03-19**|**LuGo: an Enhanced Quantum Phase Estimation Implementation**|Chao Lu et.al.|[2503.15439](http://arxiv.org/abs/2503.15439)|null|
 |**2025-03-19**|**Two-qubit logic and teleportation with mobile spin qubits in silicon**|Yuta Matsumoto et.al.|[2503.15434](http://arxiv.org/abs/2503.15434)|null|
 |**2025-03-19**|**Simulated Non-Abelian Statistics of Majorana Zero Modes from a Kitaev Lattice**|Foster Sabatino et.al.|[2503.15405](http://arxiv.org/abs/2503.15405)|null|
