@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Differential equation quantum solvers: engineering measurements to reduce cost**|Annie Paine et.al.|[2503.22656](http://arxiv.org/abs/2503.22656)|null|
+|**2025-03-28**|**Explicit non-free tensors**|Maxim van den Berg et.al.|[2503.22650](http://arxiv.org/abs/2503.22650)|null|
+|**2025-03-28**|**Revealing the loss mechanisms of a 3D superconducting microwave cavity for use in a dark matter search**|J. C. Esmenda et.al.|[2503.22637](http://arxiv.org/abs/2503.22637)|null|
+|**2025-03-28**|**The moment polytope of matrix multiplication is not maximal**|Maxim van den Berg et.al.|[2503.22633](http://arxiv.org/abs/2503.22633)|null|
+|**2025-03-28**|**Towards a Quantum Information Theory of Hadronization: Dihadron Fragmentation and Neutral Polarization in Heavy Baryons**|Rebecca von Kuk et.al.|[2503.22607](http://arxiv.org/abs/2503.22607)|null|
+|**2025-03-28**|**Enhanced Variational Quantum Kolmogorov-Arnold Network**|Hikaru Wakaura et.al.|[2503.22604](http://arxiv.org/abs/2503.22604)|null|
+|**2025-03-28**|**Variational quantum-neural hybrid imaginary time evolution**|Hiroki Kuji et.al.|[2503.22570](http://arxiv.org/abs/2503.22570)|null|
+|**2025-03-28**|**Exploration of Design Alternatives for Reducing Idle Time in Shor's Algorithm: A Study on Monolithic and Distributed Quantum Systems**|Moritz Schmidt et.al.|[2503.22564](http://arxiv.org/abs/2503.22564)|null|
+|**2025-03-28**|**Light Storage in Light Cages: A Scalable Platform for Multiplexed Quantum Memories**|Esteban Gómez-López et.al.|[2503.22423](http://arxiv.org/abs/2503.22423)|null|
+|**2025-03-28**|**Avoiding convergence stagnation in a quantum circuit evolutionary framework through an adaptive cost function**|Bruno Oziel Fernandez et.al.|[2503.22404](http://arxiv.org/abs/2503.22404)|null|
 |**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773](http://arxiv.org/abs/2503.21773)|null|
 |**2025-03-27**|**Adiabatic quantum state preparation in integrable models**|Maximilian Lutz et.al.|[2503.21741](http://arxiv.org/abs/2503.21741)|null|
 |**2025-03-27**|**Molecular Quantum Transformer**|Yuichi Kamata et.al.|[2503.21686](http://arxiv.org/abs/2503.21686)|null|
@@ -4730,7 +4740,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-27**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
+|**2025-03-27**|**Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator**|Donghae Seo et.al.|[2503.21925](http://arxiv.org/abs/2503.21925)|null|
+|**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
 |**2025-03-27**|**Reducing of system of partial differential equations and generalized symmetry of ordinary differential equations**|I. M. Tsyfra et.al.|[2503.21675](http://arxiv.org/abs/2503.21675)|null|
 |**2025-03-26**|**Non-semisimple WRT at the boundary of Crane-Yetter**|Benjamin Haïoun et.al.|[2503.20905](http://arxiv.org/abs/2503.20905)|null|
 |**2025-03-26**|**A cosmological full-shape power spectra analysis using pre- and post-reconstructed density fields**|Weibing Zhang et.al.|[2503.20574](http://arxiv.org/abs/2503.20574)|null|
