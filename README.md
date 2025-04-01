@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Entanglement Distribution in Lossy Quantum Networks**|Leonardo Oleynik et.al.|[2503.24347](http://arxiv.org/abs/2503.24347)|null|
+|**2025-03-31**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332](http://arxiv.org/abs/2503.24332)|null|
+|**2025-03-31**|**Quantum algorithms for cooling: a simple case study**|Daniel Molpeceres et.al.|[2503.24330](http://arxiv.org/abs/2503.24330)|null|
+|**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
+|**2025-03-31**|**Mitigation of correlated readout errors without randomized measurements**|Adrian Skasberg Aasen et.al.|[2503.24276](http://arxiv.org/abs/2503.24276)|null|
+|**2025-03-31**|**Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor**|Viviana Stasino et.al.|[2503.24274](http://arxiv.org/abs/2503.24274)|null|
+|**2025-03-31**|**Unitary and non-unitary operators leverage perfect and imperfect single qutrit teleportation**|Sovik Roy et.al.|[2503.24247](http://arxiv.org/abs/2503.24247)|null|
+|**2025-03-31**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171](http://arxiv.org/abs/2503.24171)|null|
+|**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS2 with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
+|**2025-03-31**|**$\mathsf{P}$ -completeness of Graph Local Complementation**|Pablo Concha-Vega et.al.|[2503.24144](http://arxiv.org/abs/2503.24144)|null|
 |**2025-03-28**|**Differential equation quantum solvers: engineering measurements to reduce cost**|Annie Paine et.al.|[2503.22656](http://arxiv.org/abs/2503.22656)|null|
 |**2025-03-28**|**Explicit non-free tensors**|Maxim van den Berg et.al.|[2503.22650](http://arxiv.org/abs/2503.22650)|null|
 |**2025-03-28**|**Revealing the loss mechanisms of a 3D superconducting microwave cavity for use in a dark matter search**|J. C. Esmenda et.al.|[2503.22637](http://arxiv.org/abs/2503.22637)|null|
@@ -4764,6 +4774,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**Representations of knot groups in $\textrm{AGL}_{1}(\mathbb{C})$ and Alexander invariants**|Ángel González-Prieto et.al.|[2503.23364](http://arxiv.org/abs/2503.23364)|null|
+|**2025-03-29**|**Fluctuations and Correlations of Local Topological Order Parameters in Disordered Two-dimensional Topological Insulators**|Roberta Favata et.al.|[2503.23188](http://arxiv.org/abs/2503.23188)|null|
+|**2025-03-28**|**Entropic Order**|Yiqiu Han et.al.|[2503.22789](http://arxiv.org/abs/2503.22789)|null|
 |**2025-03-27**|**Most topological orders forbid sign-problem-free quantum Monte Carlo: Nonpositive Gauss sum as an indicator**|Donghae Seo et.al.|[2503.21925](http://arxiv.org/abs/2503.21925)|null|
 |**2025-03-28**|**Phases with non-invertible symmetries in 1+1D $\unicode{x2013}$ symmetry protected topological orders as duality automorphisms**|Ömer M. Aksoy et.al.|[2503.21764](http://arxiv.org/abs/2503.21764)|null|
 |**2025-03-27**|**Reducing of system of partial differential equations and generalized symmetry of ordinary differential equations**|I. M. Tsyfra et.al.|[2503.21675](http://arxiv.org/abs/2503.21675)|null|
