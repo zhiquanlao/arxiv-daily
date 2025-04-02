@@ -3425,7 +3425,7 @@ layout: default
 |**2025-03-31**|**Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor**|Viviana Stasino et.al.|[2503.24274](http://arxiv.org/abs/2503.24274)|null|
 |**2025-03-31**|**Unitary and non-unitary operators leverage perfect and imperfect single qutrit teleportation**|Sovik Roy et.al.|[2503.24247](http://arxiv.org/abs/2503.24247)|null|
 |**2025-04-01**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171](http://arxiv.org/abs/2503.24171)|null|
-|**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS2 with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
+|**2025-03-31**|**First-principles design of stable spin qubits in monolayer MoS $_2$ with elemental defect engineering**|Cailian Yu et.al.|[2503.24163](http://arxiv.org/abs/2503.24163)|null|
 |**2025-03-31**|**$\mathsf{P}$ -completeness of Graph Local Complementation**|Pablo Concha-Vega et.al.|[2503.24144](http://arxiv.org/abs/2503.24144)|null|
 |**2025-03-28**|**Differential equation quantum solvers: engineering measurements to reduce cost**|Annie Paine et.al.|[2503.22656](http://arxiv.org/abs/2503.22656)|null|
 |**2025-03-28**|**Explicit non-free tensors**|Maxim van den Berg et.al.|[2503.22650](http://arxiv.org/abs/2503.22650)|null|
