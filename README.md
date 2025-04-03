@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936](http://arxiv.org/abs/2504.01936)|null|
+|**2025-04-02**|**Threshold for Fault-tolerant Quantum Advantage with the Quantum Approximate Optimization Algorithm**|Sivaprasad Omanakuttan et.al.|[2504.01897](http://arxiv.org/abs/2504.01897)|null|
+|**2025-04-02**|**Multiplexed Control at Scale for Electrode Arrays in Trapped-Ion Quantum Processors**|Ryutaro Ohira et.al.|[2504.01815](http://arxiv.org/abs/2504.01815)|null|
+|**2025-04-02**|**Variational preparation of entangled states in a system of transmon qubits**|Alexander Yeremeyev et.al.|[2504.01754](http://arxiv.org/abs/2504.01754)|null|
+|**2025-04-02**|**Linear Time Iterative Decoders for Hypergraph-Product and Lifted-Product Codes**|Asit Kumar Pradhan et.al.|[2504.01728](http://arxiv.org/abs/2504.01728)|null|
+|**2025-04-02**|**K-P Quantum Neural Networks**|Elija Perrier et.al.|[2504.01673](http://arxiv.org/abs/2504.01673)|null|
+|**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi et.al.|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
+|**2025-04-02**|**Adaptive mesh refinement quantum algorithm for Maxwell's equations**|Elise Fressart et.al.|[2504.01646](http://arxiv.org/abs/2504.01646)|null|
+|**2025-04-02**|**Sub-second spin and lifetime-limited optical coherences in $^{171}$Yb$^{3+}$:CaWO$_4$**|Alexey Tiranov et.al.|[2504.01592](http://arxiv.org/abs/2504.01592)|null|
+|**2025-04-02**|**Quantum Computing for Optimizing Aircraft Loading**|Ananth Kaushik et.al.|[2504.01567](http://arxiv.org/abs/2504.01567)|null|
 |**2025-03-31**|**Entanglement Distribution in Lossy Quantum Networks**|Leonardo Oleynik et.al.|[2503.24347](http://arxiv.org/abs/2503.24347)|null|
 |**2025-03-31**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332](http://arxiv.org/abs/2503.24332)|null|
 |**2025-03-31**|**Quantum algorithms for cooling: a simple case study**|Daniel Molpeceres et.al.|[2503.24330](http://arxiv.org/abs/2503.24330)|null|
@@ -4774,6 +4784,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Global variants of $\mathcal{N}=1^*$ theories and Calogero-Moser systems**|Jeremías Aguilera Damia et.al.|[2504.01502](http://arxiv.org/abs/2504.01502)|null|
+|**2025-04-01**|**Non-abelian higher form symmetry**|Natsuya Kido et.al.|[2504.00504](http://arxiv.org/abs/2504.00504)|null|
+|**2025-04-01**|**Loschmidt echo zeros and dynamical quantum phase transitions in finite-size quantum systems with linear quench**|Zhen-Yu Zheng et.al.|[2504.00483](http://arxiv.org/abs/2504.00483)|null|
+|**2025-03-31**|**Constraints on Non-Thermal Pressure at galaxy cluster outskirts from a Joint SPT and XMM-Newton Analysis**|Arnab Sarkar et.al.|[2504.00113](http://arxiv.org/abs/2504.00113)|null|
 |**2025-03-30**|**Representations of knot groups in $\textrm{AGL}_{1}(\mathbb{C})$ and Alexander invariants**|Ángel González-Prieto et.al.|[2503.23364](http://arxiv.org/abs/2503.23364)|null|
 |**2025-03-29**|**Fluctuations and Correlations of Local Topological Order Parameters in Disordered Two-dimensional Topological Insulators**|Roberta Favata et.al.|[2503.23188](http://arxiv.org/abs/2503.23188)|null|
 |**2025-03-28**|**Entropic Order**|Yiqiu Han et.al.|[2503.22789](http://arxiv.org/abs/2503.22789)|null|
