@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
+|**2025-04-03**|**Hong-Ou-Mandel interference of more than 10 indistinguishable atoms**|Martin Quensen et.al.|[2504.02691](http://arxiv.org/abs/2504.02691)|null|
+|**2025-04-03**|**Measure-independent description of wave-particle duality via coherence**|Zhaofang Bai et.al.|[2504.02554](http://arxiv.org/abs/2504.02554)|null|
+|**2025-04-03**|**An Overview of Josephson Junctions Based QPUs**|Omid Mohebi et.al.|[2504.02500](http://arxiv.org/abs/2504.02500)|null|
+|**2025-04-03**|**QPanda3: A High-Performance Software-Hardware Collaborative Framework for Large-Scale Quantum-Classical Computing Integration**|Tianrui Zou et.al.|[2504.02455](http://arxiv.org/abs/2504.02455)|null|
+|**2025-04-03**|**Isospectral oscillators as a resource for quantum information processing**|Abdelatif Chabane et.al.|[2504.02444](http://arxiv.org/abs/2504.02444)|null|
+|**2025-04-03**|**Impact of helium ion irradiation on the thermal properties of superconducting nanowire single-photon detectors**|Yi-Yu Hong et.al.|[2504.02405](http://arxiv.org/abs/2504.02405)|null|
+|**2025-04-03**|**Quantum singular value transformation without block encodings: Near-optimal complexity with minimal ancilla**|Shantanav Chakraborty et.al.|[2504.02385](http://arxiv.org/abs/2504.02385)|null|
+|**2025-04-03**|**Perturbative Variational Quantum Eigensolver based on Reduced Density Matrix Method**|Yuhan Zheng et.al.|[2504.02340](http://arxiv.org/abs/2504.02340)|null|
+|**2025-04-03**|**A direct algebraic proof for the non-positivity of Liouvillian eigenvalues in Markovian quantum dynamics**|Yikang Zhang et.al.|[2504.02256](http://arxiv.org/abs/2504.02256)|null|
 |**2025-04-02**|**Fermionic Averaged Circuit Eigenvalue Sampling**|Adrian Chapman et.al.|[2504.01936](http://arxiv.org/abs/2504.01936)|null|
 |**2025-04-02**|**Threshold for Fault-tolerant Quantum Advantage with the Quantum Approximate Optimization Algorithm**|Sivaprasad Omanakuttan et.al.|[2504.01897](http://arxiv.org/abs/2504.01897)|null|
 |**2025-04-02**|**Multiplexed Control at Scale for Electrode Arrays in Trapped-Ion Quantum Processors**|Ryutaro Ohira et.al.|[2504.01815](http://arxiv.org/abs/2504.01815)|null|
@@ -4784,6 +4794,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning et.al.|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
+|**2025-04-02**|**Topological Phase Transition in the Two-Leg Hubbard Model: Emergence of the Haldane Phase via Diagonal Hopping and Strong Interactions**|João Pedro Gama D'Elia et.al.|[2504.02157](http://arxiv.org/abs/2504.02157)|null|
 |**2025-04-02**|**Global variants of $\mathcal{N}=1^*$ theories and Calogero-Moser systems**|Jeremías Aguilera Damia et.al.|[2504.01502](http://arxiv.org/abs/2504.01502)|null|
 |**2025-04-01**|**Non-abelian higher form symmetry**|Natsuya Kido et.al.|[2504.00504](http://arxiv.org/abs/2504.00504)|null|
 |**2025-04-01**|**Loschmidt echo zeros and dynamical quantum phase transitions in finite-size quantum systems with linear quench**|Zhen-Yu Zheng et.al.|[2504.00483](http://arxiv.org/abs/2504.00483)|null|
