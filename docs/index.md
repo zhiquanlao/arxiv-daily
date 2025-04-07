@@ -1117,7 +1117,7 @@ layout: default
 |**2023-11-19**|**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**|Ameya Prabhu et.al.|[2311.11293](http://arxiv.org/abs/2311.11293)|null|
 |**2023-11-18**|**Lesion Search with Self-supervised Learning**|Kristin Qi et.al.|[2311.11014](http://arxiv.org/abs/2311.11014)|null|
 |**2023-11-15**|**Flow reconstruction and particle characterization from inertial Lagrangian tracks**|Ke Zhou et.al.|[2311.09076](http://arxiv.org/abs/2311.09076)|null|
-|**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|null|
+|**2023-11-15**|**Pretrain like Your Inference: Masked Tuning Improves Zero-Shot Composed Image Retrieval**|Junyang Chen et.al.|[2311.07622](http://arxiv.org/abs/2311.07622)|**[link](https://github.com/Chen-Junyang-cn/PLI)**|
 |**2023-11-13**|**VGSG: Vision-Guided Semantic-Group Network for Text-based Person Search**|Shuting He et.al.|[2311.07514](http://arxiv.org/abs/2311.07514)|null|
 |**2023-11-10**|**Attributes Grouping and Mining Hashing for Fine-Grained Image Retrieval**|Xin Lu et.al.|[2311.06067](http://arxiv.org/abs/2311.06067)|null|
 |**2023-11-08**|**Energy-efficient Wireless Image Retrieval for IoT Devices by Transmitting a TinyML Model**|Junya Shiraishi et.al.|[2311.04788](http://arxiv.org/abs/2311.04788)|null|
@@ -3432,7 +3432,7 @@ layout: default
 |**2025-04-02**|**Multiplexed Control at Scale for Electrode Arrays in Trapped-Ion Quantum Processors**|Ryutaro Ohira et.al.|[2504.01815](http://arxiv.org/abs/2504.01815)|null|
 |**2025-04-02**|**Variational preparation of entangled states in a system of transmon qubits**|Alexander Yeremeyev et.al.|[2504.01754](http://arxiv.org/abs/2504.01754)|null|
 |**2025-04-02**|**Linear Time Iterative Decoders for Hypergraph-Product and Lifted-Product Codes**|Asit Kumar Pradhan et.al.|[2504.01728](http://arxiv.org/abs/2504.01728)|null|
-|**2025-04-02**|**K-P Quantum Neural Networks**|Elija Perrier et.al.|[2504.01673](http://arxiv.org/abs/2504.01673)|null|
+|**2025-04-02**|**K-P Quantum Neural Networks**|Elija Perrier et.al.|[2504.01673](http://arxiv.org/abs/2504.01673)|**[link](https://github.com/eperrier/k-p_qnn)**|
 |**2025-04-02**|**Bubble Clustering Decoder for Quantum Topological Codes**|Diego Forlivesi et.al.|[2504.01654](http://arxiv.org/abs/2504.01654)|null|
 |**2025-04-02**|**Adaptive mesh refinement quantum algorithm for Maxwell's equations**|Elise Fressart et.al.|[2504.01646](http://arxiv.org/abs/2504.01646)|null|
 |**2025-04-02**|**Sub-second spin and lifetime-limited optical coherences in $^{171}$Yb$^{3+}$:CaWO$_4$**|Alexey Tiranov et.al.|[2504.01592](http://arxiv.org/abs/2504.01592)|null|
@@ -3441,7 +3441,7 @@ layout: default
 |**2025-03-31**|**On Speedups for Convex Optimization via Quantum Dynamics**|Shouvanik Chakrabarti et.al.|[2503.24332](http://arxiv.org/abs/2503.24332)|null|
 |**2025-03-31**|**Quantum algorithms for cooling: a simple case study**|Daniel Molpeceres et.al.|[2503.24330](http://arxiv.org/abs/2503.24330)|null|
 |**2025-03-31**|**QUADRO: A Hybrid Quantum Optimization Framework for Drone Delivery**|James B. Holliday et.al.|[2503.24301](http://arxiv.org/abs/2503.24301)|null|
-|**2025-03-31**|**Mitigation of correlated readout errors without randomized measurements**|Adrian Skasberg Aasen et.al.|[2503.24276](http://arxiv.org/abs/2503.24276)|null|
+|**2025-03-31**|**Mitigation of correlated readout errors without randomized measurements**|Adrian Skasberg Aasen et.al.|[2503.24276](http://arxiv.org/abs/2503.24276)|**[link](https://github.com/adrianaasen/cremst)**|
 |**2025-03-31**|**Implementation and readout of maximally entangled two-qubit gates quantum circuits in a superconducting quantum processor**|Viviana Stasino et.al.|[2503.24274](http://arxiv.org/abs/2503.24274)|null|
 |**2025-03-31**|**Unitary and non-unitary operators leverage perfect and imperfect single qutrit teleportation**|Sovik Roy et.al.|[2503.24247](http://arxiv.org/abs/2503.24247)|null|
 |**2025-04-01**|**Hamiltonian Dynamics Learning: A Scalable Approach to Quantum Process Characterization**|Yusen Wu et.al.|[2503.24171](http://arxiv.org/abs/2503.24171)|null|
@@ -3456,7 +3456,7 @@ layout: default
 |**2025-03-28**|**Variational quantum-neural hybrid imaginary time evolution**|Hiroki Kuji et.al.|[2503.22570](http://arxiv.org/abs/2503.22570)|null|
 |**2025-03-28**|**Exploration of Design Alternatives for Reducing Idle Time in Shor's Algorithm: A Study on Monolithic and Distributed Quantum Systems**|Moritz Schmidt et.al.|[2503.22564](http://arxiv.org/abs/2503.22564)|null|
 |**2025-03-28**|**Light Storage in Light Cages: A Scalable Platform for Multiplexed Quantum Memories**|Esteban Gómez-López et.al.|[2503.22423](http://arxiv.org/abs/2503.22423)|null|
-|**2025-03-28**|**Avoiding convergence stagnation in a quantum circuit evolutionary framework through an adaptive cost function**|Bruno Oziel Fernandez et.al.|[2503.22404](http://arxiv.org/abs/2503.22404)|null|
+|**2025-03-28**|**Avoiding convergence stagnation in a quantum circuit evolutionary framework through an adaptive cost function**|Bruno Oziel Fernandez et.al.|[2503.22404](http://arxiv.org/abs/2503.22404)|**[link](https://github.com/brunooziel/quantum-circuit-evolution-with-an-adaptive-cost-function)**|
 |**2025-03-27**|**Simulating quantum circuits with restricted quantum computers**|Christophe Piveteau et.al.|[2503.21773](http://arxiv.org/abs/2503.21773)|null|
 |**2025-03-27**|**Adiabatic quantum state preparation in integrable models**|Maximilian Lutz et.al.|[2503.21741](http://arxiv.org/abs/2503.21741)|null|
 |**2025-03-27**|**Molecular Quantum Transformer**|Yuichi Kamata et.al.|[2503.21686](http://arxiv.org/abs/2503.21686)|null|
@@ -3478,7 +3478,7 @@ layout: default
 |**2025-03-26**|**Electric Field Distortions in Surface Ion Traps with Integrated Nanophotonics**|Guochun Du et.al.|[2503.20387](http://arxiv.org/abs/2503.20387)|null|
 |**2025-03-26**|**Power Networks SCADA Communication Cybersecurity, A Qiskit Implementation**|Hillol Biswas et.al.|[2503.20365](http://arxiv.org/abs/2503.20365)|null|
 |**2025-03-25**|**Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation**|Yuncheng Lu et.al.|[2503.19894](http://arxiv.org/abs/2503.19894)|null|
-|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont et.al.|[2503.19790](http://arxiv.org/abs/2503.19790)|null|
+|**2025-03-25**|**Clifford gates with logical transversality for self-dual CSS codes**|Theerapat Tansuwannont et.al.|[2503.19790](http://arxiv.org/abs/2503.19790)|**[link](https://github.com/yugotakada/mlvtrans)**|
 |**2025-03-25**|**Applications of Certified Randomness**|Omar Amer et.al.|[2503.19759](http://arxiv.org/abs/2503.19759)|null|
 |**2025-03-25**|**QuCOOP: A Versatile Framework for Solving Composite and Binary-Parametrised Problems on Quantum Annealers**|Natacha Kuete Meli et.al.|[2503.19718](http://arxiv.org/abs/2503.19718)|null|
 |**2025-03-25**|**Removal of high-voltage-induced surface charges by ultraviolet light**|M. T. Ziemba et.al.|[2503.19662](http://arxiv.org/abs/2503.19662)|null|
@@ -3645,7 +3645,7 @@ layout: default
 |**2025-02-28**|**Auxiliary-field quantum Monte Carlo method with quantum selected configuration interaction**|Yuichiro Yoshida et.al.|[2502.21081](http://arxiv.org/abs/2502.21081)|null|
 |**2025-02-28**|**Quantum-aware Transformer model for state classification**|Przemysław Sekuła et.al.|[2502.21055](http://arxiv.org/abs/2502.21055)|null|
 |**2025-02-28**|**Bound-state formation and thermalization within the Lindblad approach**|Jan Rais et.al.|[2502.21047](http://arxiv.org/abs/2502.21047)|null|
-|**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings et.al.|[2502.21044](http://arxiv.org/abs/2502.21044)|null|
+|**2025-02-28**|**Improving error suppression with noise-aware decoding**|Evan T. Hockings et.al.|[2502.21044](http://arxiv.org/abs/2502.21044)|**[link](https://github.com/evanhockings/QuantumACES.jl)**|
 |**2025-02-28**|**AutoQML: A Framework for Automated Quantum Machine Learning**|Marco Roth et.al.|[2502.21025](http://arxiv.org/abs/2502.21025)|**[link](https://github.com/AutoQML/autoqml)**|
 |**2025-02-27**|**Fault-Resilience of Dissipative Processes for Quantum Computing**|James Purcell et.al.|[2502.20374](http://arxiv.org/abs/2502.20374)|null|
 |**2025-02-27**|**Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems**|Lixing Zhang et.al.|[2502.20373](http://arxiv.org/abs/2502.20373)|null|
