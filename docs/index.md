@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
+|**2025-04-04**|**Quantum Search with In-Place Queries**|Blake Holman et.al.|[2504.03620](http://arxiv.org/abs/2504.03620)|null|
+|**2025-04-04**|**Variational Quantum Self-Organizing Map**|Amol Deshmukh et.al.|[2504.03584](http://arxiv.org/abs/2504.03584)|null|
+|**2025-04-04**|**Minimally Universal Parity Quantum Computing**|Isaac D. Smith et.al.|[2504.03556](http://arxiv.org/abs/2504.03556)|null|
+|**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529](http://arxiv.org/abs/2504.03529)|null|
+|**2025-04-04**|**Observation of Temperature Effects in False Vacuum Decay**|Riccardo Cominotti et.al.|[2504.03528](http://arxiv.org/abs/2504.03528)|null|
+|**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
+|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi et.al.|[2504.03504](http://arxiv.org/abs/2504.03504)|null|
+|**2025-04-04**|**Tracking and Distinguishing Slime Mold Solutions to the Traveling Salesman Problem through Synchronized Amplification in the Non-Equilibrium Steady State**|Suyash Bajpai et.al.|[2504.03492](http://arxiv.org/abs/2504.03492)|null|
+|**2025-04-04**|**An all-fibred, telecom technology compatible, room temperature, single-photon source**|Nathan Lecaron et.al.|[2504.03475](http://arxiv.org/abs/2504.03475)|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
 |**2025-04-03**|**Hong-Ou-Mandel interference of more than 10 indistinguishable atoms**|Martin Quensen et.al.|[2504.02691](http://arxiv.org/abs/2504.02691)|null|
 |**2025-04-03**|**Measure-independent description of wave-particle duality via coherence**|Zhaofang Bai et.al.|[2504.02554](http://arxiv.org/abs/2504.02554)|null|
@@ -4770,6 +4780,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories**|Clay Cordova et.al.|[2504.03614](http://arxiv.org/abs/2504.03614)|null|
+|**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
 |**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning et.al.|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
 |**2025-04-02**|**Topological Phase Transition in the Two-Leg Hubbard Model: Emergence of the Haldane Phase via Diagonal Hopping and Strong Interactions**|João Pedro Gama D'Elia et.al.|[2504.02157](http://arxiv.org/abs/2504.02157)|null|
 |**2025-04-02**|**Global variants of $\mathcal{N}=1^*$ theories and Calogero-Moser systems**|Jeremías Aguilera Damia et.al.|[2504.01502](http://arxiv.org/abs/2504.01502)|null|
