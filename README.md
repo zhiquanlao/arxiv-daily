@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**Quantum Program Linting with LLMs: Emerging Results from a Comparative Study**|Seung Yeob Shin et.al.|[2504.05204](http://arxiv.org/abs/2504.05204)|null|
+|**2025-04-07**|**Experimental verification of Threshold Quantum State Tomography on a fully-reconfigurable photonic integrated circuit**|Eugenio Caruccio et.al.|[2504.05079](http://arxiv.org/abs/2504.05079)|null|
+|**2025-04-07**|**Entangling two Rydberg Superatoms via Heralded Storage**|Zi-Ye An et.al.|[2504.05021](http://arxiv.org/abs/2504.05021)|null|
+|**2025-04-07**|**Radio frequency single electron transmission spectroscopy of a semiconductor Si/SiGe quantum dot**|I. Fattal et.al.|[2504.05016](http://arxiv.org/abs/2504.05016)|null|
+|**2025-04-07**|**Quantum walk with coherent multiple translations induces fast quantum gate operations**|Yixiang Zhang et.al.|[2504.04990](http://arxiv.org/abs/2504.04990)|null|
+|**2025-04-07**|**An all optical broadband tunable quantum frequency shifter**|Li Chen et.al.|[2504.04959](http://arxiv.org/abs/2504.04959)|null|
+|**2025-04-07**|**Probabilistic imaginary-time evolution in state-vector-based and shot-based simulations and on quantum devices**|Satoshi Ejima et.al.|[2504.04958](http://arxiv.org/abs/2504.04958)|null|
+|**2025-04-07**|**Scalable chip-based 3D ion traps**|Elena Jordan et.al.|[2504.04946](http://arxiv.org/abs/2504.04946)|null|
+|**2025-04-07**|**Nonlinear Phase Gates as Airy Transforms of the Wigner Function**|Darren W. Moore et.al.|[2504.04851](http://arxiv.org/abs/2504.04851)|null|
+|**2025-04-07**|**Markov Gap and Bound Entanglement in Haar Random State**|Tian-Ren Jin et.al.|[2504.04802](http://arxiv.org/abs/2504.04802)|null|
 |**2025-04-04**|**Quantum Speedups for Markov Chain Monte Carlo Methods with Application to Optimization**|Guneykan Ozgul et.al.|[2504.03626](http://arxiv.org/abs/2504.03626)|null|
 |**2025-04-04**|**Quantum Search with In-Place Queries**|Blake Holman et.al.|[2504.03620](http://arxiv.org/abs/2504.03620)|null|
 |**2025-04-04**|**Variational Quantum Self-Organizing Map**|Amol Deshmukh et.al.|[2504.03584](http://arxiv.org/abs/2504.03584)|null|
