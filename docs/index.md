@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut**|Bikrant Bhattachayra et.al.|[2504.06253](http://arxiv.org/abs/2504.06253)|null|
+|**2025-04-08**|**Continuous-variable spatio-spectral quantum networks in nonlinear photonic lattices**|Natalia Costas et.al.|[2504.06229](http://arxiv.org/abs/2504.06229)|null|
+|**2025-04-08**|**Signatures of Candidate States of $ν=12/5$ in Shot Noise**|Goutham Vinjamuri et.al.|[2504.06226](http://arxiv.org/abs/2504.06226)|null|
+|**2025-04-08**|**Basic distillation with realistic noise**|Vikesh Siddhu et.al.|[2504.06175](http://arxiv.org/abs/2504.06175)|null|
+|**2025-04-08**|**Symmetry breaking in chaotic many-body quantum systems at finite temperature**|Angelo Russotto et.al.|[2504.06146](http://arxiv.org/abs/2504.06146)|null|
+|**2025-04-08**|**Equating quantum imaginary time evolution, Riemannian gradient flows, and stochastic implementations**|Nathan A. McMahon et.al.|[2504.06123](http://arxiv.org/abs/2504.06123)|null|
+|**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi et.al.|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
+|**2025-04-08**|**New designs of linear optical interferometers with minimal depth and component count**|Timothée Goubault de Brugière et.al.|[2504.06059](http://arxiv.org/abs/2504.06059)|null|
+|**2025-04-08**|**AriaQuanta: A Quantum Software for Quantum Computing**|A. Cheraghi et.al.|[2504.06024](http://arxiv.org/abs/2504.06024)|null|
+|**2025-04-08**|**Can gravity mediate the transmission of quantum information?**|Andrea Mari et.al.|[2504.05998](http://arxiv.org/abs/2504.05998)|null|
 |**2025-04-07**|**Quantum Program Linting with LLMs: Emerging Results from a Comparative Study**|Seung Yeob Shin et.al.|[2504.05204](http://arxiv.org/abs/2504.05204)|null|
 |**2025-04-07**|**Experimental verification of Threshold Quantum State Tomography on a fully-reconfigurable photonic integrated circuit**|Eugenio Caruccio et.al.|[2504.05079](http://arxiv.org/abs/2504.05079)|null|
 |**2025-04-07**|**Entangling two Rydberg Superatoms via Heralded Storage**|Zi-Ye An et.al.|[2504.05021](http://arxiv.org/abs/2504.05021)|null|
@@ -4790,6 +4800,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi et.al.|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
+|**2025-04-08**|**Remarks on the locality of generalized global symmetries**|Owen Gwilliam et.al.|[2504.05626](http://arxiv.org/abs/2504.05626)|null|
+|**2025-04-07**|**Flux attachment theory of fractional excitonic insulators**|Steven Gassner et.al.|[2504.05427](http://arxiv.org/abs/2504.05427)|null|
+|**2025-04-07**|**von Neumann Subfactors and Non-invertible Symmetries**|Xingyang Yu et.al.|[2504.05374](http://arxiv.org/abs/2504.05374)|null|
 |**2025-04-04**|**Higgsing Transitions from Topological Field Theory & Non-Invertible Symmetry in Chern-Simons Matter Theories**|Clay Cordova et.al.|[2504.03614](http://arxiv.org/abs/2504.03614)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
 |**2025-04-03**|**Parity violation as enforced symmetry breaking in 3D fermionic topological order**|Shang-Qiang Ning et.al.|[2504.02736](http://arxiv.org/abs/2504.02736)|null|
