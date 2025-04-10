@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Quantum Reverse Shannon Theorem Revisited**|Zahra Baghali Khanian et.al.|[2504.07068](http://arxiv.org/abs/2504.07068)|null|
+|**2025-04-09**|**Context Switching for Secure Multi-programming of Near-Term Quantum Computers**|Avinash Kumar et.al.|[2504.07048](http://arxiv.org/abs/2504.07048)|null|
+|**2025-04-09**|**VQE calculations on a NISQ era trapped ion quantum computer using a multireference unitary coupled cluster ansatz: application to the BeH $_2$ insertion problem**|Palak Chawla et.al.|[2504.07037](http://arxiv.org/abs/2504.07037)|null|
+|**2025-04-09**|**Assumption-free fidelity bounds for hardware noise characterization**|Nicolo Colombo et.al.|[2504.07010](http://arxiv.org/abs/2504.07010)|null|
+|**2025-04-09**|**An improved quantum algorithm for linear autonomous differential equations via Padé approximation**|Dekuan Dong et.al.|[2504.06948](http://arxiv.org/abs/2504.06948)|null|
+|**2025-04-09**|**Applications of Hybrid Machine Learning Methods to Large Datasets: A Case Study**|G. Maragkopoulos et.al.|[2504.06892](http://arxiv.org/abs/2504.06892)|null|
+|**2025-04-09**|**A Practical Cross-Platform, Multi-Algorithm Study of Quantum Optimisation for Configurational Analysis of Materials**|Kieran McDowall et.al.|[2504.06885](http://arxiv.org/abs/2504.06885)|null|
+|**2025-04-09**|**Semi-classical geometric tensor in multiparameter quantum information**|Satoya Imai et.al.|[2504.06812](http://arxiv.org/abs/2504.06812)|null|
+|**2025-04-09**|**Variational Quantum Machine Learning with Quantum Error Detection**|Eromanga Adermann et.al.|[2504.06775](http://arxiv.org/abs/2504.06775)|null|
+|**2025-04-09**|**Exact QSP angles for odd monomials**|A. Kegeles et.al.|[2504.06703](http://arxiv.org/abs/2504.06703)|null|
 |**2025-04-08**|**Solving General QUBOs with Warm-Start QAOA via a Reduction to Max-Cut**|Bikrant Bhattachayra et.al.|[2504.06253](http://arxiv.org/abs/2504.06253)|null|
 |**2025-04-08**|**Continuous-variable spatio-spectral quantum networks in nonlinear photonic lattices**|Natalia Costas et.al.|[2504.06229](http://arxiv.org/abs/2504.06229)|null|
 |**2025-04-08**|**Signatures of Candidate States of $ν=12/5$ in Shot Noise**|Goutham Vinjamuri et.al.|[2504.06226](http://arxiv.org/abs/2504.06226)|null|
