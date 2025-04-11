@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**Quantum Speed Limit in Driven-dissipative Systems**|Sarfraj Fency et.al.|[2504.07931](http://arxiv.org/abs/2504.07931)|null|
+|**2025-04-10**|**Spectral delineation of Markov Generators: Classical vs Quantum**|Dariusz Chruściński et.al.|[2504.07903](http://arxiv.org/abs/2504.07903)|null|
+|**2025-04-10**|**Temporal Tensors and Quantum Shortcut Dynamics in a Supermaze of Multidimensional Time**|Koffka Khan et.al.|[2504.07900](http://arxiv.org/abs/2504.07900)|null|
+|**2025-04-10**|**QubitHammer Attacks: Qubit Flipping Attacks in Multi-tenant Superconducting Quantum Computers**|Yizhuo Tan et.al.|[2504.07875](http://arxiv.org/abs/2504.07875)|null|
+|**2025-04-10**|**A quantum computing approach to beam angle optimization**|Nimita Shinde et.al.|[2504.07844](http://arxiv.org/abs/2504.07844)|null|
+|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud et.al.|[2504.07800](http://arxiv.org/abs/2504.07800)|null|
+|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang et.al.|[2504.07732](http://arxiv.org/abs/2504.07732)|null|
+|**2025-04-10**|**Quantum Machine Learning: Unveiling Trends, Impacts through Bibliometric Analysis**|Riya Bansal et.al.|[2504.07726](http://arxiv.org/abs/2504.07726)|null|
+|**2025-04-10**|**Chirality-induced selectivity of angular momentum by orbital Edelstein effect in carbon nanotubes**|Börge Göbel et.al.|[2504.07665](http://arxiv.org/abs/2504.07665)|null|
+|**2025-04-10**|**Towards a Computational Quantum Logic: An Overview of an Ongoing Research Program**|Alejandro Díaz-Caro et.al.|[2504.07609](http://arxiv.org/abs/2504.07609)|null|
 |**2025-04-09**|**Quantum Reverse Shannon Theorem Revisited**|Zahra Baghali Khanian et.al.|[2504.07068](http://arxiv.org/abs/2504.07068)|null|
 |**2025-04-09**|**Context Switching for Secure Multi-programming of Near-Term Quantum Computers**|Avinash Kumar et.al.|[2504.07048](http://arxiv.org/abs/2504.07048)|null|
 |**2025-04-09**|**VQE calculations on a NISQ era trapped ion quantum computer using a multireference unitary coupled cluster ansatz: application to the BeH $_2$ insertion problem**|Palak Chawla et.al.|[2504.07037](http://arxiv.org/abs/2504.07037)|null|
@@ -4834,6 +4844,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-10**|**SKK groups of manifolds and non-unitary invertible TQFTs**|Renee S. Hoekzema et.al.|[2504.07917](http://arxiv.org/abs/2504.07917)|null|
 |**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi et.al.|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
 |**2025-04-08**|**Remarks on the locality of generalized global symmetries**|Owen Gwilliam et.al.|[2504.05626](http://arxiv.org/abs/2504.05626)|null|
 |**2025-04-07**|**Flux attachment theory of fractional excitonic insulators**|Steven Gassner et.al.|[2504.05427](http://arxiv.org/abs/2504.05427)|null|
