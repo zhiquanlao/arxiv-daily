@@ -3422,8 +3422,8 @@ layout: default
 |**2025-04-10**|**Temporal Tensors and Quantum Shortcut Dynamics in a Supermaze of Multidimensional Time**|Koffka Khan et.al.|[2504.07900](http://arxiv.org/abs/2504.07900)|null|
 |**2025-04-10**|**QubitHammer Attacks: Qubit Flipping Attacks in Multi-tenant Superconducting Quantum Computers**|Yizhuo Tan et.al.|[2504.07875](http://arxiv.org/abs/2504.07875)|null|
 |**2025-04-10**|**A quantum computing approach to beam angle optimization**|Nimita Shinde et.al.|[2504.07844](http://arxiv.org/abs/2504.07844)|null|
-|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud et.al.|[2504.07800](http://arxiv.org/abs/2504.07800)|null|
-|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang et.al.|[2504.07732](http://arxiv.org/abs/2504.07732)|null|
+|**2025-04-10**|**A Systematic Approach to Hyperbolic Quantum Error Correction Codes**|Ahmed Adel Mahmoud et.al.|[2504.07800](http://arxiv.org/abs/2504.07800)|**[link](https://github.com/ahmeedadelmahmoud/hqecc-threshold)**|
+|**2025-04-10**|**Efficient Formal Verification of Quantum Error Correcting Programs**|Qifan Huang et.al.|[2504.07732](http://arxiv.org/abs/2504.07732)|**[link](https://github.com/chesterhuang1999/veri-qec)**|
 |**2025-04-10**|**Quantum Machine Learning: Unveiling Trends, Impacts through Bibliometric Analysis**|Riya Bansal et.al.|[2504.07726](http://arxiv.org/abs/2504.07726)|null|
 |**2025-04-10**|**Chirality-induced selectivity of angular momentum by orbital Edelstein effect in carbon nanotubes**|Börge Göbel et.al.|[2504.07665](http://arxiv.org/abs/2504.07665)|null|
 |**2025-04-10**|**Towards a Computational Quantum Logic: An Overview of an Ongoing Research Program**|Alejandro Díaz-Caro et.al.|[2504.07609](http://arxiv.org/abs/2504.07609)|null|
