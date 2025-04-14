@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
+|**2025-04-11**|**Holographic duality from Howe duality: Chern-Simons gravity as an ensemble of code CFTs**|Anatoly Dymarsky et.al.|[2504.08724](http://arxiv.org/abs/2504.08724)|null|
+|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
+|**2025-04-11**|**Frequency-bin interferometry for reconstructing electric fields with low intensity**|Abhinandan Bhattacharjee et.al.|[2504.08607](http://arxiv.org/abs/2504.08607)|null|
+|**2025-04-11**|**Magnon and photon blockade in an antiferromagnet-cavity hybrid quantum system**|Vemund Falch et.al.|[2504.08562](http://arxiv.org/abs/2504.08562)|null|
+|**2025-04-11**|**Screened volume law of Holographic Entanglement Entropy in Holographic Spontaneous Vectorization model**|Chong-Ye Chen et.al.|[2504.08549](http://arxiv.org/abs/2504.08549)|null|
+|**2025-04-11**|**The inherent convolution property of quantum neural networks**|Guangkai Qu et.al.|[2504.08487](http://arxiv.org/abs/2504.08487)|null|
+|**2025-04-11**|**Quality Diversity for Variational Quantum Circuit Optimization**|Maximilian Zorn et.al.|[2504.08459](http://arxiv.org/abs/2504.08459)|null|
+|**2025-04-11**|**Generalization Bounds in Hybrid Quantum-Classical Machine Learning Models**|Tongyan Wu et.al.|[2504.08456](http://arxiv.org/abs/2504.08456)|null|
+|**2025-04-11**|**Towards a Digital Twin of Noisy Quantum Computers: Calibration-Driven Emulation of Transmon Qubits**|Ronny Müller et.al.|[2504.08313](http://arxiv.org/abs/2504.08313)|null|
 |**2025-04-10**|**Quantum Speed Limit in Driven-dissipative Systems**|Sarfraj Fency et.al.|[2504.07931](http://arxiv.org/abs/2504.07931)|null|
 |**2025-04-10**|**Spectral delineation of Markov Generators: Classical vs Quantum**|Dariusz Chruściński et.al.|[2504.07903](http://arxiv.org/abs/2504.07903)|null|
 |**2025-04-10**|**Temporal Tensors and Quantum Shortcut Dynamics in a Supermaze of Multidimensional Time**|Koffka Khan et.al.|[2504.07900](http://arxiv.org/abs/2504.07900)|null|
@@ -4844,6 +4854,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-11**|**Faster shortest-path algorithms using the acyclic-connected tree**|Elis Stefansson et.al.|[2504.08667](http://arxiv.org/abs/2504.08667)|null|
+|**2025-04-11**|**Boundary Scattering and Non-invertible Symmetries in 1+1 Dimensions**|Soichiro Shimamori et.al.|[2504.08375](http://arxiv.org/abs/2504.08375)|null|
+|**2025-04-11**|**Inhomogeneous entanglement structure in monoaxial chiral ferromagnetic quantum spin chain**|Kentaro Nishimura et.al.|[2504.08273](http://arxiv.org/abs/2504.08273)|null|
 |**2025-04-10**|**SKK groups of manifolds and non-unitary invertible TQFTs**|Renee S. Hoekzema et.al.|[2504.07917](http://arxiv.org/abs/2504.07917)|null|
 |**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi et.al.|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
 |**2025-04-08**|**Remarks on the locality of generalized global symmetries**|Owen Gwilliam et.al.|[2504.05626](http://arxiv.org/abs/2504.05626)|null|
