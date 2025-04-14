@@ -1136,7 +1136,7 @@ layout: default
 |**2023-10-20**|**FMRT: Learning Accurate Feature Matching with Reconciliatory Transformer**|Xinyu Zhang et.al.|[2310.13605](http://arxiv.org/abs/2310.13605)|null|
 |**2023-10-20**|**CylinderTag: An Accurate and Flexible Marker for Cylinder-Shape Objects Pose Estimation Based on Projective Invariants**|Shaoan Wang et.al.|[2310.13320](http://arxiv.org/abs/2310.13320)|**[link](https://github.com/wsakobe/cylindertag)**|
 |**2023-10-27**|**Representation Learning via Consistent Assignment of Views over Random Partitions**|Thalles Silva et.al.|[2310.12692](http://arxiv.org/abs/2310.12692)|**[link](https://github.com/sthalles/carp)**|
-|**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867](http://arxiv.org/abs/2310.11867)|null|
+|**2023-10-18**|**Evaluating the Fairness of Discriminative Foundation Models in Computer Vision**|Junaid Ali et.al.|[2310.11867](http://arxiv.org/abs/2310.11867)|**[link](https://github.com/joniali/evaluating-fairness-discriminative-fms)**|
 |**2023-10-17**|**Learning Comprehensive Representations with Richer Self for Text-to-Image Person Re-Identification**|Shuanglin Yan et.al.|[2310.11210](http://arxiv.org/abs/2310.11210)|null|
 |**2023-10-16**|**Autonomous Mapping and Navigation using Fiducial Markers and Pan-Tilt Camera for Assisting Indoor Mobility of Blind and Visually Impaired People**|Dharmateja Adapa et.al.|[2310.10290](http://arxiv.org/abs/2310.10290)|null|
 |**2023-10-16**|**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge**|Tom Bryan et.al.|[2310.10050](http://arxiv.org/abs/2310.10050)|null|
@@ -3446,7 +3446,7 @@ layout: default
 |**2025-04-08**|**On the structure of DHR bimodules of abstract spin chains**|Lucas Hataishi et.al.|[2504.06094](http://arxiv.org/abs/2504.06094)|null|
 |**2025-04-08**|**New designs of linear optical interferometers with minimal depth and component count**|Timothée Goubault de Brugière et.al.|[2504.06059](http://arxiv.org/abs/2504.06059)|null|
 |**2025-04-08**|**AriaQuanta: A Quantum Software for Quantum Computing**|A. Cheraghi et.al.|[2504.06024](http://arxiv.org/abs/2504.06024)|null|
-|**2025-04-08**|**Can gravity mediate the transmission of quantum information?**|Andrea Mari et.al.|[2504.05998](http://arxiv.org/abs/2504.05998)|null|
+|**2025-04-08**|**Can gravity mediate the transmission of quantum information?**|Andrea Mari et.al.|[2504.05998](http://arxiv.org/abs/2504.05998)|**[link](https://github.com/andreamari/optomechanics)**|
 |**2025-04-07**|**Quantum Program Linting with LLMs: Emerging Results from a Comparative Study**|Seung Yeob Shin et.al.|[2504.05204](http://arxiv.org/abs/2504.05204)|null|
 |**2025-04-07**|**Experimental verification of Threshold Quantum State Tomography on a fully-reconfigurable photonic integrated circuit**|Eugenio Caruccio et.al.|[2504.05079](http://arxiv.org/abs/2504.05079)|null|
 |**2025-04-07**|**Entangling two Rydberg Superatoms via Heralded Storage**|Zi-Ye An et.al.|[2504.05021](http://arxiv.org/abs/2504.05021)|null|
@@ -3464,7 +3464,7 @@ layout: default
 |**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529](http://arxiv.org/abs/2504.03529)|null|
 |**2025-04-04**|**Observation of Temperature Effects in False Vacuum Decay**|Riccardo Cominotti et.al.|[2504.03528](http://arxiv.org/abs/2504.03528)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
-|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi et.al.|[2504.03504](http://arxiv.org/abs/2504.03504)|null|
+|**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi et.al.|[2504.03504](http://arxiv.org/abs/2504.03504)|**[link](https://github.com/riverlane/soft_information_models)**|
 |**2025-04-04**|**Tracking and Distinguishing Slime Mold Solutions to the Traveling Salesman Problem through Synchronized Amplification in the Non-Equilibrium Steady State**|Suyash Bajpai et.al.|[2504.03492](http://arxiv.org/abs/2504.03492)|null|
 |**2025-04-04**|**An all-fibred, telecom technology compatible, room temperature, single-photon source**|Nathan Lecaron et.al.|[2504.03475](http://arxiv.org/abs/2504.03475)|null|
 |**2025-04-03**|**HQViT: Hybrid Quantum Vision Transformer for Image Classification**|Hui Zhang et.al.|[2504.02730](http://arxiv.org/abs/2504.02730)|null|
