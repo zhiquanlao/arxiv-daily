@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Capacities of highly Markovian divisible quantum channels**|Satvik Singh et.al.|[2504.10436](http://arxiv.org/abs/2504.10436)|null|
+|**2025-04-14**|**Quantum Liouvillian Tomography**|Diogo Aguiar et.al.|[2504.10393](http://arxiv.org/abs/2504.10393)|null|
+|**2025-04-14**|**Universal fault-tolerant logic with heterogeneous holographic codes**|Matthew Steinberg et.al.|[2504.10386](http://arxiv.org/abs/2504.10386)|null|
+|**2025-04-14**|**An energy optimization method based on mixed-integer model and variational quantum computing algorithm for faster IMPT**|Ya-Nan Zhu et.al.|[2504.10315](http://arxiv.org/abs/2504.10315)|null|
+|**2025-04-14**|**Tailoring Neel orders in Layered Topological Antiferromagnets**|Xiaotian Yang et.al.|[2504.10237](http://arxiv.org/abs/2504.10237)|null|
+|**2025-04-14**|**A Piece of QAICCC: Towards a Countermeasure Against Crosstalk Attacks in Quantum Servers**|Yoann Marquer et.al.|[2504.10193](http://arxiv.org/abs/2504.10193)|null|
+|**2025-04-14**|**Quantum-Classical Comparison of B-cell Epitope Prediction Using QSVM and VQC**|Chi-Chuan Hwang et.al.|[2504.10073](http://arxiv.org/abs/2504.10073)|null|
+|**2025-04-14**|**Relativistic Quantum Simulation of Hydrogen Sulfide for Hydrogen Energy via Hybrid Quantum-Classical Algorithms**|Chi-Chuan Hwang et.al.|[2504.10069](http://arxiv.org/abs/2504.10069)|null|
+|**2025-04-14**|**The Security of Quantum Computing in 6G: from Technical Perspectives to Ethical Implications**|Luca Barbieri et.al.|[2504.10040](http://arxiv.org/abs/2504.10040)|null|
+|**2025-04-14**|**The law of large numbers for discrete generalized quantum channels**|S. V. Dzhenzher et.al.|[2504.10033](http://arxiv.org/abs/2504.10033)|null|
 |**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
 |**2025-04-11**|**Holographic duality from Howe duality: Chern-Simons gravity as an ensemble of code CFTs**|Anatoly Dymarsky et.al.|[2504.08724](http://arxiv.org/abs/2504.08724)|null|
 |**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
@@ -4854,6 +4864,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484](http://arxiv.org/abs/2504.10484)|null|
+|**2025-04-14**|**Grothendieck-Springer resolutions and TQFTs**|Peter Crooks et.al.|[2504.10285](http://arxiv.org/abs/2504.10285)|null|
+|**2025-04-14**|**$\mathbb{Z}_N$ generalizations of three-dimensional stabilizer codes**|Chanbeen Lee et.al.|[2504.09847](http://arxiv.org/abs/2504.09847)|null|
+|**2025-04-14**|**Stark-induced tunable phase transition in the two-photon Dicke-Stark model**|Cui-Lu Zhai et.al.|[2504.09782](http://arxiv.org/abs/2504.09782)|null|
+|**2025-04-13**|**Rapid and Late Cosmic Reionization Driven by Massive Galaxies: a Joint Analysis of Constraints from 21-cm, Lyman Line & CMB Data Sets**|Peter H. Sims et.al.|[2504.09725](http://arxiv.org/abs/2504.09725)|null|
+|**2025-04-11**|**How quantum fluctuations freeze a classical liquid and then melt it into a topological one**|Hao Chen et.al.|[2504.08895](http://arxiv.org/abs/2504.08895)|null|
 |**2025-04-11**|**Faster shortest-path algorithms using the acyclic-connected tree**|Elis Stefansson et.al.|[2504.08667](http://arxiv.org/abs/2504.08667)|null|
 |**2025-04-11**|**Boundary Scattering and Non-invertible Symmetries in 1+1 Dimensions**|Soichiro Shimamori et.al.|[2504.08375](http://arxiv.org/abs/2504.08375)|null|
 |**2025-04-11**|**Inhomogeneous entanglement structure in monoaxial chiral ferromagnetic quantum spin chain**|Kentaro Nishimura et.al.|[2504.08273](http://arxiv.org/abs/2504.08273)|null|
