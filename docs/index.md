@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Fault Tolerant Quantum Simulation via Symplectic Transvections**|Zhuangzhuang Chen et.al.|[2504.11444](http://arxiv.org/abs/2504.11444)|null|
+|**2025-04-15**|**Assessing Tensor Network Quantum Emulators for Hamiltonian Simulation of Pharmaceutical Molecules: Challenges and Limitations in Drug Discovery Applications**|Marek Kowalik et.al.|[2504.11399](http://arxiv.org/abs/2504.11399)|null|
+|**2025-04-15**|**Dynamical Casimir effect in superconducting cavities: from photon generation to universal quantum gates**|Fernando C. Lombardo et.al.|[2504.11361](http://arxiv.org/abs/2504.11361)|null|
+|**2025-04-15**|**Optimal control of geometric phase in pairs of interacting atoms traveling along two-dimensional closed paths**|Omar Morandi et.al.|[2504.11267](http://arxiv.org/abs/2504.11267)|null|
+|**2025-04-15**|**Measurement of the g factor of ground-state 87Sr at the parts-per-million level using co-trapped ultracold atoms**|Premjith Thekkeppatt et.al.|[2504.11242](http://arxiv.org/abs/2504.11242)|null|
+|**2025-04-15**|**BenchQC -- Scalable and modular benchmarking of industrial quantum computing applications**|Florian Geissler et.al.|[2504.11204](http://arxiv.org/abs/2504.11204)|null|
+|**2025-04-15**|**Time-Resolved Stokes Analysis of Single Photon Emitters in Hexagonal Boron Nitride**|Çağlar Samaner et.al.|[2504.11193](http://arxiv.org/abs/2504.11193)|null|
+|**2025-04-15**|**Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation**|Linus Jern et.al.|[2504.11109](http://arxiv.org/abs/2504.11109)|null|
+|**2025-04-15**|**Compact laser system with frequency stability dissemination for optical clocks and quantum computing**|M. I. Shakirov et.al.|[2504.11105](http://arxiv.org/abs/2504.11105)|null|
+|**2025-04-15**|**QAMA: Quantum annealing multi-head attention operator with classical deep learning framework**|Peng Du et.al.|[2504.11083](http://arxiv.org/abs/2504.11083)|null|
 |**2025-04-14**|**Capacities of highly Markovian divisible quantum channels**|Satvik Singh et.al.|[2504.10436](http://arxiv.org/abs/2504.10436)|null|
 |**2025-04-14**|**Quantum Liouvillian Tomography**|Diogo Aguiar et.al.|[2504.10393](http://arxiv.org/abs/2504.10393)|null|
 |**2025-04-14**|**Universal fault-tolerant logic with heterogeneous holographic codes**|Matthew Steinberg et.al.|[2504.10386](http://arxiv.org/abs/2504.10386)|null|
@@ -4840,6 +4850,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai et.al.|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
+|**2025-04-14**|**Higher-Form Anomalies Imply Intrinsic Long-Range Entanglement**|Po-Shen Hsin et.al.|[2504.10569](http://arxiv.org/abs/2504.10569)|null|
 |**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484](http://arxiv.org/abs/2504.10484)|null|
 |**2025-04-14**|**Grothendieck-Springer resolutions and TQFTs**|Peter Crooks et.al.|[2504.10285](http://arxiv.org/abs/2504.10285)|null|
 |**2025-04-14**|**$\mathbb{Z}_N$ generalizations of three-dimensional stabilizer codes**|Chanbeen Lee et.al.|[2504.09847](http://arxiv.org/abs/2504.09847)|null|
