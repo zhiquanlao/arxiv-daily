@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**A complete theory of the Clifford commutant**|Lennart Bittel et.al.|[2504.12263](http://arxiv.org/abs/2504.12263)|null|
+|**2025-04-16**|**Phonon-Coupled Hole-Spin Qubits in High-Purity Germanium: Design and Modeling of a Scalable Architecture**|D. -M. Mei et.al.|[2504.12221](http://arxiv.org/abs/2504.12221)|null|
+|**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang et.al.|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
+|**2025-04-16**|**Locality-aware Pauli-based computation for local magic state preparation**|Yutaka Hirano et.al.|[2504.12091](http://arxiv.org/abs/2504.12091)|null|
+|**2025-04-16**|**Accelerating MCMC with Quantum Walks: Design, Implementation, and Results**|Aingeru Ramos et.al.|[2504.12089](http://arxiv.org/abs/2504.12089)|null|
+|**2025-04-16**|**Refining the Understanding of Operator Size Dynamics in Open Quantum Systems**|Haolin Jiang et.al.|[2504.12056](http://arxiv.org/abs/2504.12056)|null|
+|**2025-04-16**|**Non-Markovian Quantum Master and Fokker-Planck Equation for Gravitational Systems and Gravitational Decoherence**|Hing-Tong Cho et.al.|[2504.11991](http://arxiv.org/abs/2504.11991)|null|
+|**2025-04-16**|**Characterizing physical and logical errors in a transversal CNOT via cycle error reconstruction**|Nicholas Fazio et.al.|[2504.11980](http://arxiv.org/abs/2504.11980)|null|
+|**2025-04-16**|**Self-induced topological edge states in a lattice with onsite nonlinearity**|Rujiang Li et.al.|[2504.11964](http://arxiv.org/abs/2504.11964)|null|
+|**2025-04-16**|**Unconditional robustness of multipartite entanglement of superposition**|Hui-Hui Qin et.al.|[2504.11957](http://arxiv.org/abs/2504.11957)|null|
 |**2025-04-15**|**Fault Tolerant Quantum Simulation via Symplectic Transvections**|Zhuangzhuang Chen et.al.|[2504.11444](http://arxiv.org/abs/2504.11444)|null|
 |**2025-04-15**|**Assessing Tensor Network Quantum Emulators for Hamiltonian Simulation of Pharmaceutical Molecules: Challenges and Limitations in Drug Discovery Applications**|Marek Kowalik et.al.|[2504.11399](http://arxiv.org/abs/2504.11399)|null|
 |**2025-04-15**|**Dynamical Casimir effect in superconducting cavities: from photon generation to universal quantum gates**|Fernando C. Lombardo et.al.|[2504.11361](http://arxiv.org/abs/2504.11361)|null|
@@ -4874,6 +4884,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus et.al.|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
+|**2025-04-15**|**Probing Quantum Anomalous Hall States in Twisted Bilayer WSe2 via Attractive Polaron Spectroscopy**|Beini Gao et.al.|[2504.11530](http://arxiv.org/abs/2504.11530)|null|
 |**2025-04-15**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai et.al.|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
 |**2025-04-14**|**Higher-Form Anomalies Imply Intrinsic Long-Range Entanglement**|Po-Shen Hsin et.al.|[2504.10569](http://arxiv.org/abs/2504.10569)|null|
 |**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484](http://arxiv.org/abs/2504.10484)|null|
