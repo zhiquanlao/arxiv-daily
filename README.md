@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
+|**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164](http://arxiv.org/abs/2504.13164)|null|
+|**2025-04-17**|**Fieldoscopy at the Quantum Limit**|Dmitry A. Zimin et.al.|[2504.13121](http://arxiv.org/abs/2504.13121)|null|
+|**2025-04-17**|**Tunable Entangling and Steering of Ferrimagnetic Magnons via an OptoMagnoMechanical Ring**|Ziyad Imara et.al.|[2504.13117](http://arxiv.org/abs/2504.13117)|null|
+|**2025-04-17**|**Quorum: Zero-Training Unsupervised Anomaly Detection using Quantum Autoencoders**|Jason Zev Ludmir et.al.|[2504.13113](http://arxiv.org/abs/2504.13113)|null|
+|**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
+|**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly et.al.|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
+|**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue et.al.|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
+|**2025-04-17**|**Practical Application of the Quantum Carleman Lattice Boltzmann Method in Industrial CFD Simulations**|Francesco Turro et.al.|[2504.13033](http://arxiv.org/abs/2504.13033)|null|
+|**2025-04-17**|**Euclid preparation. Estimating galaxy physical properties using CatBoost chained regressors with attention**|Euclid Collaboration et.al.|[2504.13020](http://arxiv.org/abs/2504.13020)|null|
 |**2025-04-16**|**A complete theory of the Clifford commutant**|Lennart Bittel et.al.|[2504.12263](http://arxiv.org/abs/2504.12263)|null|
 |**2025-04-16**|**Phonon-Coupled Hole-Spin Qubits in High-Purity Germanium: Design and Modeling of a Scalable Architecture**|D. -M. Mei et.al.|[2504.12221](http://arxiv.org/abs/2504.12221)|null|
 |**2025-04-16**|**Logical multi-qubit entanglement with dual-rail superconducting qubits**|Wenhui Huang et.al.|[2504.12099](http://arxiv.org/abs/2504.12099)|null|
@@ -4884,6 +4894,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-16**|**Learning transitions in classical Ising models and deformed toric codes**|Malte Pütz et.al.|[2504.12385](http://arxiv.org/abs/2504.12385)|null|
 |**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus et.al.|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
 |**2025-04-15**|**Probing Quantum Anomalous Hall States in Twisted Bilayer WSe2 via Attractive Polaron Spectroscopy**|Beini Gao et.al.|[2504.11530](http://arxiv.org/abs/2504.11530)|null|
 |**2025-04-15**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai et.al.|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
