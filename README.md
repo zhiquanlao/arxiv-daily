@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
+|**2025-04-18**|**Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment**|Wenxuan Ma et.al.|[2504.13782](http://arxiv.org/abs/2504.13782)|null|
+|**2025-04-18**|**Quantum theory of the Josephson junction between finite islands**|Thomas J. Maldonado et.al.|[2504.13779](http://arxiv.org/abs/2504.13779)|null|
+|**2025-04-18**|**Modular Hamiltonian of holographic time band states**|Xin-Xiang Ju et.al.|[2504.13739](http://arxiv.org/abs/2504.13739)|null|
+|**2025-04-18**|**Landscape of Quantum Information Science and Engineering Education: From Physics Foundations to Interdisciplinary Frontiers**|A. R. Piña et.al.|[2504.13719](http://arxiv.org/abs/2504.13719)|null|
+|**2025-04-18**|**Speedup Chip Yield Analysis by Improved Quantum Bayesian Inference**|Zi-Ming Li et.al.|[2504.13613](http://arxiv.org/abs/2504.13613)|null|
+|**2025-04-18**|**Adaptive Lattice Gas Algorithm: Classical and Quantum implementations**|Niccolò Fonio et.al.|[2504.13549](http://arxiv.org/abs/2504.13549)|null|
+|**2025-04-18**|**Complexity of Post-Quantum Cryptography in Embedded Systems and Its Optimization Strategies**|Omar Alnaseri et.al.|[2504.13537](http://arxiv.org/abs/2504.13537)|null|
+|**2025-04-18**|**Quantum Walks-Based Adaptive Distribution Generation with Efficient CUDA-Q Acceleration**|Yen-Jui Chang et.al.|[2504.13532](http://arxiv.org/abs/2504.13532)|null|
+|**2025-04-18**|**Adaptive Non-local Observable on Quantum Neural Networks**|Hsin-Yi Lin et.al.|[2504.13414](http://arxiv.org/abs/2504.13414)|null|
 |**2025-04-17**|**Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians**|Hsin-Yu Wu et.al.|[2504.13174](http://arxiv.org/abs/2504.13174)|null|
 |**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164](http://arxiv.org/abs/2504.13164)|null|
 |**2025-04-17**|**Fieldoscopy at the Quantum Limit**|Dmitry A. Zimin et.al.|[2504.13121](http://arxiv.org/abs/2504.13121)|null|
