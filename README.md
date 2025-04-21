@@ -132,7 +132,7 @@
 |**2024-05-07**|**Bayesian Simultaneous Localization and Multi-Lane Tracking Using Onboard Sensors and a SD Map**|Yuxuan Xia et.al.|[2405.04290](http://arxiv.org/abs/2405.04290)|null|
 |**2024-05-07**|**IMU-Aided Event-based Stereo Visual Odometry**|Junkai Niu et.al.|[2405.04071](http://arxiv.org/abs/2405.04071)|**[link](https://github.com/nail-hnu/esvio_aa)**|
 |**2024-04-27**|**An Attention-Based Deep Learning Architecture for Real-Time Monocular Visual Odometry: Applications to GPS-free Drone Navigation**|Olivier Brochu Dufour et.al.|[2404.17745](http://arxiv.org/abs/2404.17745)|null|
-|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|null|
+|**2024-04-26**|**Camera Motion Estimation from RGB-D-Inertial Scene Flow**|Samuel Cerezo et.al.|[2404.17251](http://arxiv.org/abs/2404.17251)|**[link](https://github.com/samuel-cerezo/SceneFlowFusion)**|
 |**2024-04-23**|**Multi-Session SLAM with Differentiable Wide-Baseline Pose Optimization**|Lahav Lipson et.al.|[2404.15263](http://arxiv.org/abs/2404.15263)|**[link](https://github.com/princeton-vl/multislam_diffpose)**|
 |**2024-04-18**|**SPOT: Point Cloud Based Stereo Visual Place Recognition for Similar and Opposing Viewpoints**|Spencer Carmichael et.al.|[2404.12339](http://arxiv.org/abs/2404.12339)|null|
 |**2024-04-17**|**VBR: A Vision Benchmark in Rome**|Leonardo Brizi et.al.|[2404.11322](http://arxiv.org/abs/2404.11322)|**[link](https://github.com/rvp-group/vbr-devkit)**|
@@ -155,7 +155,7 @@
 |**2024-01-11**|**On State Estimation in Multi-Sensor Fusion Navigation: Optimization and Filtering**|Feng Zhu et.al.|[2401.05836](http://arxiv.org/abs/2401.05836)|null|
 |**2023-12-19**|**Loss it right: Euclidean and Riemannian Metrics in Learning-based Visual Odometry**|Olaya Álvarez-Tuñón et.al.|[2401.05396](http://arxiv.org/abs/2401.05396)|**[link](https://github.com/remaro-network/Loss_VO_right)**|
 |**2024-01-07**|**Amirkabir campus dataset: Real-world challenges and scenarios of Visual Inertial Odometry (VIO) for visually impaired people**|Ali Samadzadeh et.al.|[2401.03604](http://arxiv.org/abs/2401.03604)|**[link](https://github.com/A3DV/VIRec)**|
-|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|null|
+|**2024-01-03**|**LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry**|Weirong Chen et.al.|[2401.01887](http://arxiv.org/abs/2401.01887)|**[link](https://github.com/wrchen530/leapvo)**|
 |**2023-12-28**|**SR-LIVO: LiDAR-Inertial-Visual Odometry and Mapping with Sweep Reconstruction**|Zikang Yuan et.al.|[2312.16800](http://arxiv.org/abs/2312.16800)|**[link](https://github.com/ZikangYuan/sr_livo)**|
 |**2023-12-20**|**NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields**|Jens Naumann et.al.|[2312.13471](http://arxiv.org/abs/2312.13471)|null|
 |**2023-12-22**|**Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM**|Junru Lin et.al.|[2312.13332](http://arxiv.org/abs/2312.13332)|null|
@@ -3443,7 +3443,7 @@
 |**2025-04-17**|**Minute-long quantum coherence enabled by electrical depletion of magnetic noise**|Cyrus Zeledon et.al.|[2504.13164](http://arxiv.org/abs/2504.13164)|null|
 |**2025-04-17**|**Fieldoscopy at the Quantum Limit**|Dmitry A. Zimin et.al.|[2504.13121](http://arxiv.org/abs/2504.13121)|null|
 |**2025-04-17**|**Tunable Entangling and Steering of Ferrimagnetic Magnons via an OptoMagnoMechanical Ring**|Ziyad Imara et.al.|[2504.13117](http://arxiv.org/abs/2504.13117)|null|
-|**2025-04-17**|**Quorum: Zero-Training Unsupervised Anomaly Detection using Quantum Autoencoders**|Jason Zev Ludmir et.al.|[2504.13113](http://arxiv.org/abs/2504.13113)|null|
+|**2025-04-17**|**Quorum: Zero-Training Unsupervised Anomaly Detection using Quantum Autoencoders**|Jason Zev Ludmir et.al.|[2504.13113](http://arxiv.org/abs/2504.13113)|**[link](https://github.com/positivetechnologylab/Quorum)**|
 |**2025-04-17**|**Energy Landscape Plummeting in Variational Quantum Eigensolver: Subspace Optimization, Non-iterative Corrections and Generator-informed Initialization for Improved Quantum Efficiency**|Chayan Patra et.al.|[2504.13097](http://arxiv.org/abs/2504.13097)|null|
 |**2025-04-17**|**Feedforward suppression of readout-induced faults in quantum error correction**|Liran Shirizly et.al.|[2504.13083](http://arxiv.org/abs/2504.13083)|null|
 |**2025-04-17**|**Machine Learning Decoding of Circuit-Level Noise for Bivariate Bicycle Codes**|John Blue et.al.|[2504.13043](http://arxiv.org/abs/2504.13043)|null|
@@ -3481,12 +3481,12 @@
 |**2025-04-14**|**The law of large numbers for discrete generalized quantum channels**|S. V. Dzhenzher et.al.|[2504.10033](http://arxiv.org/abs/2504.10033)|null|
 |**2025-04-11**|**End-to-End Demonstration of Quantum Generative Adversarial Networks for Steel Microstructure Image Augmentation on a Trapped-Ion Quantum Computer**|Samwel Sekwao et.al.|[2504.08728](http://arxiv.org/abs/2504.08728)|null|
 |**2025-04-11**|**Holographic duality from Howe duality: Chern-Simons gravity as an ensemble of code CFTs**|Anatoly Dymarsky et.al.|[2504.08724](http://arxiv.org/abs/2504.08724)|null|
-|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|null|
+|**2025-04-11**|**Decomposition of Sparse Amplitude Permutation Gates with Application to Preparation of Sparse Clustered Quantum States**|Igor Gaidai et.al.|[2504.08705](http://arxiv.org/abs/2504.08705)|**[link](https://github.com/gaidaiigor/permutation_unitaries)**|
 |**2025-04-11**|**Frequency-bin interferometry for reconstructing electric fields with low intensity**|Abhinandan Bhattacharjee et.al.|[2504.08607](http://arxiv.org/abs/2504.08607)|null|
 |**2025-04-11**|**Magnon and photon blockade in an antiferromagnet-cavity hybrid quantum system**|Vemund Falch et.al.|[2504.08562](http://arxiv.org/abs/2504.08562)|null|
 |**2025-04-11**|**Screened volume law of Holographic Entanglement Entropy in Holographic Spontaneous Vectorization model**|Chong-Ye Chen et.al.|[2504.08549](http://arxiv.org/abs/2504.08549)|null|
 |**2025-04-11**|**The inherent convolution property of quantum neural networks**|Guangkai Qu et.al.|[2504.08487](http://arxiv.org/abs/2504.08487)|null|
-|**2025-04-11**|**Quality Diversity for Variational Quantum Circuit Optimization**|Maximilian Zorn et.al.|[2504.08459](http://arxiv.org/abs/2504.08459)|null|
+|**2025-04-11**|**Quality Diversity for Variational Quantum Circuit Optimization**|Maximilian Zorn et.al.|[2504.08459](http://arxiv.org/abs/2504.08459)|**[link](https://github.com/m-zorn/qd4vqc)**|
 |**2025-04-11**|**Generalization Bounds in Hybrid Quantum-Classical Machine Learning Models**|Tongyan Wu et.al.|[2504.08456](http://arxiv.org/abs/2504.08456)|null|
 |**2025-04-11**|**Towards a Digital Twin of Noisy Quantum Computers: Calibration-Driven Emulation of Transmon Qubits**|Ronny Müller et.al.|[2504.08313](http://arxiv.org/abs/2504.08313)|null|
 |**2025-04-10**|**Quantum Speed Limit in Driven-dissipative Systems**|Sarfraj Fency et.al.|[2504.07931](http://arxiv.org/abs/2504.07931)|null|
@@ -3657,7 +3657,7 @@
 |**2025-03-18**|**Identifying Materials-Level Sources of Performance Variation in Superconducting Transmon Qubits**|Akshay A. Murthy et.al.|[2503.14424](http://arxiv.org/abs/2503.14424)|null|
 |**2025-03-18**|**Device-independent secure correlations in sequential quantum scenarios**|Matteo Padovan et.al.|[2503.14404](http://arxiv.org/abs/2503.14404)|null|
 |**2025-03-18**|**Quantum simulation of superdiffusion breakdown in Heisenberg chains via 2D interactions**|Keerthi Kumaran et.al.|[2503.14371](http://arxiv.org/abs/2503.14371)|null|
-|**2025-03-18**|**QuGStep: Refining Step Size Selection in Gradient Estimation for Variational Quantum Algorithms**|Senwei Liang et.al.|[2503.14366](http://arxiv.org/abs/2503.14366)|null|
+|**2025-03-18**|**QuGStep: Refining Step Size Selection in Gradient Estimation for Variational Quantum Algorithms**|Senwei Liang et.al.|[2503.14366](http://arxiv.org/abs/2503.14366)|**[link](https://github.com/leungsamwai/qugstep)**|
 |**2025-03-18**|**Scalable Linear-Cavity Enhanced Quantum Memory**|Bharath Srivathsan et.al.|[2503.14212](http://arxiv.org/abs/2503.14212)|null|
 |**2025-03-17**|**A mathematical model for a universal digital quantum computer with an application to the Grover-Rudolph algorithm**|Antonio Falcó et.al.|[2503.13388](http://arxiv.org/abs/2503.13388)|null|
 |**2025-03-17**|**Error bounds for composite quantum hypothesis testing and a new characterization of the weighted Kubo-Ando geometric means**|Péter E. Frenkel et.al.|[2503.13379](http://arxiv.org/abs/2503.13379)|null|
@@ -4628,7 +4628,7 @@
 |**2024-10-17**|**Architecting a reliable quantum operating system: microkernel, message passing and supercomputing**|Alexandru Paler et.al.|[2410.13482](http://arxiv.org/abs/2410.13482)|null|
 |**2024-10-17**|**QuL: Programming Library for Computational Cooling of Qubits**|Giuliano Difranco et.al.|[2410.13380](http://arxiv.org/abs/2410.13380)|null|
 |**2024-10-16**|**Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware**|Elena Chachkarova et.al.|[2410.12733](http://arxiv.org/abs/2410.12733)|**[link](https://github.com/elenachachkarova/hemocyanin-vqe)**|
-|**2024-10-16**|**Phase vs coin vs position disorder as a probe for the resilience and revival of single particle entanglement in cyclic quantum walks**|Dinesh Kumar Panda et.al.|[2410.12710](http://arxiv.org/abs/2410.12710)|null|
+|**2024-10-16**|**Phase vs coin vs position disorder as a probe for the resilience and revival of single particle entanglement in cyclic quantum walks**|Dinesh Kumar Panda et.al.|[2410.12710](http://arxiv.org/abs/2410.12710)|**[link](https://github.com/Quantum-Panda97/PyCode-disorder-effect-on-entanglement)**|
 |**2024-10-16**|**The state hidden subgroup problem and an efficient algorithm for locating unentanglement**|Adam Bouland et.al.|[2410.12706](http://arxiv.org/abs/2410.12706)|null|
 |**2024-10-16**|**QPUF 2.0: Exploring Quantum Physical Unclonable Functions for Security-by-Design of Energy Cyber-Physical Systems**|Venkata K. V. V. Bathalapalli et.al.|[2410.12702](http://arxiv.org/abs/2410.12702)|null|
 |**2024-10-16**|**Simulation of Quantum Computers: Review and Acceleration Opportunities**|Alessio Cicero et.al.|[2410.12660](http://arxiv.org/abs/2410.12660)|null|
