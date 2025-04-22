@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein et.al.|[2504.15282](http://arxiv.org/abs/2504.15282)|null|
+|**2025-04-21**|**Realization of maximally-entangling two-qutrit gates using the Cross-Resonance scheme**|Yash Saxena et.al.|[2504.15265](http://arxiv.org/abs/2504.15265)|null|
+|**2025-04-21**|**Sunflowers and Ramsey problems for restricted intersections**|Barnabás Janzer et.al.|[2504.15264](http://arxiv.org/abs/2504.15264)|null|
+|**2025-04-21**|**Fine features of entanglement dynamics in quenches across the Ising quantum critical point**|Aditya Banerjee et.al.|[2504.15203](http://arxiv.org/abs/2504.15203)|null|
+|**2025-04-21**|**Quantum phase discrimination with applications to quantum search on graphs**|Guanzhong Li et.al.|[2504.15194](http://arxiv.org/abs/2504.15194)|null|
+|**2025-04-21**|**Method for simulating open-system dynamics using mid-circuit measurements on a quantum computer**|John P. T. Stenger et.al.|[2504.15187](http://arxiv.org/abs/2504.15187)|null|
+|**2025-04-21**|**Multiple Quantum Many-Body Clustering Probed by Dynamical Decoupling**|Gerónimo Sequeiros et.al.|[2504.15183](http://arxiv.org/abs/2504.15183)|null|
+|**2025-04-21**|**Efficient simulation of Clifford circuits with small Markovian errors**|Ashe Miller et.al.|[2504.15128](http://arxiv.org/abs/2504.15128)|null|
+|**2025-04-21**|**Thin-film periodically poled lithium niobate waveguides fabricated by femtosecond laser photolithography**|Guanghui Zhao et.al.|[2504.14950](http://arxiv.org/abs/2504.14950)|null|
+|**2025-04-21**|**Metamorphic quantum dot arrays in twisted trilayer hexagonal boron nitride**|Kunihiro Yananose et.al.|[2504.14925](http://arxiv.org/abs/2504.14925)|null|
 |**2025-04-18**|**Outlier-Robust Multi-Model Fitting on Quantum Annealers**|Saurabh Pandey et.al.|[2504.13836](http://arxiv.org/abs/2504.13836)|null|
 |**2025-04-18**|**Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment**|Wenxuan Ma et.al.|[2504.13782](http://arxiv.org/abs/2504.13782)|null|
 |**2025-04-18**|**Quantum theory of the Josephson junction between finite islands**|Thomas J. Maldonado et.al.|[2504.13779](http://arxiv.org/abs/2504.13779)|null|
@@ -4904,10 +4914,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki et.al.|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
+|**2025-04-20**|**A Review on the Applications of Density Functional Theory to the FQH System**|Yi Yang et.al.|[2504.14558](http://arxiv.org/abs/2504.14558)|null|
+|**2025-04-19**|**Gauging Quantum Phases: A Matrix Product State Approach**|David Blanik et.al.|[2504.14380](http://arxiv.org/abs/2504.14380)|null|
+|**2025-04-18**|**Impact of Azimuthal Magnetic Field Inhomogeneity on Hall Thruster high-frequency azimuthal instability via 2D radial-azimuthal PIC simulations**|Zhijun Zhou et.al.|[2504.14111](http://arxiv.org/abs/2504.14111)|null|
 |**2025-04-16**|**Learning transitions in classical Ising models and deformed toric codes**|Malte Pütz et.al.|[2504.12385](http://arxiv.org/abs/2504.12385)|null|
 |**2025-04-16**|**Projectively implemented altermagnetism in an exactly solvable quantum spin liquid**|Avedis Neehus et.al.|[2504.12298](http://arxiv.org/abs/2504.12298)|null|
 |**2025-04-15**|**Probing Quantum Anomalous Hall States in Twisted Bilayer WSe2 via Attractive Polaron Spectroscopy**|Beini Gao et.al.|[2504.11530](http://arxiv.org/abs/2504.11530)|null|
-|**2025-04-15**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai et.al.|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
+|**2025-04-21**|**Symmetry-protected topological order identified via Gutzwiller-guided density-matrix-renormalization-group: $\mathrm{SO}(n)$ spin chains**|Pei-Yuan Cai et.al.|[2504.10919](http://arxiv.org/abs/2504.10919)|null|
 |**2025-04-14**|**Higher-Form Anomalies Imply Intrinsic Long-Range Entanglement**|Po-Shen Hsin et.al.|[2504.10569](http://arxiv.org/abs/2504.10569)|null|
 |**2025-04-14**|**Generalized Symmetries of Non-SUSY and Discrete Torsion String Backgrounds**|Noah Braeger et.al.|[2504.10484](http://arxiv.org/abs/2504.10484)|null|
 |**2025-04-14**|**Grothendieck-Springer resolutions and TQFTs**|Peter Crooks et.al.|[2504.10285](http://arxiv.org/abs/2504.10285)|null|
