@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**Fidelity and efficiency analysis for heralded entanglement swapping in lossy channels: linear and nonlinear optical approaches**|Kejie Fang et.al.|[2504.16066](http://arxiv.org/abs/2504.16066)|null|
+|**2025-04-22**|**Clifford and Non-Clifford Splitting in Quantum Circuits: Applications and ZX-Calculus Detection Procedure**|Fernando Lima et.al.|[2504.16004](http://arxiv.org/abs/2504.16004)|null|
+|**2025-04-22**|**QCaMP: A 4-Week Summer Camp Introducing High School Students to Quantum Information Science and Technology**|Megan Ivory et.al.|[2504.15977](http://arxiv.org/abs/2504.15977)|null|
+|**2025-04-22**|**Quantum machine learning advantages beyond hardness of evaluation**|Riccardo Molteni et.al.|[2504.15964](http://arxiv.org/abs/2504.15964)|null|
+|**2025-04-22**|**Ge $_{1-x}$Si$_{x}$ single crystals for Ge hole spin qubit integration**|Andreas Fuhrberg et.al.|[2504.15943](http://arxiv.org/abs/2504.15943)|null|
+|**2025-04-22**|**Non-demolition fluorescence readout and high-fidelity unconditional reset of a fluxonium qubit via dissipation engineering**|Shu Watanabe et.al.|[2504.15901](http://arxiv.org/abs/2504.15901)|null|
+|**2025-04-22**|**Quantum Discrete Variable Representations**|Szymon Pliś et.al.|[2504.15841](http://arxiv.org/abs/2504.15841)|null|
+|**2025-04-22**|**Detecting genuine non-Gaussian entanglement**|Serge Deside et.al.|[2504.15831](http://arxiv.org/abs/2504.15831)|null|
+|**2025-04-22**|**Quantum Aberrations: Entangling Photons with Zernike Polynomials**|Hakob Avetisyan et.al.|[2504.15765](http://arxiv.org/abs/2504.15765)|null|
+|**2025-04-22**|**Quantum excitation transfer in bosonic networks: a bipartite-graph framework**|Cheng Liu et.al.|[2504.15761](http://arxiv.org/abs/2504.15761)|null|
 |**2025-04-21**|**Multi-Target Rydberg Gates via Spatial Blockade Engineering**|Samuel Stein et.al.|[2504.15282](http://arxiv.org/abs/2504.15282)|null|
 |**2025-04-21**|**Realization of maximally-entangling two-qutrit gates using the Cross-Resonance scheme**|Yash Saxena et.al.|[2504.15265](http://arxiv.org/abs/2504.15265)|null|
 |**2025-04-21**|**Sunflowers and Ramsey problems for restricted intersections**|Barnabás Janzer et.al.|[2504.15264](http://arxiv.org/abs/2504.15264)|null|
