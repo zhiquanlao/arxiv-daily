@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Quantum circuits for simulating linear interferometers**|Hudson Leone et.al.|[2504.16880](http://arxiv.org/abs/2504.16880)|null|
+|**2025-04-23**|**Braiding of Majorana Zero Modes in Vortex Cores**|Maxwell Buss et.al.|[2504.16841](http://arxiv.org/abs/2504.16841)|null|
+|**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li et.al.|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
+|**2025-04-23**|**Simulating Quantum Circuits with Tree Tensor Networks using Density-Matrix Renormalization Group Algorithm**|Aditya Dubey et.al.|[2504.16718](http://arxiv.org/abs/2504.16718)|null|
+|**2025-04-23**|**Resource Reduction in Multiparty Quantum Secret Sharing of both Classical and Quantum Information under Noisy Scenario**|Nirupam Basak et.al.|[2504.16709](http://arxiv.org/abs/2504.16709)|null|
+|**2025-04-23**|**Emergent Kagome lattice and non-Abelian lattice gauge field of biexcitons in t-MoTe $_2$**|Haochen Wang et.al.|[2504.16694](http://arxiv.org/abs/2504.16694)|null|
+|**2025-04-23**|**Quantum algorithm for reducing amplitudes in order to search and filter data**|Karina Zakharova et.al.|[2504.16634](http://arxiv.org/abs/2504.16634)|null|
+|**2025-04-23**|**Optimization Framework for Reducing Mid-circuit Measurements and Resets**|Yanbin Chen et.al.|[2504.16579](http://arxiv.org/abs/2504.16579)|null|
+|**2025-04-23**|**Determining Strong Contextuality on rank-one Projectors**|Jiawei Nie et.al.|[2504.16541](http://arxiv.org/abs/2504.16541)|null|
+|**2025-04-23**|**Modern Computational Methods in Reinsurance Optimization: From Simulated Annealing to Quantum Branch & Bound**|George Woodman et.al.|[2504.16530](http://arxiv.org/abs/2504.16530)|null|
 |**2025-04-22**|**Fidelity and efficiency analysis for heralded entanglement swapping in lossy channels: linear and nonlinear optical approaches**|Kejie Fang et.al.|[2504.16066](http://arxiv.org/abs/2504.16066)|null|
 |**2025-04-22**|**Clifford and Non-Clifford Splitting in Quantum Circuits: Applications and ZX-Calculus Detection Procedure**|Fernando Lima et.al.|[2504.16004](http://arxiv.org/abs/2504.16004)|null|
 |**2025-04-22**|**QCaMP: A 4-Week Summer Camp Introducing High School Students to Quantum Information Science and Technology**|Megan Ivory et.al.|[2504.15977](http://arxiv.org/abs/2504.15977)|null|
@@ -4900,6 +4910,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2504.16910](http://arxiv.org/abs/2504.16910)|null|
+|**2025-04-22**|**Robust Mixed-State Cluster States and Spurious Topological Entanglement Negativity**|Seunghun Lee et.al.|[2504.16165](http://arxiv.org/abs/2504.16165)|null|
 |**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki et.al.|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
 |**2025-04-20**|**A Review on the Applications of Density Functional Theory to the FQH System**|Yi Yang et.al.|[2504.14558](http://arxiv.org/abs/2504.14558)|null|
 |**2025-04-19**|**Gauging Quantum Phases: A Matrix Product State Approach**|David Blanik et.al.|[2504.14380](http://arxiv.org/abs/2504.14380)|null|
