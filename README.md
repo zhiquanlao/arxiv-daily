@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
+|**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara et.al.|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
+|**2025-04-24**|**Quantum coherence and counterdiabatic quantum computing**|Raziel Huerta-Ruiz et.al.|[2504.17642](http://arxiv.org/abs/2504.17642)|null|
+|**2025-04-24**|**Selectively Blind Quantum Computation**|Abbas Poshtvan et.al.|[2504.17612](http://arxiv.org/abs/2504.17612)|null|
+|**2025-04-24**|**All-dielectric Metaphotonics for Advanced THz Control of Spins**|Lucas van Gerven et.al.|[2504.17588](http://arxiv.org/abs/2504.17588)|null|
+|**2025-04-24**|**Quantum Circuit Construction and Optimization through Hybrid Evolutionary Algorithms**|Leo Sünkel et.al.|[2504.17561](http://arxiv.org/abs/2504.17561)|null|
+|**2025-04-24**|**Quantum Autoencoder for Multivariate Time Series Anomaly Detection**|Kilian Tscharke et.al.|[2504.17548](http://arxiv.org/abs/2504.17548)|null|
+|**2025-04-24**|**Magic state distillation without measurements and post-selection**|Sascha Heußen et.al.|[2504.17509](http://arxiv.org/abs/2504.17509)|null|
+|**2025-04-24**|**Leakage at zero temperature from changes in chemical potential in Majorana qubits**|M. C. Goffage et.al.|[2504.17485](http://arxiv.org/abs/2504.17485)|null|
+|**2025-04-24**|**Classical Estimation of the Free Energy and Quantum Gibbs Sampling from the Markov Entropy Decomposition**|Samuel O. Scalet et.al.|[2504.17405](http://arxiv.org/abs/2504.17405)|null|
 |**2025-04-23**|**Quantum circuits for simulating linear interferometers**|Hudson Leone et.al.|[2504.16880](http://arxiv.org/abs/2504.16880)|null|
 |**2025-04-23**|**Braiding of Majorana Zero Modes in Vortex Cores**|Maxwell Buss et.al.|[2504.16841](http://arxiv.org/abs/2504.16841)|null|
 |**2025-04-23**|**Beating the break-even point with autonomous quantum error correction**|Yi Li et.al.|[2504.16746](http://arxiv.org/abs/2504.16746)|null|
@@ -4934,6 +4944,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville et.al.|[2504.17764](http://arxiv.org/abs/2504.17764)|null|
+|**2025-04-23**|**Anomalous matrix product operator symmetries and 1D mixed-state phases**|Xiao-Qi Sun et.al.|[2504.16985](http://arxiv.org/abs/2504.16985)|null|
 |**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2504.16910](http://arxiv.org/abs/2504.16910)|null|
 |**2025-04-22**|**Robust Mixed-State Cluster States and Spurious Topological Entanglement Negativity**|Seunghun Lee et.al.|[2504.16165](http://arxiv.org/abs/2504.16165)|null|
 |**2025-04-20**|**Persistent Homology-Based Descriptor of Topological Ordering in Two-Dimensional Quasi-Particle Systems with Application to Skyrmion Lattices**|Michiki Taniwaki et.al.|[2504.14688](http://arxiv.org/abs/2504.14688)|null|
