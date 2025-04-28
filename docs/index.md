@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Classical Interfaces for Controlling Cryogenic Quantum Computing Technologies**|Jack C. Brennan et.al.|[2504.18527](http://arxiv.org/abs/2504.18527)|null|
+|**2025-04-25**|**CHSH Violations using Dynamic Circuits**|Jean-Baptiste Waring et.al.|[2504.18429](http://arxiv.org/abs/2504.18429)|null|
+|**2025-04-25**|**Optical Schrödinger cat states generation using cubic phase resource state and beamsplitter**|A. V. Baeva et.al.|[2504.18372](http://arxiv.org/abs/2504.18372)|null|
+|**2025-04-25**|**Quantum Circuit Design for Decoded Quantum Interferometry**|Natchapol Patamawisut et.al.|[2504.18334](http://arxiv.org/abs/2504.18334)|null|
+|**2025-04-25**|**Optimizing Resource Allocation in a Distributed Quantum Computing Cloud: A Game-Theoretic Approach**|Bernard Ousmane Sane et.al.|[2504.18298](http://arxiv.org/abs/2504.18298)|null|
+|**2025-04-25**|**Parallelized Givens Ansatz for Molecular ground-states: Bridging Accuracy and Efficiency on NISQ Platforms**|M. R. Nirmal et.al.|[2504.18264](http://arxiv.org/abs/2504.18264)|null|
+|**2025-04-25**|**Spin decoherence in molecular crystals: nuclear v.s. electronic spin baths**|Conor Ryan et.al.|[2504.18254](http://arxiv.org/abs/2504.18254)|null|
+|**2025-04-25**|**Advancing Superconducting Qubits: CMOS-Compatible Processing and Room Temperature Characterization for Scalable Quantum Computing beyond 2D Architectures**|S. J. K. Lang et.al.|[2504.18173](http://arxiv.org/abs/2504.18173)|null|
+|**2025-04-25**|**Determining Molecular Ground State with Quantum Imaginary Time Evolution using Broken-Symmetry Wave Function**|Pawan Sharma Poudel et.al.|[2504.18156](http://arxiv.org/abs/2504.18156)|null|
+|**2025-04-25**|**Preparing the Gutzwiller wave function for attractive SU(3) fermions on a quantum computer**|Han Xu et.al.|[2504.18149](http://arxiv.org/abs/2504.18149)|null|
 |**2025-04-24**|**Federated Learning: A Survey on Privacy-Preserving Collaborative Intelligence**|Edward Collins et.al.|[2504.17703](http://arxiv.org/abs/2504.17703)|null|
 |**2025-04-24**|**Near-Term Pseudorandom and Pseudoresource Quantum States**|Andrew Tanggara et.al.|[2504.17650](http://arxiv.org/abs/2504.17650)|null|
 |**2025-04-24**|**Quantum coherence and counterdiabatic quantum computing**|Raziel Huerta-Ruiz et.al.|[2504.17642](http://arxiv.org/abs/2504.17642)|null|
@@ -4920,6 +4930,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-25**|**Coupled-wire Construction of a Non-crystalline Fractional Quantum Hall Effect**|Justin Schirmann et.al.|[2504.18337](http://arxiv.org/abs/2504.18337)|null|
+|**2025-04-24**|**Updated Constraints on Omnipotent Dark Energy: A Comprehensive Analysis with CMB and BAO Data**|Enrico Specogna et.al.|[2504.17859](http://arxiv.org/abs/2504.17859)|null|
 |**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville et.al.|[2504.17764](http://arxiv.org/abs/2504.17764)|null|
 |**2025-04-23**|**Anomalous matrix product operator symmetries and 1D mixed-state phases**|Xiao-Qi Sun et.al.|[2504.16985](http://arxiv.org/abs/2504.16985)|null|
 |**2025-04-23**|**Self-interacting dark matter with observable $ΔN_{\rm eff}$**|Debasish Borah et.al.|[2504.16910](http://arxiv.org/abs/2504.16910)|null|
