@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031](http://arxiv.org/abs/2504.20031)|null|
+|**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh et.al.|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
+|**2025-04-28**|**Quantum oracles for the finite element method**|Sven Danz et.al.|[2504.19827](http://arxiv.org/abs/2504.19827)|null|
+|**2025-04-28**|**Stochastic quantum adiabatic algorithm with fractional Brownian motion**|Osanda Chinthila et.al.|[2504.19801](http://arxiv.org/abs/2504.19801)|null|
+|**2025-04-28**|**Efficient quantum state preparation through seniority driven operator selection**|Dipanjali Halder et.al.|[2504.19760](http://arxiv.org/abs/2504.19760)|null|
+|**2025-04-28**|**Fooling the Decoder: An Adversarial Attack on Quantum Error Correction**|Jerome Lenssen et.al.|[2504.19651](http://arxiv.org/abs/2504.19651)|null|
+|**2025-04-28**|**QFDNN: A Resource-Efficient Variational Quantum Feature Deep Neural Networks for Fraud Detection and Loan Prediction**|Subham Das et.al.|[2504.19632](http://arxiv.org/abs/2504.19632)|null|
+|**2025-04-28**|**Improved T counts and active volume estimates for high-level arithmetic subroutines**|Sam Heavey et.al.|[2504.19626](http://arxiv.org/abs/2504.19626)|null|
+|**2025-04-28**|**Deterministic Integration of hBN Single-Photon Emitters on SiN Waveguides via Femtosecond Laser Processing**|Daiki Yamashita et.al.|[2504.19477](http://arxiv.org/abs/2504.19477)|null|
+|**2025-04-28**|**Precision Polarization Tuning for Light Shift Mitigation in Trapped-Ion Qubits**|Hengchao Tu et.al.|[2504.19474](http://arxiv.org/abs/2504.19474)|null|
 |**2025-04-25**|**Classical Interfaces for Controlling Cryogenic Quantum Computing Technologies**|Jack C. Brennan et.al.|[2504.18527](http://arxiv.org/abs/2504.18527)|null|
 |**2025-04-25**|**CHSH Violations using Dynamic Circuits**|Jean-Baptiste Waring et.al.|[2504.18429](http://arxiv.org/abs/2504.18429)|null|
 |**2025-04-25**|**Optical Schrödinger cat states generation using cubic phase resource state and beamsplitter**|A. V. Baeva et.al.|[2504.18372](http://arxiv.org/abs/2504.18372)|null|
@@ -4954,6 +4964,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
+|**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
+|**2025-04-28**|**Gapped Boundaries of Kitaev's Quantum Double Models: A Lattice Realization of Anyon Condensation from Lagrangian Algebras**|Mu Li et.al.|[2504.19512](http://arxiv.org/abs/2504.19512)|null|
+|**2025-04-28**|**A topological quantum field theory for $\mathrm{Spin}(7)$ -instantons**|Rafael Herrera et.al.|[2504.19403](http://arxiv.org/abs/2504.19403)|null|
+|**2025-04-27**|**Arithmetic field theory via pro-p duality groups**|Nadav Gropper et.al.|[2504.19078](http://arxiv.org/abs/2504.19078)|null|
 |**2025-04-25**|**Coupled-wire Construction of a Non-crystalline Fractional Quantum Hall Effect**|Justin Schirmann et.al.|[2504.18337](http://arxiv.org/abs/2504.18337)|null|
 |**2025-04-24**|**Updated Constraints on Omnipotent Dark Energy: A Comprehensive Analysis with CMB and BAO Data**|Enrico Specogna et.al.|[2504.17859](http://arxiv.org/abs/2504.17859)|null|
 |**2025-04-24**|**Orbifolds, higher dagger structures, and idempotents**|Nils Carqueville et.al.|[2504.17764](http://arxiv.org/abs/2504.17764)|null|
