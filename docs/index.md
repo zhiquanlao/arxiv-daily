@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels**|Pau Colomer et.al.|[2504.20991](http://arxiv.org/abs/2504.20991)|null|
+|**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
+|**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
+|**2025-04-29**|**Optimal Local Simulations of a Quantum Singlet**|David Llamas et.al.|[2504.20953](http://arxiv.org/abs/2504.20953)|null|
+|**2025-04-29**|**Mesoscopic Quantum Dynamics and Bosonization of Noise**|Michele Fantechi et.al.|[2504.20891](http://arxiv.org/abs/2504.20891)|null|
+|**2025-04-29**|**Transversal Gates in Nonadditive Quantum Codes**|Chao Zhang et.al.|[2504.20847](http://arxiv.org/abs/2504.20847)|null|
+|**2025-04-29**|**Universal language model with the intervention of quantum theory**|D. -F. Qin et.al.|[2504.20839](http://arxiv.org/abs/2504.20839)|null|
+|**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811](http://arxiv.org/abs/2504.20811)|null|
+|**2025-04-29**|**Q-Fusion: Diffusing Quantum Circuits**|Collin Beaudoin et.al.|[2504.20794](http://arxiv.org/abs/2504.20794)|null|
+|**2025-04-29**|**Trotterization is substantially efficient for low-energy states**|Kaoru Mizuta et.al.|[2504.20746](http://arxiv.org/abs/2504.20746)|null|
 |**2025-04-28**|**Towards Scalable Braiding: Topological Superconductivity Unlocked under Nearly Arbitrary Magnetic Field Directions in Planar Josephson Junctions**|Richang Huang et.al.|[2504.20031](http://arxiv.org/abs/2504.20031)|null|
 |**2025-04-28**|**Towards Non-Abelian Quantum Signal Processing: Efficient Control of Hybrid Continuous- and Discrete-Variable Architectures**|Shraddha Singh et.al.|[2504.19992](http://arxiv.org/abs/2504.19992)|null|
 |**2025-04-28**|**Quantum oracles for the finite element method**|Sven Danz et.al.|[2504.19827](http://arxiv.org/abs/2504.19827)|null|
@@ -4940,6 +4950,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**The differences of baryonic and dark matter scaling relations in galaxy clusters between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
+|**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151](http://arxiv.org/abs/2504.20151)|null|
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-28**|**Gapped Boundaries of Kitaev's Quantum Double Models: A Lattice Realization of Anyon Condensation from Lagrangian Algebras**|Mu Li et.al.|[2504.19512](http://arxiv.org/abs/2504.19512)|null|
