@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan et.al.|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
+|**2025-04-30**|**Cryptography without Long-Term Quantum Memory and Global Entanglement**|Lev Stambler et.al.|[2504.21842](http://arxiv.org/abs/2504.21842)|null|
+|**2025-04-30**|**A Path to Quantum Simulations of Topological Phases: (2+1)D Wilson Fermions Coupled To U(1) Background Gauge Fields**|Sriram Bharadwaj et.al.|[2504.21828](http://arxiv.org/abs/2504.21828)|null|
+|**2025-04-30**|**Anomalous Josephson effect in hybrid superconductor-hole systems**|Peter D. Johannsen et.al.|[2504.21817](http://arxiv.org/abs/2504.21817)|null|
+|**2025-04-30**|**Quantum Mpemba effect from initial system-reservoir entanglement**|Stefano Longhi et.al.|[2504.21758](http://arxiv.org/abs/2504.21758)|null|
+|**2025-04-30**|**Classical capacities under physical constraints: More capacity with less entanglement**|Sudipta Mondal et.al.|[2504.21748](http://arxiv.org/abs/2504.21748)|null|
+|**2025-04-30**|**Heterogeneously error-corrected QRAMs**|Ansh Singal et.al.|[2504.21687](http://arxiv.org/abs/2504.21687)|null|
+|**2025-04-30**|**Using quantum annealing to generate test cases for cyber-physical systems**|Hugo Araujo et.al.|[2504.21684](http://arxiv.org/abs/2504.21684)|null|
+|**2025-04-30**|**Spatio-temporal entanglement of the vacuum**|Pravin Kumar Dahal et.al.|[2504.21649](http://arxiv.org/abs/2504.21649)|null|
+|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636](http://arxiv.org/abs/2504.21636)|null|
 |**2025-04-29**|**Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels**|Pau Colomer et.al.|[2504.20991](http://arxiv.org/abs/2504.20991)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
 |**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
@@ -4974,6 +4984,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
 |**2025-04-28**|**The differences of baryonic and dark matter scaling relations in galaxy clusters between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
 |**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151](http://arxiv.org/abs/2504.20151)|null|
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
