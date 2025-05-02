@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
+|**2025-05-01**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
+|**2025-05-01**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
+|**2025-05-01**|**Quantum information engines: Bounds on performance metrics by measurement time**|Henning Kirchberg et.al.|[2505.00686](http://arxiv.org/abs/2505.00686)|null|
+|**2025-05-01**|**Narrow Inhomogeneous Distribution and Charge State Stabilization of Lead-Vacancy Centers in Diamond**|Ryotaro Abe et.al.|[2505.00576](http://arxiv.org/abs/2505.00576)|null|
+|**2025-05-01**|**Scalable Quantum Computing with Optical Links**|M. J. Weaver et.al.|[2505.00542](http://arxiv.org/abs/2505.00542)|null|
+|**2025-05-01**|**Local Information Flow in Quantum Quench Dynamics**|Nicolas P. Bauer et.al.|[2505.00537](http://arxiv.org/abs/2505.00537)|null|
+|**2025-05-01**|**Simplified Fermionic Scattering State Preparation for the NISQ Era**|Michael Hite et.al.|[2505.00476](http://arxiv.org/abs/2505.00476)|null|
+|**2025-05-01**|**On estimating the quantum $\ell_α$ distance**|Yupan Liu et.al.|[2505.00457](http://arxiv.org/abs/2505.00457)|null|
+|**2025-05-01**|**A new approximate Eastin-Knill theorem**|Rhea Alexander et.al.|[2505.00427](http://arxiv.org/abs/2505.00427)|null|
 |**2025-05-01**|**SPARO: Surface-code Pauli-based Architectural Resource Optimization for Fault-tolerant Quantum Computing**|Shuwen Kan et.al.|[2504.21854](http://arxiv.org/abs/2504.21854)|null|
 |**2025-04-30**|**Cryptography without Long-Term Quantum Memory and Global Entanglement**|Lev Stambler et.al.|[2504.21842](http://arxiv.org/abs/2504.21842)|null|
 |**2025-04-30**|**A Path to Quantum Simulations of Topological Phases: (2+1)D Wilson Fermions Coupled To U(1) Background Gauge Fields**|Sriram Bharadwaj et.al.|[2504.21828](http://arxiv.org/abs/2504.21828)|null|
@@ -4960,6 +4970,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens et.al.|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
 |**2025-04-28**|**The differences of baryonic and dark matter scaling relations in galaxy clusters between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
 |**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151](http://arxiv.org/abs/2504.20151)|null|
