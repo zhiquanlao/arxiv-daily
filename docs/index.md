@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-02**|**Collection of fluorescence from an ion using trap-integrated photonics**|Felix W. Knollmann et.al.|[2505.01412](http://arxiv.org/abs/2505.01412)|null|
+|**2025-05-02**|**Hybrid Nonlinear Effects in Photonic Integrated Circuits**|Arghadeep Pal et.al.|[2505.01352](http://arxiv.org/abs/2505.01352)|null|
+|**2025-05-02**|**S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**|Chenghong Zhu et.al.|[2505.01316](http://arxiv.org/abs/2505.01316)|null|
+|**2025-05-02**|**Distributed Quantum Circuit Cutting for Hybrid Quantum-Classical High-Performance Computing**|Mar Tejedor et.al.|[2505.01184](http://arxiv.org/abs/2505.01184)|null|
+|**2025-05-02**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al.|[2505.01012](http://arxiv.org/abs/2505.01012)|null|
+|**2025-05-02**|**Dual-channel Transfer and Modulation of Optical Vortices in a Ladder-Type System**|Yazhi Shan et.al.|[2505.01005](http://arxiv.org/abs/2505.01005)|null|
+|**2025-05-02**|**A Troubleshooting Framework for Trapping Ions**|Monet Tokuyama Friedrich et.al.|[2505.00997](http://arxiv.org/abs/2505.00997)|null|
+|**2025-05-02**|**Chirality-selective proximity effect between chiral $p$ -wave superconductors and quantum Hall insulators**|Ryota Nakai et.al.|[2505.00994](http://arxiv.org/abs/2505.00994)|null|
+|**2025-05-01**|**Generation of entanglement between bright light fields via incoherent spontaneous emission**|Xihua Yang et.al.|[2505.00919](http://arxiv.org/abs/2505.00919)|null|
+|**2025-05-01**|**Quantum Computing in Industrial Environments: Where Do We Stand and Where Are We Headed?**|Eneko Osaba et.al.|[2505.00891](http://arxiv.org/abs/2505.00891)|null|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
 |**2025-05-02**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
 |**2025-05-02**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
@@ -4970,6 +4980,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-28**|**Structured Nonlinear Cascades Bridging Macroscopic Fluid Scales and Molecular Vibrations**|Andrei Tudor Patrascu et.al.|[2505.00729](http://arxiv.org/abs/2505.00729)|null|
 |**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens et.al.|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
 |**2025-04-28**|**The differences of baryonic and dark matter scaling relations in galaxy clusters between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
