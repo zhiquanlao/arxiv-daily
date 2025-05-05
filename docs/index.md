@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.04
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3418,8 +3418,8 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-01**|**A log-depth in-place quantum Fourier transform that rarely needs ancillas**|Gregory D. Kahanamoku-Meyer et.al.|[2505.00701](http://arxiv.org/abs/2505.00701)|null|
-|**2025-05-01**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
-|**2025-05-01**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
+|**2025-05-02**|**Comprehensive Study on Heisenberg-limited Quantum Algorithms for Multiple Observables Estimation**|Yuki Koizumi et.al.|[2505.00698](http://arxiv.org/abs/2505.00698)|null|
+|**2025-05-02**|**Faster Quantum Algorithm for Multiple Observables Estimation in Fermionic Problems**|Yuki Koizumi et.al.|[2505.00697](http://arxiv.org/abs/2505.00697)|null|
 |**2025-05-01**|**Quantum information engines: Bounds on performance metrics by measurement time**|Henning Kirchberg et.al.|[2505.00686](http://arxiv.org/abs/2505.00686)|null|
 |**2025-05-01**|**Narrow Inhomogeneous Distribution and Charge State Stabilization of Lead-Vacancy Centers in Diamond**|Ryotaro Abe et.al.|[2505.00576](http://arxiv.org/abs/2505.00576)|null|
 |**2025-05-01**|**Scalable Quantum Computing with Optical Links**|M. J. Weaver et.al.|[2505.00542](http://arxiv.org/abs/2505.00542)|null|
