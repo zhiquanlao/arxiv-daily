@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Planckeons as mouths of quantum wormholes and holographic origin of spacetime**|Ignazio Licata et.al.|[2505.02804](http://arxiv.org/abs/2505.02804)|null|
+|**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793](http://arxiv.org/abs/2505.02793)|null|
+|**2025-05-05**|**Efficient and high-fidelity entanglement in cavity QED without high cooperativity**|Sumit Goswami et.al.|[2505.02702](http://arxiv.org/abs/2505.02702)|null|
+|**2025-05-05**|**Entanglement islands in 1D and 2D lattices with defects**|Ivan P. Christov et.al.|[2505.02612](http://arxiv.org/abs/2505.02612)|null|
+|**2025-05-05**|**Exponential improvement in quantum simulations of bosons**|Masanori Hanada et.al.|[2505.02553](http://arxiv.org/abs/2505.02553)|null|
+|**2025-05-05**|**Fast initialization of Bell states with Schrödinger cats in multi-mode systems**|Miriam Resch et.al.|[2505.02497](http://arxiv.org/abs/2505.02497)|null|
+|**2025-05-05**|**Non-Markovianity and memory enhancement in Quantum Reservoir Computing**|Antonio Sannia et.al.|[2505.02491](http://arxiv.org/abs/2505.02491)|null|
+|**2025-05-05**|**Hypothesis testing and Stein's lemma in general probability theories with Euclidean Jordan algebra and its quantum realization**|Kanta Sonoda et.al.|[2505.02487](http://arxiv.org/abs/2505.02487)|null|
+|**2025-05-05**|**Efficient Classical Algorithms for Simulating Gaussian Boson Sampling on Graphs**|Yexin Zhang et.al.|[2505.02445](http://arxiv.org/abs/2505.02445)|null|
+|**2025-05-05**|**Near-perfect broadband quantum memory enabled by intelligent spinwave compaction**|Jinxian Guo et.al.|[2505.02424](http://arxiv.org/abs/2505.02424)|null|
 |**2025-05-02**|**Collection of fluorescence from an ion using trap-integrated photonics**|Felix W. Knollmann et.al.|[2505.01412](http://arxiv.org/abs/2505.01412)|null|
 |**2025-05-02**|**Hybrid Nonlinear Effects in Photonic Integrated Circuits**|Arghadeep Pal et.al.|[2505.01352](http://arxiv.org/abs/2505.01352)|null|
 |**2025-05-02**|**S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**|Chenghong Zhu et.al.|[2505.01316](http://arxiv.org/abs/2505.01316)|null|
@@ -5004,6 +5014,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827](http://arxiv.org/abs/2505.02827)|null|
+|**2025-05-05**|**Partons from stabilizer codes**|Rafael A. Macedo et.al.|[2505.02683](http://arxiv.org/abs/2505.02683)|null|
+|**2025-05-04**|**Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases**|Tao Jiang et.al.|[2505.01978](http://arxiv.org/abs/2505.01978)|null|
+|**2025-05-03**|**Topological Quantum Statistical Mechanics and Topological Quantum Field Theories**|Zhidong Zhang et.al.|[2505.01653](http://arxiv.org/abs/2505.01653)|null|
+|**2025-05-02**|**Order-detection and non-left-orderable surgeries on links**|Adam Clay et.al.|[2505.01564](http://arxiv.org/abs/2505.01564)|null|
 |**2025-04-28**|**Structured Nonlinear Cascades Bridging Macroscopic Fluid Scales and Molecular Vibrations**|Andrei Tudor Patrascu et.al.|[2505.00729](http://arxiv.org/abs/2505.00729)|null|
 |**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens et.al.|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
