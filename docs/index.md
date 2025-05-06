@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4983,7 +4983,7 @@ layout: default
 |**2025-04-28**|**Structured Nonlinear Cascades Bridging Macroscopic Fluid Scales and Molecular Vibrations**|Andrei Tudor Patrascu et.al.|[2505.00729](http://arxiv.org/abs/2505.00729)|null|
 |**2025-05-01**|**Minimal Factorization of Chern-Simons Theory - Gravitational Anyonic Edge Modes**|Thomas G. Mertens et.al.|[2505.00501](http://arxiv.org/abs/2505.00501)|null|
 |**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
-|**2025-04-28**|**The differences of baryonic and dark matter scaling relations in galaxy clusters between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
+|**2025-05-02**|**Differences in baryonic and dark matter scaling relations of galaxy clusters: A comparison between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
 |**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151](http://arxiv.org/abs/2504.20151)|null|
 |**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
