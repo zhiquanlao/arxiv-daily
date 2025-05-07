@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734](http://arxiv.org/abs/2505.03734)|null|
+|**2025-05-06**|**Impact and mitigation of Hamiltonian characterization errors in digital-analog quantum computation**|Mikel Garcia-de-Andoin et.al.|[2505.03642](http://arxiv.org/abs/2505.03642)|null|
+|**2025-05-06**|**Environmental Quantum States Trigger Emission in Nonlinear Photonics**|Jia-Qi Li et.al.|[2505.03640](http://arxiv.org/abs/2505.03640)|null|
+|**2025-05-06**|**Typical Machine Learning Datasets as Low-Depth Quantum Circuits**|Florian J. Kiwit et.al.|[2505.03399](http://arxiv.org/abs/2505.03399)|null|
+|**2025-05-06**|**Noisy HQNNs: A Comprehensive Analysis of Noise Robustness in Hybrid Quantum Neural Networks**|Tasnim Ahmed et.al.|[2505.03378](http://arxiv.org/abs/2505.03378)|null|
+|**2025-05-06**|**Janus bound states in the continuum in structurally symmetric photonic crystals**|Hongzhi Zuo et.al.|[2505.03333](http://arxiv.org/abs/2505.03333)|null|
+|**2025-05-06**|**Magnetic-field dependent VB- spin decoherence in hexagonal boron nitrides: A first-principles study**|Jaewook Lee et.al.|[2505.03306](http://arxiv.org/abs/2505.03306)|null|
+|**2025-05-06**|**Exploring the application of quantum technologies to industrial and real-world use cases**|Eneko Osaba et.al.|[2505.03302](http://arxiv.org/abs/2505.03302)|null|
+|**2025-05-06**|**Towards Improved Quantum Machine Learning for Molecular Force Fields**|Yannick Couzinié et.al.|[2505.03213](http://arxiv.org/abs/2505.03213)|null|
+|**2025-05-06**|**Enhanced Simultaneous Quantum-Classical Communications Under Composable Security**|Nicholas Zaunders et.al.|[2505.03145](http://arxiv.org/abs/2505.03145)|null|
 |**2025-05-05**|**Planckeons as mouths of quantum wormholes and holographic origin of spacetime**|Ignazio Licata et.al.|[2505.02804](http://arxiv.org/abs/2505.02804)|null|
 |**2025-05-05**|**Coexistence of Nodal and Nodeless Pairing Symmetry in Superconducting 6R-SnNbSe2**|K. Yadav et.al.|[2505.02793](http://arxiv.org/abs/2505.02793)|null|
 |**2025-05-05**|**Efficient and high-fidelity entanglement in cavity QED without high cooperativity**|Sumit Goswami et.al.|[2505.02702](http://arxiv.org/abs/2505.02702)|null|
@@ -4990,6 +5000,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
+|**2025-05-05**|**Hidden symmetries, hidden conservation laws and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2505.02962](http://arxiv.org/abs/2505.02962)|null|
+|**2025-05-05**|**Vlasov Perturbation Theory applied to $Λ$ CDM**|Mathias Garny et.al.|[2505.02907](http://arxiv.org/abs/2505.02907)|null|
+|**2025-05-05**|**Doping lattice non-abelian quantum Hall states**|Zhengyan Darius Shi et.al.|[2505.02893](http://arxiv.org/abs/2505.02893)|null|
 |**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827](http://arxiv.org/abs/2505.02827)|null|
 |**2025-05-05**|**Partons from stabilizer codes**|Rafael A. Macedo et.al.|[2505.02683](http://arxiv.org/abs/2505.02683)|null|
 |**2025-05-04**|**Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases**|Tao Jiang et.al.|[2505.01978](http://arxiv.org/abs/2505.01978)|null|
