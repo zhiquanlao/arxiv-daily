@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585](http://arxiv.org/abs/2505.04585)|null|
+|**2025-05-07**|**Symmetry-Aware Trotterization for Simulating the Heisenberg Model on IBM Quantum Devices**|Bo Yang et.al.|[2505.04552](http://arxiv.org/abs/2505.04552)|null|
+|**2025-05-07**|**Quantum thermodynamics and semi-definite optimization**|Nana Liu et.al.|[2505.04514](http://arxiv.org/abs/2505.04514)|null|
+|**2025-05-07**|**Adaptive folding and noise filtering for robust quantum error mitigation**|Kathrin F. Koenig et.al.|[2505.04463](http://arxiv.org/abs/2505.04463)|null|
+|**2025-05-07**|**Generic Two-Mode Gaussian States as Quantum Sensors**|Pritam Chattopadhyay et.al.|[2505.04321](http://arxiv.org/abs/2505.04321)|null|
+|**2025-05-07**|**Guardians of the Web: The Evolution and Future of Website Information Security**|Md Saiful Islam et.al.|[2505.04308](http://arxiv.org/abs/2505.04308)|null|
+|**2025-05-07**|**Quantum Circuits for the Black-Scholes equations via Schrödingerisation**|Shi Jin et.al.|[2505.04304](http://arxiv.org/abs/2505.04304)|null|
+|**2025-05-07**|**Progress in the development of quantum algorithms and software**|Anastasiia S. Nikolaeva et.al.|[2505.04285](http://arxiv.org/abs/2505.04285)|null|
+|**2025-05-07**|**Ordering Matters: Structure, Accuracy and Gate Cost in Second-Order Suzuki Product Formulas**|Matthew A Lane et.al.|[2505.04240](http://arxiv.org/abs/2505.04240)|null|
+|**2025-05-07**|**Scalable Asynchronous Single Flux Quantum Up-Down Counter using Josephson Trapping Lines and α-Cells**|Mustafa Altay Karamuftuoglu et.al.|[2505.04069](http://arxiv.org/abs/2505.04069)|null|
 |**2025-05-06**|**Highly squeezed nanophotonic quantum microcombs with broadband frequency tunability**|Yichen Shen et.al.|[2505.03734](http://arxiv.org/abs/2505.03734)|null|
 |**2025-05-06**|**Impact and mitigation of Hamiltonian characterization errors in digital-analog quantum computation**|Mikel Garcia-de-Andoin et.al.|[2505.03642](http://arxiv.org/abs/2505.03642)|null|
 |**2025-05-06**|**Environmental Quantum States Trigger Emission in Nonlinear Photonics**|Jia-Qi Li et.al.|[2505.03640](http://arxiv.org/abs/2505.03640)|null|
@@ -5024,6 +5034,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
 |**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
 |**2025-05-05**|**Hidden symmetries, hidden conservation laws and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2505.02962](http://arxiv.org/abs/2505.02962)|null|
 |**2025-05-05**|**Vlasov Perturbation Theory applied to $Λ$ CDM**|Mathias Garny et.al.|[2505.02907](http://arxiv.org/abs/2505.02907)|null|
