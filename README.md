@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**A Solovay-Kitaev theorem for quantum signal processing**|Zane M. Rossi et.al.|[2505.05468](http://arxiv.org/abs/2505.05468)|null|
+|**2025-05-08**|**Quantum Simulation of Dynamical Response Functions of Equilibrium States**|Esther Cruz et.al.|[2505.05411](http://arxiv.org/abs/2505.05411)|null|
+|**2025-05-08**|**Scalable Quantum Architecture Search via Landscape Analysis**|Chenghong Zhu et.al.|[2505.05380](http://arxiv.org/abs/2505.05380)|null|
+|**2025-05-08**|**Open quantum systems with particle and bath driven by time-dependent fields**|Daniele Gamba et.al.|[2505.05348](http://arxiv.org/abs/2505.05348)|null|
+|**2025-05-08**|**Operator-Level Quantum Acceleration of Non-Logconcave Sampling**|Jiaqi Leng et.al.|[2505.05301](http://arxiv.org/abs/2505.05301)|null|
+|**2025-05-08**|**HQC-NBV: A Hybrid Quantum-Classical View Planning Approach**|Xiaotong Yu et.al.|[2505.05212](http://arxiv.org/abs/2505.05212)|null|
+|**2025-05-08**|**A short review on qudit quantum machine learning**|Tiago de Souza Farias et.al.|[2505.05158](http://arxiv.org/abs/2505.05158)|null|
+|**2025-05-08**|**Quantum Acoustics with Superconducting Qubits in the Multimode Transition-Coupling Regime**|Li Li et.al.|[2505.05127](http://arxiv.org/abs/2505.05127)|null|
+|**2025-05-08**|**From Hope to Heuristic: Realistic Runtime Estimates for Quantum Optimisation in NHEP**|Maja Franz et.al.|[2505.05066](http://arxiv.org/abs/2505.05066)|null|
+|**2025-05-08**|**GroverGPT-2: Simulating Grover's Algorithm via Chain-of-Thought Reasoning and Quantum-Native Tokenization**|Min Chen et.al.|[2505.04880](http://arxiv.org/abs/2505.04880)|null|
 |**2025-05-07**|**Antenna-coupled integrated millimeterwave modulators and resonant electro-optic frequency combs**|A. Gaier et.al.|[2505.04585](http://arxiv.org/abs/2505.04585)|null|
 |**2025-05-07**|**Symmetry-Aware Trotterization for Simulating the Heisenberg Model on IBM Quantum Devices**|Bo Yang et.al.|[2505.04552](http://arxiv.org/abs/2505.04552)|null|
 |**2025-05-07**|**Quantum thermodynamics and semi-definite optimization**|Nana Liu et.al.|[2505.04514](http://arxiv.org/abs/2505.04514)|null|
@@ -5034,6 +5044,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller et.al.|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
+|**2025-05-07**|**Electromagnetic response and emergent topological orders in transition metal dichalcogenide MoTe $_2$ bilayers**|Tianhong Lu et.al.|[2505.04685](http://arxiv.org/abs/2505.04685)|null|
 |**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
 |**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
 |**2025-05-05**|**Hidden symmetries, hidden conservation laws and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2505.02962](http://arxiv.org/abs/2505.02962)|null|
