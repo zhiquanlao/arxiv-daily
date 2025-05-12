@@ -3486,7 +3486,7 @@ layout: default
 |**2025-04-30**|**Heterogeneously error-corrected QRAMs**|Ansh Singal et.al.|[2504.21687](http://arxiv.org/abs/2504.21687)|null|
 |**2025-04-30**|**Using quantum annealing to generate test cases for cyber-physical systems**|Hugo Araujo et.al.|[2504.21684](http://arxiv.org/abs/2504.21684)|null|
 |**2025-04-30**|**Spatio-temporal entanglement of the vacuum**|Pravin Kumar Dahal et.al.|[2504.21649](http://arxiv.org/abs/2504.21649)|null|
-|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636](http://arxiv.org/abs/2504.21636)|null|
+|**2025-04-30**|**Optimal fermion-qubit mappings via quadratic assignment**|Mitchell Chiew et.al.|[2504.21636](http://arxiv.org/abs/2504.21636)|**[link](https://github.com/cameton/qce_qubitassignment)**|
 |**2025-04-29**|**Quantum Hypothesis Testing Lemma for Deterministic Identification over Quantum Channels**|Pau Colomer et.al.|[2504.20991](http://arxiv.org/abs/2504.20991)|null|
 |**2025-04-29**|**Photonic Quantum Convolutional Neural Networks with Adaptive State Injection**|Léo Monbroussou et.al.|[2504.20989](http://arxiv.org/abs/2504.20989)|null|
 |**2025-04-29**|**Provably faster randomized and quantum algorithms for k-means clustering via uniform sampling**|Tyler Chen et.al.|[2504.20982](http://arxiv.org/abs/2504.20982)|null|
@@ -3594,7 +3594,7 @@ layout: default
 |**2025-04-15**|**Measurement of the g factor of ground-state 87Sr at the parts-per-million level using co-trapped ultracold atoms**|Premjith Thekkeppatt et.al.|[2504.11242](http://arxiv.org/abs/2504.11242)|null|
 |**2025-04-15**|**BenchQC -- Scalable and modular benchmarking of industrial quantum computing applications**|Florian Geissler et.al.|[2504.11204](http://arxiv.org/abs/2504.11204)|null|
 |**2025-04-15**|**Time-Resolved Stokes Analysis of Single Photon Emitters in Hexagonal Boron Nitride**|Çağlar Samaner et.al.|[2504.11193](http://arxiv.org/abs/2504.11193)|null|
-|**2025-04-15**|**Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation**|Linus Jern et.al.|[2504.11109](http://arxiv.org/abs/2504.11109)|null|
+|**2025-04-15**|**Fine-Tuning Large Language Models on Quantum Optimization Problems for Circuit Generation**|Linus Jern et.al.|[2504.11109](http://arxiv.org/abs/2504.11109)|**[link](https://github.com/linuzj/quantum-code-generation)**|
 |**2025-04-15**|**Compact laser system with frequency stability dissemination for optical clocks and quantum computing**|M. I. Shakirov et.al.|[2504.11105](http://arxiv.org/abs/2504.11105)|null|
 |**2025-04-15**|**QAMA: Quantum annealing multi-head attention operator with classical deep learning framework**|Peng Du et.al.|[2504.11083](http://arxiv.org/abs/2504.11083)|null|
 |**2025-04-14**|**Capacities of highly Markovian divisible quantum channels**|Satvik Singh et.al.|[2504.10436](http://arxiv.org/abs/2504.10436)|null|
@@ -5037,7 +5037,7 @@ layout: default
 |**2025-04-30**|**Universal Structures and Emergent Geometry from Large- $c$ BCFT Ensemble**|Ling-Yan Hung et.al.|[2504.21660](http://arxiv.org/abs/2504.21660)|null|
 |**2025-05-02**|**Differences in baryonic and dark matter scaling relations of galaxy clusters: A comparison between IllustrisTNG simulations and observations**|Daniel Miller et.al.|[2504.20159](http://arxiv.org/abs/2504.20159)|null|
 |**2025-04-28**|**$N$ -ality symmetry and SPT phases in (1+1)d**|Jun Maeda et.al.|[2504.20151](http://arxiv.org/abs/2504.20151)|null|
-|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|null|
+|**2025-04-28**|**Unified and consistent structure growth measurements from joint ACT, SPT and \textit{Planck} CMB lensing**|Frank J. Qu et.al.|[2504.20038](http://arxiv.org/abs/2504.20038)|**[link](https://github.com/qujia7/spt_act_likelihood)**|
 |**2025-04-28**|**Quantum circuit lower bounds in the magic hierarchy**|Natalie Parham et.al.|[2504.19966](http://arxiv.org/abs/2504.19966)|null|
 |**2025-04-28**|**Gapped Boundaries of Kitaev's Quantum Double Models: A Lattice Realization of Anyon Condensation from Lagrangian Algebras**|Mu Li et.al.|[2504.19512](http://arxiv.org/abs/2504.19512)|null|
 |**2025-04-28**|**A topological quantum field theory for $\mathrm{Spin}(7)$ -instantons**|Rafael Herrera et.al.|[2504.19403](http://arxiv.org/abs/2504.19403)|null|
@@ -5148,7 +5148,7 @@ layout: default
 |**2025-02-11**|**Classification of Gapped Domain Walls of Topological Orders in 2+1 dimensions: A Levin-Wen Model Realization**|Yanyan Chen et.al.|[2502.07664](http://arxiv.org/abs/2502.07664)|null|
 |**2025-02-12**|**Magnetic Bloch States at Integer Flux Quanta Induced by Super-moiré Potential in Graphene Aligned with Twisted Boron Nitride**|Yaqi Ma et.al.|[2502.07283](http://arxiv.org/abs/2502.07283)|null|
 |**2025-02-10**|**Detection of chiral spin fluctuations driven by frustration in Mott insulators**|Kuan H. Hsu et.al.|[2502.07108](http://arxiv.org/abs/2502.07108)|null|
-|**2025-02-10**|**WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|null|
+|**2025-02-10**|**WyckoffDiff -- A Generative Diffusion Model for Crystal Symmetry**|Filip Ekström Kelvinius et.al.|[2502.06485](http://arxiv.org/abs/2502.06485)|**[link](https://github.com/httk/wyckoffdiff)**|
 |**2025-02-07**|**Anomalous suppression of large-scale density fluctuations in classical and quantum spin liquids**|Duyu Chen et.al.|[2502.05313](http://arxiv.org/abs/2502.05313)|null|
 |**2025-02-07**|**Laser-driven Ultrafast Dynamics of a Fractional Quantum Hall System**|Ammar Kirmani et.al.|[2502.04622](http://arxiv.org/abs/2502.04622)|null|
 |**2025-02-06**|**Heterogeneous Swarms: Jointly Optimizing Model Roles and Weights for Multi-LLM Systems**|Shangbin Feng et.al.|[2502.04510](http://arxiv.org/abs/2502.04510)|null|
