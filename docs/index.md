@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-09**|**Optimal statistical ensembles for quantum thermal state preparation within the quantum singular value transformation framework**|Yasushi Yoneta et.al.|[2505.06216](http://arxiv.org/abs/2505.06216)|null|
+|**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212](http://arxiv.org/abs/2505.06212)|null|
+|**2025-05-09**|**Entanglement dynamics and Page curves in random permutation circuits**|Dávid Szász-Schagrin et.al.|[2505.06158](http://arxiv.org/abs/2505.06158)|null|
+|**2025-05-09**|**Distributed Tensor Network Library for Quantum Computing Emulation**|Jakub Adamski et.al.|[2505.06119](http://arxiv.org/abs/2505.06119)|null|
+|**2025-05-09**|**Algebraic Topology Principles behind Topological Quantum Error Correction**|Xiang Zou et.al.|[2505.06082](http://arxiv.org/abs/2505.06082)|null|
+|**2025-05-09**|**Operator Spaces, Linear Logic and the Heisenberg-Schrödinger Duality of Quantum Theory**|Bert Lindenhovius et.al.|[2505.06069](http://arxiv.org/abs/2505.06069)|null|
+|**2025-05-09**|**Sublinear Classical-to-Quantum Data Encoding using $n$ -Toffoli Gates**|Vittorio Pagni et.al.|[2505.06054](http://arxiv.org/abs/2505.06054)|null|
+|**2025-05-09**|**Strong converse Exponents of Partially Smoothed Information Measures**|Mario Berta et.al.|[2505.06050](http://arxiv.org/abs/2505.06050)|null|
+|**2025-05-09**|**Synthetic spin-orbit coupling in superconductor-semiconductor hybrid nanowires with micromagnet arrays**|M. P. Hynes et.al.|[2505.06040](http://arxiv.org/abs/2505.06040)|null|
+|**2025-05-09**|**Genuine Multipartite Entanglement Measure Based on $α$ -concurrence**|Ke-Ke Wang et.al.|[2505.05998](http://arxiv.org/abs/2505.05998)|null|
 |**2025-05-08**|**A Solovay-Kitaev theorem for quantum signal processing**|Zane M. Rossi et.al.|[2505.05468](http://arxiv.org/abs/2505.05468)|null|
 |**2025-05-08**|**Quantum Simulation of Dynamical Response Functions of Equilibrium States**|Esther Cruz et.al.|[2505.05411](http://arxiv.org/abs/2505.05411)|null|
 |**2025-05-08**|**Scalable Quantum Architecture Search via Landscape Analysis**|Chenghong Zhu et.al.|[2505.05380](http://arxiv.org/abs/2505.05380)|null|
