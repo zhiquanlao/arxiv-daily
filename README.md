@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Mixed state deep thermalization**|Xie-Hang Yu et.al.|[2505.07795](http://arxiv.org/abs/2505.07795)|null|
+|**2025-05-12**|**Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators**|Luis A. Martinez et.al.|[2505.07770](http://arxiv.org/abs/2505.07770)|null|
+|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang et.al.|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
+|**2025-05-12**|**Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**|Pranav Sinha et.al.|[2505.07711](http://arxiv.org/abs/2505.07711)|null|
+|**2025-05-12**|**Dynamical codes for hardware with noisy readouts**|Peter-Jan H. S. Derks et.al.|[2505.07658](http://arxiv.org/abs/2505.07658)|null|
+|**2025-05-12**|**QC-Adviser: Quantum Hardware Recommendations for Solving Industrial Optimization Problems**|Djamel Laps-Bouraba et.al.|[2505.07625](http://arxiv.org/abs/2505.07625)|null|
+|**2025-05-12**|**Out-of-time-order correlation in the quantum Ising Floquet spin system and magnonic crystals**|Rohit Kumar Shukla et.al.|[2505.07550](http://arxiv.org/abs/2505.07550)|null|
+|**2025-05-12**|**Post-Quantum Secure Decentralized Random Number Generation Protocol with Two Rounds of Communication in the Standard Model**|Pham Nhat Minh et.al.|[2505.07536](http://arxiv.org/abs/2505.07536)|null|
+|**2025-05-12**|**Multiqubit coherence of mixed states near event horizon**|Wen-Mei Li et.al.|[2505.07476](http://arxiv.org/abs/2505.07476)|null|
+|**2025-05-12**|**Directional entanglement of spin-orbit locked nitrogen-vacancy centers by magnons**|Zhiping Xue et.al.|[2505.07325](http://arxiv.org/abs/2505.07325)|null|
 |**2025-05-09**|**Optimal statistical ensembles for quantum thermal state preparation within the quantum singular value transformation framework**|Yasushi Yoneta et.al.|[2505.06216](http://arxiv.org/abs/2505.06216)|null|
 |**2025-05-09**|**From Fermions to Qubits: A ZX-Calculus Perspective**|Haytham McDowall-Rose et.al.|[2505.06212](http://arxiv.org/abs/2505.06212)|null|
 |**2025-05-09**|**Entanglement dynamics and Page curves in random permutation circuits**|Dávid Szász-Schagrin et.al.|[2505.06158](http://arxiv.org/abs/2505.06158)|null|
@@ -5054,6 +5064,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-12**|**Classical symmetry enriched topological orders and distinct monopole charges for dipole-octupole spin ices**|Pengwei Zhao et.al.|[2505.07805](http://arxiv.org/abs/2505.07805)|null|
+|**2025-05-12**|**Interplay of localization and topology in disordered dimerized array of Rydberg atoms**|Maksym Prodius et.al.|[2505.07720](http://arxiv.org/abs/2505.07720)|null|
 |**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller et.al.|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
 |**2025-05-07**|**Electromagnetic response and emergent topological orders in transition metal dichalcogenide MoTe $_2$ bilayers**|Tianhong Lu et.al.|[2505.04685](http://arxiv.org/abs/2505.04685)|null|
 |**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
