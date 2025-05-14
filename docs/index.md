@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5048,7 +5048,7 @@ layout: default
 |**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
 |**2025-05-05**|**Hidden symmetries, hidden conservation laws and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2505.02962](http://arxiv.org/abs/2505.02962)|null|
 |**2025-05-05**|**Vlasov Perturbation Theory applied to $Λ$ CDM**|Mathias Garny et.al.|[2505.02907](http://arxiv.org/abs/2505.02907)|null|
-|**2025-05-05**|**Doping lattice non-abelian quantum Hall states**|Zhengyan Darius Shi et.al.|[2505.02893](http://arxiv.org/abs/2505.02893)|null|
+|**2025-05-13**|**Doping lattice non-abelian quantum Hall states**|Zhengyan Darius Shi et.al.|[2505.02893](http://arxiv.org/abs/2505.02893)|null|
 |**2025-05-05**|**Constraints on Inflationary Gravitational Waves with Two Years of SPT-3G Data**|J. A. Zebrowski et.al.|[2505.02827](http://arxiv.org/abs/2505.02827)|null|
 |**2025-05-05**|**Partons from stabilizer codes**|Rafael A. Macedo et.al.|[2505.02683](http://arxiv.org/abs/2505.02683)|null|
 |**2025-05-04**|**Generation of 95-qubit genuine entanglement and verification of symmetry-protected topological phases**|Tao Jiang et.al.|[2505.01978](http://arxiv.org/abs/2505.01978)|null|
