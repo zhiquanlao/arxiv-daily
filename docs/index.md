@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
+|**2025-05-13**|**Regularizing quantum loss landscapes by noise injection**|Daniil S. Bagaev et.al.|[2505.08759](http://arxiv.org/abs/2505.08759)|null|
+|**2025-05-13**|**Near-unity quantum interference of transverse spatial modes in an ultra-compact inverse-designed photonic device**|Jamika Ann Roque et.al.|[2505.08668](http://arxiv.org/abs/2505.08668)|null|
+|**2025-05-13**|**Runtime Quantum Advantage with Digital Quantum Optimization**|Pranav Chandarana et.al.|[2505.08663](http://arxiv.org/abs/2505.08663)|null|
+|**2025-05-13**|**Exact quantum noise deconvolution with partial knowledge of noise**|Nahid Ahmadvand et.al.|[2505.08640](http://arxiv.org/abs/2505.08640)|null|
+|**2025-05-13**|**Demonstration of logical quantum phase estimation for X-ray absorption spectra**|Hirofumi Nishi et.al.|[2505.08612](http://arxiv.org/abs/2505.08612)|null|
+|**2025-05-13**|**High-contrast interaction between remote superconducting qubits mediated by multimode cable coupling**|Jiajian Zhang et.al.|[2505.08606](http://arxiv.org/abs/2505.08606)|null|
+|**2025-05-13**|**Modeling Quantum Links for the Exploration of Distributed Quantum Computing Systems**|Sahar Ben Rached et.al.|[2505.08577](http://arxiv.org/abs/2505.08577)|null|
+|**2025-05-13**|**Distributed Quantum Neural Networks on Distributed Photonic Quantum Computing**|Kuan-Cheng Chen et.al.|[2505.08474](http://arxiv.org/abs/2505.08474)|null|
+|**2025-05-13**|**Short and useful quantum proofs for sublogarithmic-space verifiers**|A. C. Cem Say et.al.|[2505.08462](http://arxiv.org/abs/2505.08462)|null|
 |**2025-05-12**|**Mixed state deep thermalization**|Xie-Hang Yu et.al.|[2505.07795](http://arxiv.org/abs/2505.07795)|null|
 |**2025-05-12**|**Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators**|Luis A. Martinez et.al.|[2505.07770](http://arxiv.org/abs/2505.07770)|null|
 |**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang et.al.|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
@@ -5040,6 +5050,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**$C^\ast$ -categorical prefactorization algebras for superselection sectors and topological order**|Marco Benini et.al.|[2505.07960](http://arxiv.org/abs/2505.07960)|null|
 |**2025-05-12**|**Classical symmetry enriched topological orders and distinct monopole charges for dipole-octupole spin ices**|Pengwei Zhao et.al.|[2505.07805](http://arxiv.org/abs/2505.07805)|null|
 |**2025-05-12**|**Interplay of localization and topology in disordered dimerized array of Rydberg atoms**|Maksym Prodius et.al.|[2505.07720](http://arxiv.org/abs/2505.07720)|null|
 |**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller et.al.|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
