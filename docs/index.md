@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**The Parity Flow Formalism: Tracking Quantum Information Throughout Computation**|Berend Klaver et.al.|[2505.09468](http://arxiv.org/abs/2505.09468)|null|
+|**2025-05-14**|**Monte-Carlo Option Pricing in Quantum Parallel**|Robert Scriba et.al.|[2505.09459](http://arxiv.org/abs/2505.09459)|null|
+|**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
+|**2025-05-14**|**Unraveling spin entanglement using quantum gates with scanning tunneling microscopy-driven electron spin resonance**|Eric D. Switzer et.al.|[2505.09428](http://arxiv.org/abs/2505.09428)|null|
+|**2025-05-14**|**Multilingual Machine Translation with Quantum Encoder Decoder Attention-based Convolutional Variational Circuits**|Subrit Dikshit et.al.|[2505.09407](http://arxiv.org/abs/2505.09407)|null|
+|**2025-05-14**|**Quantum-Enhanced Parameter-Efficient Learning for Typhoon Trajectory Forecasting**|Chen-Yu Liu et.al.|[2505.09395](http://arxiv.org/abs/2505.09395)|null|
+|**2025-05-14**|**TensorRL-QAS: Reinforcement learning with tensor networks for scalable quantum architecture search**|Akash Kundu et.al.|[2505.09371](http://arxiv.org/abs/2505.09371)|null|
+|**2025-05-14**|**Quantum ( $t$,$n$ ) Threshold Multi-Secret Sharing based on Cluster States**|Rui-Hai Ma et.al.|[2505.09317](http://arxiv.org/abs/2505.09317)|null|
+|**2025-05-14**|**Optical cavity as a directional quantum emitter**|Luiz O. R. Solak et.al.|[2505.09298](http://arxiv.org/abs/2505.09298)|null|
+|**2025-05-14**|**Robust transfer of a quantum state from an absorbed photon into a diamond spin**|Daisuke Ito et.al.|[2505.09292](http://arxiv.org/abs/2505.09292)|null|
 |**2025-05-13**|**Addressing the Current Challenges of Quantum Machine Learning through Multi-Chip Ensembles**|Junghoon Justin Park et.al.|[2505.08782](http://arxiv.org/abs/2505.08782)|null|
 |**2025-05-13**|**Regularizing quantum loss landscapes by noise injection**|Daniil S. Bagaev et.al.|[2505.08759](http://arxiv.org/abs/2505.08759)|null|
 |**2025-05-13**|**Near-unity quantum interference of transverse spatial modes in an ultra-compact inverse-designed photonic device**|Jamika Ann Roque et.al.|[2505.08668](http://arxiv.org/abs/2505.08668)|null|
@@ -5050,6 +5060,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri et.al.|[2505.09452](http://arxiv.org/abs/2505.09452)|null|
+|**2025-05-14**|**Automated SAR ADC Sizing Using Analytical Equations**|Zhongyi Li et.al.|[2505.09172](http://arxiv.org/abs/2505.09172)|null|
 |**2025-05-12**|**$C^\ast$ -categorical prefactorization algebras for superselection sectors and topological order**|Marco Benini et.al.|[2505.07960](http://arxiv.org/abs/2505.07960)|null|
 |**2025-05-12**|**Classical symmetry enriched topological orders and distinct monopole charges for dipole-octupole spin ices**|Pengwei Zhao et.al.|[2505.07805](http://arxiv.org/abs/2505.07805)|null|
 |**2025-05-12**|**Interplay of localization and topology in disordered dimerized array of Rydberg atoms**|Maksym Prodius et.al.|[2505.07720](http://arxiv.org/abs/2505.07720)|null|
