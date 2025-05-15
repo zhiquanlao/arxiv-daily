@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5056,7 +5056,7 @@ layout: default
 |**2025-05-07**|**On the Higher Categorical Structure of Topological Defects in Quantum Field Theories**|Lukas Müller et.al.|[2505.04761](http://arxiv.org/abs/2505.04761)|null|
 |**2025-05-07**|**Electromagnetic response and emergent topological orders in transition metal dichalcogenide MoTe $_2$ bilayers**|Tianhong Lu et.al.|[2505.04685](http://arxiv.org/abs/2505.04685)|null|
 |**2025-05-07**|**A Large Language Model for Feasible and Diverse Population Synthesis**|Sung Yoo Lim et.al.|[2505.04196](http://arxiv.org/abs/2505.04196)|null|
-|**2025-05-06**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
+|**2025-05-14**|**Topological Manipulations On $\mathbb{R}$ Symmetries Of Abelian Gauge Theory**|Burak Oğuz et.al.|[2505.03700](http://arxiv.org/abs/2505.03700)|null|
 |**2025-05-05**|**Hidden symmetries, hidden conservation laws and exact solutions of dispersionless Nizhnik equation**|Oleksandra O. Vinnichenko et.al.|[2505.02962](http://arxiv.org/abs/2505.02962)|null|
 |**2025-05-05**|**Vlasov Perturbation Theory applied to $Λ$ CDM**|Mathias Garny et.al.|[2505.02907](http://arxiv.org/abs/2505.02907)|null|
 |**2025-05-13**|**Doping lattice non-abelian quantum Hall states**|Zhengyan Darius Shi et.al.|[2505.02893](http://arxiv.org/abs/2505.02893)|null|
