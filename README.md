@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra et.al.|[2505.10513](http://arxiv.org/abs/2505.10513)|null|
+|**2025-05-15**|**Characterizing quantum dynamics using multipartite entanglement generation**|Gaurav Rudra Malik et.al.|[2505.10477](http://arxiv.org/abs/2505.10477)|null|
+|**2025-05-15**|**Compressed sensing quantum state tomography for qudits: A comparison of Gell-Mann and Heisenberg-Weyl observable bases**|Yoshiyuki Kakihara et.al.|[2505.10462](http://arxiv.org/abs/2505.10462)|null|
+|**2025-05-15**|**Zestings of Hopf Algebras**|Iván Angiono et.al.|[2505.10447](http://arxiv.org/abs/2505.10447)|null|
+|**2025-05-15**|**On the quantum computational complexity of classical linear dynamics with geometrically local interactions: Dequantization and universality**|Kazuki Sakamoto et.al.|[2505.10445](http://arxiv.org/abs/2505.10445)|null|
+|**2025-05-15**|**High-fidelity dispersive spin sensing in a tuneable unit cell of silicon MOS quantum dots**|Constance Lainé et.al.|[2505.10435](http://arxiv.org/abs/2505.10435)|null|
+|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416](http://arxiv.org/abs/2505.10416)|null|
+|**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen et.al.|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
+|**2025-05-15**|**Non-Markovian dynamics with a driven three-level giant atom in a semi-infinite photonic waveguide**|S. J. Sun et.al.|[2505.10340](http://arxiv.org/abs/2505.10340)|null|
+|**2025-05-15**|**Country wide Shared FibreBased Infrastructure for Dissemination of Precise Time, Coherent Optical Frequency with Vibration Sensing**|Josef Vojtech et.al.|[2505.10314](http://arxiv.org/abs/2505.10314)|null|
 |**2025-05-14**|**The Parity Flow Formalism: Tracking Quantum Information Throughout Computation**|Berend Klaver et.al.|[2505.09468](http://arxiv.org/abs/2505.09468)|null|
 |**2025-05-14**|**Monte-Carlo Option Pricing in Quantum Parallel**|Robert Scriba et.al.|[2505.09459](http://arxiv.org/abs/2505.09459)|null|
 |**2025-05-14**|**Zassenhaus Expansion in Solving the Schrödinger Equation**|Molena Nguyen et.al.|[2505.09441](http://arxiv.org/abs/2505.09441)|null|
