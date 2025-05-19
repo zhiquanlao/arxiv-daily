@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Unbiased observable estimation via noisy channel mixtures for fault-tolerant quantum computation**|Dmitrii Khitrin et.al.|[2505.11486](http://arxiv.org/abs/2505.11486)|null|
+|**2025-05-16**|**TensorMixedStates: a Julia library for simulating pure and mixed quantum states using matrix product states**|Jérôme Houdayer et.al.|[2505.11377](http://arxiv.org/abs/2505.11377)|null|
+|**2025-05-16**|**Quantum compressed sensing tomographic reconstruction algorithm**|Arim Ryou et.al.|[2505.11286](http://arxiv.org/abs/2505.11286)|null|
+|**2025-05-16**|**A Review of Tools and Techniques for Optimization of Workload Mapping and Scheduling in Heterogeneous HPC System**|Aasish Kumar Sharma et.al.|[2505.11244](http://arxiv.org/abs/2505.11244)|null|
+|**2025-05-16**|**Harnessing Photon Indistinguishability in Quantum Extreme Learning Machines**|Malo Joly et.al.|[2505.11238](http://arxiv.org/abs/2505.11238)|null|
+|**2025-05-16**|**Quantum computing with atomic qubit arrays: confronting the cost of connectivity**|M. Saffman et.al.|[2505.11218](http://arxiv.org/abs/2505.11218)|null|
+|**2025-05-16**|**Decentralized Framework for Teleportation in Quantum Core Interconnects**|Rajeswari Suance P S et.al.|[2505.11195](http://arxiv.org/abs/2505.11195)|null|
+|**2025-05-16**|**Analytical Fidelity Calculations for Photonic Linear Cluster State Generation**|Rohit Prasad et.al.|[2505.11078](http://arxiv.org/abs/2505.11078)|null|
+|**2025-05-16**|**Beyond real: Alternative unitary cluster Jastrow models for molecular electronic structure calculations on near-term quantum computers**|Nikolay V. Tkachenko et.al.|[2505.10963](http://arxiv.org/abs/2505.10963)|null|
+|**2025-05-16**|**Large-Scale Quantum Device Benchmarking via LXEB with Particle-Number-Conserving Random Quantum Circuits**|Takumi Kaneda et.al.|[2505.10820](http://arxiv.org/abs/2505.10820)|null|
 |**2025-05-15**|**Unlocking early fault-tolerant quantum computing with mitigated magic dilution**|Surabhi Luthra et.al.|[2505.10513](http://arxiv.org/abs/2505.10513)|null|
 |**2025-05-15**|**Characterizing quantum dynamics using multipartite entanglement generation**|Gaurav Rudra Malik et.al.|[2505.10477](http://arxiv.org/abs/2505.10477)|null|
 |**2025-05-15**|**Compressed sensing quantum state tomography for qudits: A comparison of Gell-Mann and Heisenberg-Weyl observable bases**|Yoshiyuki Kakihara et.al.|[2505.10462](http://arxiv.org/abs/2505.10462)|null|
@@ -5070,6 +5080,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
+|**2025-05-16**|**Lattice models with subsystem/weak non-invertible symmetry-protected topological order**|Yuki Furukawa et.al.|[2505.11419](http://arxiv.org/abs/2505.11419)|null|
 |**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri et.al.|[2505.09452](http://arxiv.org/abs/2505.09452)|null|
 |**2025-05-14**|**Automated SAR ADC Sizing Using Analytical Equations**|Zhongyi Li et.al.|[2505.09172](http://arxiv.org/abs/2505.09172)|null|
 |**2025-05-12**|**$C^\ast$ -categorical prefactorization algebras for superselection sectors and topological order**|Marco Benini et.al.|[2505.07960](http://arxiv.org/abs/2505.07960)|null|
