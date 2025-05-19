@@ -3449,7 +3449,7 @@ layout: default
 |**2025-05-13**|**Short and useful quantum proofs for sublogarithmic-space verifiers**|A. C. Cem Say et.al.|[2505.08462](http://arxiv.org/abs/2505.08462)|null|
 |**2025-05-12**|**Mixed state deep thermalization**|Xie-Hang Yu et.al.|[2505.07795](http://arxiv.org/abs/2505.07795)|null|
 |**2025-05-12**|**Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators**|Luis A. Martinez et.al.|[2505.07770](http://arxiv.org/abs/2505.07770)|null|
-|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang et.al.|[2505.07725](http://arxiv.org/abs/2505.07725)|null|
+|**2025-05-12**|**Quantum Process Tomography with Digital Twins of Error Matrices**|Tangyou Huang et.al.|[2505.07725](http://arxiv.org/abs/2505.07725)|**[link](https://github.com/huangtangy/em-qpt)**|
 |**2025-05-12**|**Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations**|Pranav Sinha et.al.|[2505.07711](http://arxiv.org/abs/2505.07711)|null|
 |**2025-05-12**|**Dynamical codes for hardware with noisy readouts**|Peter-Jan H. S. Derks et.al.|[2505.07658](http://arxiv.org/abs/2505.07658)|null|
 |**2025-05-12**|**QC-Adviser: Quantum Hardware Recommendations for Solving Industrial Optimization Problems**|Djamel Laps-Bouraba et.al.|[2505.07625](http://arxiv.org/abs/2505.07625)|null|
@@ -3510,7 +3510,7 @@ layout: default
 |**2025-05-02**|**Collection of fluorescence from an ion using trap-integrated photonics**|Felix W. Knollmann et.al.|[2505.01412](http://arxiv.org/abs/2505.01412)|null|
 |**2025-05-02**|**Hybrid Nonlinear Effects in Photonic Integrated Circuits**|Arghadeep Pal et.al.|[2505.01352](http://arxiv.org/abs/2505.01352)|null|
 |**2025-05-02**|**S-SYNC: Shuttle and Swap Co-Optimization in Quantum Charge-Coupled Devices**|Chenghong Zhu et.al.|[2505.01316](http://arxiv.org/abs/2505.01316)|null|
-|**2025-05-02**|**Distributed Quantum Circuit Cutting for Hybrid Quantum-Classical High-Performance Computing**|Mar Tejedor et.al.|[2505.01184](http://arxiv.org/abs/2505.01184)|null|
+|**2025-05-02**|**Distributed Quantum Circuit Cutting for Hybrid Quantum-Classical High-Performance Computing**|Mar Tejedor et.al.|[2505.01184](http://arxiv.org/abs/2505.01184)|**[link](https://github.com/bsc-wdc/qdislib)**|
 |**2025-05-02**|**Quantum Support Vector Regression for Robust Anomaly Detection**|Kilian Tscharke et.al.|[2505.01012](http://arxiv.org/abs/2505.01012)|null|
 |**2025-05-02**|**Dual-channel Transfer and Modulation of Optical Vortices in a Ladder-Type System**|Yazhi Shan et.al.|[2505.01005](http://arxiv.org/abs/2505.01005)|null|
 |**2025-05-02**|**A Troubleshooting Framework for Trapping Ions**|Monet Tokuyama Friedrich et.al.|[2505.00997](http://arxiv.org/abs/2505.00997)|null|
