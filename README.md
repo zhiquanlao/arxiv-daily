@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications**|Shreya Verma et.al.|[2505.13394](http://arxiv.org/abs/2505.13394)|null|
+|**2025-05-19**|**A Game-Theoretic Quantum Algorithm for Solving Magic Squares**|Sarah Chehade et.al.|[2505.13366](http://arxiv.org/abs/2505.13366)|null|
+|**2025-05-19**|**Quantum Hardware-in-the-Loop for Optimal Power Flow in Renewable-Integrated Power Systems**|Zeynab Kaseb et.al.|[2505.13356](http://arxiv.org/abs/2505.13356)|null|
+|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay**|Pedro Otero-García et.al.|[2505.13239](http://arxiv.org/abs/2505.13239)|null|
+|**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
+|**2025-05-19**|**Quantum Kinetic Uncertainty Relations in Mesoscopic Conductors at Strong Coupling**|Gianmichele Blasi et.al.|[2505.13200](http://arxiv.org/abs/2505.13200)|null|
+|**2025-05-19**|**Parametric Stability Analysis for Circuit Quantum Electrodynamical Hardwares**|Maria Gabriela Boada et.al.|[2505.13177](http://arxiv.org/abs/2505.13177)|null|
+|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay (Conference Version)**|Pedro Otero-García et.al.|[2505.13158](http://arxiv.org/abs/2505.13158)|null|
+|**2025-05-19**|**Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays**|Geng Chen et.al.|[2505.13049](http://arxiv.org/abs/2505.13049)|null|
+|**2025-05-19**|**From Theory to Practice: Analyzing VQPM for Quantum Optimization of QUBO Problems**|Ammar Daskin et.al.|[2505.12990](http://arxiv.org/abs/2505.12990)|null|
 |**2025-05-16**|**Unbiased observable estimation via noisy channel mixtures for fault-tolerant quantum computation**|Dmitrii Khitrin et.al.|[2505.11486](http://arxiv.org/abs/2505.11486)|null|
 |**2025-05-16**|**TensorMixedStates: a Julia library for simulating pure and mixed quantum states using matrix product states**|Jérôme Houdayer et.al.|[2505.11377](http://arxiv.org/abs/2505.11377)|null|
 |**2025-05-16**|**Quantum compressed sensing tomographic reconstruction algorithm**|Arim Ryou et.al.|[2505.11286](http://arxiv.org/abs/2505.11286)|null|
@@ -5104,6 +5114,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky et.al.|[2505.12953](http://arxiv.org/abs/2505.12953)|null|
+|**2025-05-18**|**The Two-Higgs Doublet Model beyond tree-level: A gauge-invariant formalism**|T. Guerandel et.al.|[2505.12564](http://arxiv.org/abs/2505.12564)|null|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
 |**2025-05-16**|**Lattice models with subsystem/weak non-invertible symmetry-protected topological order**|Yuki Furukawa et.al.|[2505.11419](http://arxiv.org/abs/2505.11419)|null|
 |**2025-05-14**|**Vortex and fractional quantum Hall phases in a rotating anisotropic Bose gas**|Umut Tanyeri et.al.|[2505.09452](http://arxiv.org/abs/2505.09452)|null|
