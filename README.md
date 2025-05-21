@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
+|**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
+|**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
+|**2025-05-20**|**Distributed quantum computing with black-box subroutines**|X. Xu et.al.|[2505.14519](http://arxiv.org/abs/2505.14519)|null|
+|**2025-05-20**|**MicroCrypt Assumptions with Quantum Input Sampling and Pseudodeterminism: Constructions and Separations**|Mohammed Barhoush et.al.|[2505.14461](http://arxiv.org/abs/2505.14461)|null|
+|**2025-05-20**|**Benchmarking data encoding methods in Quantum Machine Learning**|Orlane Zang et.al.|[2505.14295](http://arxiv.org/abs/2505.14295)|null|
+|**2025-05-20**|**Waveguides in a quantum perspective**|Eddy Collin et.al.|[2505.14292](http://arxiv.org/abs/2505.14292)|null|
+|**2025-05-20**|**An engineering guide to superconducting quantum circuit shielding**|Elizaveta I. Malevannaya et.al.|[2505.14274](http://arxiv.org/abs/2505.14274)|null|
+|**2025-05-20**|**Fast and close Shannon entropy approximation**|Illia Horenko et.al.|[2505.14234](http://arxiv.org/abs/2505.14234)|null|
+|**2025-05-20**|**Quantum stochastic resonance in a single-photon emitter**|H. Mannel et.al.|[2505.14221](http://arxiv.org/abs/2505.14221)|null|
 |**2025-05-19**|**Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications**|Shreya Verma et.al.|[2505.13394](http://arxiv.org/abs/2505.13394)|null|
 |**2025-05-19**|**A Game-Theoretic Quantum Algorithm for Solving Magic Squares**|Sarah Chehade et.al.|[2505.13366](http://arxiv.org/abs/2505.13366)|null|
 |**2025-05-19**|**Quantum Hardware-in-the-Loop for Optimal Power Flow in Renewable-Integrated Power Systems**|Zeynab Kaseb et.al.|[2505.13356](http://arxiv.org/abs/2505.13356)|null|
@@ -5114,6 +5124,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang et.al.|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
+|**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla et.al.|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
 |**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky et.al.|[2505.12953](http://arxiv.org/abs/2505.12953)|null|
 |**2025-05-18**|**The Two-Higgs Doublet Model beyond tree-level: A gauge-invariant formalism**|T. Guerandel et.al.|[2505.12564](http://arxiv.org/abs/2505.12564)|null|
 |**2025-05-16**|**Exactly solvable dissipative dynamics and one-form strong-to-weak spontaneous symmetry breaking in interacting two-dimensional spin systems**|Lucas Sá et.al.|[2505.11501](http://arxiv.org/abs/2505.11501)|null|
