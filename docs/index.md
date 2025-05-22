@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**The abelian state hidden subgroup problem: Learning stabilizer groups and beyond**|Marcel Hinsche et.al.|[2505.15770](http://arxiv.org/abs/2505.15770)|null|
+|**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette et.al.|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
+|**2025-05-21**|**Energy transfer between localized emitters in photonic cavities from first principles**|Swarnabha Chattaraj et.al.|[2505.15752](http://arxiv.org/abs/2505.15752)|null|
+|**2025-05-21**|**Distillation of multipartite entangled states for arbitrary subsets of parties in noisy quantum networks of increasing size**|Aitor Balmaseda et.al.|[2505.15676](http://arxiv.org/abs/2505.15676)|null|
+|**2025-05-21**|**Qiskit Variational Quantum Classifier on the Pulsar Classification Problem**|Anna B. M. Souza et.al.|[2505.15600](http://arxiv.org/abs/2505.15600)|null|
+|**2025-05-21**|**Hyperscaling of Fidelity and Operator Estimations in the Critical Manifold**|Matheus Henrique Martins Costa et.al.|[2505.15566](http://arxiv.org/abs/2505.15566)|null|
+|**2025-05-21**|**The Landau-Feynman transiently open quantum system: entanglement and density operators**|Alain Deville et.al.|[2505.15551](http://arxiv.org/abs/2505.15551)|null|
+|**2025-05-21**|**Exciton-defect interaction and optical properties from a first-principles T-matrix approach**|Yang-hao Chan et.al.|[2505.15523](http://arxiv.org/abs/2505.15523)|null|
+|**2025-05-21**|**Prethermalization, shadowing breakdown, and the absence of Trotterization transition in quantum circuits**|Marko Znidaric et.al.|[2505.15521](http://arxiv.org/abs/2505.15521)|null|
+|**2025-05-21**|**Deterministic Quantum Search for Arbitrary Initial Success Probabilities**|Harishankar Mishra et.al.|[2505.15512](http://arxiv.org/abs/2505.15512)|null|
 |**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
 |**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
 |**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
@@ -5100,6 +5110,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**Ordering the topological order in the fractional quantum Hall effect**|Meng Cheng et.al.|[2505.14767](http://arxiv.org/abs/2505.14767)|null|
 |**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang et.al.|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
 |**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla et.al.|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
 |**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky et.al.|[2505.12953](http://arxiv.org/abs/2505.12953)|null|

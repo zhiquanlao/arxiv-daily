@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -590,7 +590,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## SFM
 
@@ -839,7 +839,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -1709,7 +1709,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -1951,7 +1951,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Image Matching
 
@@ -2213,7 +2213,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## NeRF
 
@@ -3433,12 +3433,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## Quantum Info
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-21**|**The abelian state hidden subgroup problem: Learning stabilizer groups and beyond**|Marcel Hinsche et.al.|[2505.15770](http://arxiv.org/abs/2505.15770)|null|
+|**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette et.al.|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
+|**2025-05-21**|**Energy transfer between localized emitters in photonic cavities from first principles**|Swarnabha Chattaraj et.al.|[2505.15752](http://arxiv.org/abs/2505.15752)|null|
+|**2025-05-21**|**Distillation of multipartite entangled states for arbitrary subsets of parties in noisy quantum networks of increasing size**|Aitor Balmaseda et.al.|[2505.15676](http://arxiv.org/abs/2505.15676)|null|
+|**2025-05-21**|**Qiskit Variational Quantum Classifier on the Pulsar Classification Problem**|Anna B. M. Souza et.al.|[2505.15600](http://arxiv.org/abs/2505.15600)|null|
+|**2025-05-21**|**Hyperscaling of Fidelity and Operator Estimations in the Critical Manifold**|Matheus Henrique Martins Costa et.al.|[2505.15566](http://arxiv.org/abs/2505.15566)|null|
+|**2025-05-21**|**The Landau-Feynman transiently open quantum system: entanglement and density operators**|Alain Deville et.al.|[2505.15551](http://arxiv.org/abs/2505.15551)|null|
+|**2025-05-21**|**Exciton-defect interaction and optical properties from a first-principles T-matrix approach**|Yang-hao Chan et.al.|[2505.15523](http://arxiv.org/abs/2505.15523)|null|
+|**2025-05-21**|**Prethermalization, shadowing breakdown, and the absence of Trotterization transition in quantum circuits**|Marko Znidaric et.al.|[2505.15521](http://arxiv.org/abs/2505.15521)|null|
+|**2025-05-21**|**Deterministic Quantum Search for Arbitrary Initial Success Probabilities**|Harishankar Mishra et.al.|[2505.15512](http://arxiv.org/abs/2505.15512)|null|
 |**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
 |**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
 |**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
@@ -5118,12 +5128,13 @@
 |**2024-08-29**|**AI-driven Reverse Engineering of QML Models**|Archisman Ghosh et.al.|[2408.16929](http://arxiv.org/abs/2408.16929)|null|
 |**2024-08-29**|**Experimental measurement and a physical interpretation of quantum shadow enumerators**|Daniel Miller et.al.|[2408.16914](http://arxiv.org/abs/2408.16914)|**[link](https://github.com/mc-zen/qsalto)**|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 ## TQFT, Topological Order, Generalized Symmetry
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-20**|**Ordering the topological order in the fractional quantum Hall effect**|Meng Cheng et.al.|[2505.14767](http://arxiv.org/abs/2505.14767)|null|
 |**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang et.al.|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
 |**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla et.al.|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
 |**2025-05-19**|**Hydrogen Bond Topology Reveals Layering of LDL-like and HDL-like Water at its Liquid/Vapor Interface**|Pal Jedlovszky et.al.|[2505.12953](http://arxiv.org/abs/2505.12953)|null|
@@ -5481,7 +5492,7 @@
 |**2024-08-25**|**Towards All Categorical Symmetries in 2+1 Dimensions**|Mathew Bullimore et.al.|[2408.13931](http://arxiv.org/abs/2408.13931)|null|
 |**2024-08-30**|**Characterization of Randomness in Quantum Circuits of Continuous Gate Sets**|Yosuke Mitsuhashi et.al.|[2408.13475](http://arxiv.org/abs/2408.13475)|null|
 
-<p align=right>(<a href=#updated-on-20250521>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250522>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
