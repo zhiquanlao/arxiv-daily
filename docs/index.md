@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Quantum Routing and Entanglement Dynamics Through Bottlenecks**|Dhruv Devulapalli et.al.|[2505.16948](http://arxiv.org/abs/2505.16948)|null|
+|**2025-05-22**|**Quantum circuits for partial differential equations in Fourier space**|Michael Lubasch et.al.|[2505.16895](http://arxiv.org/abs/2505.16895)|null|
+|**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891](http://arxiv.org/abs/2505.16891)|null|
+|**2025-05-22**|**Topological Phase Control via Dynamic Complex Pole-Zero Engineering**|Alex Krasnok et.al.|[2505.16859](http://arxiv.org/abs/2505.16859)|null|
+|**2025-05-22**|**Fusion for High-Dimensional Linear Optical Quantum Computing with Improved Success Probability**|Gözde Üstün et.al.|[2505.16816](http://arxiv.org/abs/2505.16816)|null|
+|**2025-05-22**|**Extending Quantum Computing through Subspace, Embedding and Classical Molecular Dynamics Techniques**|Thomas M. Bickley et.al.|[2505.16796](http://arxiv.org/abs/2505.16796)|null|
+|**2025-05-22**|**PulserDiff: a pulse differentiable extension for Pulser**|Vytautas Abramavicius et.al.|[2505.16744](http://arxiv.org/abs/2505.16744)|null|
+|**2025-05-22**|**Simultaneous Estimation of Nonlinear Functionals of a Quantum State**|Kean Chen et.al.|[2505.16715](http://arxiv.org/abs/2505.16715)|null|
+|**2025-05-22**|**Experimental robustness benchmark of quantum neural network on a superconducting quantum processor**|Hai-Feng Zhang et.al.|[2505.16714](http://arxiv.org/abs/2505.16714)|null|
+|**2025-05-22**|**Manipulating decoherence: Towards a universal framework**|Kallol Sen et.al.|[2505.16623](http://arxiv.org/abs/2505.16623)|null|
 |**2025-05-21**|**The abelian state hidden subgroup problem: Learning stabilizer groups and beyond**|Marcel Hinsche et.al.|[2505.15770](http://arxiv.org/abs/2505.15770)|null|
 |**2025-05-21**|**A partition function framework for estimating logical error curves in stabilizer codes**|Leon Wichette et.al.|[2505.15758](http://arxiv.org/abs/2505.15758)|null|
 |**2025-05-21**|**Energy transfer between localized emitters in photonic cavities from first principles**|Swarnabha Chattaraj et.al.|[2505.15752](http://arxiv.org/abs/2505.15752)|null|
@@ -5110,6 +5120,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
+|**2025-05-22**|**Braided categories of bimodules from stated skein TQFTs**|Francesco Costantino et.al.|[2505.16909](http://arxiv.org/abs/2505.16909)|null|
+|**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
+|**2025-05-22**|**Braid Group Representations and Defect Operators in AdS/CFT Correspondence**|Tzu-Miao Chou et.al.|[2505.16817](http://arxiv.org/abs/2505.16817)|null|
+|**2025-05-22**|**Twisted Partition Functions as Order Parameters**|Jun Maeda et.al.|[2505.16546](http://arxiv.org/abs/2505.16546)|null|
+|**2025-05-22**|**Symmetries and selection rules in photoelectron chiral dichroism from tailored light**|Ofer Neufeld et.al.|[2505.16273](http://arxiv.org/abs/2505.16273)|null|
 |**2025-05-20**|**Ordering the topological order in the fractional quantum Hall effect**|Meng Cheng et.al.|[2505.14767](http://arxiv.org/abs/2505.14767)|null|
 |**2025-05-20**|**Substrate Effect on Electronic Band Structure and Topological Property in Monolayer V2O3 Magnetic Topological Insulator**|Zheng Wang et.al.|[2505.13795](http://arxiv.org/abs/2505.13795)|null|
 |**2025-05-19**|**String-Membrane-Nets from Higher-Form Gauging: An Alternate Route to $p$ -String Condensation**|Pranay Gorantla et.al.|[2505.13604](http://arxiv.org/abs/2505.13604)|null|
