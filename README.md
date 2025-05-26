@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133](http://arxiv.org/abs/2505.18133)|null|
+|**2025-05-23**|**Multiparty entanglement loops in quantum spin liquids**|Liuke Lyu et.al.|[2505.18124](http://arxiv.org/abs/2505.18124)|null|
+|**2025-05-23**|**Evaluation of derivatives using approximate generalized parameter shift rule**|Vytautas Abramavicius et.al.|[2505.18090](http://arxiv.org/abs/2505.18090)|null|
+|**2025-05-23**|**Multiplexed multipartite quantum repeater rates in the stationary regime**|Julia A. Kunzelmann et.al.|[2505.18031](http://arxiv.org/abs/2505.18031)|null|
+|**2025-05-23**|**Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Scalable Quantum Chemistry Simulations**|Yu-cheng Chen et.al.|[2505.17846](http://arxiv.org/abs/2505.17846)|null|
+|**2025-05-23**|**Non-Local Phase Estimation with a Rydberg-Superconducting Qubit Hybrid**|Juan C. Boschero et.al.|[2505.17842](http://arxiv.org/abs/2505.17842)|null|
+|**2025-05-23**|**Qiskit Machine Learning: an open-source library for quantum machine learning tasks at scale on quantum hardware and classical simulators**|M. Emre Sahin et.al.|[2505.17756](http://arxiv.org/abs/2505.17756)|null|
+|**2025-05-23**|**Experimental study of multiple-shot unitary channels discrimination using the IBM Q computers**|Adam Bílek et.al.|[2505.17731](http://arxiv.org/abs/2505.17731)|null|
+|**2025-05-23**|**Optimizing State Preparation for Variational Quantum Regression on NISQ Hardware**|Frans Perkkola et.al.|[2505.17713](http://arxiv.org/abs/2505.17713)|null|
+|**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
 |**2025-05-22**|**Quantum Routing and Entanglement Dynamics Through Bottlenecks**|Dhruv Devulapalli et.al.|[2505.16948](http://arxiv.org/abs/2505.16948)|null|
 |**2025-05-22**|**Quantum circuits for partial differential equations in Fourier space**|Michael Lubasch et.al.|[2505.16895](http://arxiv.org/abs/2505.16895)|null|
 |**2025-05-22**|**Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems**|Chenghong Zhu et.al.|[2505.16891](http://arxiv.org/abs/2505.16891)|null|
@@ -5144,6 +5154,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana et.al.|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
+|**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
 |**2025-05-22**|**Braided categories of bimodules from stated skein TQFTs**|Francesco Costantino et.al.|[2505.16909](http://arxiv.org/abs/2505.16909)|null|
 |**2025-05-22**|**LARES: Latent Reasoning for Sequential Recommendation**|Enze Liu et.al.|[2505.16865](http://arxiv.org/abs/2505.16865)|null|
