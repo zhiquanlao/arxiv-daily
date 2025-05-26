@@ -1295,7 +1295,7 @@
 |**2023-05-20**|**DAC: Detector-Agnostic Spatial Covariances for Deep Local Features**|Javier Tirado-Garín et.al.|[2305.12250](http://arxiv.org/abs/2305.12250)|**[link](https://github.com/javrtg/dac)**|
 |**2023-05-19**|**Towards More Transparent and Accurate Cancer Diagnosis with an Unsupervised CAE Approach**|Zahra Tabatabaei et.al.|[2305.11728](http://arxiv.org/abs/2305.11728)|null|
 |**2023-05-19**|**Learning Sequence Descriptor based on Spatiotemporal Attention for Visual Place Recognition**|Fenglin Zhang et.al.|[2305.11467](http://arxiv.org/abs/2305.11467)|**[link](https://github.com/tiev-tongji/spatio-temporal-seqvpr)**|
-|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|null|
+|**2023-05-12**|**IMAGINATOR: Pre-Trained Image+Text Joint Embeddings using Word-Level Grounding of Images**|Varuna Krishna et.al.|[2305.10438](http://arxiv.org/abs/2305.10438)|**[link](https://github.com/varunakk/imaginator)**|
 |**2023-05-17**|**Self-Training Boosted Multi-Faceted Matching Network for Composed Image Retrieval**|Haokun Wen et.al.|[2305.09979](http://arxiv.org/abs/2305.09979)|null|
 |**2023-05-13**|**Illumination-insensitive Binary Descriptor for Visual Measurement Based on Local Inter-patch Invariance**|Xinyu Lin et.al.|[2305.07943](http://arxiv.org/abs/2305.07943)|**[link](https://github.com/roylin1229/IIB_descriptor)**|
 |**2023-05-11**|**Foundations of Spatial Perception for Robotics: Hierarchical Representations and Real-time Systems**|Nathan Hughes et.al.|[2305.07154](http://arxiv.org/abs/2305.07154)|**[link](https://github.com/mit-spark/hydra)**|
@@ -3459,7 +3459,7 @@
 |**2025-05-21**|**Exciton-defect interaction and optical properties from a first-principles T-matrix approach**|Yang-hao Chan et.al.|[2505.15523](http://arxiv.org/abs/2505.15523)|null|
 |**2025-05-21**|**Prethermalization, shadowing breakdown, and the absence of Trotterization transition in quantum circuits**|Marko Znidaric et.al.|[2505.15521](http://arxiv.org/abs/2505.15521)|null|
 |**2025-05-21**|**Deterministic Quantum Search for Arbitrary Initial Success Probabilities**|Harishankar Mishra et.al.|[2505.15512](http://arxiv.org/abs/2505.15512)|null|
-|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|null|
+|**2025-05-20**|**Quantum Optimization via Gradient-Based Hamiltonian Descent**|Jiaqi Leng et.al.|[2505.14670](http://arxiv.org/abs/2505.14670)|**[link](https://github.com/jiaqileng/gradient-based-qhd)**|
 |**2025-05-20**|**Large-Scale Tree-Type Photonic Cluster State Generation with Recurrent Quantum Photonic Neural Networks**|Jacob Ewaniuk et.al.|[2505.14628](http://arxiv.org/abs/2505.14628)|null|
 |**2025-05-20**|**Assessing Projected Quantum Kernels for the Classification of IoT Data**|Francesco D'Amore et.al.|[2505.14593](http://arxiv.org/abs/2505.14593)|null|
 |**2025-05-20**|**Distributed quantum computing with black-box subroutines**|X. Xu et.al.|[2505.14519](http://arxiv.org/abs/2505.14519)|null|
@@ -3472,13 +3472,13 @@
 |**2025-05-19**|**Multireference Embedding and Fragmentation Methods for Classical and Quantum Computers: from Model Systems to Realistic Applications**|Shreya Verma et.al.|[2505.13394](http://arxiv.org/abs/2505.13394)|null|
 |**2025-05-19**|**A Game-Theoretic Quantum Algorithm for Solving Magic Squares**|Sarah Chehade et.al.|[2505.13366](http://arxiv.org/abs/2505.13366)|null|
 |**2025-05-19**|**Quantum Hardware-in-the-Loop for Optimal Power Flow in Renewable-Integrated Power Systems**|Zeynab Kaseb et.al.|[2505.13356](http://arxiv.org/abs/2505.13356)|null|
-|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay**|Pedro Otero-García et.al.|[2505.13239](http://arxiv.org/abs/2505.13239)|null|
+|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay**|Pedro Otero-García et.al.|[2505.13239](http://arxiv.org/abs/2505.13239)|**[link](https://github.com/pedrotega/orrvstnvskr)**|
 |**2025-05-19**|**Quantum Knowledge Distillation for Large Language Models**|Lingxiao Li et.al.|[2505.13205](http://arxiv.org/abs/2505.13205)|null|
 |**2025-05-19**|**Quantum Kinetic Uncertainty Relations in Mesoscopic Conductors at Strong Coupling**|Gianmichele Blasi et.al.|[2505.13200](http://arxiv.org/abs/2505.13200)|null|
 |**2025-05-19**|**Parametric Stability Analysis for Circuit Quantum Electrodynamical Hardwares**|Maria Gabriela Boada et.al.|[2505.13177](http://arxiv.org/abs/2505.13177)|null|
-|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay (Conference Version)**|Pedro Otero-García et.al.|[2505.13158](http://arxiv.org/abs/2505.13158)|null|
-|**2025-05-19**|**Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays**|Geng Chen et.al.|[2505.13049](http://arxiv.org/abs/2505.13049)|null|
-|**2025-05-19**|**From Theory to Practice: Analyzing VQPM for Quantum Optimization of QUBO Problems**|Ammar Daskin et.al.|[2505.12990](http://arxiv.org/abs/2505.12990)|null|
+|**2025-05-19**|**Network-wide Quantum Key Distribution with Onion Routing Relay (Conference Version)**|Pedro Otero-García et.al.|[2505.13158](http://arxiv.org/abs/2505.13158)|**[link](https://github.com/pedrotega/orrvstnvskr)**|
+|**2025-05-19**|**Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays**|Geng Chen et.al.|[2505.13049](http://arxiv.org/abs/2505.13049)|**[link](https://github.com/stillwaterq/pac)**|
+|**2025-05-19**|**From Theory to Practice: Analyzing VQPM for Quantum Optimization of QUBO Problems**|Ammar Daskin et.al.|[2505.12990](http://arxiv.org/abs/2505.12990)|**[link](https://github.com/adaskin/vqpm)**|
 |**2025-05-16**|**Unbiased observable estimation via noisy channel mixtures for fault-tolerant quantum computation**|Dmitrii Khitrin et.al.|[2505.11486](http://arxiv.org/abs/2505.11486)|null|
 |**2025-05-16**|**TensorMixedStates: a Julia library for simulating pure and mixed quantum states using matrix product states**|Jérôme Houdayer et.al.|[2505.11377](http://arxiv.org/abs/2505.11377)|null|
 |**2025-05-16**|**Quantum compressed sensing tomographic reconstruction algorithm**|Arim Ryou et.al.|[2505.11286](http://arxiv.org/abs/2505.11286)|null|
@@ -3495,7 +3495,7 @@
 |**2025-05-15**|**Zestings of Hopf Algebras**|Iván Angiono et.al.|[2505.10447](http://arxiv.org/abs/2505.10447)|null|
 |**2025-05-15**|**On the quantum computational complexity of classical linear dynamics with geometrically local interactions: Dequantization and universality**|Kazuki Sakamoto et.al.|[2505.10445](http://arxiv.org/abs/2505.10445)|null|
 |**2025-05-15**|**High-fidelity dispersive spin sensing in a tuneable unit cell of silicon MOS quantum dots**|Constance Lainé et.al.|[2505.10435](http://arxiv.org/abs/2505.10435)|null|
-|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416](http://arxiv.org/abs/2505.10416)|null|
+|**2025-05-15**|**Euclid: Photometric redshift calibration with the clustering redshifts technique**|W. d'Assignies Doumerg et.al.|[2505.10416](http://arxiv.org/abs/2505.10416)|**[link](https://github.com/wdoumerg/Clustering_z)**|
 |**2025-05-15**|**Geometrically Enhanced Topological Quantum Codes**|David Aasen et.al.|[2505.10403](http://arxiv.org/abs/2505.10403)|null|
 |**2025-05-15**|**Non-Markovian dynamics with a driven three-level giant atom in a semi-infinite photonic waveguide**|S. J. Sun et.al.|[2505.10340](http://arxiv.org/abs/2505.10340)|null|
 |**2025-05-15**|**Country wide Shared FibreBased Infrastructure for Dissemination of Precise Time, Coherent Optical Frequency with Vibration Sensing**|Josef Vojtech et.al.|[2505.10314](http://arxiv.org/abs/2505.10314)|null|
@@ -3783,7 +3783,7 @@
 |**2025-04-04**|**Quantum Search with In-Place Queries**|Blake Holman et.al.|[2504.03620](http://arxiv.org/abs/2504.03620)|null|
 |**2025-04-04**|**Variational Quantum Self-Organizing Map**|Amol Deshmukh et.al.|[2504.03584](http://arxiv.org/abs/2504.03584)|null|
 |**2025-04-04**|**Minimally Universal Parity Quantum Computing**|Isaac D. Smith et.al.|[2504.03556](http://arxiv.org/abs/2504.03556)|null|
-|**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529](http://arxiv.org/abs/2504.03529)|null|
+|**2025-04-04**|**PHOENIX: Pauli-Based High-Level Optimization Engine for Instruction Execution on NISQ Devices**|Zhaohui Yang et.al.|[2504.03529](http://arxiv.org/abs/2504.03529)|**[link](https://github.com/iqubit-org/phoenix)**|
 |**2025-04-04**|**Observation of Temperature Effects in False Vacuum Decay**|Riccardo Cominotti et.al.|[2504.03528](http://arxiv.org/abs/2504.03528)|null|
 |**2025-04-04**|**Independent e- and m-anyon confinement in the parallel field toric code on non-square lattices**|Simon M. Linsel et.al.|[2504.03512](http://arxiv.org/abs/2504.03512)|null|
 |**2025-04-04**|**Reducing quantum error correction overhead using soft information**|Joonas Majaniemi et.al.|[2504.03504](http://arxiv.org/abs/2504.03504)|**[link](https://github.com/riverlane/soft_information_models)**|
@@ -4566,7 +4566,7 @@
 |**2024-12-04**|**Light structuring via nonlinear total angular momentum addition with flat optics**|Evgenii Menshikov et.al.|[2412.03367](http://arxiv.org/abs/2412.03367)|null|
 |**2024-12-04**|**Diverse methods and practical aspects in controlling single semiconductor qubits: a review**|Jia-Ao Peng et.al.|[2412.03286](http://arxiv.org/abs/2412.03286)|null|
 |**2024-12-04**|**Quantum Correlations in Neutrino and Neutral Meson Oscillations**|Subhashish Banerjee et.al.|[2412.03260](http://arxiv.org/abs/2412.03260)|null|
-|**2024-12-04**|**MLQM: Machine Learning Approach for Accelerating Optimal Qubit Mapping**|Wenjie Sun et.al.|[2412.03249](http://arxiv.org/abs/2412.03249)|null|
+|**2024-12-04**|**MLQM: Machine Learning Approach for Accelerating Optimal Qubit Mapping**|Wenjie Sun et.al.|[2412.03249](http://arxiv.org/abs/2412.03249)|**[link](https://github.com/stillwaterq/mlqd)**|
 |**2024-12-04**|**Directly measured squeeze factors over GHz bandwidth from monolithic ppKTP resonators**|Benedict Tohermes et.al.|[2412.03221](http://arxiv.org/abs/2412.03221)|null|
 |**2024-12-04**|**Null device-independent prepare-and-prepare bipartite dimension test with a single joint measurement**|Josep Batle et.al.|[2412.03197](http://arxiv.org/abs/2412.03197)|null|
 |**2024-12-03**|**Sample Complexity of Black Box Work Extraction**|Shantanav Chakraborty et.al.|[2412.02673](http://arxiv.org/abs/2412.02673)|null|
@@ -4670,7 +4670,7 @@
 |**2024-11-15**|**Nitrogen vacancy center in diamond-based Faraday magnetometer**|Reza Kashtiban et.al.|[2411.10437](http://arxiv.org/abs/2411.10437)|null|
 |**2024-11-15**|**Oxidation Kinetics of Superconducting Niobium and a-Tantalum in Atmosphere at Short and Intermediate Time Scales**|Hunter J. Frost et.al.|[2411.10410](http://arxiv.org/abs/2411.10410)|null|
 |**2024-11-15**|**How to Build a Quantum Supercomputer: Scaling Challenges and Opportunities**|Masoud Mohseni et.al.|[2411.10406](http://arxiv.org/abs/2411.10406)|null|
-|**2024-11-15**|**Dynamics of Quantum Correlations and Entanglement Generation in Electron-Molecule Inelastic Scattering**|Martin Mendez et.al.|[2411.10358](http://arxiv.org/abs/2411.10358)|null|
+|**2024-11-15**|**Dynamics of Quantum Correlations and Entanglement Generation in Electron-Molecule Inelastic Scattering**|Martin Mendez et.al.|[2411.10358](http://arxiv.org/abs/2411.10358)|**[link](https://github.com/mendzmartin/femtise.jl)**|
 |**2024-11-15**|**Local Clustering Decoder: a fast and adaptive hardware decoder for the surface code**|Abbas B. Ziad et.al.|[2411.10343](http://arxiv.org/abs/2411.10343)|null|
 |**2024-11-15**|**Quantum-assisted Stacking Sequence Retrieval and Laminated Composite Design**|Arne Wulff et.al.|[2411.10303](http://arxiv.org/abs/2411.10303)|**[link](https://github.com/arnewulff/quantum-mobility-quest-qaims)**|
 |**2024-11-15**|**Uncertainty in Supply Chain Digital Twins: A Quantum-Classical Hybrid Approach**|Abdullah Abdullah et.al.|[2411.10254](http://arxiv.org/abs/2411.10254)|null|
