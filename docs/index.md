@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-26**|**Thermalization in open many-body systems and KMS detailed balance**|Matteo Scandi et.al.|[2505.20064](http://arxiv.org/abs/2505.20064)|null|
+|**2025-05-26**|**Correcting noisy quantum gates with shortcuts to adiabaticity**|Moallison F. Cavalcante et.al.|[2505.20000](http://arxiv.org/abs/2505.20000)|null|
+|**2025-05-26**|**Ab initio many-fermion structure calculations on a quantum computer**|Weijie Du et.al.|[2505.19906](http://arxiv.org/abs/2505.19906)|null|
+|**2025-05-26**|**Quantum computing of magnetic-skyrmion-like patterns in Heisenberg ferromagnets**|Matej Komelj et.al.|[2505.19808](http://arxiv.org/abs/2505.19808)|null|
+|**2025-05-26**|**Truncated Variational Hamiltonian Ansatz: efficient quantum circuit design for quantum chemistry and material science**|Clemens Possel et.al.|[2505.19772](http://arxiv.org/abs/2505.19772)|null|
+|**2025-05-26**|**Krein space quantization and New Quantum Algorithms**|M. V. Takook et.al.|[2505.19632](http://arxiv.org/abs/2505.19632)|null|
+|**2025-05-25**|**Effect of noise and topologies on multi-photon quantum protocols**|Nitin Jha et.al.|[2505.19270](http://arxiv.org/abs/2505.19270)|null|
+|**2025-05-25**|**QMIO: A tightly integrated hybrid HPCQC system**|Javier Cacheiro et.al.|[2505.19267](http://arxiv.org/abs/2505.19267)|null|
+|**2025-05-25**|**Running a six-qubit quantum circuit on a silicon spin qubit array**|I. Fernández de Fuentes et.al.|[2505.19200](http://arxiv.org/abs/2505.19200)|null|
+|**2025-05-25**|**On Grothedieck rings of rank $4$ self-dual fusion categories**|Jingcheng Dong et.al.|[2505.19153](http://arxiv.org/abs/2505.19153)|null|
 |**2025-05-23**|**Joint Encryption and Error Correction for Secure Quantum Communication**|Nitin Jha et.al.|[2505.18133](http://arxiv.org/abs/2505.18133)|null|
 |**2025-05-23**|**Multiparty entanglement loops in quantum spin liquids**|Liuke Lyu et.al.|[2505.18124](http://arxiv.org/abs/2505.18124)|null|
 |**2025-05-23**|**Evaluation of derivatives using approximate generalized parameter shift rule**|Vytautas Abramavicius et.al.|[2505.18090](http://arxiv.org/abs/2505.18090)|null|
@@ -5130,6 +5140,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith et.al.|[2505.18265](http://arxiv.org/abs/2505.18265)|null|
 |**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana et.al.|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
 |**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
 |**2025-05-22**|**Emergent Gravity from Topological Quantum Field Theory: Stochastic Gradient Flow Perspective away from the Quantum Gravity Problem**|Andrea Addazi et.al.|[2505.17014](http://arxiv.org/abs/2505.17014)|null|
