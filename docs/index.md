@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Magnon blockade in spin-magnon systems with frequency detuning**|Sheng Zhao et.al.|[2505.21320](http://arxiv.org/abs/2505.21320)|null|
+|**2025-05-27**|**Dissipative Preparation of Many-Body Quantum States: Towards Practical Quantum Advantage**|Lin Lin et.al.|[2505.21308](http://arxiv.org/abs/2505.21308)|null|
+|**2025-05-27**|**Test and characterization of multilayer ion traps on fused silica**|Matthias Dietl et.al.|[2505.21284](http://arxiv.org/abs/2505.21284)|null|
+|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher et.al.|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
+|**2025-05-27**|**Towards Quantum Simulation of Meson Scattering in a Z2 Lattice Gauge Theory**|Yahui Chai et.al.|[2505.21240](http://arxiv.org/abs/2505.21240)|null|
+|**2025-05-27**|**Strong Molecule-Light Entanglement with Molecular Cavity Optomechanics**|Hong-Yun Yu et.al.|[2505.21227](http://arxiv.org/abs/2505.21227)|null|
+|**2025-05-27**|**Quantum algorithms for solving a drift-diffusion equation**|Ellen Devereux et.al.|[2505.21221](http://arxiv.org/abs/2505.21221)|null|
+|**2025-05-27**|**Quantum AIXI: Universal Intelligence via Quantum Information**|Elija Perrier et.al.|[2505.21170](http://arxiv.org/abs/2505.21170)|null|
+|**2025-05-27**|**Ultra-Broadband plug-and-play photonic circuit packaging with sub-dB loss**|Erik Jung et.al.|[2505.21168](http://arxiv.org/abs/2505.21168)|null|
+|**2025-05-27**|**Leveraging Diffusion Models for Parameterized Quantum Circuit Generation**|Daniel Barta et.al.|[2505.20863](http://arxiv.org/abs/2505.20863)|null|
 |**2025-05-26**|**Thermalization in open many-body systems and KMS detailed balance**|Matteo Scandi et.al.|[2505.20064](http://arxiv.org/abs/2505.20064)|null|
 |**2025-05-26**|**Correcting noisy quantum gates with shortcuts to adiabaticity**|Moallison F. Cavalcante et.al.|[2505.20000](http://arxiv.org/abs/2505.20000)|null|
 |**2025-05-26**|**Ab initio many-fermion structure calculations on a quantum computer**|Weijie Du et.al.|[2505.19906](http://arxiv.org/abs/2505.19906)|null|
@@ -5140,6 +5150,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-27**|**Restricted (2+1)-TQFTs supported by thickened and solid tori**|Dušan Đorđević et.al.|[2505.21373](http://arxiv.org/abs/2505.21373)|null|
+|**2025-05-26**|**Generalized Hall Conductivities in Local Commuting Projector Models: Generalized Symmetries and Protected Surface Modes**|Po-Shen Hsin et.al.|[2505.20384](http://arxiv.org/abs/2505.20384)|null|
 |**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith et.al.|[2505.18265](http://arxiv.org/abs/2505.18265)|null|
 |**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana et.al.|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
 |**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
