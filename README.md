@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**On the Intractability of Chaotic Symbolic Walks: Toward a Non-Algebraic Post-Quantum Hardness Assumption**|Mohamed Aly Bouke et.al.|[2505.22644](http://arxiv.org/abs/2505.22644)|null|
+|**2025-05-28**|**Disambiguating Pauli noise in quantum computers**|Edward H. Chen et.al.|[2505.22629](http://arxiv.org/abs/2505.22629)|null|
+|**2025-05-28**|**Minimal Quantum Reservoirs with Hamiltonian Encoding**|Gerard McCaul et.al.|[2505.22575](http://arxiv.org/abs/2505.22575)|null|
+|**2025-05-28**|**Quantum engineering of high harmonic generation**|Neda Boroumand et.al.|[2505.22536](http://arxiv.org/abs/2505.22536)|null|
+|**2025-05-28**|**TabularQGAN: A Quantum Generative Model for Tabular Data**|Pallavi Bhardwaj et.al.|[2505.22533](http://arxiv.org/abs/2505.22533)|null|
+|**2025-05-28**|**Assessing Quantum Advantage for Gaussian Process Regression**|Dominic Lowe et.al.|[2505.22502](http://arxiv.org/abs/2505.22502)|null|
+|**2025-05-28**|**Comparative analysis of robust entanglement generation in engineered XX spin chains**|Eduardo K. Soares et.al.|[2505.22484](http://arxiv.org/abs/2505.22484)|null|
+|**2025-05-28**|**Depth-Based Matrix Classification for the HHL Quantum Algorithm**|Mark Danza et.al.|[2505.22454](http://arxiv.org/abs/2505.22454)|null|
+|**2025-05-28**|**Quantum Search on Computation Trees**|Jevgēnijs Vihrovs et.al.|[2505.22405](http://arxiv.org/abs/2505.22405)|null|
+|**2025-05-28**|**Calibrating quantum gates up to 52 qubits in a superconducting processor**|Daojin Fan et.al.|[2505.22390](http://arxiv.org/abs/2505.22390)|null|
 |**2025-05-27**|**Magnon blockade in spin-magnon systems with frequency detuning**|Sheng Zhao et.al.|[2505.21320](http://arxiv.org/abs/2505.21320)|null|
 |**2025-05-27**|**Dissipative Preparation of Many-Body Quantum States: Towards Practical Quantum Advantage**|Lin Lin et.al.|[2505.21308](http://arxiv.org/abs/2505.21308)|null|
 |**2025-05-27**|**Test and characterization of multilayer ion traps on fused silica**|Matthias Dietl et.al.|[2505.21284](http://arxiv.org/abs/2505.21284)|null|
@@ -5174,6 +5184,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
+|**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati et.al.|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
 |**2025-05-27**|**Restricted (2+1)-TQFTs supported by thickened and solid tori**|Dušan Đorđević et.al.|[2505.21373](http://arxiv.org/abs/2505.21373)|null|
 |**2025-05-26**|**Generalized Hall Conductivities in Local Commuting Projector Models: Generalized Symmetries and Protected Surface Modes**|Po-Shen Hsin et.al.|[2505.20384](http://arxiv.org/abs/2505.20384)|null|
 |**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith et.al.|[2505.18265](http://arxiv.org/abs/2505.18265)|null|
