@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
+|**2025-05-29**|**Fluxonium as a control qubit for bosonic quantum information**|Ke Nie et.al.|[2505.23641](http://arxiv.org/abs/2505.23641)|null|
+|**2025-05-29**|**Fast-tracking and disentangling of qubit noise fluctuations using minimal-data averaging and hierarchical discrete fluctuation auto-segmentation**|Abhishek Agarwal et.al.|[2505.23622](http://arxiv.org/abs/2505.23622)|null|
+|**2025-05-29**|**Scalable decoding protocols for fast transversal logic in the surface code**|Mark L. Turner et.al.|[2505.23567](http://arxiv.org/abs/2505.23567)|null|
+|**2025-05-29**|**Dynamic Estimation Loss Control in Variational Quantum Sensing via Online Conformal Inference**|Ivana Nikoloska et.al.|[2505.23389](http://arxiv.org/abs/2505.23389)|null|
+|**2025-05-29**|**Optimal Control by Variational Quantum Algorithms**|Tangyou Huang et.al.|[2505.23373](http://arxiv.org/abs/2505.23373)|null|
+|**2025-05-29**|**A New Scaling Function for QAOA Tensor Network Simulations**|Goro Miki et.al.|[2505.23256](http://arxiv.org/abs/2505.23256)|null|
+|**2025-05-29**|**Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light**|Fabrizio Tamburini et.al.|[2505.23232](http://arxiv.org/abs/2505.23232)|null|
+|**2025-05-29**|**Quantum circuit simulation of black hole evaporation and Maxwell demon interpretation**|H. Hadi et.al.|[2505.23226](http://arxiv.org/abs/2505.23226)|null|
+|**2025-05-29**|**Networked Quantum Services**|Laszlo Gyongyosi et.al.|[2505.23074](http://arxiv.org/abs/2505.23074)|null|
 |**2025-05-28**|**On the Intractability of Chaotic Symbolic Walks: Toward a Non-Algebraic Post-Quantum Hardness Assumption**|Mohamed Aly Bouke et.al.|[2505.22644](http://arxiv.org/abs/2505.22644)|null|
 |**2025-05-28**|**Disambiguating Pauli noise in quantum computers**|Edward H. Chen et.al.|[2505.22629](http://arxiv.org/abs/2505.22629)|null|
 |**2025-05-28**|**Minimal Quantum Reservoirs with Hamiltonian Encoding**|Gerard McCaul et.al.|[2505.22575](http://arxiv.org/abs/2505.22575)|null|
@@ -5160,6 +5170,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
 |**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati et.al.|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
 |**2025-05-27**|**Restricted (2+1)-TQFTs supported by thickened and solid tori**|Dušan Đorđević et.al.|[2505.21373](http://arxiv.org/abs/2505.21373)|null|
