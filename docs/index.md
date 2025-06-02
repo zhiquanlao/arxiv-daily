@@ -3427,7 +3427,7 @@ layout: default
 |**2025-05-29**|**Graded Paraparticle Algebra of Majorana Fields for Multidimensional Quantum Computing with Structured Light**|Fabrizio Tamburini et.al.|[2505.23232](http://arxiv.org/abs/2505.23232)|null|
 |**2025-05-29**|**Quantum circuit simulation of black hole evaporation and Maxwell demon interpretation**|H. Hadi et.al.|[2505.23226](http://arxiv.org/abs/2505.23226)|null|
 |**2025-05-29**|**Networked Quantum Services**|Laszlo Gyongyosi et.al.|[2505.23074](http://arxiv.org/abs/2505.23074)|null|
-|**2025-05-28**|**On the Intractability of Chaotic Symbolic Walks: Toward a Non-Algebraic Post-Quantum Hardness Assumption**|Mohamed Aly Bouke et.al.|[2505.22644](http://arxiv.org/abs/2505.22644)|null|
+|**2025-05-28**|**On the Intractability of Chaotic Symbolic Walks: Toward a Non-Algebraic Post-Quantum Hardness Assumption**|Mohamed Aly Bouke et.al.|[2505.22644](http://arxiv.org/abs/2505.22644)|**[link](https://github.com/drbouke/SPIP)**|
 |**2025-05-28**|**Disambiguating Pauli noise in quantum computers**|Edward H. Chen et.al.|[2505.22629](http://arxiv.org/abs/2505.22629)|null|
 |**2025-05-28**|**Minimal Quantum Reservoirs with Hamiltonian Encoding**|Gerard McCaul et.al.|[2505.22575](http://arxiv.org/abs/2505.22575)|null|
 |**2025-05-28**|**Quantum engineering of high harmonic generation**|Neda Boroumand et.al.|[2505.22536](http://arxiv.org/abs/2505.22536)|null|
@@ -3440,7 +3440,7 @@ layout: default
 |**2025-05-27**|**Magnon blockade in spin-magnon systems with frequency detuning**|Sheng Zhao et.al.|[2505.21320](http://arxiv.org/abs/2505.21320)|null|
 |**2025-05-27**|**Dissipative Preparation of Many-Body Quantum States: Towards Practical Quantum Advantage**|Lin Lin et.al.|[2505.21308](http://arxiv.org/abs/2505.21308)|null|
 |**2025-05-27**|**Test and characterization of multilayer ion traps on fused silica**|Matthias Dietl et.al.|[2505.21284](http://arxiv.org/abs/2505.21284)|null|
-|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher et.al.|[2505.21243](http://arxiv.org/abs/2505.21243)|null|
+|**2025-05-27**|**Empirical Demonstration of Quantum Contextuality on NISQ Computers**|Colm Kelleher et.al.|[2505.21243](http://arxiv.org/abs/2505.21243)|**[link](https://github.com/quantcert/quantcert.github.io)**|
 |**2025-05-27**|**Towards Quantum Simulation of Meson Scattering in a Z2 Lattice Gauge Theory**|Yahui Chai et.al.|[2505.21240](http://arxiv.org/abs/2505.21240)|null|
 |**2025-05-27**|**Strong Molecule-Light Entanglement with Molecular Cavity Optomechanics**|Hong-Yun Yu et.al.|[2505.21227](http://arxiv.org/abs/2505.21227)|null|
 |**2025-05-27**|**Quantum algorithms for solving a drift-diffusion equation**|Ellen Devereux et.al.|[2505.21221](http://arxiv.org/abs/2505.21221)|null|
@@ -3463,8 +3463,8 @@ layout: default
 |**2025-05-23**|**Multiplexed multipartite quantum repeater rates in the stationary regime**|Julia A. Kunzelmann et.al.|[2505.18031](http://arxiv.org/abs/2505.18031)|null|
 |**2025-05-23**|**Neural Network Assisted Fermionic Compression Encoding: A Lossy-QSCI Framework for Scalable Quantum Chemistry Simulations**|Yu-cheng Chen et.al.|[2505.17846](http://arxiv.org/abs/2505.17846)|null|
 |**2025-05-23**|**Non-Local Phase Estimation with a Rydberg-Superconducting Qubit Hybrid**|Juan C. Boschero et.al.|[2505.17842](http://arxiv.org/abs/2505.17842)|null|
-|**2025-05-23**|**Qiskit Machine Learning: an open-source library for quantum machine learning tasks at scale on quantum hardware and classical simulators**|M. Emre Sahin et.al.|[2505.17756](http://arxiv.org/abs/2505.17756)|null|
-|**2025-05-23**|**Experimental study of multiple-shot unitary channels discrimination using the IBM Q computers**|Adam Bílek et.al.|[2505.17731](http://arxiv.org/abs/2505.17731)|null|
+|**2025-05-23**|**Qiskit Machine Learning: an open-source library for quantum machine learning tasks at scale on quantum hardware and classical simulators**|M. Emre Sahin et.al.|[2505.17756](http://arxiv.org/abs/2505.17756)|**[link](https://github.com/qiskit-community/qiskit-machine-learning)**|
+|**2025-05-23**|**Experimental study of multiple-shot unitary channels discrimination using the IBM Q computers**|Adam Bílek et.al.|[2505.17731](http://arxiv.org/abs/2505.17731)|**[link](https://github.com/dotnester/experimental_study_of_multiple_shot_channel_discrimination)**|
 |**2025-05-23**|**Optimizing State Preparation for Variational Quantum Regression on NISQ Hardware**|Frans Perkkola et.al.|[2505.17713](http://arxiv.org/abs/2505.17713)|null|
 |**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
 |**2025-05-22**|**Quantum Routing and Entanglement Dynamics Through Bottlenecks**|Dhruv Devulapalli et.al.|[2505.16948](http://arxiv.org/abs/2505.16948)|null|
