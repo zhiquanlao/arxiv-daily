@@ -3417,6 +3417,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**QGAN-based data augmentation for hybrid quantum-classical neural networks**|Run-Ze He et.al.|[2505.24780](http://arxiv.org/abs/2505.24780)|null|
+|**2025-05-30**|**Supervised Quantum Machine Learning: A Future Outlook from Qubits to Enterprise Applications**|Srikanth Thudumu et.al.|[2505.24765](http://arxiv.org/abs/2505.24765)|null|
+|**2025-05-30**|**Entanglement Detection with Variational Quantum Interference: Theory and Experiment**|Rui Zhang et.al.|[2505.24764](http://arxiv.org/abs/2505.24764)|null|
+|**2025-05-30**|**First principles computations of the Stark shift of a defect-bound exciton: the case of the T center in silicon**|Louis Alaerts et.al.|[2505.24747](http://arxiv.org/abs/2505.24747)|null|
+|**2025-05-30**|**Super-additivity of quantum capacity in simple channels**|Zhen Wu et.al.|[2505.24661](http://arxiv.org/abs/2505.24661)|null|
+|**2025-05-30**|**Optimal Haar random fermionic linear optics circuits**|Paolo Braccia et.al.|[2505.24212](http://arxiv.org/abs/2505.24212)|null|
+|**2025-05-29**|**A complexity theory for non-local quantum computation**|Andreas Bluhm et.al.|[2505.23893](http://arxiv.org/abs/2505.23893)|null|
 |**2025-05-29**|**Quantum-Based Software Engineering**|Jianjun Zhao et.al.|[2505.23674](http://arxiv.org/abs/2505.23674)|null|
 |**2025-05-29**|**Fluxonium as a control qubit for bosonic quantum information**|Ke Nie et.al.|[2505.23641](http://arxiv.org/abs/2505.23641)|null|
 |**2025-05-29**|**Fast-tracking and disentangling of qubit noise fluctuations using minimal-data averaging and hierarchical discrete fluctuation auto-segmentation**|Abhishek Agarwal et.al.|[2505.23622](http://arxiv.org/abs/2505.23622)|null|
@@ -5170,6 +5177,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang et.al.|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
 |**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
 |**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati et.al.|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
