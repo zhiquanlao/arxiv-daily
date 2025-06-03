@@ -5182,7 +5182,7 @@ layout: default
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
 |**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati et.al.|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
 |**2025-05-27**|**Restricted (2+1)-TQFTs supported by thickened and solid tori**|Dušan Đorđević et.al.|[2505.21373](http://arxiv.org/abs/2505.21373)|null|
-|**2025-05-26**|**Generalized Hall Conductivities in Local Commuting Projector Models: Generalized Symmetries and Protected Surface Modes**|Po-Shen Hsin et.al.|[2505.20384](http://arxiv.org/abs/2505.20384)|null|
+|**2025-06-02**|**Generalized Hall Conductivities in Local Commuting Projector Models: Generalized Symmetries and Protected Surface Modes**|Po-Shen Hsin et.al.|[2505.20384](http://arxiv.org/abs/2505.20384)|null|
 |**2025-05-23**|**Non-Clifford gates between stabilizer codes via non-Abelian topological order**|Rohith Sajith et.al.|[2505.18265](http://arxiv.org/abs/2505.18265)|null|
 |**2025-05-23**|**Higher-order topological phases protected by non-invertible and subsystem symmetries**|Aswin Parayil Mana et.al.|[2505.18119](http://arxiv.org/abs/2505.18119)|null|
 |**2025-05-23**|**Boundary Effects on Anyon Dynamics in Chern-Simons Theory**|Tzu-Miao Chou et.al.|[2505.17617](http://arxiv.org/abs/2505.17617)|null|
