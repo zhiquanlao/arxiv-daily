@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**The perfect entangler spectrum as a tool to analyze crosstalk**|Matthias G. Krauss et.al.|[2506.03137](http://arxiv.org/abs/2506.03137)|null|
+|**2025-06-03**|**Tour de gross: A modular quantum computer based on bivariate bicycle codes**|Theodore J. Yoder et.al.|[2506.03094](http://arxiv.org/abs/2506.03094)|null|
+|**2025-06-03**|**Adversarial quantum channel discrimination**|Kun Fang et.al.|[2506.03060](http://arxiv.org/abs/2506.03060)|null|
+|**2025-06-03**|**Floquet-Engineered Fast SNAP gates in weakly coupled cQED systems**|Xinyuan You et.al.|[2506.03034](http://arxiv.org/abs/2506.03034)|null|
+|**2025-06-03**|**Convergence and efficiency proof of quantum imaginary time evolution for bounded order systems**|Tobias Hartung et.al.|[2506.03014](http://arxiv.org/abs/2506.03014)|null|
+|**2025-06-03**|**Quantum Data Centers: Why Entanglement Changes Everything**|Angela Sara Cacciapuoti et.al.|[2506.02920](http://arxiv.org/abs/2506.02920)|null|
+|**2025-06-03**|**Matrix Elements of Fermionic Gaussian Operators in Arbitrary Pauli Bases: A Pfaffian Formula**|M. A. Rajabpour et.al.|[2506.02809](http://arxiv.org/abs/2506.02809)|null|
+|**2025-06-03**|**Stacking the Odds: Full-Stack Quantum System Design Space Exploration**|Hila Safi et.al.|[2506.02782](http://arxiv.org/abs/2506.02782)|null|
+|**2025-06-03**|**Self-attention U-Net decoder for toric codes**|Wei-Wei Zhang et.al.|[2506.02734](http://arxiv.org/abs/2506.02734)|**[link](https://github.com/xiazhuo/SUNetQD)**|
+|**2025-06-03**|**Adiabaticity violation under arbitrarily slow evolution**|Oubo You et.al.|[2506.02681](http://arxiv.org/abs/2506.02681)|null|
 |**2025-05-30**|**QGAN-based data augmentation for hybrid quantum-classical neural networks**|Run-Ze He et.al.|[2505.24780](http://arxiv.org/abs/2505.24780)|null|
 |**2025-05-30**|**Supervised Quantum Machine Learning: A Future Outlook from Qubits to Enterprise Applications**|Srikanth Thudumu et.al.|[2505.24765](http://arxiv.org/abs/2505.24765)|null|
 |**2025-05-30**|**Entanglement Detection with Variational Quantum Interference: Theory and Experiment**|Rui Zhang et.al.|[2505.24764](http://arxiv.org/abs/2505.24764)|null|
@@ -5177,6 +5187,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
+|**2025-06-02**|**Schema as Parameterized Tools for Universal Information Extraction**|Sheng Liang et.al.|[2506.01276](http://arxiv.org/abs/2506.01276)|null|
+|**2025-05-30**|**Millimeter-wave observations of Euclid Deep Field South using the South Pole Telescope: A data release of temperature maps and catalogs**|M. Archipley et.al.|[2506.00298](http://arxiv.org/abs/2506.00298)|null|
+|**2025-05-30**|**Absence of topological order in the $U(1)$ checkerboard toric code**|M. Vieweg et.al.|[2506.00126](http://arxiv.org/abs/2506.00126)|null|
+|**2025-05-30**|**Symmetry-deformed toric codes and the quantum dimer model**|Jiaxin Qiao et.al.|[2506.00114](http://arxiv.org/abs/2506.00114)|null|
 |**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang et.al.|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
 |**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
