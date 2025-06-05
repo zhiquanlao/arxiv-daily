@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Bridging Quantum Chemistry and MaxCut: Classical Performance Guarantees and Quantum Algorithms for the Hartree-Fock Method**|Alexis Ralli et.al.|[2506.04223](http://arxiv.org/abs/2506.04223)|null|
+|**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
+|**2025-06-04**|**Transportation cost and contraction coefficient for channels on von Neumann algebras**|Roy Araiza et.al.|[2506.04197](http://arxiv.org/abs/2506.04197)|null|
+|**2025-06-04**|**Deep-learned error mitigation via partially knitted circuits for the variational quantum eigensolver**|Simone Cantori et.al.|[2506.04146](http://arxiv.org/abs/2506.04146)|null|
+|**2025-06-04**|**A Unitary Encoder for Surface Codes**|Pei-Kai Tsai et.al.|[2506.04084](http://arxiv.org/abs/2506.04084)|null|
+|**2025-06-04**|**Phase space tableau simulation for quantum computation**|Selman Ipek et.al.|[2506.04033](http://arxiv.org/abs/2506.04033)|null|
+|**2025-06-04**|**Simulating fluid vortex interactions on a superconducting quantum processor**|Ziteng Wang et.al.|[2506.04023](http://arxiv.org/abs/2506.04023)|null|
+|**2025-06-04**|**The QTF-Backbone: Proposal for a Nationwide Optical Fibre Backbone in Germany for Quantum Technology and Time and Frequency Metrology**|Klaus Blaum et.al.|[2506.03998](http://arxiv.org/abs/2506.03998)|null|
+|**2025-06-04**|**Limitations of Quantum Hardware for Molecular Energy Estimation Using VQE**|Abel Carreras et.al.|[2506.03995](http://arxiv.org/abs/2506.03995)|null|
+|**2025-06-04**|**Personalized Improvement of Standard Readout Error Mitigation using Low-Depth Circuits and Machine Learning**|Melody Lee et.al.|[2506.03920](http://arxiv.org/abs/2506.03920)|null|
 |**2025-06-03**|**The perfect entangler spectrum as a tool to analyze crosstalk**|Matthias G. Krauss et.al.|[2506.03137](http://arxiv.org/abs/2506.03137)|null|
 |**2025-06-03**|**Tour de gross: A modular quantum computer based on bivariate bicycle codes**|Theodore J. Yoder et.al.|[2506.03094](http://arxiv.org/abs/2506.03094)|null|
 |**2025-06-03**|**Adversarial quantum channel discrimination**|Kun Fang et.al.|[2506.03060](http://arxiv.org/abs/2506.03060)|null|
@@ -5211,6 +5221,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**Topological Mixed States: Axiomatic Approaches and Phases of Matter**|Tai-Hsuan Yang et.al.|[2506.04221](http://arxiv.org/abs/2506.04221)|null|
+|**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
+|**2025-06-04**|**«Anticommuting» $\mathbb{Z}_2$ quantum spin liquids**|Sumiran Pujari et.al.|[2506.03866](http://arxiv.org/abs/2506.03866)|null|
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
 |**2025-06-02**|**Schema as Parameterized Tools for Universal Information Extraction**|Sheng Liang et.al.|[2506.01276](http://arxiv.org/abs/2506.01276)|null|
 |**2025-05-30**|**Millimeter-wave observations of Euclid Deep Field South using the South Pole Telescope: A data release of temperature maps and catalogs**|M. Archipley et.al.|[2506.00298](http://arxiv.org/abs/2506.00298)|null|
