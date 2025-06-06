@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
+|**2025-06-05**|**Non-Perturbative Topological Gadgets for Many-Body Coupling**|David Headley et.al.|[2506.05323](http://arxiv.org/abs/2506.05323)|null|
+|**2025-06-05**|**The Arm Qubit: A Superconducting Qubit Co-Designed for Coherence and Coupling**|Jeremy B. Kline et.al.|[2506.05315](http://arxiv.org/abs/2506.05315)|null|
+|**2025-06-05**|**Erasure cost of a quantum process: A thermodynamic meaning of the dynamical min-entropy**|Himanshu Badhani et.al.|[2506.05307](http://arxiv.org/abs/2506.05307)|null|
+|**2025-06-05**|**State Space Decomposition of Quantum Dynamical Semigroups**|Nicolas Mousset et.al.|[2506.05269](http://arxiv.org/abs/2506.05269)|null|
+|**2025-06-05**|**Designer polyradical nanographenes with strong spin entanglement and perturbation resilience via Clar's goblet extension**|En Li et.al.|[2506.05181](http://arxiv.org/abs/2506.05181)|null|
+|**2025-06-05**|**Ultrafast magneto-lattice dynamics in two-dimensional CrSBr driven by terahertz excitation**|Yiqi Huo et.al.|[2506.05058](http://arxiv.org/abs/2506.05058)|null|
+|**2025-06-05**|**A Tractable Protocol for Detection-Loophole-Free Bell Tests over Long Distances**|Yazeed K. Alwehaibi et.al.|[2506.05048](http://arxiv.org/abs/2506.05048)|null|
+|**2025-06-05**|**Quantum simulation of the Hubbard model on a graphene hexagon: Strengths of IQPE and noise constraints**|Mohammad Mirzakhani et.al.|[2506.05031](http://arxiv.org/abs/2506.05031)|null|
+|**2025-06-05**|**Field-controlled Electronic Breathing Modes and Transport in Nanoporous Graphene**|Alan Anaya et.al.|[2506.04966](http://arxiv.org/abs/2506.04966)|null|
 |**2025-06-04**|**Bridging Quantum Chemistry and MaxCut: Classical Performance Guarantees and Quantum Algorithms for the Hartree-Fock Method**|Alexis Ralli et.al.|[2506.04223](http://arxiv.org/abs/2506.04223)|null|
 |**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
 |**2025-06-04**|**Transportation cost and contraction coefficient for channels on von Neumann algebras**|Roy Araiza et.al.|[2506.04197](http://arxiv.org/abs/2506.04197)|null|
@@ -5221,6 +5231,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
+|**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao et.al.|[2506.05319](http://arxiv.org/abs/2506.05319)|null|
+|**2025-06-05**|**Is Crane--Yetter fully extended?**|Luuk Stehouwer et.al.|[2506.04864](http://arxiv.org/abs/2506.04864)|null|
+|**2025-06-05**|**Bounds and detection of MeV-scale dark matter annihilation to neutrinos**|Shinya Kanemura et.al.|[2506.04568](http://arxiv.org/abs/2506.04568)|null|
+|**2025-06-04**|**The Luttinger Count is the Homotopy not the Physical Charge: Generalized Anomalies Characterize Non-Fermi Liquids**|Gabriele La Nave et.al.|[2506.04342](http://arxiv.org/abs/2506.04342)|null|
 |**2025-06-04**|**Topological Mixed States: Axiomatic Approaches and Phases of Matter**|Tai-Hsuan Yang et.al.|[2506.04221](http://arxiv.org/abs/2506.04221)|null|
 |**2025-06-04**|**Entanglement renormalization circuits for $2d$ Gaussian Fermion States**|Sing Lam Wong et.al.|[2506.04200](http://arxiv.org/abs/2506.04200)|null|
 |**2025-06-04**|**«Anticommuting» $\mathbb{Z}_2$ quantum spin liquids**|Sumiran Pujari et.al.|[2506.03866](http://arxiv.org/abs/2506.03866)|null|
