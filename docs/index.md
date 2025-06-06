@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5203,7 +5203,7 @@ layout: default
 |**2025-06-03**|**Topology meets symmetry breaking: Hidden order, intrinsically gapless topological states and finite-temperature topological transitions**|Reja H. Wilke et.al.|[2506.03146](http://arxiv.org/abs/2506.03146)|null|
 |**2025-06-02**|**Schema as Parameterized Tools for Universal Information Extraction**|Sheng Liang et.al.|[2506.01276](http://arxiv.org/abs/2506.01276)|null|
 |**2025-05-30**|**Millimeter-wave observations of Euclid Deep Field South using the South Pole Telescope: A data release of temperature maps and catalogs**|M. Archipley et.al.|[2506.00298](http://arxiv.org/abs/2506.00298)|null|
-|**2025-05-30**|**Absence of topological order in the $U(1)$ checkerboard toric code**|M. Vieweg et.al.|[2506.00126](http://arxiv.org/abs/2506.00126)|null|
+|**2025-06-05**|**Absence of topological order in the $U(1)$ checkerboard toric code**|M. Vieweg et.al.|[2506.00126](http://arxiv.org/abs/2506.00126)|null|
 |**2025-05-30**|**Symmetry-deformed toric codes and the quantum dimer model**|Jiaxin Qiao et.al.|[2506.00114](http://arxiv.org/abs/2506.00114)|null|
 |**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang et.al.|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
 |**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
