@@ -5245,7 +5245,7 @@
 |**2025-06-05**|**Absence of topological order in the $U(1)$ checkerboard toric code**|M. Vieweg et.al.|[2506.00126](http://arxiv.org/abs/2506.00126)|null|
 |**2025-05-30**|**Symmetry-deformed toric codes and the quantum dimer model**|Jiaxin Qiao et.al.|[2506.00114](http://arxiv.org/abs/2506.00114)|null|
 |**2025-05-30**|**Instantons and topological order in two-leg electron ladders: A universality class**|S. -R. Eric Yang et.al.|[2505.24130](http://arxiv.org/abs/2505.24130)|null|
-|**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|null|
+|**2025-05-29**|**Directed Graph Grammars for Sequence-based Learning**|Michael Sun et.al.|[2505.22949](http://arxiv.org/abs/2505.22949)|**[link](https://github.com/shiningsunnyday/induction)**|
 |**2025-05-28**|**Subsystem Symmetry-Protected Topological Phases from Subsystem SymTFT of 2-Foliated Exotic Tensor Gauge Theory**|Qiang Jia et.al.|[2505.22261](http://arxiv.org/abs/2505.22261)|null|
 |**2025-05-28**|**Fractional Quantum Hall Anyons via the Algebraic Topology of Exotic Flux Quanta**|Hisham Sati et.al.|[2505.22144](http://arxiv.org/abs/2505.22144)|null|
 |**2025-05-27**|**Restricted (2+1)-TQFTs supported by thickened and solid tori**|Dušan Đorđević et.al.|[2505.21373](http://arxiv.org/abs/2505.21373)|null|
