@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Design Tradeoffs in Photonically Linked Qubit Networks**|Ely Novakoski et.al.|[2506.06268](http://arxiv.org/abs/2506.06268)|null|
+|**2025-06-06**|**Metainformation in Quantum Guessing Games**|Teiko Heinosaari et.al.|[2506.06197](http://arxiv.org/abs/2506.06197)|null|
+|**2025-06-06**|**A low-loss telecom-band nanofiber cavity for interfacing Yb atomic qubits**|Seitaro Horikawa et.al.|[2506.06123](http://arxiv.org/abs/2506.06123)|null|
+|**2025-06-06**|**Optimal absorption and emission of itinerant fields into a spin ensemble memory**|Linda Greggio et.al.|[2506.06107](http://arxiv.org/abs/2506.06107)|null|
+|**2025-06-06**|**Optimizing entanglement distribution via noisy quantum channels**|Piotr Masajada et.al.|[2506.06089](http://arxiv.org/abs/2506.06089)|null|
+|**2025-06-06**|**An optical frequency shifter based on continuous-wave pump fields**|Anica Hamer et.al.|[2506.05989](http://arxiv.org/abs/2506.05989)|null|
+|**2025-06-06**|**Variational Inference for Quantum HyperNetworks**|Luca Nepote et.al.|[2506.05888](http://arxiv.org/abs/2506.05888)|null|
+|**2025-06-06**|**Pathfinding Quantum Simulations of Neutrinoless Double- $β$ Decay**|Ivan A. Chernyshev et.al.|[2506.05757](http://arxiv.org/abs/2506.05757)|null|
+|**2025-06-06**|**On generating direct powers of dynamical Lie algebras**|Jonathan Allcock et.al.|[2506.05733](http://arxiv.org/abs/2506.05733)|null|
+|**2025-06-06**|**State Dependent Optimization with Quantum Circuit Cutting**|Xinpeng Li et.al.|[2506.05722](http://arxiv.org/abs/2506.05722)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
 |**2025-06-05**|**Non-Perturbative Topological Gadgets for Many-Body Coupling**|David Headley et.al.|[2506.05323](http://arxiv.org/abs/2506.05323)|null|
 |**2025-06-05**|**The Arm Qubit: A Superconducting Qubit Co-Designed for Coherence and Coupling**|Jeremy B. Kline et.al.|[2506.05315](http://arxiv.org/abs/2506.05315)|null|
@@ -5207,6 +5217,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**Improved Allergy Wheal Detection for the Skin Prick Automated Test Device**|Rembert Daems et.al.|[2506.05862](http://arxiv.org/abs/2506.05862)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
 |**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao et.al.|[2506.05319](http://arxiv.org/abs/2506.05319)|null|
 |**2025-06-05**|**Is Crane--Yetter fully extended?**|Luuk Stehouwer et.al.|[2506.04864](http://arxiv.org/abs/2506.04864)|null|
