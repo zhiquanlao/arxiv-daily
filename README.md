@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937](http://arxiv.org/abs/2506.07937)|null|
+|**2025-06-09**|**Optimization of Bottlenecks in Quantum Graphs Guided by Fiedler Vector-Based Spectral Derivatives**|John TM Campbell et.al.|[2506.07875](http://arxiv.org/abs/2506.07875)|null|
+|**2025-06-09**|**Protein folding with an all-to-all trapped-ion quantum computer**|Sebastián V. Romero et.al.|[2506.07866](http://arxiv.org/abs/2506.07866)|null|
+|**2025-06-09**|**Deep reinforcement learning for near-deterministic preparation of cubic- and quartic-phase gates in photonic quantum computing**|Amanuel Anteneh Léandre Brunel et.al.|[2506.07859](http://arxiv.org/abs/2506.07859)|null|
+|**2025-06-09**|**Clock Synchronization for Drone-Based Entanglement Quantum Key Distribution**|Jinquan Huang et.al.|[2506.07831](http://arxiv.org/abs/2506.07831)|null|
+|**2025-06-09**|**First-principles Quantum Insights into Bandgap Engineering, Valley Quantum Hall Effect, and Nonlinear Optical Response of Ge-Doped Graphene for Potential Optoelectronic Applications**|Abdul Sattar et.al.|[2506.07745](http://arxiv.org/abs/2506.07745)|null|
+|**2025-06-09**|**Optimal quantum sampling on distributed databases**|Longyun Chen et.al.|[2506.07724](http://arxiv.org/abs/2506.07724)|null|
+|**2025-06-09**|**Random Exclusion Codes: Quantum Advantages of Single-Shot Communication**|Joonwoo Bae et.al.|[2506.07701](http://arxiv.org/abs/2506.07701)|null|
+|**2025-06-09**|**Dynamical learning and quantum memory with non-Hermitian many-body systems**|Moein N. Ivaki et.al.|[2506.07676](http://arxiv.org/abs/2506.07676)|null|
+|**2025-06-09**|**Quantum Information-Theoretical Size Bounds for Conjunctive Queries with Functional Dependencies**|Valter Uotila et.al.|[2506.07552](http://arxiv.org/abs/2506.07552)|null|
 |**2025-06-06**|**Design Tradeoffs in Photonically Linked Qubit Networks**|Ely Novakoski et.al.|[2506.06268](http://arxiv.org/abs/2506.06268)|null|
 |**2025-06-06**|**Metainformation in Quantum Guessing Games**|Teiko Heinosaari et.al.|[2506.06197](http://arxiv.org/abs/2506.06197)|null|
 |**2025-06-06**|**A low-loss telecom-band nanofiber cavity for interfacing Yb atomic qubits**|Seitaro Horikawa et.al.|[2506.06123](http://arxiv.org/abs/2506.06123)|null|
@@ -5241,6 +5251,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
+|**2025-06-09**|**Stochastic portfolio theory with price impact**|David Itkin et.al.|[2506.07993](http://arxiv.org/abs/2506.07993)|null|
+|**2025-06-09**|**Generalized Symmetries Phase Transitions with Local Quantum Fields**|Po-Shen Hsin et.al.|[2506.07688](http://arxiv.org/abs/2506.07688)|null|
+|**2025-06-08**|**Emergent gapless spiral phases and conformal Lifshitz criticality in the cluster Ising model with off-diagonal interactions**|Wei-Lin Li et.al.|[2506.07151](http://arxiv.org/abs/2506.07151)|null|
+|**2025-06-08**|**Dimensionless Hierarchical Topological Phononic States**|Joel R. Pyfrom et.al.|[2506.07048](http://arxiv.org/abs/2506.07048)|null|
+|**2025-06-07**|**Sequencing, task failures, and capacity when failures are driven by a non-homogeneous Poisson process**|Lingjiong Zhu et.al.|[2506.06900](http://arxiv.org/abs/2506.06900)|null|
+|**2025-06-07**|**Do Protein Transformers Have Biological Intelligence?**|Fudong Lin et.al.|[2506.06701](http://arxiv.org/abs/2506.06701)|null|
+|**2025-06-07**|**An extension of Haagerup's reduction theorem with applications to subdiagonal subalgebras of general von Neumann algebras**|Louis Labuschagne et.al.|[2506.06674](http://arxiv.org/abs/2506.06674)|null|
+|**2025-06-06**|**Ordering curves on surfaces**|Hugo Parlier et.al.|[2506.06481](http://arxiv.org/abs/2506.06481)|null|
+|**2025-06-06**|**On mixed 't Hooft anomalies of emergent symmetries**|Wei Gu et.al.|[2506.06432](http://arxiv.org/abs/2506.06432)|null|
 |**2025-06-06**|**Improved Allergy Wheal Detection for the Skin Prick Automated Test Device**|Rembert Daems et.al.|[2506.05862](http://arxiv.org/abs/2506.05862)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
 |**2025-06-05**|**Landau-Ginzburg Paradigm of Topological Phases**|Yu Zhao et.al.|[2506.05319](http://arxiv.org/abs/2506.05319)|null|
