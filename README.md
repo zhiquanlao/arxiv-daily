@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
+|**2025-06-10**|**Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates**|Josias Old et.al.|[2506.09029](http://arxiv.org/abs/2506.09029)|null|
+|**2025-06-10**|**Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction**|Stephan Tasler et.al.|[2506.09028](http://arxiv.org/abs/2506.09028)|null|
+|**2025-06-10**|**A Sagnac-based arbitrary time-bin state encoder for quantum communication applications**|Kannan Vijayadharan et.al.|[2506.08971](http://arxiv.org/abs/2506.08971)|null|
+|**2025-06-10**|**Scaling Portfolio Diversification with Quantum Circuit Cutting Techniques**|Vicente P. Soloviev et.al.|[2506.08947](http://arxiv.org/abs/2506.08947)|null|
+|**2025-06-10**|**Closing objectivity loophole in Bell tests on a public quantum computer**|Adam Bednorz et.al.|[2506.08940](http://arxiv.org/abs/2506.08940)|null|
+|**2025-06-10**|**High-Performance Heterodyne Receiver for Quantum Information Processing in a Laser Written Integrated Photonic Platform**|Andrea Peri et.al.|[2506.08924](http://arxiv.org/abs/2506.08924)|null|
+|**2025-06-10**|**Superactivation of Bell nonlocality in pure anyonic states**|Cheng-Qian Xu et.al.|[2506.08919](http://arxiv.org/abs/2506.08919)|null|
+|**2025-06-10**|**Quantum Adiabatic Generation of Human-Like Passwords**|Sascha Mücke et.al.|[2506.08917](http://arxiv.org/abs/2506.08917)|null|
+|**2025-06-10**|**Designing toroidal cavities for quantum computation**|C. A. Lütken et.al.|[2506.08880](http://arxiv.org/abs/2506.08880)|null|
 |**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937](http://arxiv.org/abs/2506.07937)|null|
 |**2025-06-09**|**Optimization of Bottlenecks in Quantum Graphs Guided by Fiedler Vector-Based Spectral Derivatives**|John TM Campbell et.al.|[2506.07875](http://arxiv.org/abs/2506.07875)|null|
 |**2025-06-09**|**Protein folding with an all-to-all trapped-ion quantum computer**|Sebastián V. Romero et.al.|[2506.07866](http://arxiv.org/abs/2506.07866)|null|
@@ -5251,6 +5261,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**2N-storage Runge-Kutta methods: c-reflection symmetry and factorization of the Butcher tableau**|Alexei Bazavov et.al.|[2506.08444](http://arxiv.org/abs/2506.08444)|null|
+|**2025-06-09**|**2-Group Symmetries of 3-dimensional Defect TQFTs and Their Gauging**|Nils Carqueville et.al.|[2506.08178](http://arxiv.org/abs/2506.08178)|null|
 |**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
 |**2025-06-09**|**Stochastic portfolio theory with price impact**|David Itkin et.al.|[2506.07993](http://arxiv.org/abs/2506.07993)|null|
 |**2025-06-09**|**Generalized Symmetries Phase Transitions with Local Quantum Fields**|Po-Shen Hsin et.al.|[2506.07688](http://arxiv.org/abs/2506.07688)|null|
