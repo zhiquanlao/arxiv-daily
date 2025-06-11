@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3420,7 +3420,7 @@ layout: default
 |**2025-06-09**|**Quantum Graph Transformer for NLP Sentiment Classification**|Shamminuj Aktar et.al.|[2506.07937](http://arxiv.org/abs/2506.07937)|null|
 |**2025-06-09**|**Optimization of Bottlenecks in Quantum Graphs Guided by Fiedler Vector-Based Spectral Derivatives**|John TM Campbell et.al.|[2506.07875](http://arxiv.org/abs/2506.07875)|null|
 |**2025-06-09**|**Protein folding with an all-to-all trapped-ion quantum computer**|Sebastián V. Romero et.al.|[2506.07866](http://arxiv.org/abs/2506.07866)|null|
-|**2025-06-09**|**Deep reinforcement learning for near-deterministic preparation of cubic- and quartic-phase gates in photonic quantum computing**|Amanuel Anteneh Léandre Brunel et.al.|[2506.07859](http://arxiv.org/abs/2506.07859)|null|
+|**2025-06-10**|**Deep reinforcement learning for near-deterministic preparation of cubic- and quartic-phase gates in photonic quantum computing**|Amanuel Anteneh et.al.|[2506.07859](http://arxiv.org/abs/2506.07859)|null|
 |**2025-06-09**|**Clock Synchronization for Drone-Based Entanglement Quantum Key Distribution**|Jinquan Huang et.al.|[2506.07831](http://arxiv.org/abs/2506.07831)|null|
 |**2025-06-09**|**First-principles Quantum Insights into Bandgap Engineering, Valley Quantum Hall Effect, and Nonlinear Optical Response of Ge-Doped Graphene for Potential Optoelectronic Applications**|Abdul Sattar et.al.|[2506.07745](http://arxiv.org/abs/2506.07745)|null|
 |**2025-06-09**|**Optimal quantum sampling on distributed databases**|Longyun Chen et.al.|[2506.07724](http://arxiv.org/abs/2506.07724)|null|
