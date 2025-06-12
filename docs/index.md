@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-11**|**Dynamic Hypergraph Partitioning of Quantum Circuits with Hybrid Execution**|Shane Sweeney et.al.|[2506.09963](http://arxiv.org/abs/2506.09963)|null|
+|**2025-06-11**|**Repeated ancilla reuse for logical computation on a neutral atom quantum computer**|J. A. Muniz et.al.|[2506.09936](http://arxiv.org/abs/2506.09936)|null|
+|**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|null|
+|**2025-06-11**|**Multi-FPGA Synchronization and Data Communication for Quantum Control and Measurement**|Yilun Xu et.al.|[2506.09856](http://arxiv.org/abs/2506.09856)|null|
+|**2025-06-11**|**Anomalous slow-down of the bound state dynamics in a non-locally coupled quantum circuit**|Biswajit Paul et.al.|[2506.09818](http://arxiv.org/abs/2506.09818)|null|
+|**2025-06-11**|**Wasserstein Distances on Quantum Structures: an Overview**|Emily Beatty et.al.|[2506.09794](http://arxiv.org/abs/2506.09794)|null|
+|**2025-06-11**|**Uncertainty relations for unified ( $α$,$β$ )-relative entropy of coherence under mutually unbiased equiangular tight frames**|Baolong Cheng et.al.|[2506.09779](http://arxiv.org/abs/2506.09779)|null|
+|**2025-06-11**|**Quantifying imaginarity of quantum operations**|Chuanfa Wu et.al.|[2506.09747](http://arxiv.org/abs/2506.09747)|null|
+|**2025-06-11**|**Black hole/quantum machine learning correspondence**|Jae-Weon Lee et.al.|[2506.09678](http://arxiv.org/abs/2506.09678)|null|
+|**2025-06-11**|**Type III Valley Polarization and Anomalous Valley Hall Effect in Two-Dimensional Non-Janus and Janus Altermagnet Fe2WS2Se2**|Yanchao She et.al.|[2506.09675](http://arxiv.org/abs/2506.09675)|null|
 |**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
 |**2025-06-10**|**Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates**|Josias Old et.al.|[2506.09029](http://arxiv.org/abs/2506.09029)|null|
 |**2025-06-10**|**Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction**|Stephan Tasler et.al.|[2506.09028](http://arxiv.org/abs/2506.09028)|null|
@@ -5237,6 +5247,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-10**|**Generalized Symmetries in Shallow Water**|V. Taghiloo et.al.|[2506.09190](http://arxiv.org/abs/2506.09190)|null|
+|**2025-06-10**|**Digital Quantum Simulation of the Kitaev Quantum Spin Liquid**|Seongjun Park et.al.|[2506.09156](http://arxiv.org/abs/2506.09156)|null|
+|**2025-06-10**|**"Symmetry-from-Anomaly" in Condensed Matter related Constructions**|Cenke Xu et.al.|[2506.09127](http://arxiv.org/abs/2506.09127)|null|
 |**2025-06-10**|**2N-storage Runge-Kutta methods: c-reflection symmetry and factorization of the Butcher tableau**|Alexei Bazavov et.al.|[2506.08444](http://arxiv.org/abs/2506.08444)|null|
 |**2025-06-09**|**2-Group Symmetries of 3-dimensional Defect TQFTs and Their Gauging**|Nils Carqueville et.al.|[2506.08178](http://arxiv.org/abs/2506.08178)|null|
 |**2025-06-09**|**Microscopic Mechanism of Anyon Superconductivity Emerging from Fractional Chern Insulators**|Fabian Pichler et.al.|[2506.08000](http://arxiv.org/abs/2506.08000)|null|
