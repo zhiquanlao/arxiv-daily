@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Non-Abelian dynamics on a cube: improving quantum compilation through qudit-based simulations**|Jacky Jiang et.al.|[2506.10945](http://arxiv.org/abs/2506.10945)|null|
+|**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
+|**2025-06-12**|**Coherence monotones of quantum channels based on two generalized quantum relative entropies**|Jiaorui Fan et.al.|[2506.10810](http://arxiv.org/abs/2506.10810)|null|
+|**2025-06-12**|**Quantifying coherence of quantum channels based on the generalized $α$-$z$ -relative Rényi entropy**|Jiaorui Fan et.al.|[2506.10796](http://arxiv.org/abs/2506.10796)|null|
+|**2025-06-12**|**Explicit C*-algebraic Protocol for Exact Universal Embezzlement of Entanglement**|Li Liu et.al.|[2506.10736](http://arxiv.org/abs/2506.10736)|null|
+|**2025-06-12**|**Universal gates for a metastable qubit in strontium-88**|Renhao Tao et.al.|[2506.10714](http://arxiv.org/abs/2506.10714)|null|
+|**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele et.al.|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
+|**2025-06-12**|**Experimental Verification of Entangled States in the Adversarial Scenario**|Wen-Hao Zhang et.al.|[2506.10655](http://arxiv.org/abs/2506.10655)|null|
+|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|null|
+|**2025-06-12**|**GPU-Accelerated Distributed QAOA on Large-scale HPC Ecosystems**|Zhihao Xu et.al.|[2506.10531](http://arxiv.org/abs/2506.10531)|null|
 |**2025-06-11**|**Dynamic Hypergraph Partitioning of Quantum Circuits with Hybrid Execution**|Shane Sweeney et.al.|[2506.09963](http://arxiv.org/abs/2506.09963)|null|
 |**2025-06-11**|**Repeated ancilla reuse for logical computation on a neutral atom quantum computer**|J. A. Muniz et.al.|[2506.09936](http://arxiv.org/abs/2506.09936)|null|
 |**2025-06-11**|**Guided Graph Compression for Quantum Graph Neural Networks**|Mikel Casals et.al.|[2506.09862](http://arxiv.org/abs/2506.09862)|null|
@@ -5247,6 +5257,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome et.al.|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
+|**2025-06-11**|**Entanglement Holography in Quantum Phases via Twisted Rényi-N Correlators**|Pablo Sala et.al.|[2506.10076](http://arxiv.org/abs/2506.10076)|null|
 |**2025-06-10**|**Generalized Symmetries in Shallow Water**|V. Taghiloo et.al.|[2506.09190](http://arxiv.org/abs/2506.09190)|null|
 |**2025-06-10**|**Digital Quantum Simulation of the Kitaev Quantum Spin Liquid**|Seongjun Park et.al.|[2506.09156](http://arxiv.org/abs/2506.09156)|null|
 |**2025-06-10**|**"Symmetry-from-Anomaly" in Condensed Matter related Constructions**|Cenke Xu et.al.|[2506.09127](http://arxiv.org/abs/2506.09127)|null|
