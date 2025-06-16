@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
+|**2025-06-13**|**Comparison of schemes for highly loss tolerant photonic fusion based quantum computing**|Sara Bartolucci et.al.|[2506.11975](http://arxiv.org/abs/2506.11975)|null|
+|**2025-06-13**|**Universal cooling of quantum systems via randomized measurements**|Josias Langbehn et.al.|[2506.11964](http://arxiv.org/abs/2506.11964)|null|
+|**2025-06-13**|**Measurement-based quantum computation with variable-range interacting systems**|Debkanta Ghosh et.al.|[2506.11909](http://arxiv.org/abs/2506.11909)|null|
+|**2025-06-13**|**Fast and High Excitation Transport in Waveguide Quantum Electrodynamics**|Ya-Tang Yu et.al.|[2506.11885](http://arxiv.org/abs/2506.11885)|null|
+|**2025-06-13**|**Quantum Resource Complementarity in Finite-Dimensional Systems**|Justin K. Edmondson et.al.|[2506.11741](http://arxiv.org/abs/2506.11741)|null|
+|**2025-06-13**|**Topological Signatures of Magnetic Phase Transitions with Majorana Fermions through Local Observables and Quantum Information**|Karyn Le Hur et.al.|[2506.11731](http://arxiv.org/abs/2506.11731)|null|
+|**2025-06-13**|**Physics-inspired neural networks as quasi inverse of quantum channels**|Sameen Aziz et.al.|[2506.11716](http://arxiv.org/abs/2506.11716)|null|
+|**2025-06-13**|**Quantum Circuits for the Metropolis-Hastings Algorithm**|Baptiste Claudon et.al.|[2506.11576](http://arxiv.org/abs/2506.11576)|null|
+|**2025-06-13**|**Learning Encodings by Maximizing State Distinguishability: Variational Quantum Error Correction**|Nico Meyer et.al.|[2506.11552](http://arxiv.org/abs/2506.11552)|**[link](https://github.com/nicomeyer96/varqec)**|
 |**2025-06-12**|**Non-Abelian dynamics on a cube: improving quantum compilation through qudit-based simulations**|Jacky Jiang et.al.|[2506.10945](http://arxiv.org/abs/2506.10945)|null|
 |**2025-06-12**|**Adaptive Job Scheduling in Quantum Clouds Using Reinforcement Learning**|Waylon Luo et.al.|[2506.10889](http://arxiv.org/abs/2506.10889)|null|
 |**2025-06-12**|**Coherence monotones of quantum channels based on two generalized quantum relative entropies**|Jiaorui Fan et.al.|[2506.10810](http://arxiv.org/abs/2506.10810)|null|
@@ -5281,6 +5291,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**Unveiling a Population of Strong Galaxy-Galaxy Lensed Faint Dusty Star-Forming Galaxies**|Ting-Kai Yang et.al.|[2506.11601](http://arxiv.org/abs/2506.11601)|null|
+|**2025-06-12**|**Bulk Excitations of Invertible Phases**|Wenjie Ji et.al.|[2506.11288](http://arxiv.org/abs/2506.11288)|null|
 |**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome et.al.|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
 |**2025-06-11**|**Entanglement Holography in Quantum Phases via Twisted Rényi-N Correlators**|Pablo Sala et.al.|[2506.10076](http://arxiv.org/abs/2506.10076)|null|
 |**2025-06-10**|**Generalized Symmetries in Shallow Water**|V. Taghiloo et.al.|[2506.09190](http://arxiv.org/abs/2506.09190)|null|
