@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3422,7 +3422,7 @@ layout: default
 |**2025-06-12**|**Coherence monotones of quantum channels based on two generalized quantum relative entropies**|Jiaorui Fan et.al.|[2506.10810](http://arxiv.org/abs/2506.10810)|null|
 |**2025-06-12**|**Quantifying coherence of quantum channels based on the generalized $α$-$z$ -relative Rényi entropy**|Jiaorui Fan et.al.|[2506.10796](http://arxiv.org/abs/2506.10796)|null|
 |**2025-06-12**|**Explicit C*-algebraic Protocol for Exact Universal Embezzlement of Entanglement**|Li Liu et.al.|[2506.10736](http://arxiv.org/abs/2506.10736)|null|
-|**2025-06-12**|**Universal gates for a metastable qubit in strontium-88**|Renhao Tao et.al.|[2506.10714](http://arxiv.org/abs/2506.10714)|null|
+|**2025-06-13**|**Universal gates for a metastable qubit in strontium-88**|Renhao Tao et.al.|[2506.10714](http://arxiv.org/abs/2506.10714)|null|
 |**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele et.al.|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
 |**2025-06-12**|**Experimental Verification of Entangled States in the Adversarial Scenario**|Wen-Hao Zhang et.al.|[2506.10655](http://arxiv.org/abs/2506.10655)|null|
 |**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|null|
