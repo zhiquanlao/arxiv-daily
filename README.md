@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$ Yb atoms**|Bichen Zhang et.al.|[2506.13724](http://arxiv.org/abs/2506.13724)|null|
+|**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|null|
+|**2025-06-16**|**Towards fault-tolerant quantum computation with universal continuous-variable gates**|Sheron Blair et.al.|[2506.13643](http://arxiv.org/abs/2506.13643)|null|
+|**2025-06-16**|**High-fidelity entanglement and coherent multi-qubit mapping in an atom array**|Aruku Senoo et.al.|[2506.13632](http://arxiv.org/abs/2506.13632)|null|
+|**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski et.al.|[2506.13619](http://arxiv.org/abs/2506.13619)|null|
+|**2025-06-16**|**High-expressibility Quantum Neural Networks using only classical resources**|Marco Maronese et.al.|[2506.13605](http://arxiv.org/abs/2506.13605)|null|
+|**2025-06-16**|**Quantum algorithm for solving generalized eigenvalue problems with application to the Schrödinger equation**|Grzegorz Rajchel-Mieldzioć et.al.|[2506.13534](http://arxiv.org/abs/2506.13534)|null|
+|**2025-06-16**|**Pairing particles into holonomies**|Vera Neef et.al.|[2506.13442](http://arxiv.org/abs/2506.13442)|null|
+|**2025-06-16**|**Q-AIM: A Unified Portable Workflow for Seamless Integration of Quantum Resources**|Zhaobin Zhu et.al.|[2506.13436](http://arxiv.org/abs/2506.13436)|null|
+|**2025-06-16**|**Exact Quantum Capacity of Decohering Channels in Arbitrary Dimensions**|Shayan Roofeh et.al.|[2506.13397](http://arxiv.org/abs/2506.13397)|null|
 |**2025-06-13**|**A Random Matrix Theory of Pauli Tomography**|Nathan Keenan et.al.|[2506.12010](http://arxiv.org/abs/2506.12010)|null|
 |**2025-06-13**|**Comparison of schemes for highly loss tolerant photonic fusion based quantum computing**|Sara Bartolucci et.al.|[2506.11975](http://arxiv.org/abs/2506.11975)|null|
 |**2025-06-13**|**Universal cooling of quantum systems via randomized measurements**|Josias Langbehn et.al.|[2506.11964](http://arxiv.org/abs/2506.11964)|null|
@@ -5291,6 +5301,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Diagnosing 2D symmetry protected topological states via mixed state anomaly**|Chao Xu et.al.|[2506.13096](http://arxiv.org/abs/2506.13096)|null|
+|**2025-06-14**|**Graph of Verification: Structured Verification of LLM Reasoning with Directed Acyclic Graphs**|Jiwei Fang et.al.|[2506.12509](http://arxiv.org/abs/2506.12509)|null|
 |**2025-06-13**|**Unveiling a Population of Strong Galaxy-Galaxy Lensed Faint Dusty Star-Forming Galaxies**|Ting-Kai Yang et.al.|[2506.11601](http://arxiv.org/abs/2506.11601)|null|
 |**2025-06-12**|**Bulk Excitations of Invertible Phases**|Wenjie Ji et.al.|[2506.11288](http://arxiv.org/abs/2506.11288)|null|
 |**2025-06-12**|**Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases**|Gustavo M. Yoshitome et.al.|[2506.10819](http://arxiv.org/abs/2506.10819)|null|
