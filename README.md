@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Fully Tunable Strong Spin-Orbit Interactions in Light Hole Germanium Quantum Channels**|Patrick Del Vecchio et.al.|[2506.14759](http://arxiv.org/abs/2506.14759)|null|
+|**2025-06-17**|**High-fidelity collisional quantum gates with fermionic atoms**|Petar Bojović et.al.|[2506.14711](http://arxiv.org/abs/2506.14711)|null|
+|**2025-06-17**|**Breaking even with magic: demonstration of a high-fidelity logical non-Clifford gate**|Shival Dasu et.al.|[2506.14688](http://arxiv.org/abs/2506.14688)|null|
+|**2025-06-17**|**High yield, low disorder Si/SiGe heterostructures for spin qubit devices manufactured in a BiCMOS pilot line**|Alberto Mistroni et.al.|[2506.14660](http://arxiv.org/abs/2506.14660)|null|
+|**2025-06-17**|**Broadband merged-element Josephson parametric amplifier**|Yuting Sun et.al.|[2506.14651](http://arxiv.org/abs/2506.14651)|null|
+|**2025-06-17**|**Non-Gaussian state preparation and enhancement using weak-value amplification**|Xiao-Xi Yao et.al.|[2506.14632](http://arxiv.org/abs/2506.14632)|null|
+|**2025-06-17**|**On Quantum BSDE Solver for High-Dimensional Parabolic PDEs**|Howard Su et.al.|[2506.14612](http://arxiv.org/abs/2506.14612)|null|
+|**2025-06-17**|**Quantum-assisted tracer dispersion in turbulent shear flow**|Julia Ingelmann et.al.|[2506.14586](http://arxiv.org/abs/2506.14586)|null|
+|**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou et.al.|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
+|**2025-06-17**|**One Polynomial Strategy for Computing Local Projections on Square-Lattice Cluster States**|Nyau Fisn et.al.|[2506.14257](http://arxiv.org/abs/2506.14257)|null|
 |**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$ Yb atoms**|Bichen Zhang et.al.|[2506.13724](http://arxiv.org/abs/2506.13724)|null|
 |**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|null|
 |**2025-06-16**|**Towards fault-tolerant quantum computation with universal continuous-variable gates**|Sheron Blair et.al.|[2506.13643](http://arxiv.org/abs/2506.13643)|null|
@@ -5301,6 +5311,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Hetero-Orbital Two-Component Fractional Quantum Hall States in Bilayer Graphene**|Ke Huang et.al.|[2506.14188](http://arxiv.org/abs/2506.14188)|null|
 |**2025-06-16**|**Diagnosing 2D symmetry protected topological states via mixed state anomaly**|Chao Xu et.al.|[2506.13096](http://arxiv.org/abs/2506.13096)|null|
 |**2025-06-14**|**Graph of Verification: Structured Verification of LLM Reasoning with Directed Acyclic Graphs**|Jiwei Fang et.al.|[2506.12509](http://arxiv.org/abs/2506.12509)|null|
 |**2025-06-13**|**Unveiling a Population of Strong Galaxy-Galaxy Lensed Faint Dusty Star-Forming Galaxies**|Ting-Kai Yang et.al.|[2506.11601](http://arxiv.org/abs/2506.11601)|null|
