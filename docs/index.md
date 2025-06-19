@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Analog Quantum Phase Estimation with Single-Mode Readout**|Wei-Chen Lin et.al.|[2506.15668](http://arxiv.org/abs/2506.15668)|null|
+|**2025-06-18**|**Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**|Jinzhao Sun et.al.|[2506.15658](http://arxiv.org/abs/2506.15658)|null|
+|**2025-06-18**|**Quantum Error Correction Exploiting Degeneracy to Approach the Hashing Bound**|Kenta Kasai et.al.|[2506.15636](http://arxiv.org/abs/2506.15636)|null|
+|**2025-06-18**|**Fast, continuous and coherent atom replacement in a neutral atom qubit array**|Yiyi Li et.al.|[2506.15633](http://arxiv.org/abs/2506.15633)|null|
+|**2025-06-18**|**Near-field optical mode engineering-enabled freeform nonlocal metasurfaces**|Zhongjun Jiang et.al.|[2506.15495](http://arxiv.org/abs/2506.15495)|null|
+|**2025-06-18**|**Temporal Entanglement and Witnesses of Non-Classicality**|Giuseppe Di Pietra et.al.|[2506.15474](http://arxiv.org/abs/2506.15474)|null|
+|**2025-06-18**|**Excitation Amplitude Sampling for Low Variance Electronic Structure on Quantum Computers**|Connor Lenihan et.al.|[2506.15438](http://arxiv.org/abs/2506.15438)|null|
+|**2025-06-18**|**What is a good use case for quantum computers?**|Michael Marthaler et.al.|[2506.15426](http://arxiv.org/abs/2506.15426)|null|
+|**2025-06-18**|**High-Efficiency Quantum Memory of Full-Bandwidth Squeezed Light**|Jinxian Guo et.al.|[2506.15399](http://arxiv.org/abs/2506.15399)|null|
+|**2025-06-18**|**Learning to Maximize Quantum Neural Network Expressivity via Effective Rank**|Juan Yao et.al.|[2506.15375](http://arxiv.org/abs/2506.15375)|null|
 |**2025-06-17**|**Fully Tunable Strong Spin-Orbit Interactions in Light Hole Germanium Quantum Channels**|Patrick Del Vecchio et.al.|[2506.14759](http://arxiv.org/abs/2506.14759)|null|
 |**2025-06-17**|**High-fidelity collisional quantum gates with fermionic atoms**|Petar Bojović et.al.|[2506.14711](http://arxiv.org/abs/2506.14711)|null|
 |**2025-06-17**|**Breaking even with magic: demonstration of a high-fidelity logical non-Clifford gate**|Shival Dasu et.al.|[2506.14688](http://arxiv.org/abs/2506.14688)|null|
