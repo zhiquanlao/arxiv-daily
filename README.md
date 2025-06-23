@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**High-precision Quantum Phase Estimation on a Trapped-ion Quantum Computer**|Andrew Tranter et.al.|[2506.17207](http://arxiv.org/abs/2506.17207)|null|
+|**2025-06-20**|**Tighter Error Bounds for the qDRIFT Algorithm**|I. J. David et.al.|[2506.17199](http://arxiv.org/abs/2506.17199)|null|
+|**2025-06-20**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
+|**2025-06-20**|**No Scratch Quantum Computing by Reducing Qubit Overhead for Efficient Arithmetics**|Omid Faizy et.al.|[2506.17135](http://arxiv.org/abs/2506.17135)|null|
+|**2025-06-20**|**QISCIT: A validated concept inventory assessment for quantum information science**|Kelley Durkin et.al.|[2506.17122](http://arxiv.org/abs/2506.17122)|null|
+|**2025-06-20**|**Quantum Advantage in Learning Quantum Dynamics via Fourier coefficient extraction**|Alice Barthe et.al.|[2506.17089](http://arxiv.org/abs/2506.17089)|null|
+|**2025-06-20**|**Protocol for detecting the nonlocality of the multi-Majorana Systems**|Bai-Ting Liu et.al.|[2506.17003](http://arxiv.org/abs/2506.17003)|null|
+|**2025-06-20**|**Resonance fluorescence and indistinguishable photons from a coherently driven B centre in hBN**|Domitille Gérard et.al.|[2506.16980](http://arxiv.org/abs/2506.16980)|null|
+|**2025-06-20**|**Fidelity Relations in an Array of Neutral Atom Qubits -- Experimental Validation of Control Noise**|Deon Janse van Rensburg et.al.|[2506.16974](http://arxiv.org/abs/2506.16974)|null|
+|**2025-06-20**|**Abelian multi-cycle codes for single-shot error correction**|Hsiang-Ku Lin et.al.|[2506.16910](http://arxiv.org/abs/2506.16910)|null|
 |**2025-06-18**|**Analog Quantum Phase Estimation with Single-Mode Readout**|Wei-Chen Lin et.al.|[2506.15668](http://arxiv.org/abs/2506.15668)|null|
 |**2025-06-18**|**Randomised composite linear-combination-of-unitaries: its role in quantum simulation and observable estimation**|Jinzhao Sun et.al.|[2506.15658](http://arxiv.org/abs/2506.15658)|null|
 |**2025-06-18**|**Quantum Error Correction Exploiting Degeneracy to Approach the Hashing Bound**|Kenta Kasai et.al.|[2506.15636](http://arxiv.org/abs/2506.15636)|null|
@@ -5321,6 +5331,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
+|**2025-06-19**|**Superconductivity in a Chern band: effect of time-reversal-symmetry breaking on superconductivity**|Bernhard E. Lüscher et.al.|[2506.16508](http://arxiv.org/abs/2506.16508)|null|
+|**2025-06-18**|**Twisted-Circle Compactifications of SQCD-like Theories and Holography**|Niall Macpherson et.al.|[2506.15778](http://arxiv.org/abs/2506.15778)|null|
 |**2025-06-17**|**Hetero-Orbital Two-Component Fractional Quantum Hall States in Bilayer Graphene**|Ke Huang et.al.|[2506.14188](http://arxiv.org/abs/2506.14188)|null|
 |**2025-06-16**|**Diagnosing 2D symmetry protected topological states via mixed state anomaly**|Chao Xu et.al.|[2506.13096](http://arxiv.org/abs/2506.13096)|null|
 |**2025-06-14**|**Graph of Verification: Structured Verification of LLM Reasoning with Directed Acyclic Graphs**|Jiwei Fang et.al.|[2506.12509](http://arxiv.org/abs/2506.12509)|null|
