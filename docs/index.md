@@ -3438,7 +3438,7 @@ layout: default
 |**2025-06-17**|**Topological Contextuality and Quantum Representations**|Tzu-Miao Chou et.al.|[2506.14537](http://arxiv.org/abs/2506.14537)|null|
 |**2025-06-17**|**One Polynomial Strategy for Computing Local Projections on Square-Lattice Cluster States**|Nyau Fisn et.al.|[2506.14257](http://arxiv.org/abs/2506.14257)|null|
 |**2025-06-16**|**Leveraging erasure errors in logical qubits with metastable $^{171}$ Yb atoms**|Bichen Zhang et.al.|[2506.13724](http://arxiv.org/abs/2506.13724)|null|
-|**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|null|
+|**2025-06-16**|**POPQC: Parallel Optimization for Quantum Circuits (Extended Version)**|Pengyu Liu et.al.|[2506.13720](http://arxiv.org/abs/2506.13720)|**[link](https://github.com/umutacarlab/popqc)**|
 |**2025-06-16**|**Towards fault-tolerant quantum computation with universal continuous-variable gates**|Sheron Blair et.al.|[2506.13643](http://arxiv.org/abs/2506.13643)|null|
 |**2025-06-16**|**High-fidelity entanglement and coherent multi-qubit mapping in an atom array**|Aruku Senoo et.al.|[2506.13632](http://arxiv.org/abs/2506.13632)|null|
 |**2025-06-16**|**Blocklet concatenation: Low-overhead fault-tolerant protocols for fusion-based quantum computation**|Daniel Litinski et.al.|[2506.13619](http://arxiv.org/abs/2506.13619)|null|
@@ -3465,7 +3465,7 @@ layout: default
 |**2025-06-13**|**Universal gates for a metastable qubit in strontium-88**|Renhao Tao et.al.|[2506.10714](http://arxiv.org/abs/2506.10714)|null|
 |**2025-06-12**|**Saturable nonlinearity induced quantum correlations in optomechanics**|D. R. Kenigoule Massembele et.al.|[2506.10709](http://arxiv.org/abs/2506.10709)|null|
 |**2025-06-12**|**Experimental Verification of Entangled States in the Adversarial Scenario**|Wen-Hao Zhang et.al.|[2506.10655](http://arxiv.org/abs/2506.10655)|null|
-|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|null|
+|**2025-06-12**|**Unitary Scrambling and Collapse: A Quantum Diffusion Framework for Generative Modeling**|Yihua Li et.al.|[2506.10571](http://arxiv.org/abs/2506.10571)|**[link](https://github.com/li-yihua/qsc-diffusion)**|
 |**2025-06-12**|**GPU-Accelerated Distributed QAOA on Large-scale HPC Ecosystems**|Zhihao Xu et.al.|[2506.10531](http://arxiv.org/abs/2506.10531)|null|
 |**2025-06-11**|**Dynamic Hypergraph Partitioning of Quantum Circuits with Hybrid Execution**|Shane Sweeney et.al.|[2506.09963](http://arxiv.org/abs/2506.09963)|null|
 |**2025-06-11**|**Repeated ancilla reuse for logical computation on a neutral atom quantum computer**|J. A. Muniz et.al.|[2506.09936](http://arxiv.org/abs/2506.09936)|null|
@@ -3477,7 +3477,7 @@ layout: default
 |**2025-06-11**|**Quantifying imaginarity of quantum operations**|Chuanfa Wu et.al.|[2506.09747](http://arxiv.org/abs/2506.09747)|null|
 |**2025-06-11**|**Black hole/quantum machine learning correspondence**|Jae-Weon Lee et.al.|[2506.09678](http://arxiv.org/abs/2506.09678)|null|
 |**2025-06-11**|**Type III Valley Polarization and Anomalous Valley Hall Effect in Two-Dimensional Non-Janus and Janus Altermagnet Fe2WS2Se2**|Yanchao She et.al.|[2506.09675](http://arxiv.org/abs/2506.09675)|null|
-|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|null|
+|**2025-06-10**|**Optimizing Sparse SYK**|Matthew Ding et.al.|[2506.09037](http://arxiv.org/abs/2506.09037)|**[link](https://github.com/bkiani/lovasz_for_syk)**|
 |**2025-06-10**|**Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates**|Josias Old et.al.|[2506.09029](http://arxiv.org/abs/2506.09029)|null|
 |**2025-06-10**|**Optimizing Superconducting Three-Qubit Gates for Surface-Code Error Correction**|Stephan Tasler et.al.|[2506.09028](http://arxiv.org/abs/2506.09028)|null|
 |**2025-06-10**|**A Sagnac-based arbitrary time-bin state encoder for quantum communication applications**|Kannan Vijayadharan et.al.|[2506.08971](http://arxiv.org/abs/2506.08971)|null|
@@ -5066,7 +5066,7 @@ layout: default
 |**2024-10-11**|**Learning dynamic quantum circuits for efficient state preparation**|Faisal Alam et.al.|[2410.09030](http://arxiv.org/abs/2410.09030)|null|
 |**2024-10-11**|**The Condensed Fiber Product and Zesting**|Colleen Delaney et.al.|[2410.09025](http://arxiv.org/abs/2410.09025)|null|
 |**2024-10-11**|**Observation of ergodicity breaking and quantum many-body scars in spinor gases**|J. O. Austin-Harris et.al.|[2410.09015](http://arxiv.org/abs/2410.09015)|null|
-|**2024-10-11**|**Hardness-Dependent Optimized Quantum Adiabatic Schedules for Maximum Independent Sets**|Sébastien Perseguers et.al.|[2410.08995](http://arxiv.org/abs/2410.08995)|null|
+|**2024-10-11**|**Hardness-Dependent Optimized Quantum Adiabatic Schedules for Maximum Independent Sets**|Sébastien Perseguers et.al.|[2410.08995](http://arxiv.org/abs/2410.08995)|**[link](https://github.com/gradiom/quantum)**|
 |**2024-10-11**|**Transferable Belief Model on Quantum Circuits**|Qianli Zhou et.al.|[2410.08949](http://arxiv.org/abs/2410.08949)|null|
 |**2024-10-11**|**Distributed Quantum Hypothesis Testing under Zero-rate Communication Constraints**|Sreejith Sreekumar et.al.|[2410.08937](http://arxiv.org/abs/2410.08937)|null|
 |**2024-10-11**|**Can the electron density be interpreted information-theoretically? A critical analysis using quantum information theory**|Guillaume Acke et.al.|[2410.08929](http://arxiv.org/abs/2410.08929)|null|
@@ -5315,9 +5315,9 @@ layout: default
 |**2025-06-08**|**Emergent gapless spiral phases and conformal Lifshitz criticality in the cluster Ising model with off-diagonal interactions**|Wei-Lin Li et.al.|[2506.07151](http://arxiv.org/abs/2506.07151)|null|
 |**2025-06-08**|**Dimensionless Hierarchical Topological Phononic States**|Joel R. Pyfrom et.al.|[2506.07048](http://arxiv.org/abs/2506.07048)|null|
 |**2025-06-07**|**Sequencing, task failures, and capacity when failures are driven by a non-homogeneous Poisson process**|Lingjiong Zhu et.al.|[2506.06900](http://arxiv.org/abs/2506.06900)|null|
-|**2025-06-07**|**Do Protein Transformers Have Biological Intelligence?**|Fudong Lin et.al.|[2506.06701](http://arxiv.org/abs/2506.06701)|null|
+|**2025-06-07**|**Do Protein Transformers Have Biological Intelligence?**|Fudong Lin et.al.|[2506.06701](http://arxiv.org/abs/2506.06701)|**[link](https://github.com/fudong03/biointelligence)**|
 |**2025-06-07**|**An extension of Haagerup's reduction theorem with applications to subdiagonal subalgebras of general von Neumann algebras**|Louis Labuschagne et.al.|[2506.06674](http://arxiv.org/abs/2506.06674)|null|
-|**2025-06-06**|**Ordering curves on surfaces**|Hugo Parlier et.al.|[2506.06481](http://arxiv.org/abs/2506.06481)|null|
+|**2025-06-06**|**Ordering curves on surfaces**|Hugo Parlier et.al.|[2506.06481](http://arxiv.org/abs/2506.06481)|**[link](https://github.com/hanhv/small-k-systoles)**|
 |**2025-06-06**|**On mixed 't Hooft anomalies of emergent symmetries**|Wei Gu et.al.|[2506.06432](http://arxiv.org/abs/2506.06432)|null|
 |**2025-06-06**|**Improved Allergy Wheal Detection for the Skin Prick Automated Test Device**|Rembert Daems et.al.|[2506.05862](http://arxiv.org/abs/2506.05862)|null|
 |**2025-06-05**|**A 2D-CFT Factory: Critical Lattice Models from Competing Anyon Condensation Processes in SymTO/SymTFT**|Ling-Yan Hung et.al.|[2506.05324](http://arxiv.org/abs/2506.05324)|null|
