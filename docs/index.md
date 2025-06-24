@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**State updates and useful qubits in relativistic quantum information**|José Polo-Gómez et.al.|[2506.18906](http://arxiv.org/abs/2506.18906)|null|
+|**2025-06-23**|**Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems**|Tomoya Shiota et.al.|[2506.18877](http://arxiv.org/abs/2506.18877)|null|
+|**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802](http://arxiv.org/abs/2506.18802)|null|
+|**2025-06-23**|**Spatial Regionalization: A Hybrid Quantum Computing Approach**|Yunhan Chang et.al.|[2506.18799](http://arxiv.org/abs/2506.18799)|null|
+|**2025-06-23**|**Can boundary configuration be tuned to optimize directional quantum steering harvesting?**|Xiao-Li Huang et.al.|[2506.18734](http://arxiv.org/abs/2506.18734)|null|
+|**2025-06-23**|**A ultrabright, two-colour photon pair source based on thin-film lithium niobate for bridging visible and telecom wavelengths**|Silia Babel et.al.|[2506.18609](http://arxiv.org/abs/2506.18609)|null|
+|**2025-06-23**|**Systematic improvement of the quantum approximate optimisation ansatz for combinatorial optimisation using quantum subspace expansion**|Yann Beaujeault-Taudière et.al.|[2506.18594](http://arxiv.org/abs/2506.18594)|null|
+|**2025-06-23**|**Robust Control of High-dimensional Quantum Systems against Coherent and Incoherent Errors**|Yidian Fan et.al.|[2506.18590](http://arxiv.org/abs/2506.18590)|null|
+|**2025-06-23**|**Classical and Quantum Resources in Perfect Teleportation**|Zhu Dian et.al.|[2506.18577](http://arxiv.org/abs/2506.18577)|null|
+|**2025-06-23**|**Bloch Vector Assertions for Debugging Quantum Programs**|Noah H. Oldfield et.al.|[2506.18458](http://arxiv.org/abs/2506.18458)|null|
 |**2025-06-20**|**High-precision Quantum Phase Estimation on a Trapped-ion Quantum Computer**|Andrew Tranter et.al.|[2506.17207](http://arxiv.org/abs/2506.17207)|null|
 |**2025-06-20**|**Tighter Error Bounds for the qDRIFT Algorithm**|I. J. David et.al.|[2506.17199](http://arxiv.org/abs/2506.17199)|null|
 |**2025-06-20**|**Fault Tolerance by Construction**|Benjamin Rodatz et.al.|[2506.17181](http://arxiv.org/abs/2506.17181)|null|
@@ -5307,6 +5317,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**Topological crystals and soliton lattices in a Gross-Neveu model with Hilbert-space fragmentation**|Sergio Cerezo-Roquebrún et.al.|[2506.18675](http://arxiv.org/abs/2506.18675)|null|
+|**2025-06-23**|**NIKA2 Cosmological Legacy Survey: Blind detection of galaxy clusters in the COSMOS field via the Sunyaev-Zel'dovich effect**|D. Chérouvrier et.al.|[2506.18231](http://arxiv.org/abs/2506.18231)|null|
+|**2025-06-21**|**Enhancing Stress-Strain Predictions with Seq2Seq and Cross-Attention based on Small Punch Test**|Zhengni Yang et.al.|[2506.17680](http://arxiv.org/abs/2506.17680)|null|
+|**2025-06-20**|**Magnetic Hysteresis Experiments Performed on Quantum Annealers**|Elijah Pelofske et.al.|[2506.17418](http://arxiv.org/abs/2506.17418)|null|
+|**2025-06-20**|**Tunable anyonic permeability across ${\mathbb{Z}_2}$ spin liquid junctions**|Sayak Bhattacharjee et.al.|[2506.17394](http://arxiv.org/abs/2506.17394)|null|
 |**2025-06-20**|**LM-SPT: LM-Aligned Semantic Distillation for Speech Tokenization**|Daejin Jo et.al.|[2506.16738](http://arxiv.org/abs/2506.16738)|null|
 |**2025-06-19**|**Superconductivity in a Chern band: effect of time-reversal-symmetry breaking on superconductivity**|Bernhard E. Lüscher et.al.|[2506.16508](http://arxiv.org/abs/2506.16508)|null|
 |**2025-06-18**|**Twisted-Circle Compactifications of SQCD-like Theories and Holography**|Niall Macpherson et.al.|[2506.15778](http://arxiv.org/abs/2506.15778)|null|
