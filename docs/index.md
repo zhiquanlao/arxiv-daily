@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832](http://arxiv.org/abs/2506.19832)|null|
+|**2025-06-24**|**High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity**|Fabian Oppliger et.al.|[2506.19828](http://arxiv.org/abs/2506.19828)|null|
+|**2025-06-24**|**Universal and Efficient Quantum State Verification via Schmidt Decomposition and Mutually Unbiased Bases**|Yunting Li et.al.|[2506.19809](http://arxiv.org/abs/2506.19809)|null|
+|**2025-06-24**|**Noncontextual Pauli Hamiltonians**|Alexis Ralli et.al.|[2506.19778](http://arxiv.org/abs/2506.19778)|null|
+|**2025-06-24**|**Quantum Resource Correction**|Mark Byrd et.al.|[2506.19776](http://arxiv.org/abs/2506.19776)|null|
+|**2025-06-24**|**Fast readout of quantum dot spin qubits via Andreev spins**|Michèle Jakob et.al.|[2506.19762](http://arxiv.org/abs/2506.19762)|null|
+|**2025-06-24**|**Quantum Resource Theories of Anyonic Entanglement**|Wenhao Ye et.al.|[2506.19735](http://arxiv.org/abs/2506.19735)|null|
+|**2025-06-24**|**Enhanced Image Recognition Using Gaussian Boson Sampling**|Si-Qiu Gong et.al.|[2506.19707](http://arxiv.org/abs/2506.19707)|null|
+|**2025-06-24**|**Transverse Polarization Gradient Entangling Gates for Trapped-Ion Quantum Computation**|Jin-Ming Cui et.al.|[2506.19691](http://arxiv.org/abs/2506.19691)|null|
+|**2025-06-24**|**Decoherence and fidelity enhancement during shuttling of entangled spin qubits**|Yu-Ning Zhang et.al.|[2506.19671](http://arxiv.org/abs/2506.19671)|null|
 |**2025-06-23**|**State updates and useful qubits in relativistic quantum information**|José Polo-Gómez et.al.|[2506.18906](http://arxiv.org/abs/2506.18906)|null|
 |**2025-06-23**|**Integrating Classical and Quantum Software for Enhanced Simulation of Realistic Chemical Systems**|Tomoya Shiota et.al.|[2506.18877](http://arxiv.org/abs/2506.18877)|null|
 |**2025-06-23**|**Trans-dimensional Hamiltonian model selection and parameter estimation from sparse, noisy data**|Abigail N. Poteshman et.al.|[2506.18802](http://arxiv.org/abs/2506.18802)|null|
@@ -5317,6 +5327,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Open-closed 3d gravity as a random ensemble**|Daniel L. Jafferis et.al.|[2506.19817](http://arxiv.org/abs/2506.19817)|null|
+|**2025-06-24**|**Interplay between Symmetry Breaking and Interactions in a Symmetry Protected Topological Phase**|Parameshwar R. Pasnoori et.al.|[2506.19771](http://arxiv.org/abs/2506.19771)|null|
+|**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566](http://arxiv.org/abs/2506.19566)|null|
+|**2025-06-24**|**Quantum simulation of thermodynamics: Maxwell relations for pair correlations**|F. Rist et.al.|[2506.19407](http://arxiv.org/abs/2506.19407)|null|
 |**2025-06-23**|**Topological crystals and soliton lattices in a Gross-Neveu model with Hilbert-space fragmentation**|Sergio Cerezo-Roquebrún et.al.|[2506.18675](http://arxiv.org/abs/2506.18675)|null|
 |**2025-06-23**|**NIKA2 Cosmological Legacy Survey: Blind detection of galaxy clusters in the COSMOS field via the Sunyaev-Zel'dovich effect**|D. Chérouvrier et.al.|[2506.18231](http://arxiv.org/abs/2506.18231)|null|
 |**2025-06-21**|**Enhancing Stress-Strain Predictions with Seq2Seq and Cross-Attention based on Small Punch Test**|Zhengni Yang et.al.|[2506.17680](http://arxiv.org/abs/2506.17680)|null|
