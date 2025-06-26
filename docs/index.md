@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Architectural mechanisms of a universal fault-tolerant quantum computer**|Dolev Bluvstein et.al.|[2506.20661](http://arxiv.org/abs/2506.20661)|null|
+|**2025-06-25**|**Continuous operation of a coherent 3,000-qubit system**|Neng-Chun Chiu et.al.|[2506.20660](http://arxiv.org/abs/2506.20660)|null|
+|**2025-06-25**|**A Framework for Quantum Advantage**|Olivia Lanes et.al.|[2506.20658](http://arxiv.org/abs/2506.20658)|null|
+|**2025-06-25**|**Sequential Quantum Computing**|Sebastián V. Romero et.al.|[2506.20655](http://arxiv.org/abs/2506.20655)|null|
+|**2025-06-25**|**Quantum sensing of displacements with stabilized GKP states**|Lautaro Labarca et.al.|[2506.20627](http://arxiv.org/abs/2506.20627)|null|
+|**2025-06-25**|**PhasePoly: An Optimization Framework forPhase Polynomials in Quantum Circuits**|Zihan Chen et.al.|[2506.20624](http://arxiv.org/abs/2506.20624)|null|
+|**2025-06-25**|**How to use quantum computers for biomolecular free energies**|Jakob Günther et.al.|[2506.20587](http://arxiv.org/abs/2506.20587)|null|
+|**2025-06-25**|**Efficient Inversion of Unknown Unitary Operations with Structured Hamiltonians**|Yin Mo et.al.|[2506.20570](http://arxiv.org/abs/2506.20570)|null|
+|**2025-06-25**|**Realization of a Quantum Error Detection Code with a Dynamically Reassigned Ancillary Qubit**|Alena S. Kazmina et.al.|[2506.20529](http://arxiv.org/abs/2506.20529)|null|
+|**2025-06-25**|**Tight Success Probabilities for Quantum Period Finding and Phase Estimation**|Malik Magdon-Ismail et.al.|[2506.20527](http://arxiv.org/abs/2506.20527)|null|
 |**2025-06-25**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832](http://arxiv.org/abs/2506.19832)|null|
 |**2025-06-24**|**High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity**|Fabian Oppliger et.al.|[2506.19828](http://arxiv.org/abs/2506.19828)|null|
 |**2025-06-24**|**Universal and Efficient Quantum State Verification via Schmidt Decomposition and Mutually Unbiased Bases**|Yunting Li et.al.|[2506.19809](http://arxiv.org/abs/2506.19809)|null|
@@ -5327,6 +5337,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
+|**2025-06-24**|**Holography for bulk-boundary local topological order**|Corey Jones et.al.|[2506.19969](http://arxiv.org/abs/2506.19969)|null|
 |**2025-06-24**|**Open-closed 3d gravity as a random ensemble**|Daniel L. Jafferis et.al.|[2506.19817](http://arxiv.org/abs/2506.19817)|null|
 |**2025-06-24**|**Interplay between Symmetry Breaking and Interactions in a Symmetry Protected Topological Phase**|Parameshwar R. Pasnoori et.al.|[2506.19771](http://arxiv.org/abs/2506.19771)|null|
 |**2025-06-24**|**Euclid: Quick Data Release (Q1) -- Watching ICM-selected galaxy clusters with Euclid eyes -- prospects of Euclid data in the context of large SZ and X-ray based surveys**|M. Klein et.al.|[2506.19566](http://arxiv.org/abs/2506.19566)|null|
