@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.25
+## Updated on 2025.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,7 +3417,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-24**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832](http://arxiv.org/abs/2506.19832)|null|
+|**2025-06-25**|**Resonances of recurrence time of monitored quantum walks**|Ruoyu Yin et.al.|[2506.19832](http://arxiv.org/abs/2506.19832)|null|
 |**2025-06-24**|**High-Efficiency Tunable Microwave Photon Detector Based on a Semiconductor Double Quantum Dot Coupled to a Superconducting High-Impedance Cavity**|Fabian Oppliger et.al.|[2506.19828](http://arxiv.org/abs/2506.19828)|null|
 |**2025-06-24**|**Universal and Efficient Quantum State Verification via Schmidt Decomposition and Mutually Unbiased Bases**|Yunting Li et.al.|[2506.19809](http://arxiv.org/abs/2506.19809)|null|
 |**2025-06-24**|**Noncontextual Pauli Hamiltonians**|Alexis Ralli et.al.|[2506.19778](http://arxiv.org/abs/2506.19778)|null|
