@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**ResQ: A Novel Framework to Implement Residual Neural Networks on Analog Rydberg Atom Quantum Computers**|Nicholas S. DiBrita et.al.|[2506.21537](http://arxiv.org/abs/2506.21537)|null|
+|**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534](http://arxiv.org/abs/2506.21534)|null|
+|**2025-06-26**|**An Iterative Methodology for Unitary Quantum Channel Search**|Matthew M. Lin et.al.|[2506.21455](http://arxiv.org/abs/2506.21455)|null|
+|**2025-06-26**|**Quantum Assisted Ghost Gutzwiller Ansatz**|P. V. Sriluckshmy et.al.|[2506.21431](http://arxiv.org/abs/2506.21431)|null|
+|**2025-06-26**|**Interradical motion can push magnetosensing precision towards quantum limits**|Luke D. Smith et.al.|[2506.21389](http://arxiv.org/abs/2506.21389)|null|
+|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363](http://arxiv.org/abs/2506.21363)|null|
+|**2025-06-26**|**A time-marching quantum algorithm for simulation of the nonlinear Lorenz dynamics**|Efstratios Koukoutsis et.al.|[2506.21354](http://arxiv.org/abs/2506.21354)|null|
+|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324](http://arxiv.org/abs/2506.21324)|null|
+|**2025-06-26**|**Quantum thermal state preparation for near-term quantum processors**|Jerome Lloyd et.al.|[2506.21318](http://arxiv.org/abs/2506.21318)|null|
+|**2025-06-26**|**Resonating Kagome Dimer coverings in Rydberg atom arrays**|Xicheng Wang et.al.|[2506.21255](http://arxiv.org/abs/2506.21255)|null|
 |**2025-06-25**|**Architectural mechanisms of a universal fault-tolerant quantum computer**|Dolev Bluvstein et.al.|[2506.20661](http://arxiv.org/abs/2506.20661)|null|
 |**2025-06-25**|**Continuous operation of a coherent 3,000-qubit system**|Neng-Chun Chiu et.al.|[2506.20660](http://arxiv.org/abs/2506.20660)|null|
 |**2025-06-25**|**A Framework for Quantum Advantage**|Olivia Lanes et.al.|[2506.20658](http://arxiv.org/abs/2506.20658)|null|
@@ -5361,6 +5371,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-25**|**SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**|E. Camphuis et.al.|[2506.20707](http://arxiv.org/abs/2506.20707)|null|
 |**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
 |**2025-06-24**|**Holography for bulk-boundary local topological order**|Corey Jones et.al.|[2506.19969](http://arxiv.org/abs/2506.19969)|null|
 |**2025-06-24**|**Open-closed 3d gravity as a random ensemble**|Daniel L. Jafferis et.al.|[2506.19817](http://arxiv.org/abs/2506.19817)|null|
