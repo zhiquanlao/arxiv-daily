@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418](http://arxiv.org/abs/2506.22418)|null|
+|**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
+|**2025-06-27**|**Decoherence of Majorana qubits by 1/f noise**|Abhijeet Alase et.al.|[2506.22394](http://arxiv.org/abs/2506.22394)|null|
+|**2025-06-27**|**Ground-state reachability for variational quantum eigensolvers: a Rydberg-atom case study**|Juhi Singh et.al.|[2506.22387](http://arxiv.org/abs/2506.22387)|null|
+|**2025-06-27**|**Selective filtering of multi-photon events from a single-photon emitter**|Friedrich Sbresny et.al.|[2506.22378](http://arxiv.org/abs/2506.22378)|null|
+|**2025-06-27**|**Linearization Scheme of Shallow Water Equations for Quantum Algorithms**|Till Appel et.al.|[2506.22345](http://arxiv.org/abs/2506.22345)|null|
+|**2025-06-27**|**QuKAN: A Quantum Circuit Born Machine approach to Quantum Kolmogorov Arnold Networks**|Yannick Werner et.al.|[2506.22340](http://arxiv.org/abs/2506.22340)|null|
+|**2025-06-27**|**Trainability of Parametrised Linear Combinations of Unitaries**|Nikhil Khatri et.al.|[2506.22310](http://arxiv.org/abs/2506.22310)|null|
+|**2025-06-27**|**Correcting astigmatism and ellipticity in Gaussian beams using a cylindrical lens pair with tunable focal lengths**|Soroush Khoubyarian et.al.|[2506.22308](http://arxiv.org/abs/2506.22308)|null|
+|**2025-06-27**|**Translating Bell Non-Locality to Prepare-and-Measure Scenarios under Dimensional Constraints**|Matilde Baroni et.al.|[2506.22282](http://arxiv.org/abs/2506.22282)|null|
 |**2025-06-26**|**ResQ: A Novel Framework to Implement Residual Neural Networks on Analog Rydberg Atom Quantum Computers**|Nicholas S. DiBrita et.al.|[2506.21537](http://arxiv.org/abs/2506.21537)|null|
 |**2025-06-26**|**Rashba spin-orbit coupling and artificially engineered topological superconductors**|Sankar Das Sarma et.al.|[2506.21534](http://arxiv.org/abs/2506.21534)|null|
 |**2025-06-26**|**An Iterative Methodology for Unitary Quantum Channel Search**|Matthew M. Lin et.al.|[2506.21455](http://arxiv.org/abs/2506.21455)|null|
@@ -5371,6 +5381,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417](http://arxiv.org/abs/2506.22417)|null|
 |**2025-06-25**|**SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**|E. Camphuis et.al.|[2506.20707](http://arxiv.org/abs/2506.20707)|null|
 |**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
 |**2025-06-24**|**Holography for bulk-boundary local topological order**|Corey Jones et.al.|[2506.19969](http://arxiv.org/abs/2506.19969)|null|
