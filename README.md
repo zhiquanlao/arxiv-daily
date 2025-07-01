@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
+|**2025-06-30**|**Singular value transformation for unknown quantum channels**|Ryotaro Niwa et.al.|[2506.24112](http://arxiv.org/abs/2506.24112)|null|
+|**2025-06-30**|**Quantum channel for modeling spin-motion dephasing in Rydberg chains**|Christopher Wyenberg et.al.|[2506.24082](http://arxiv.org/abs/2506.24082)|null|
+|**2025-06-30**|**SQUASH: A SWAP-Based Quantum Attack to Sabotage Hybrid Quantum Neural Networks**|Rahul Kumar et.al.|[2506.24081](http://arxiv.org/abs/2506.24081)|null|
+|**2025-06-30**|**Maximum entropy principle for quantum processes**|Siddhartha Das et.al.|[2506.24079](http://arxiv.org/abs/2506.24079)|null|
+|**2025-06-30**|**Will it glue? On short-depth designs beyond the unitary group**|Lorenzo Grevink et.al.|[2506.23925](http://arxiv.org/abs/2506.23925)|null|
+|**2025-06-30**|**Canonical partial ordering from min-cuts and quantum entanglement in random tensor networks**|Miao Hu et.al.|[2506.23894](http://arxiv.org/abs/2506.23894)|null|
+|**2025-06-30**|**Reducing Complexity of Shadow Process Tomography with Generalized Measurements**|Haigang Wang et.al.|[2506.23806](http://arxiv.org/abs/2506.23806)|null|
+|**2025-06-30**|**Optimal Quantum Algorithm for Estimating Fidelity to a Pure State**|Wang Fang et.al.|[2506.23650](http://arxiv.org/abs/2506.23650)|null|
+|**2025-06-30**|**Integrated bright source of polarization-entangled photons using lithium niobate photonic chips**|Changhyun Kim et.al.|[2506.23625](http://arxiv.org/abs/2506.23625)|null|
 |**2025-06-27**|**Universal Quantum Computational Spectroscopy on a Quantum Chip**|Chonghao Zhai et.al.|[2506.22418](http://arxiv.org/abs/2506.22418)|null|
 |**2025-06-27**|**Quantum-Classical Auxiliary Field Quantum Monte Carlo with Matchgate Shadows on Trapped Ion Quantum Computers**|Luning Zhao et.al.|[2506.22408](http://arxiv.org/abs/2506.22408)|null|
 |**2025-06-27**|**Decoherence of Majorana qubits by 1/f noise**|Abhijeet Alase et.al.|[2506.22394](http://arxiv.org/abs/2506.22394)|null|
@@ -5381,6 +5391,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
+|**2025-06-30**|**Thermodynamics of Hard Sphere and Spherocylinder Mixtures -- Scaled Particle Theory and Monte Carlo Simulations**|Volodymyr Shmotolokha et.al.|[2506.23922](http://arxiv.org/abs/2506.23922)|null|
+|**2025-06-30**|**Reducing Complexity of Shadow Process Tomography with Generalized Measurements**|Haigang Wang et.al.|[2506.23806](http://arxiv.org/abs/2506.23806)|null|
+|**2025-06-30**|**Breadth, Depth, and Flux of Course-Prerequisite Networks**|Konstantin Zuev et.al.|[2506.23510](http://arxiv.org/abs/2506.23510)|null|
+|**2025-06-29**|**Homomorphism, substructure and ideal: Elementary but rigorous aspects of renormalization group or hierarchical structure of topological orders**|Yoshiki Fukusumi et.al.|[2506.23155](http://arxiv.org/abs/2506.23155)|null|
+|**2025-06-27**|**An Algebraic Theory of Gapped Domain Wall Partons**|Matthew Buican et.al.|[2506.22544](http://arxiv.org/abs/2506.22544)|null|
 |**2025-06-27**|**Quantum-geometric dipole: a topological boost to flavor ferromagnetism in flat bands**|Lei Chen et.al.|[2506.22417](http://arxiv.org/abs/2506.22417)|null|
 |**2025-06-25**|**SPT-3G D1: CMB temperature and polarization power spectra and cosmology from 2019 and 2020 observations of the SPT-3G Main field**|E. Camphuis et.al.|[2506.20707](http://arxiv.org/abs/2506.20707)|null|
 |**2025-06-25**|**Observation of Berry Curvature-Enhanced Anomalous Photo-Nernst Effect in Magnetic Weyl Semimetal**|Zipu Fan et.al.|[2506.20180](http://arxiv.org/abs/2506.20180)|null|
