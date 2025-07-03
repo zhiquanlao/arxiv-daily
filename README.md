@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Analyzing Common Electronic Structure Theory Algorithms for Distributed Quantum Computing**|Grier M. Jones et.al.|[2507.01902](http://arxiv.org/abs/2507.01902)|null|
+|**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
+|**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883](http://arxiv.org/abs/2507.01883)|null|
+|**2025-07-02**|**On-chip photon entanglement-assisted topology loading and transfer**|Haoqi Zhao et.al.|[2507.01834](http://arxiv.org/abs/2507.01834)|null|
+|**2025-07-02**|**Hamiltonian quantum gates -- energetic advantage from entangleability**|Josey Stevens et.al.|[2507.01758](http://arxiv.org/abs/2507.01758)|null|
+|**2025-07-02**|**Generative flow-based warm start of the variational quantum eigensolver**|Hang Zou et.al.|[2507.01726](http://arxiv.org/abs/2507.01726)|null|
+|**2025-07-02**|**Quantum reinforcement learning in dynamic environments**|Oliver Sefrin et.al.|[2507.01691](http://arxiv.org/abs/2507.01691)|null|
+|**2025-07-02**|**Simulating Quantum State Transfer between Distributed Devices using Noisy Interconnects**|Marvin Bechtold et.al.|[2507.01683](http://arxiv.org/abs/2507.01683)|null|
+|**2025-07-02**|**An entangled photon source for the telecom C-band based on a semiconductor-confined spin**|Petros Laccotripes et.al.|[2507.01648](http://arxiv.org/abs/2507.01648)|null|
+|**2025-07-02**|**Single-shot parity readout of a minimal Kitaev chain**|Nick van Loo et.al.|[2507.01606](http://arxiv.org/abs/2507.01606)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
 |**2025-06-30**|**Singular value transformation for unknown quantum channels**|Ryotaro Niwa et.al.|[2506.24112](http://arxiv.org/abs/2506.24112)|null|
 |**2025-06-30**|**Quantum channel for modeling spin-motion dephasing in Rydberg chains**|Christopher Wyenberg et.al.|[2506.24082](http://arxiv.org/abs/2506.24082)|null|
@@ -5391,6 +5401,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Weak Hopf tube algebra for domain walls between 2d gapped phases of Turaev-Viro TQFTs**|Zhian Jia et.al.|[2507.01515](http://arxiv.org/abs/2507.01515)|null|
+|**2025-07-01**|**About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N $_3$)$_3$**|A. Nonato et.al.|[2507.01179](http://arxiv.org/abs/2507.01179)|null|
+|**2025-07-01**|**Gauging Non-Invertible Symmetries in (2+1)d Topological Orders**|Mahesh K. N. Balasubramanian et.al.|[2507.01142](http://arxiv.org/abs/2507.01142)|null|
+|**2025-07-01**|**Charge pumps, pivot Hamiltonians and symmetry-protected topological phases**|Nick. G. Jones et.al.|[2507.00995](http://arxiv.org/abs/2507.00995)|null|
+|**2025-07-01**|**Generation of Pure Spin Current with Insulating Antiferromagnetic Materials**|Yingwei Chen et.al.|[2507.00369](http://arxiv.org/abs/2507.00369)|null|
+|**2025-07-01**|**Wireless AI Evolution: From Statistical Learners to Electromagnetic-Guided Foundation Models**|Jian Xiao et.al.|[2507.00366](http://arxiv.org/abs/2507.00366)|null|
+|**2025-06-30**|**Topology-ferrimagnetism intertwining via weak interactions in Lieb lattices**|Lei Chen et.al.|[2507.00291](http://arxiv.org/abs/2507.00291)|null|
+|**2025-06-30**|**Identifying Anyonic Topological Order in Fractional Quantum Anomalous Hall Systems**|Hisham Sati et.al.|[2507.00138](http://arxiv.org/abs/2507.00138)|null|
+|**2025-06-30**|**Detection of 2D SPT phases under decoherence**|Naren Manjunath et.al.|[2507.00127](http://arxiv.org/abs/2507.00127)|null|
 |**2025-06-30**|**Nonlinear Symmetry-Fragmentation of Nonabelian Anyons In Symmetry-Enriched Topological Phases: A String-Net Model Realization**|Nianrui Fu et.al.|[2506.24115](http://arxiv.org/abs/2506.24115)|null|
 |**2025-06-30**|**Thermodynamics of Hard Sphere and Spherocylinder Mixtures -- Scaled Particle Theory and Monte Carlo Simulations**|Volodymyr Shmotolokha et.al.|[2506.23922](http://arxiv.org/abs/2506.23922)|null|
 |**2025-06-30**|**Reducing Complexity of Shadow Process Tomography with Generalized Measurements**|Haigang Wang et.al.|[2506.23806](http://arxiv.org/abs/2506.23806)|null|
