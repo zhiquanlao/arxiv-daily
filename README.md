@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**LCQNN: Linear Combination of Quantum Neural Networks**|Hongshun Yao et.al.|[2507.02832](http://arxiv.org/abs/2507.02832)|null|
+|**2025-07-03**|**Prediction of synthesis parameters for N, Si, Ge and Sn diamond vacancy centers using machine learning**|Zhi Jiang et.al.|[2507.02808](http://arxiv.org/abs/2507.02808)|null|
+|**2025-07-03**|**An Ultra-Cold Mechanical Quantum Sensor for Tests of New Physics**|Andraz Omahen et.al.|[2507.02653](http://arxiv.org/abs/2507.02653)|null|
+|**2025-07-03**|**Access Control Threatened by Quantum Entanglement**|Zhicheng Zhang et.al.|[2507.02622](http://arxiv.org/abs/2507.02622)|null|
+|**2025-07-03**|**Future Impact of Quantum Computing on the Computational Landscape of Power Electronics: A Short Tutorial**|Nikolaos G. Paterakis et.al.|[2507.02577](http://arxiv.org/abs/2507.02577)|null|
+|**2025-07-03**|**Context-aware gate set tomography: Improving the self-consistent characterization of trapped-ion universal gate sets by leveraging non-Markovianity**|Pablo Viñas et.al.|[2507.02542](http://arxiv.org/abs/2507.02542)|null|
+|**2025-07-03**|**An Algorithm for Estimating $α$ -Stabilizer Rényi Entropies via Purity**|Benjamin Stratton et.al.|[2507.02540](http://arxiv.org/abs/2507.02540)|null|
+|**2025-07-03**|**Robust feedback-based quantum optimization: analysis of coherent control errors**|Mirko Legnini et.al.|[2507.02532](http://arxiv.org/abs/2507.02532)|null|
+|**2025-07-03**|**Toffoli and C $^\text{n}$NOT (n$>2$ ) gates in a neutral-atom platform using Rydberg coupling and dark state resonances**|Sinchan Snigdha Rej et.al.|[2507.02531](http://arxiv.org/abs/2507.02531)|null|
+|**2025-07-03**|**Electron Orbital Angular Momentum Polarization in Neutral Atoms**|Hongtao Hu et.al.|[2507.02499](http://arxiv.org/abs/2507.02499)|null|
 |**2025-07-02**|**Analyzing Common Electronic Structure Theory Algorithms for Distributed Quantum Computing**|Grier M. Jones et.al.|[2507.01902](http://arxiv.org/abs/2507.01902)|null|
 |**2025-07-02**|**Improving GANs by leveraging the quantum noise from real hardware**|Hongni Jin et.al.|[2507.01886](http://arxiv.org/abs/2507.01886)|null|
 |**2025-07-02**|**Circuit compression for 2D quantum dynamics**|Matteo D'Anna et.al.|[2507.01883](http://arxiv.org/abs/2507.01883)|null|
@@ -5401,6 +5411,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Cosmic structure from the path integral of classical mechanics and its comparison to standard perturbation theory**|Marvin Sipp et.al.|[2507.02692](http://arxiv.org/abs/2507.02692)|null|
+|**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim et.al.|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
+|**2025-07-02**|**Spacetime symmetry-enriched SymTFT: from LSM anomalies to modulated symmetries and beyond**|Salvatore D. Pace et.al.|[2507.02036](http://arxiv.org/abs/2507.02036)|null|
+|**2025-07-02**|**Hall-on-Toric: Descendant Laughlin state in the chiral $\mathbb{Z}_p$ toric code**|Robin Schäfer et.al.|[2507.02035](http://arxiv.org/abs/2507.02035)|null|
 |**2025-07-02**|**Weak Hopf tube algebra for domain walls between 2d gapped phases of Turaev-Viro TQFTs**|Zhian Jia et.al.|[2507.01515](http://arxiv.org/abs/2507.01515)|null|
 |**2025-07-01**|**About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N $_3$)$_3$**|A. Nonato et.al.|[2507.01179](http://arxiv.org/abs/2507.01179)|null|
 |**2025-07-01**|**Gauging Non-Invertible Symmetries in (2+1)d Topological Orders**|Mahesh K. N. Balasubramanian et.al.|[2507.01142](http://arxiv.org/abs/2507.01142)|null|
