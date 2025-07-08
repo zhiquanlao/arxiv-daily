@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222](http://arxiv.org/abs/2507.05222)|null|
+|**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
+|**2025-07-07**|**An operator algebraic approach to fusion category symmetry on the lattice**|David E. Evans et.al.|[2507.05185](http://arxiv.org/abs/2507.05185)|null|
+|**2025-07-07**|**Experimental data re-uploading with provable enhanced learning capabilities**|Martin F. X. Mauser et.al.|[2507.05120](http://arxiv.org/abs/2507.05120)|null|
+|**2025-07-07**|**Tighter Inequalities for $A$ -Numerical Radii of Operator Matrices and Their Applications**|M. H. M. Rashid et.al.|[2507.05105](http://arxiv.org/abs/2507.05105)|null|
+|**2025-07-07**|**Non-ergodic one-magnon magnetization dynamics of the kagome lattice antiferromagnet**|H. Schlüter et.al.|[2507.05009](http://arxiv.org/abs/2507.05009)|null|
+|**2025-07-07**|**Variability of hole spin qubits in planar Germanium**|Biel Martinez et.al.|[2507.04953](http://arxiv.org/abs/2507.04953)|null|
+|**2025-07-07**|**Spin-orbit coupling in digital alloyed InGaAs quantum wells**|Jason T. Dong et.al.|[2507.04945](http://arxiv.org/abs/2507.04945)|null|
+|**2025-07-07**|**DYNAMO: Dynamic Neutral Atom Multi-programming Optimizer Towards Quantum Operating Systems**|Wenjie Sun et.al.|[2507.04874](http://arxiv.org/abs/2507.04874)|null|
+|**2025-07-07**|**Multi-Photon Quantum Rabi Models with Center-of-Mass Motion**|Sabrina Hartmann et.al.|[2507.04829](http://arxiv.org/abs/2507.04829)|null|
 |**2025-07-03**|**LCQNN: Linear Combination of Quantum Neural Networks**|Hongshun Yao et.al.|[2507.02832](http://arxiv.org/abs/2507.02832)|null|
 |**2025-07-03**|**Prediction of synthesis parameters for N, Si, Ge and Sn diamond vacancy centers using machine learning**|Zhi Jiang et.al.|[2507.02808](http://arxiv.org/abs/2507.02808)|null|
 |**2025-07-03**|**An Ultra-Cold Mechanical Quantum Sensor for Tests of New Physics**|Andraz Omahen et.al.|[2507.02653](http://arxiv.org/abs/2507.02653)|null|
@@ -5387,12 +5397,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Instability of the Haldane Phase: Roles of Charge Fluctuations and Hund's Coupling**|Satoshi Nishimoto et.al.|[2507.05089](http://arxiv.org/abs/2507.05089)|null|
 |**2025-07-03**|**Cosmic structure from the path integral of classical mechanics and its comparison to standard perturbation theory**|Marvin Sipp et.al.|[2507.02692](http://arxiv.org/abs/2507.02692)|null|
 |**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim et.al.|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
 |**2025-07-02**|**Spacetime symmetry-enriched SymTFT: from LSM anomalies to modulated symmetries and beyond**|Salvatore D. Pace et.al.|[2507.02036](http://arxiv.org/abs/2507.02036)|null|
 |**2025-07-02**|**Hall-on-Toric: Descendant Laughlin state in the chiral $\mathbb{Z}_p$ toric code**|Robin Schäfer et.al.|[2507.02035](http://arxiv.org/abs/2507.02035)|null|
 |**2025-07-02**|**Weak Hopf tube algebra for domain walls between 2d gapped phases of Turaev-Viro TQFTs**|Zhian Jia et.al.|[2507.01515](http://arxiv.org/abs/2507.01515)|null|
-|**2025-07-01**|**About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N $_3$)$_3$**|A. Nonato et.al.|[2507.01179](http://arxiv.org/abs/2507.01179)|null|
+|**2025-07-06**|**About the Strain-Coupled Molecular Dynamics in the Ferroelastic Phase Transition of TMACd(N $_3$)$_3$**|A. Nonato et.al.|[2507.01179](http://arxiv.org/abs/2507.01179)|null|
 |**2025-07-01**|**Gauging Non-Invertible Symmetries in (2+1)d Topological Orders**|Mahesh K. N. Balasubramanian et.al.|[2507.01142](http://arxiv.org/abs/2507.01142)|null|
 |**2025-07-01**|**Charge pumps, pivot Hamiltonians and symmetry-protected topological phases**|Nick. G. Jones et.al.|[2507.00995](http://arxiv.org/abs/2507.00995)|null|
 |**2025-07-01**|**Generation of Pure Spin Current with Insulating Antiferromagnetic Materials**|Yingwei Chen et.al.|[2507.00369](http://arxiv.org/abs/2507.00369)|null|
