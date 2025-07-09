@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
+|**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198](http://arxiv.org/abs/2507.06198)|null|
+|**2025-07-08**|**Bounding quantum uncommon information with quantum neural estimators**|Donghwa Ji et.al.|[2507.06091](http://arxiv.org/abs/2507.06091)|null|
+|**2025-07-08**|**On-chip magnon polaritons in the ultrastrong coupling regime**|Shugo Yoshii et.al.|[2507.06065](http://arxiv.org/abs/2507.06065)|null|
+|**2025-07-08**|**Spin properties in droplet epitaxy-grown telecom quantum dots**|Marius Cizauskas et.al.|[2507.06058](http://arxiv.org/abs/2507.06058)|null|
+|**2025-07-08**|**A new approach to the study of the manifold of fixed rank covariance matrices**|Leonardo Marconi et.al.|[2507.05873](http://arxiv.org/abs/2507.05873)|null|
+|**2025-07-08**|**Modular functors from conformal blocks of rational vertex operator algebras**|Chiara Damiolini et.al.|[2507.05845](http://arxiv.org/abs/2507.05845)|null|
+|**2025-07-08**|**Structural Perspectives from Quantum States and Measurements in Optimal State Discrimination**|Hyunho Cha et.al.|[2507.05778](http://arxiv.org/abs/2507.05778)|null|
+|**2025-07-08**|**Tight Bound for Quantum Unitary Time-Reversal**|Kean Chen et.al.|[2507.05736](http://arxiv.org/abs/2507.05736)|null|
+|**2025-07-08**|**Temporal Incompatibility of Quantum Superposition and Relativistic Causality in Toponium Formation**|Chang Xiong et.al.|[2507.05703](http://arxiv.org/abs/2507.05703)|null|
 |**2025-07-07**|**Quantum-Inspired Tensor-Network Fractional-Step Method for Incompressible Flow in Curvilinear Coordinates**|Nis-Luca van Hülst et.al.|[2507.05222](http://arxiv.org/abs/2507.05222)|null|
 |**2025-07-07**|**QMoE: A Quantum Mixture of Experts Framework for Scalable Quantum Neural Networks**|Hoang-Quan Nguyen et.al.|[2507.05190](http://arxiv.org/abs/2507.05190)|null|
 |**2025-07-07**|**An operator algebraic approach to fusion category symmetry on the lattice**|David E. Evans et.al.|[2507.05185](http://arxiv.org/abs/2507.05185)|null|
@@ -5397,6 +5407,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo et.al.|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
+|**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu et.al.|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
+|**2025-07-07**|**The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**|C. Benoist et.al.|[2507.05360](http://arxiv.org/abs/2507.05360)|null|
+|**2025-07-07**|**SymTFT Approach for Mixed States with Non-Invertible Symmetries**|Sakura Schafer-Nameki et.al.|[2507.05350](http://arxiv.org/abs/2507.05350)|null|
+|**2025-07-07**|**The Symmetry Taco: Equivalences between Gapped, Gapless, and Mixed-State SPTs**|Marvin Qi et.al.|[2507.05335](http://arxiv.org/abs/2507.05335)|null|
 |**2025-07-07**|**Instability of the Haldane Phase: Roles of Charge Fluctuations and Hund's Coupling**|Satoshi Nishimoto et.al.|[2507.05089](http://arxiv.org/abs/2507.05089)|null|
 |**2025-07-03**|**Cosmic structure from the path integral of classical mechanics and its comparison to standard perturbation theory**|Marvin Sipp et.al.|[2507.02692](http://arxiv.org/abs/2507.02692)|null|
 |**2025-07-03**|**Noninvertible symmetry and topological holography for modulated SPT in one dimension**|Jintae Kim et.al.|[2507.02324](http://arxiv.org/abs/2507.02324)|null|
