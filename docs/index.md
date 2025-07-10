@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Asymmetric two-photon response of an incoherently driven quantum emitter**|Lennart Jehle et.al.|[2507.07082](http://arxiv.org/abs/2507.07082)|null|
+|**2025-07-09**|**Layer Cake Representations for Quantum Divergences**|Po-Chieh Liu et.al.|[2507.07065](http://arxiv.org/abs/2507.07065)|null|
+|**2025-07-09**|**Integer Factorization: Another perspective**|Gilda Rech Bansimba et.al.|[2507.07055](http://arxiv.org/abs/2507.07055)|null|
+|**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023](http://arxiv.org/abs/2507.07023)|null|
+|**2025-07-09**|**Enhancing Quantum Software Development Process with Experiment Tracking**|Mahee Gamage et.al.|[2507.06990](http://arxiv.org/abs/2507.06990)|null|
+|**2025-07-09**|**Flexible Readout and Unconditional Reset for Superconducting Multi-Qubit Processors with Tunable Purcell Filters**|Yong-Xi Xiao et.al.|[2507.06988](http://arxiv.org/abs/2507.06988)|null|
+|**2025-07-09**|**No physics required! A visual-based introduction to GKP qubits for computer scientists**|Richard A. Wolf et.al.|[2507.06943](http://arxiv.org/abs/2507.06943)|null|
+|**2025-07-09**|**On the Error Exponent Distribution of Code Ensembles over Classical-Quantum Channels**|Giuseppe Cocco et.al.|[2507.06868](http://arxiv.org/abs/2507.06868)|null|
+|**2025-07-09**|**Quantum Simulation and Optimization of Water Distribution Networks**|Carlos Romero Rocha et.al.|[2507.06862](http://arxiv.org/abs/2507.06862)|null|
+|**2025-07-09**|**Efficient Implementation of a Single-Qutrit Gate Set via Coherent Control**|Xiang-Min Yu et.al.|[2507.06860](http://arxiv.org/abs/2507.06860)|null|
 |**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
 |**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198](http://arxiv.org/abs/2507.06198)|null|
 |**2025-07-08**|**Bounding quantum uncommon information with quantum neural estimators**|Donghwa Ji et.al.|[2507.06091](http://arxiv.org/abs/2507.06091)|null|
@@ -5407,6 +5417,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Constraints on cosmological gravitational waves from CMB and BAO in light of dynamical dark energy**|Sai Wang et.al.|[2507.06930](http://arxiv.org/abs/2507.06930)|null|
+|**2025-07-08**|**Mutual Influence of Symmetries and Topological Field Theories**|Daniel Teixeira et.al.|[2507.06304](http://arxiv.org/abs/2507.06304)|null|
 |**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo et.al.|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
 |**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu et.al.|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
 |**2025-07-07**|**The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**|C. Benoist et.al.|[2507.05360](http://arxiv.org/abs/2507.05360)|null|
