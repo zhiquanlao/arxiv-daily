@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3420,7 +3420,7 @@ layout: default
 |**2025-07-08**|**Error Exponents for Quantum Packing Problems via An Operator Layer Cake Theorem**|Hao-Chung Cheng et.al.|[2507.06232](http://arxiv.org/abs/2507.06232)|null|
 |**2025-07-08**|**Quantum simulation of a noisy classical nonlinear dynamics**|Sergey Bravyi et.al.|[2507.06198](http://arxiv.org/abs/2507.06198)|null|
 |**2025-07-08**|**Bounding quantum uncommon information with quantum neural estimators**|Donghwa Ji et.al.|[2507.06091](http://arxiv.org/abs/2507.06091)|null|
-|**2025-07-08**|**On-chip magnon polaritons in the ultrastrong coupling regime**|Shugo Yoshii et.al.|[2507.06065](http://arxiv.org/abs/2507.06065)|null|
+|**2025-07-09**|**On-chip magnon polaritons in the ultrastrong coupling regime**|Shugo Yoshii et.al.|[2507.06065](http://arxiv.org/abs/2507.06065)|null|
 |**2025-07-08**|**Spin properties in droplet epitaxy-grown telecom quantum dots**|Marius Cizauskas et.al.|[2507.06058](http://arxiv.org/abs/2507.06058)|null|
 |**2025-07-08**|**A new approach to the study of the manifold of fixed rank covariance matrices**|Leonardo Marconi et.al.|[2507.05873](http://arxiv.org/abs/2507.05873)|null|
 |**2025-07-08**|**Modular functors from conformal blocks of rational vertex operator algebras**|Chiara Damiolini et.al.|[2507.05845](http://arxiv.org/abs/2507.05845)|null|
