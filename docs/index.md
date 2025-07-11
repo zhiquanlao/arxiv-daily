@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.10
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3418,7 +3418,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-09**|**Asymmetric two-photon response of an incoherently driven quantum emitter**|Lennart Jehle et.al.|[2507.07082](http://arxiv.org/abs/2507.07082)|null|
-|**2025-07-09**|**Layer Cake Representations for Quantum Divergences**|Po-Chieh Liu et.al.|[2507.07065](http://arxiv.org/abs/2507.07065)|null|
+|**2025-07-10**|**Layer Cake Representations for Quantum Divergences**|Po-Chieh Liu et.al.|[2507.07065](http://arxiv.org/abs/2507.07065)|null|
 |**2025-07-09**|**Integer Factorization: Another perspective**|Gilda Rech Bansimba et.al.|[2507.07055](http://arxiv.org/abs/2507.07055)|null|
 |**2025-07-09**|**Classifying integral Grothendieck rings up to rank 5 and beyond**|Max A. Alekseyev et.al.|[2507.07023](http://arxiv.org/abs/2507.07023)|null|
 |**2025-07-09**|**Enhancing Quantum Software Development Process with Experiment Tracking**|Mahee Gamage et.al.|[2507.06990](http://arxiv.org/abs/2507.06990)|null|
