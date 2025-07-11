@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989](http://arxiv.org/abs/2507.07989)|null|
+|**2025-07-10**|**Sharp estimates of quantum covering problems via a novel trace inequality**|Hao-Chung Cheng et.al.|[2507.07961](http://arxiv.org/abs/2507.07961)|null|
+|**2025-07-10**|**Quantum Wall States for Noise Mitigation and Eternal Purity Bounds**|Miguel Casanova et.al.|[2507.07944](http://arxiv.org/abs/2507.07944)|null|
+|**2025-07-10**|**Robust Lindbladian Estimation for Quantum Dynamics**|Yinchen Liu et.al.|[2507.07912](http://arxiv.org/abs/2507.07912)|null|
+|**2025-07-10**|**Testing time order and Leggett-Garg inequalities with noninvasive measurements on public quantum computers**|Tomasz Rybotycki et.al.|[2507.07904](http://arxiv.org/abs/2507.07904)|null|
+|**2025-07-10**|**Methods for Reducing Ancilla-Overhead in Block Encodings**|Francisca Vasconcelos et.al.|[2507.07900](http://arxiv.org/abs/2507.07900)|null|
+|**2025-07-10**|**Gate Freezing Method for Gradient-Free Variational Quantum Algorithms in Circuit Optimization**|Joona Pankkonen et.al.|[2507.07742](http://arxiv.org/abs/2507.07742)|null|
+|**2025-07-10**|**Kinetic Inductance Traveling Wave Parametric Amplifiers Near the Quantum Limit: Methodology and Characterization**|L. Howe et.al.|[2507.07706](http://arxiv.org/abs/2507.07706)|null|
+|**2025-07-10**|**Strong squeezing and perfect one-way EPR steering in electro-optomechanical system**|Qing-Min Zeng et.al.|[2507.07697](http://arxiv.org/abs/2507.07697)|null|
+|**2025-07-10**|**Phase-Space Framework for Noisy Intermediate-Scale Quantum Optical Neural Networks**|Stanisław Świerczewski et.al.|[2507.07684](http://arxiv.org/abs/2507.07684)|null|
 |**2025-07-09**|**Asymmetric two-photon response of an incoherently driven quantum emitter**|Lennart Jehle et.al.|[2507.07082](http://arxiv.org/abs/2507.07082)|null|
 |**2025-07-10**|**Layer Cake Representations for Quantum Divergences**|Po-Chieh Liu et.al.|[2507.07065](http://arxiv.org/abs/2507.07065)|null|
 |**2025-07-09**|**Integer Factorization: Another perspective**|Gilda Rech Bansimba et.al.|[2507.07055](http://arxiv.org/abs/2507.07055)|null|
@@ -5441,6 +5451,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Emergent QED $_3$ at the bosonic Laughlin state to superfluid transition**|Taige Wang et.al.|[2507.07611](http://arxiv.org/abs/2507.07611)|null|
+|**2025-07-10**|**The z=1.03 Merging Cluster SPT-CL J0356-5337: New Strong Lensing Analysis with HST and MUSE**|Grace Smith et.al.|[2507.07404](http://arxiv.org/abs/2507.07404)|null|
 |**2025-07-09**|**Constraints on cosmological gravitational waves from CMB and BAO in light of dynamical dark energy**|Sai Wang et.al.|[2507.06930](http://arxiv.org/abs/2507.06930)|null|
 |**2025-07-08**|**Mutual Influence of Symmetries and Topological Field Theories**|Daniel Teixeira et.al.|[2507.06304](http://arxiv.org/abs/2507.06304)|null|
 |**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo et.al.|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
