@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning**|Paolo Marcandelli et.al.|[2507.08746](http://arxiv.org/abs/2507.08746)|null|
+|**2025-07-11**|**A novel quantum circuit for the quantum Fourier transform**|Juan M. Romero et.al.|[2507.08699](http://arxiv.org/abs/2507.08699)|null|
+|**2025-07-11**|**Magic Steady State Production: Non-Hermitian and Stochastic pathways**|Pablo Martinez-Azcona et.al.|[2507.08676](http://arxiv.org/abs/2507.08676)|null|
+|**2025-07-11**|**Optimizing Superconducting Nb Film Cavities by Mitigating Medium-Field Q-Slope Through Annealing**|B. Abdisatarov et.al.|[2507.08638](http://arxiv.org/abs/2507.08638)|null|
+|**2025-07-11**|**Entangled Threats: A Unified Kill Chain Model for Quantum Machine Learning Security**|Pascal Debus et.al.|[2507.08623](http://arxiv.org/abs/2507.08623)|null|
+|**2025-07-11**|**Band Meandering due to Charged Impurity Effects and Carrier Transport in Ternary Topological Insulators**|Kanav Sharma et.al.|[2507.08579](http://arxiv.org/abs/2507.08579)|null|
+|**2025-07-11**|**Photonic processor benchmarking for variational quantum process tomography**|Vladlen Galetsky et.al.|[2507.08570](http://arxiv.org/abs/2507.08570)|null|
+|**2025-07-11**|**Relation between bicrossed products and crossed extensions of fusion categories**|Monique Müller et.al.|[2507.08562](http://arxiv.org/abs/2507.08562)|null|
+|**2025-07-11**|**Quantum Algorithms for Projection-Free Sparse Convex Optimization**|Jianhao He et.al.|[2507.08543](http://arxiv.org/abs/2507.08543)|null|
+|**2025-07-11**|**Enhancing Decoding Performance using Efficient Error Learning**|Pavithran Iyer et.al.|[2507.08536](http://arxiv.org/abs/2507.08536)|null|
 |**2025-07-10**|**Strong converse rate for asymptotic hypothesis testing in type III**|Nicholas Laracuente et.al.|[2507.07989](http://arxiv.org/abs/2507.07989)|null|
 |**2025-07-10**|**Sharp estimates of quantum covering problems via a novel trace inequality**|Hao-Chung Cheng et.al.|[2507.07961](http://arxiv.org/abs/2507.07961)|null|
 |**2025-07-10**|**Quantum Wall States for Noise Mitigation and Eternal Purity Bounds**|Miguel Casanova et.al.|[2507.07944](http://arxiv.org/abs/2507.07944)|null|
@@ -5451,6 +5461,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Free phases of Majorana fermions: Tenfold ways compared**|Luuk Stehouwer et.al.|[2507.08694](http://arxiv.org/abs/2507.08694)|null|
+|**2025-07-10**|**Uncertainty quantification of a multi-component Hall thruster model at varying facility pressures**|Thomas A. Marks et.al.|[2507.08113](http://arxiv.org/abs/2507.08113)|null|
 |**2025-07-10**|**Emergent QED $_3$ at the bosonic Laughlin state to superfluid transition**|Taige Wang et.al.|[2507.07611](http://arxiv.org/abs/2507.07611)|null|
 |**2025-07-10**|**The z=1.03 Merging Cluster SPT-CL J0356-5337: New Strong Lensing Analysis with HST and MUSE**|Grace Smith et.al.|[2507.07404](http://arxiv.org/abs/2507.07404)|null|
 |**2025-07-09**|**Constraints on cosmological gravitational waves from CMB and BAO in light of dynamical dark energy**|Sai Wang et.al.|[2507.06930](http://arxiv.org/abs/2507.06930)|null|
