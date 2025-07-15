@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.14
+## Updated on 2025.07.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -5445,7 +5445,7 @@ layout: default
 |**2025-07-08**|**Mutual Influence of Symmetries and Topological Field Theories**|Daniel Teixeira et.al.|[2507.06304](http://arxiv.org/abs/2507.06304)|null|
 |**2025-07-08**|**Topological Holography for Mixed-State Phases and Phase Transitions**|Ran Luo et.al.|[2507.06218](http://arxiv.org/abs/2507.06218)|null|
 |**2025-07-08**|**Surface-Code Hardware Hamiltonian**|Xuexin Xu et.al.|[2507.06201](http://arxiv.org/abs/2507.06201)|null|
-|**2025-07-07**|**The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**|C. Benoist et.al.|[2507.05360](http://arxiv.org/abs/2507.05360)|null|
+|**2025-07-13**|**The final WaZP galaxy cluster catalog of the Dark Energy Survey and comparison with SZE data**|C. Benoist et.al.|[2507.05360](http://arxiv.org/abs/2507.05360)|null|
 |**2025-07-07**|**SymTFT Approach for Mixed States with Non-Invertible Symmetries**|Sakura Schafer-Nameki et.al.|[2507.05350](http://arxiv.org/abs/2507.05350)|null|
 |**2025-07-07**|**The Symmetry Taco: Equivalences between Gapped, Gapless, and Mixed-State SPTs**|Marvin Qi et.al.|[2507.05335](http://arxiv.org/abs/2507.05335)|null|
 |**2025-07-07**|**Instability of the Haldane Phase: Roles of Charge Fluctuations and Hund's Coupling**|Satoshi Nishimoto et.al.|[2507.05089](http://arxiv.org/abs/2507.05089)|null|
