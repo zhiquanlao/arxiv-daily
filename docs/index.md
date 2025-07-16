@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.15
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**A Rigorous Introduction to Hamiltonian Simulation via High-Order Product Formulas**|Javier Lopez-Cerezo et.al.|[2507.10501](http://arxiv.org/abs/2507.10501)|null|
+|**2025-07-14**|**$^{88}$ Sr Reference Data**|Sebastian Pucher et.al.|[2507.10487](http://arxiv.org/abs/2507.10487)|null|
+|**2025-07-14**|**Charged Black Hole with String Cloud Deformation: Entanglement and Chaos**|Shagun Kaushal et.al.|[2507.10455](http://arxiv.org/abs/2507.10455)|null|
+|**2025-07-14**|**State-Based Classical Shadows**|Zvika Brakerski et.al.|[2507.10362](http://arxiv.org/abs/2507.10362)|null|
+|**2025-07-14**|**Suppressing crosstalk for Rydberg quantum gates**|Gina Warttmann et.al.|[2507.10356](http://arxiv.org/abs/2507.10356)|null|
+|**2025-07-14**|**From Linear Differential Equations to Unitaries: A Moment-Matching Dilation Framework with Near-Optimal Quantum Algorithms**|Xiantao Li et.al.|[2507.10285](http://arxiv.org/abs/2507.10285)|null|
+|**2025-07-14**|**Experimental proposal of a mode sorter for vector vortex beams of arbitrary order**|P. Schneider Lacerda et.al.|[2507.10278](http://arxiv.org/abs/2507.10278)|null|
+|**2025-07-14**|**Efficient Measurement of Bosonic Non-Gaussianity**|Kaifeng Bu et.al.|[2507.10272](http://arxiv.org/abs/2507.10272)|null|
+|**2025-07-14**|**Secure and Efficient Quantum Signature Scheme Based on the Controlled Unitary Operations Encryption**|Debnath Ghosh et.al.|[2507.10233](http://arxiv.org/abs/2507.10233)|null|
+|**2025-07-14**|**Surface scattering of atoms for high-sensitivity spectroscopy**|V. J. Ajith et.al.|[2507.09951](http://arxiv.org/abs/2507.09951)|null|
 |**2025-07-11**|**Partitioned Hybrid Quantum Fourier Neural Operators for Scientific Quantum Machine Learning**|Paolo Marcandelli et.al.|[2507.08746](http://arxiv.org/abs/2507.08746)|null|
 |**2025-07-11**|**A novel quantum circuit for the quantum Fourier transform**|Juan M. Romero et.al.|[2507.08699](http://arxiv.org/abs/2507.08699)|null|
 |**2025-07-11**|**Magic Steady State Production: Non-Hermitian and Stochastic pathways**|Pablo Martinez-Azcona et.al.|[2507.08676](http://arxiv.org/abs/2507.08676)|null|
@@ -5437,6 +5447,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**New Insights into Dark Energy from DESI DR2 with CMB and SNIa**|Da-Chun Qiang et.al.|[2507.09981](http://arxiv.org/abs/2507.09981)|null|
+|**2025-07-12**|**Functionally Generated Portfolios Under Stochastic Transaction Costs: Theory and Empirical Evidence**|Nader Karimi et.al.|[2507.09196](http://arxiv.org/abs/2507.09196)|null|
+|**2025-07-11**|**SLICE: SPT-CL J0546-5345 -- A prominent strong-lensing cluster at $z=1.07$**|Joseph F. V. Allingham et.al.|[2507.08949](http://arxiv.org/abs/2507.08949)|null|
+|**2025-07-11**|**Robust Chiral Edge Dynamics of a Kitaev Honeycomb on a Trapped Ion Processor**|Ammar Ali et.al.|[2507.08939](http://arxiv.org/abs/2507.08939)|null|
+|**2025-07-11**|**Anyon-trions in atomically thin semiconductor heterostructures**|Nader Mostaan et.al.|[2507.08933](http://arxiv.org/abs/2507.08933)|null|
 |**2025-07-11**|**Free phases of Majorana fermions: Tenfold ways compared**|Luuk Stehouwer et.al.|[2507.08694](http://arxiv.org/abs/2507.08694)|null|
 |**2025-07-10**|**Uncertainty quantification of a multi-component Hall thruster model at varying facility pressures**|Thomas A. Marks et.al.|[2507.08113](http://arxiv.org/abs/2507.08113)|null|
 |**2025-07-10**|**Emergent QED $_3$ at the bosonic Laughlin state to superfluid transition**|Taige Wang et.al.|[2507.07611](http://arxiv.org/abs/2507.07611)|null|
