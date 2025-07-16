@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Koopman-von Neumann Field Theory**|James Stokes et.al.|[2507.11541](http://arxiv.org/abs/2507.11541)|null|
+|**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous et.al.|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
+|**2025-07-15**|**Microwave spectroscopy and multi-channel quantum defect analysis of ytterbium Rydberg states**|Rin Kuroda et.al.|[2507.11487](http://arxiv.org/abs/2507.11487)|null|
+|**2025-07-15**|**Enhancing the Clique Local Decoder to Correct Length-2 Space Errors in the Surface Code**|Zikang Jia et.al.|[2507.11481](http://arxiv.org/abs/2507.11481)|null|
+|**2025-07-15**|**Entanglement Classification in the Graph States: The generalization to $n$ -Qubits States using the Entanglement Matrix**|Sameer Sharma et.al.|[2507.11458](http://arxiv.org/abs/2507.11458)|null|
+|**2025-07-15**|**Simulating and Sampling from Quantum Circuits with 2D Tensor Networks**|Manuel S. Rudolph et.al.|[2507.11424](http://arxiv.org/abs/2507.11424)|null|
+|**2025-07-15**|**Stochastic Entanglement Configuration for Constructive Entanglement Topologies in Quantum Machine Learning with Application to Cardiac MRI**|Mehri Mehrnia et.al.|[2507.11401](http://arxiv.org/abs/2507.11401)|null|
+|**2025-07-15**|**Euclid preparation. Overview of Euclid infrared detector performance from ground tests**|Euclid Collaboration et.al.|[2507.11326](http://arxiv.org/abs/2507.11326)|null|
+|**2025-07-15**|**$d+1$ Measurement Bases are Sufficient for Determining $d$ -Dimensional Quantum States: Theory and Experiment**|Tianqi Xiao et.al.|[2507.11204](http://arxiv.org/abs/2507.11204)|null|
+|**2025-07-15**|**Real-time preparation and verification of nonstabilizer states**|Jian Li et.al.|[2507.11180](http://arxiv.org/abs/2507.11180)|null|
 |**2025-07-15**|**A Rigorous Introduction to Hamiltonian Simulation via High-Order Product Formulas**|Javier Lopez-Cerezo et.al.|[2507.10501](http://arxiv.org/abs/2507.10501)|null|
 |**2025-07-14**|**$^{88}$ Sr Reference Data**|Sebastian Pucher et.al.|[2507.10487](http://arxiv.org/abs/2507.10487)|null|
 |**2025-07-14**|**Charged Black Hole with String Cloud Deformation: Entanglement and Chaos**|Shagun Kaushal et.al.|[2507.10455](http://arxiv.org/abs/2507.10455)|null|
@@ -5447,6 +5457,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-15**|**Strongly topologically orderable gyrogroups with a suitable set**|Jiamin He et.al.|[2507.10909](http://arxiv.org/abs/2507.10909)|null|
+|**2025-07-14**|**Causal Discovery for Linear Non-Gaussian Models with Disjoint Cycles**|Mathias Drton et.al.|[2507.10767](http://arxiv.org/abs/2507.10767)|null|
+|**2025-07-14**|**Ferrimagnetism from quantum fluctuations in Kitaev materials**|Niccolò Francini et.al.|[2507.10654](http://arxiv.org/abs/2507.10654)|null|
 |**2025-07-14**|**New Insights into Dark Energy from DESI DR2 with CMB and SNIa**|Da-Chun Qiang et.al.|[2507.09981](http://arxiv.org/abs/2507.09981)|null|
 |**2025-07-12**|**Functionally Generated Portfolios Under Stochastic Transaction Costs: Theory and Empirical Evidence**|Nader Karimi et.al.|[2507.09196](http://arxiv.org/abs/2507.09196)|null|
 |**2025-07-11**|**SLICE: SPT-CL J0546-5345 -- A prominent strong-lensing cluster at $z=1.07$**|Joseph F. V. Allingham et.al.|[2507.08949](http://arxiv.org/abs/2507.08949)|null|
