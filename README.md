@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448](http://arxiv.org/abs/2507.12448)|null|
+|**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438](http://arxiv.org/abs/2507.12438)|null|
+|**2025-07-16**|**Adiabatic Cooling of Planar Motion in a Penning Trap Ion Crystal to Sub-Millikelvin Temperatures**|Wes Johnson et.al.|[2507.12429](http://arxiv.org/abs/2507.12429)|null|
+|**2025-07-16**|**Entanglement-efficiency trade-offs in the fusion-based generation of photonic GHZ-like states**|A. A. Melkozerov et.al.|[2507.12389](http://arxiv.org/abs/2507.12389)|null|
+|**2025-07-16**|**On approximate quantum error correction for symmetric noise**|Gereon Koßmann et.al.|[2507.12326](http://arxiv.org/abs/2507.12326)|null|
+|**2025-07-16**|**Approximating fixed size quantum correlations in polynomial time**|Julius A. Zeiss et.al.|[2507.12302](http://arxiv.org/abs/2507.12302)|null|
+|**2025-07-16**|**Surrogate Quantum Circuit Design for the Lattice Boltzmann Collision Operator**|Monica Lăcătuş et.al.|[2507.12256](http://arxiv.org/abs/2507.12256)|null|
+|**2025-07-16**|**Design Automation in Quantum Error Correction**|Archisman Ghosh et.al.|[2507.12253](http://arxiv.org/abs/2507.12253)|null|
+|**2025-07-16**|**Characterization and constructions of binary self-orthogonal singly-even linear codes**|Kangquan Li et.al.|[2507.12240](http://arxiv.org/abs/2507.12240)|null|
+|**2025-07-16**|**A solid-state temporally multiplexed quantum memory array at the single-photon level**|Markus Teller et.al.|[2507.12200](http://arxiv.org/abs/2507.12200)|null|
 |**2025-07-15**|**Koopman-von Neumann Field Theory**|James Stokes et.al.|[2507.11541](http://arxiv.org/abs/2507.11541)|null|
 |**2025-07-15**|**Understanding Quantum Information and Computation**|John Watrous et.al.|[2507.11536](http://arxiv.org/abs/2507.11536)|null|
 |**2025-07-15**|**Microwave spectroscopy and multi-channel quantum defect analysis of ytterbium Rydberg states**|Rin Kuroda et.al.|[2507.11487](http://arxiv.org/abs/2507.11487)|null|
@@ -5481,6 +5491,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Emergent Symmetry and Phase Transitions on the Domain Wall of $\mathbb{Z}_{2}$ Topological Orders**|Hong-Hao Song et.al.|[2507.12193](http://arxiv.org/abs/2507.12193)|null|
+|**2025-07-15**|**Conformal Turaev-Viro Theory**|Thomas Hartman et.al.|[2507.11652](http://arxiv.org/abs/2507.11652)|null|
 |**2025-07-15**|**Strongly topologically orderable gyrogroups with a suitable set**|Jiamin He et.al.|[2507.10909](http://arxiv.org/abs/2507.10909)|null|
 |**2025-07-14**|**Causal Discovery for Linear Non-Gaussian Models with Disjoint Cycles**|Mathias Drton et.al.|[2507.10767](http://arxiv.org/abs/2507.10767)|null|
 |**2025-07-14**|**Ferrimagnetism from quantum fluctuations in Kitaev materials**|Niccolò Francini et.al.|[2507.10654](http://arxiv.org/abs/2507.10654)|null|
