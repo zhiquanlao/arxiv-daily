@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Long-time storage of a decoherence-free subspace logical qubit in a dual-type quantum memory**|Y. L. Xu et.al.|[2507.13320](http://arxiv.org/abs/2507.13320)|null|
+|**2025-07-17**|**Simple ways of preparing qudit Dicke states**|Noah B. Kerzner et.al.|[2507.13308](http://arxiv.org/abs/2507.13308)|null|
+|**2025-07-17**|**State transfer analysis for linear spin chains with non-uniform on-site energies**|Chad C. Nelmes et.al.|[2507.13261](http://arxiv.org/abs/2507.13261)|null|
+|**2025-07-17**|**Topology-Enhanced Superconducting Qubit Networks for In-Sensor Quantum Information Processing**|J. Settino et.al.|[2507.13228](http://arxiv.org/abs/2507.13228)|null|
+|**2025-07-17**|**Krylov complexity, path integrals, and instantons**|Cameron Beetar et.al.|[2507.13226](http://arxiv.org/abs/2507.13226)|null|
+|**2025-07-17**|**A superinductor in a deep sub-micron integrated circuit**|T. H. Swift et.al.|[2507.13202](http://arxiv.org/abs/2507.13202)|null|
+|**2025-07-17**|**Discrete solitons in Rydberg atom chains**|Aron Kerschbaumer et.al.|[2507.13196](http://arxiv.org/abs/2507.13196)|null|
+|**2025-07-17**|**Technical Review on RF-Amplifiers for Quantum Computer Circuits: New Architectures of Josephson Parametric Amplifier**|Ahmad Salmanogli et.al.|[2507.13187](http://arxiv.org/abs/2507.13187)|null|
+|**2025-07-17**|**The Hudson theorem in LCA groups and infinite quantum spin systems**|Fabio Nicola et.al.|[2507.13154](http://arxiv.org/abs/2507.13154)|null|
+|**2025-07-17**|**Nanodomain poling unlocking backward nonlinear light generation in thin film lithium niobate**|Alessandra Sabatti et.al.|[2507.13004](http://arxiv.org/abs/2507.13004)|null|
 |**2025-07-16**|**Jenga-Krotov algorithm: Efficient compilation of multi-qubit gates for exchange-only qubits**|Jiahao Wu et.al.|[2507.12448](http://arxiv.org/abs/2507.12448)|null|
 |**2025-07-16**|**Heisenberg limited multiple eigenvalue estimation via off-the-grid compressed sensing**|Davide Castaldo et.al.|[2507.12438](http://arxiv.org/abs/2507.12438)|null|
 |**2025-07-16**|**Adiabatic Cooling of Planar Motion in a Penning Trap Ion Crystal to Sub-Millikelvin Temperatures**|Wes Johnson et.al.|[2507.12429](http://arxiv.org/abs/2507.12429)|null|
@@ -5467,6 +5477,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-17**|**Triangulating quantum gravity in AdS $_3$**|Thomas Hartman et.al.|[2507.12696](http://arxiv.org/abs/2507.12696)|null|
+|**2025-07-16**|**Spacetime duality between sequential and measurement-feedback circuits**|Tsung-Cheng Lu et.al.|[2507.12523](http://arxiv.org/abs/2507.12523)|null|
+|**2025-07-16**|**Projective Representations, Bogomolov Multiplier, and Their Applications in Physics**|Ryohei Kobayashi et.al.|[2507.12515](http://arxiv.org/abs/2507.12515)|null|
 |**2025-07-16**|**Emergent Symmetry and Phase Transitions on the Domain Wall of $\mathbb{Z}_{2}$ Topological Orders**|Hong-Hao Song et.al.|[2507.12193](http://arxiv.org/abs/2507.12193)|null|
 |**2025-07-15**|**Conformal Turaev-Viro Theory**|Thomas Hartman et.al.|[2507.11652](http://arxiv.org/abs/2507.11652)|null|
 |**2025-07-15**|**Strongly topologically orderable gyrogroups with a suitable set**|Jiamin He et.al.|[2507.10909](http://arxiv.org/abs/2507.10909)|null|
