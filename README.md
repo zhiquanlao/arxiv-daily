@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Quantum and classical algorithms for SOCP based on the multiplicative weights update method**|M. Isabel Franco Garrido et.al.|[2507.14127](http://arxiv.org/abs/2507.14127)|null|
+|**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116](http://arxiv.org/abs/2507.14116)|null|
+|**2025-07-18**|**Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit**|David W. Kanaar et.al.|[2507.14108](http://arxiv.org/abs/2507.14108)|null|
+|**2025-07-18**|**The Proportional Fair Scheduler in Wavelength-Multiplexed Quantum Networks**|Sanidhay Bhambay et.al.|[2507.13999](http://arxiv.org/abs/2507.13999)|null|
+|**2025-07-18**|**Exploring critical states of the quantum Rabi model via Hamiltonian variational ansätze**|Mei Peng et.al.|[2507.13964](http://arxiv.org/abs/2507.13964)|null|
+|**2025-07-18**|**Quantum Pattern Matching with Wildcards**|Masoud Seddighin et.al.|[2507.13885](http://arxiv.org/abs/2507.13885)|null|
+|**2025-07-18**|**Sizable superconducting gap and anisotropic chiral topological superconductivity in the Weyl semimetal PtBi $_2$**|Xiaochun Huang et.al.|[2507.13843](http://arxiv.org/abs/2507.13843)|null|
+|**2025-07-18**|**Quantifying mixed-state entanglement via partial transpose and realignment moments**|Poetri Sonya Tarabunga et.al.|[2507.13840](http://arxiv.org/abs/2507.13840)|null|
+|**2025-07-18**|**Comparison of variational quantum eigensolvers in light nuclei**|Miquel Carrasco-Codina et.al.|[2507.13819](http://arxiv.org/abs/2507.13819)|null|
+|**2025-07-18**|**Quantum Blockchain Survey: Foundations, Trends, and Gaps**|Saurav Ghosh et.al.|[2507.13720](http://arxiv.org/abs/2507.13720)|null|
 |**2025-07-17**|**Long-time storage of a decoherence-free subspace logical qubit in a dual-type quantum memory**|Y. L. Xu et.al.|[2507.13320](http://arxiv.org/abs/2507.13320)|null|
 |**2025-07-17**|**Simple ways of preparing qudit Dicke states**|Noah B. Kerzner et.al.|[2507.13308](http://arxiv.org/abs/2507.13308)|null|
 |**2025-07-17**|**State transfer analysis for linear spin chains with non-uniform on-site energies**|Chad C. Nelmes et.al.|[2507.13261](http://arxiv.org/abs/2507.13261)|null|
@@ -5501,6 +5511,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-17**|**Triangulating quantum gravity in AdS $_3$**|Thomas Hartman et.al.|[2507.12696](http://arxiv.org/abs/2507.12696)|null|
 |**2025-07-16**|**Spacetime duality between sequential and measurement-feedback circuits**|Tsung-Cheng Lu et.al.|[2507.12523](http://arxiv.org/abs/2507.12523)|null|
 |**2025-07-16**|**Projective Representations, Bogomolov Multiplier, and Their Applications in Physics**|Ryohei Kobayashi et.al.|[2507.12515](http://arxiv.org/abs/2507.12515)|null|
