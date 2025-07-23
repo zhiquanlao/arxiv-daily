@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -3417,6 +3417,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845](http://arxiv.org/abs/2507.15845)|null|
+|**2025-07-21**|**TASI/CERN/KITP Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature"**|Zohreh Davoudi et.al.|[2507.15840](http://arxiv.org/abs/2507.15840)|null|
+|**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819](http://arxiv.org/abs/2507.15819)|null|
+|**2025-07-21**|**Quantum logic operations and algorithms in a single 25-level atomic qudit**|Pei Jiang Low et.al.|[2507.15799](http://arxiv.org/abs/2507.15799)|null|
+|**2025-07-21**|**Symplectic coherence: a measure of position-momentum correlations in quantum states**|Varun Upreti et.al.|[2507.15738](http://arxiv.org/abs/2507.15738)|null|
+|**2025-07-21**|**Efficiently Generation of Cluster States via Time-Delayed Feedback in Matrix Representation**|Jia-Jin Zou et.al.|[2507.15725](http://arxiv.org/abs/2507.15725)|null|
+|**2025-07-21**|**On Strong Converse Bounds for the Private and Quantum Capacities of Anti-degradable Channels**|Zahra Baghali Khanian et.al.|[2507.15661](http://arxiv.org/abs/2507.15661)|null|
+|**2025-07-21**|**A One-sided Witness for the Quantumness of Gravitational Dynamics**|Konstantin Beyer et.al.|[2507.15588](http://arxiv.org/abs/2507.15588)|null|
+|**2025-07-21**|**Symmetry and Liouville Space Formulation of Decoherence-Free Subsystems**|Mi-Jung So et.al.|[2507.15506](http://arxiv.org/abs/2507.15506)|null|
+|**2025-07-21**|**Entanglement Preservation and Clauser-Horne Nonlocality in Electromagnetically Induced Transparency Quantum Memories**|Po-Han Tseng et.al.|[2507.15453](http://arxiv.org/abs/2507.15453)|null|
 |**2025-07-18**|**Quantum and classical algorithms for SOCP based on the multiplicative weights update method**|M. Isabel Franco Garrido et.al.|[2507.14127](http://arxiv.org/abs/2507.14127)|null|
 |**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116](http://arxiv.org/abs/2507.14116)|null|
 |**2025-07-18**|**Fast charge noise sensing using a spectator valley state in a singlet-triplet qubit**|David W. Kanaar et.al.|[2507.14108](http://arxiv.org/abs/2507.14108)|null|
@@ -5487,6 +5497,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song et.al.|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
 |**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-17**|**Triangulating quantum gravity in AdS $_3$**|Thomas Hartman et.al.|[2507.12696](http://arxiv.org/abs/2507.12696)|null|
 |**2025-07-16**|**Spacetime duality between sequential and measurement-feedback circuits**|Tsung-Cheng Lu et.al.|[2507.12523](http://arxiv.org/abs/2507.12523)|null|
