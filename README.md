@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Entanglement Entropy of Quantum Corners**|Luca Ciambelli et.al.|[2507.16800](http://arxiv.org/abs/2507.16800)|null|
+|**2025-07-22**|**No-go theorems for logical gates on product quantum codes**|Xiaozhen Fu et.al.|[2507.16797](http://arxiv.org/abs/2507.16797)|null|
+|**2025-07-22**|**Quantum teleportation of an elemental silicon nanophotonic CNOT gate**|Kai-Chi Chang et.al.|[2507.16783](http://arxiv.org/abs/2507.16783)|null|
+|**2025-07-22**|**Computational aspects of the trace norm contraction coefficient**|Idris Delsol et.al.|[2507.16737](http://arxiv.org/abs/2507.16737)|null|
+|**2025-07-22**|**Reconfigurable qubit states and quantum trajectories in a synthetic artificial neuron network with a process to direct information generation from co-integrated burst-mode spiking under non-Markovianity**|Osama M. Nayfeh et.al.|[2507.16669](http://arxiv.org/abs/2507.16669)|null|
+|**2025-07-22**|**Hybrid Reward-Driven Reinforcement Learning for Efficient Quantum Circuit Synthesis**|Sara Giordano et.al.|[2507.16641](http://arxiv.org/abs/2507.16641)|null|
+|**2025-07-22**|**Thermal operations from informational equilibrium**|Seok Hyung Lie et.al.|[2507.16637](http://arxiv.org/abs/2507.16637)|null|
+|**2025-07-22**|**Quantum Annealing Hyperparameter Analysis for Optimal Sensor Placement in Production Environments**|Nico Kraus et.al.|[2507.16584](http://arxiv.org/abs/2507.16584)|null|
+|**2025-07-22**|**Ultrastable, low-error dynamic polarization encoding of deterministically generated single photons**|Joscha Hanel et.al.|[2507.16578](http://arxiv.org/abs/2507.16578)|null|
+|**2025-07-22**|**Quantum Dark Magic: Efficiency of Intermediate Non-Stabiliserness**|Tom Krüger et.al.|[2507.16543](http://arxiv.org/abs/2507.16543)|null|
 |**2025-07-21**|**Quantum computational sensing using quantum signal processing, quantum neural networks, and Hamiltonian engineering**|Saeed A. Khan et.al.|[2507.15845](http://arxiv.org/abs/2507.15845)|null|
 |**2025-07-21**|**TASI/CERN/KITP Lecture Notes on "Toward Quantum Computing Gauge Theories of Nature"**|Zohreh Davoudi et.al.|[2507.15840](http://arxiv.org/abs/2507.15840)|null|
 |**2025-07-21**|**Euclid preparation: Expected constraints on initial conditions**|Euclid Collaboration et.al.|[2507.15819](http://arxiv.org/abs/2507.15819)|null|
@@ -5521,6 +5531,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Notes from the bulk**|Erica Bertolini et.al.|[2507.16744](http://arxiv.org/abs/2507.16744)|null|
+|**2025-07-21**|**Generalized symmetry enriched criticality in (3+1)d**|Benjamin Moy et.al.|[2507.15925](http://arxiv.org/abs/2507.15925)|null|
 |**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song et.al.|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
 |**2025-07-18**|**Optimal antimatroid sorting**|Benjamin Aram Berendsohn et.al.|[2507.13994](http://arxiv.org/abs/2507.13994)|null|
 |**2025-07-17**|**Triangulating quantum gravity in AdS $_3$**|Thomas Hartman et.al.|[2507.12696](http://arxiv.org/abs/2507.12696)|null|
