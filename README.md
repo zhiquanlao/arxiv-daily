@@ -3439,6 +3439,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Quantum Software Security Challenges within Shared Quantum Computing Environments**|Samuel Ovaskainen et.al.|[2507.17712](http://arxiv.org/abs/2507.17712)|null|
+|**2025-07-23**|**Resource-efficient Variational Block-Encoding**|Leon Rullkötter et.al.|[2507.17658](http://arxiv.org/abs/2507.17658)|null|
+|**2025-07-23**|**Reconstructing the unitary part of a noisy quantum channel**|Adrian Romer et.al.|[2507.17648](http://arxiv.org/abs/2507.17648)|null|
+|**2025-07-23**|**Quantum superposition in ultra-high mobility 2D photo-transport**|Jesus Inarrea et.al.|[2507.17630](http://arxiv.org/abs/2507.17630)|null|
+|**2025-07-23**|**Comparing performance of variational quantum algorithm simulations on HPC systems**|Marco De Pascale et.al.|[2507.17614](http://arxiv.org/abs/2507.17614)|null|
+|**2025-07-23**|**Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation**|Chenyi Zhang et.al.|[2507.17589](http://arxiv.org/abs/2507.17589)|null|
+|**2025-07-23**|**Entanglement dynamics in minimal Kitaev chains**|Vimalesh Kumar Vimal et.al.|[2507.17586](http://arxiv.org/abs/2507.17586)|null|
+|**2025-07-23**|**Single-photon loading of polar molecules into an optical trap**|Bart J. Schellenberg et.al.|[2507.17521](http://arxiv.org/abs/2507.17521)|null|
+|**2025-07-23**|**Impacts of Intrinsic Noise and Quantum Entanglement on the Geometric and Dynamical Properties of the XXZ Heisenberg Interacting Spin Model**|M. Yachi et.al.|[2507.17452](http://arxiv.org/abs/2507.17452)|null|
+|**2025-07-23**|**Quantum Secret Sharing with Classical and Quantum Shares**|Hua Sun et.al.|[2507.17364](http://arxiv.org/abs/2507.17364)|null|
 |**2025-07-22**|**Entanglement Entropy of Quantum Corners**|Luca Ciambelli et.al.|[2507.16800](http://arxiv.org/abs/2507.16800)|null|
 |**2025-07-22**|**No-go theorems for logical gates on product quantum codes**|Xiaozhen Fu et.al.|[2507.16797](http://arxiv.org/abs/2507.16797)|null|
 |**2025-07-22**|**Quantum teleportation of an elemental silicon nanophotonic CNOT gate**|Kai-Chi Chang et.al.|[2507.16783](http://arxiv.org/abs/2507.16783)|null|
@@ -5531,6 +5541,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-23**|**Tightening constraints on primordial oscillations with latest ACT and SPT data**|Ze-Yu Peng et.al.|[2507.17276](http://arxiv.org/abs/2507.17276)|null|
+|**2025-07-23**|**Weak in the boundary: How weak SPT phases spoil anomaly matching**|Daniel Sheinbaum et.al.|[2507.17179](http://arxiv.org/abs/2507.17179)|null|
+|**2025-07-23**|**Cochain valued TQFTs from nonsemisimple modular tensor categories**|Agustina Czenky et.al.|[2507.17169](http://arxiv.org/abs/2507.17169)|null|
 |**2025-07-22**|**Notes from the bulk**|Erica Bertolini et.al.|[2507.16744](http://arxiv.org/abs/2507.16744)|null|
 |**2025-07-21**|**Generalized symmetry enriched criticality in (3+1)d**|Benjamin Moy et.al.|[2507.15925](http://arxiv.org/abs/2507.15925)|null|
 |**2025-07-19**|**Pruning Increases Orderedness in Recurrent Computation**|Yiding Song et.al.|[2507.14747](http://arxiv.org/abs/2507.14747)|null|
